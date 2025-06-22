@@ -1,0 +1,219 @@
+# Page snapshot
+
+```yaml
+- heading "Cookies are useful for Scope" [level=1]
+- paragraph: We use cookies on the Scope website to show us how many people our content is reaching.
+- paragraph: "It means we can:"
+- list:
+  - listitem: See what content is most useful to people
+  - listitem: Target more help where it’s needed
+  - listitem: Show relevant advertisements for our own services, no-one else’s
+- paragraph: It also means we can work more closely with partners in government, local councils and other public bodies, targeting support where it’s needed most and offering a better range of services.
+- paragraph:
+  - text: It’s your choice whether to allow them or not, but you’re helping us do more if you opt in. Thank you.
+  - link "Cookie Policy":
+    - /url: https://www.scope.org.uk/cookies/
+- button "Customise"
+- button "Reject All"
+- button "Accept All"
+- list:
+  - listitem:
+    - link "Skip to main content":
+      - /url: "#main"
+  - listitem:
+    - link "Skip to search":
+      - /url: "#query"
+  - listitem:
+    - link "Skip to navigation":
+      - /url: "#nav"
+- banner:
+  - link "Accessibility":
+    - /url: https://www.scope.org.uk/accessibility
+  - link "Contact us":
+    - /url: https://www.scope.org.uk/contact-us
+  - combobox:
+    - textbox "Search"
+    - text: Search
+  - button "submit search"
+  - link "Scope homepage":
+    - /url: https://www.scope.org.uk
+    - img "Scope homepage"
+  - link "Get support today":
+    - /url: https://www.scope.org.uk/advice-and-support
+  - link "Our shops":
+    - /url: https://www.scope.org.uk/our-shops
+  - link "Donate now":
+    - /url: https://donate.scope.org.uk/?campaign=25SCWB01
+  - navigation:
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: https://www.scope.org.uk
+          - img
+          - text: Home
+      - listitem:
+        - button "About us"
+      - listitem:
+        - button "Advice and support"
+      - listitem:
+        - link "Campaigns":
+          - /url: /campaigns
+      - listitem:
+        - button "Get involved"
+      - listitem:
+        - link "News and stories":
+          - /url: /news-and-stories
+- main:
+  - heading "Disability benefits are a lifeline" [level=1]
+  - link "Learn more about our campaign":
+    - /url: https://www.scope.org.uk/campaigns/the-cost-of-cuts
+  - paragraph: We are Scope. We campaign to transform attitudes to disability, tackle injustice and inspire action. We create opportunities and provide information and support that empowers.
+  - link "Volunteer with Scope":
+    - /url: /volunteering
+    - paragraph
+    - heading "Volunteer with Scope" [level=3]
+    - paragraph: Come and volunteer with Scope. It’s a great way to boost your confidence, meet new people and learn new skills.
+  - 'link "Changes to disability benefits: what you need to know"':
+    - /url: /the-disability-benefits-green-paper-what-you-need-to-know
+    - paragraph
+    - 'heading "Changes to disability benefits: what you need to know" [level=3]'
+    - paragraph: Our analysis of the Government's benefits Green Paper
+  - heading "Advice and support" [level=2]
+  - paragraph: We're here with practical information and emotional support whenever you need it.
+  - link "Get advice and support now":
+    - /url: /advice-and-support
+  - heading "Disability in the UK" [level=2]
+  - list:
+    - listitem:
+      - heading "Attitudes" [level=3]
+      - paragraph: 1 in 4 of us in the UK are disabled, including 11% of children.
+    - listitem:
+      - heading "Price Tag" [level=3]
+      - paragraph: On average life costs an extra £1,010 a month when you’re disabled.
+    - listitem:
+      - heading "Employment" [level=3]
+      - paragraph: Disabled people are almost twice as likely to be unemployed.
+  - link "An Equal Future":
+    - /url: /about-us/an-equal-future-strategy
+    - paragraph
+    - heading "An Equal Future" [level=3]
+    - paragraph: An Equal Future is our strategy setting out what we want to achieve over the next 10 years.
+  - link "Our impact":
+    - /url: /about-us/our-impact
+    - paragraph
+    - heading "Our impact" [level=3]
+    - paragraph: Tracking our progress towards creating an equal future for disabled people.
+  - link "Find out more about our research and campaigns":
+    - /url: /campaigns
+  - heading "Online community" [level=2]
+  - paragraph: Our online forum is a vibrant and supportive space to get advice and information, and talk to people with similar experiences.
+  - link "Join our online community":
+    - /url: https://forum.scope.org.uk
+  - heading "Charity shops" [level=3]
+  - paragraph: Pick up a bargain or give us the stuff you don't want, and help disabled children get the best start in life.
+  - link "Find a charity shop near you":
+    - /url: https://www.google.com/maps/search/Scope/
+  - heading "Find an event" [level=3]
+  - paragraph: Challenge yourself and raise money for Scope, or come along to one of our special events.
+  - textbox "Find an event search"
+  - button "Search"
+  - heading "News and stories" [level=2]
+  - link "Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities.":
+    - /url: /news-and-stories/universal-credit-and-personal-independence-payment-bill
+    - paragraph: Scope news
+    - heading "Universal Credit and Personal Independence Payment Bill" [level=3]
+    - paragraph: The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities.
+  - link "Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.":
+    - /url: /news-and-stories/over-100-000-say-no-to-benefit-cuts
+    - heading "Over 100,000 say no to benefit cuts" [level=3]
+    - paragraph: Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.
+  - 'link "Radio Teleswitch Service (RTS) meters are being switched off on 30 June: what it means for disabled people If you have a Radio Teleswitch Service (RTS) meter, they are being switched off on 30 June. Find out what this means for disabled people."':
+    - /url: /news-and-stories/radio-teleswitch-service-rts-meters-are-being-switched-off-on-30-june-what-it-means-for-disabled-people
+    - paragraph: Scope news
+    - 'heading "Radio Teleswitch Service (RTS) meters are being switched off on 30 June: what it means for disabled people" [level=3]'
+    - paragraph: If you have a Radio Teleswitch Service (RTS) meter, they are being switched off on 30 June. Find out what this means for disabled people.
+  - link "See all our latest news and stories":
+    - /url: /news-and-stories
+- contentinfo:
+  - img "Scope footer"
+  - heading "Free disability helpline" [level=2]
+  - paragraph: Open Monday to Friday, 9 AM to 6 PM, and Saturday, 10 AM to 6 PM.
+  - list:
+    - listitem:
+      - text: Phone
+      - link "0808 800 3333":
+        - /url: tel:08088003333
+    - listitem:
+      - text: Email
+      - link "helpline@scope.org.uk":
+        - /url: mailto:helpline@scope.org.uk
+  - text: Live chat
+  - link "Chat with an adviser":
+    - /url: https://www.scope.org.uk/helpline#:~:text=Warning-,Chat%20to%20us,-We%20will%20be
+  - link "Fundraising Regulator Home":
+    - /url: https://www.fundraisingregulator.org.uk
+    - img "Fundraising Regulator Home"
+  - heading "Scope" [level=3]
+  - list:
+    - listitem:
+      - link "Contact us":
+        - /url: https://www.scope.org.uk/contact-us
+    - listitem:
+      - link "Jobs":
+        - /url: https://www.scope.org.uk/jobs-at-scope
+    - listitem:
+      - link "Partners":
+        - /url: https://www.scope.org.uk/partnerships
+    - listitem:
+      - link "Media":
+        - /url: https://www.scope.org.uk/media
+    - listitem:
+      - link "Terms and conditions":
+        - /url: https://www.scope.org.uk/terms-conditions
+    - listitem:
+      - link "Privacy":
+        - /url: https://www.scope.org.uk/privacy
+    - listitem:
+      - link "Cookies":
+        - /url: https://www.scope.org.uk/cookies
+    - listitem:
+      - link "Modern slavery":
+        - /url: https://www.scope.org.uk/modern-slavery
+    - listitem:
+      - link "Safeguarding policy":
+        - /url: https://www.scope.org.uk/safeguarding-policy
+    - listitem:
+      - link "Manage cookies":
+        - /url: "#"
+  - heading "Sign up for our email" [level=3]
+  - text: Receive all the latest news and information about Scope
+  - textbox "To receive regular email updates about Scope enter your email address here"
+  - button "Sign up"
+  - heading "Socials" [level=2]
+  - list:
+    - listitem:
+      - link "Scope's Facebook page":
+        - /url: https://www.facebook.com/Scope/
+        - img "Scope's Facebook page"
+    - listitem:
+      - link "Scope's Instagram page":
+        - /url: https://www.instagram.com/scopecharity
+        - img "Scope's Instagram page"
+    - listitem:
+      - link "Scope's X page":
+        - /url: https://twitter.com/scope
+        - img "Scope's X page"
+    - listitem:
+      - link "Scope's LinkedIn page":
+        - /url: https://uk.linkedin.com/company/scope
+        - img "Scope's LinkedIn page"
+    - listitem:
+      - link "Scope's YouTube page":
+        - /url: https://www.youtube.com/scopecharity
+        - img "Scope's YouTube page"
+    - listitem:
+      - link "TikTok logo":
+        - /url: https://www.tiktok.com/@scope_charity
+        - img "TikTok logo"
+  - text: "Scope is a registered charity in England and Wales (208231), Scotland (SC053490) and operates in Northern Ireland. Scope is a company limited by guarantee, registered in England and Wales company number (00520866). Registered office: Here East Press Centre, 14 East Bay Lane, London, E15 2GW."
+```

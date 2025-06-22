@@ -1,0 +1,362 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - navigation:
+    - list:
+      - listitem:
+        - link "Study":
+          - /url: //www.ucl.ac.uk/prospective-students
+      - listitem:
+        - link "Research":
+          - /url: //www.ucl.ac.uk/research
+      - listitem:
+        - link "Engage":
+          - /url: //www.ucl.ac.uk/engage
+      - listitem:
+        - link "About":
+          - /url: //www.ucl.ac.uk/about
+      - listitem:
+        - link "Give":
+          - /url: //www.ucl.ac.uk/giving
+  - search:
+    - text: Search
+    - searchbox "Search UCL websites, degrees, short courses"
+    - button "Go"
+  - paragraph: LONDON'S GLOBAL UNIVERSITY
+  - link "Home":
+    - /url: /
+  - img "UCL logo"
+- heading "Make your Master's matter - places still available for Sept 2025" [level=1]
+- link "Apply now":
+  - /url: https://www.ucl.ac.uk/prospective-students/graduate/masters-matter?utm_term=homepage
+  - heading "Apply now" [level=2]
+- heading [level=2]
+- link "Meet our Master's students Read inspirational stories from the students making the most of the networking opportunities and career support available at UCL":
+  - /url: https://www.ucl.ac.uk/prospective-students/graduate/masters-matter-student-stories?utm_term=homepage
+  - heading "Meet our Master's students" [level=3]
+  - paragraph: Read inspirational stories from the students making the most of the networking opportunities and career support available at UCL
+- link "Funding your Master's Discover how our Master's Bursary can help you start a full-time or part-time programme at UCL":
+  - /url: https://www.ucl.ac.uk/prospective-students/graduate/funding-your-masters
+  - heading "Funding your Master's" [level=3]
+  - paragraph: Discover how our Master's Bursary can help you start a full-time or part-time programme at UCL
+- link "Undergraduate Open Days Join us in person on Friday 27 and Saturday 28 June to learn more about student life at UCL":
+  - /url: https://www.ucl.ac.uk/prospective-students/open-days/undergraduate-open-days
+  - heading "Undergraduate Open Days" [level=3]
+  - paragraph: Join us in person on Friday 27 and Saturday 28 June to learn more about student life at UCL
+- heading "Find degrees, short courses and more" [level=2]
+- group:
+  - text: What are you looking for?
+  - list:
+    - listitem:
+      - radio "Undergraduate" [checked]
+      - text: Undergraduate
+    - listitem:
+      - radio "Graduate taught"
+      - text: Graduate taught
+    - listitem:
+      - radio "Graduate research"
+      - text: Graduate research
+    - listitem:
+      - radio "Teacher training"
+      - text: Teacher training
+    - listitem:
+      - radio "Study abroad"
+      - text: Study abroad
+    - listitem:
+      - radio "Summer School"
+      - text: Summer School
+    - listitem:
+      - radio "Short courses and CPD"
+      - text: Short courses and CPD
+- group:
+  - text: Search
+  - searchbox "Search"
+  - button "Search"
+  - list:
+    - listitem:
+      - link "Undergraduate prospectus":
+        - /url: //www.ucl.ac.uk/prospective-students/undergraduate
+    - listitem:
+      - link "Browse undergraduate programmes":
+        - /url: //www.ucl.ac.uk/prospective-students/undergraduate/degrees
+- text: 1st
+- paragraph: UCL is University of the Year 2024 (The Times and Sunday Times Good University Guide 2024)
+- text: 2nd
+- paragraph: UCL was rated 2nd in the UK for research power in the Research Excellence Framework 2021
+- text: 9th
+- paragraph: UCL is ranked 9th in the 2026 QS World University Rankings
+- text: "32"
+- paragraph: There have been 32 Nobel Prize laureates amongst UCL’s alumni and current and former staff to date
+- link "Learn more about UCL":
+  - /url: https://www.ucl.ac.uk/about/?utm_source=homepage&utm_medium=click&utm_campaign=homepage_about
+- heading "UCL News" [level=2]
+- link "See all UCL News":
+  - /url: https://www.ucl.ac.uk/news/home/latest-news?collection=drupal-push-news-news&meta_UclAudience_not=staff&meta_UclAudience_not=students&&le_DateFilter=20181204
+- link "UCL ranked among top 10 universities in two major global rankings":
+  - /url: https://www.ucl.ac.uk/news/2025/jun/ucl-ranked-among-top-10-universities-two-major-global-rankings
+  - heading "UCL ranked among top 10 universities in two major global rankings" [level=3]
+- link "UCL staff recognised in King’s Birthday Honours":
+  - /url: https://www.ucl.ac.uk/news/2025/jun/ucl-staff-recognised-kings-birthday-honours
+  - heading "UCL staff recognised in King’s Birthday Honours" [level=3]
+- link "First ever look at the Sun’s south pole":
+  - /url: https://www.ucl.ac.uk/news/2025/jun/first-ever-look-suns-south-pole
+  - heading "First ever look at the Sun’s south pole" [level=3]
+- link "UCL to host AI scholars as part of UK Government's tech talent programme":
+  - /url: https://www.ucl.ac.uk/news/2025/jun/ucl-host-ai-scholars-part-uk-governments-tech-talent-programme
+  - heading "UCL to host AI scholars as part of UK Government's tech talent programme" [level=3]
+- link "UCL Press celebrates 10 years of award-winning open access publishing":
+  - /url: https://www.ucl.ac.uk/news/2025/jun/ucl-press-celebrates-10-years-award-winning-open-access-publishing
+  - heading "UCL Press celebrates 10 years of award-winning open access publishing" [level=3]
+- heading "Discover how UCL changes the world" [level=2]
+- paragraph: Read about UCL's impact and groundbreaking discoveries
+- img
+- text: prev
+- img
+- text: next
+- 'link "''Momentous occasion'': UCL experts greet first drug approved for early Alzheimer’s disease in the UK The Medicines and Healthcare Products Regulatory Agency (MHRA) has licensed the immunotherapy drug, Lecanemab, for use in the early stages of Alzheimer’s disease in the UK, following decades of work supported by UCL research."':
+  - /url: https://www.ucl.ac.uk/news/2024/aug/momentous-occasion-ucl-experts-greet-first-drug-approved-early-alzheimers-disease-uk
+  - 'heading "''Momentous occasion'': UCL experts greet first drug approved for early Alzheimer’s disease in the UK" [level=3]'
+  - paragraph: The Medicines and Healthcare Products Regulatory Agency (MHRA) has licensed the immunotherapy drug, Lecanemab, for use in the early stages of Alzheimer’s disease in the UK, following decades of work supported by UCL research.
+- link "UCL’s annual economic impact comparable to London 2012 Olympics UCL’s annual impact of £9.9bn across the UK economy is comparable to the trade boost delivered by the London 2012 Olympics, finds a new independent report into the university’s economic and social impact.":
+  - /url: https://www.ucl.ac.uk/news/2022/jun/ucls-annual-economic-impact-comparable-london-2012-olympics
+  - heading "UCL’s annual economic impact comparable to London 2012 Olympics" [level=3]
+  - paragraph: UCL’s annual impact of £9.9bn across the UK economy is comparable to the trade boost delivered by the London 2012 Olympics, finds a new independent report into the university’s economic and social impact.
+- link "UCL comes second in the UK for research power The excellence of research at UCL and its positive real-world impact has improved since 2014, according to the Research Excellence Framework 2021 (REF) assessment results announced today.":
+  - /url: https://www.ucl.ac.uk/news/2022/may/ucl-comes-second-uk-research-power
+  - heading "UCL comes second in the UK for research power" [level=3]
+  - paragraph: The excellence of research at UCL and its positive real-world impact has improved since 2014, according to the Research Excellence Framework 2021 (REF) assessment results announced today.
+- heading "Most read" [level=4]
+- list:
+  - listitem:
+    - link "Students develop software to revolutionise computer use for millions":
+      - /url: https://www.ucl.ac.uk/news/2022/jun/students-develop-software-revolutionise-computer-use-millions
+  - listitem:
+    - link "First image of black hole at centre of our galaxy":
+      - /url: https://www.ucl.ac.uk/news/2022/may/first-image-black-hole-centre-our-galaxy
+  - listitem:
+    - link "Warming climate and agriculture halve insect populations in some areas":
+      - /url: https://www.ucl.ac.uk/news/2022/apr/warming-climate-and-agriculture-halve-insect-populations-some-areas
+- link "See all UCL News":
+  - /url: //www.ucl.ac.uk/news/home/latest-news?collection=drupal-push-news-news&meta_UclAudience_not=staff&meta_UclAudience_not=students&f.Subject%7CUclSubject=research&le_DateFilter=20181204
+- heading "Study at UCL" [level=2]
+- figure "What makes UCL a unique and special place to study?":
+  - blockquote:
+    - link "Discover UCL":
+      - /url: "#"
+  - paragraph: What makes UCL a unique and special place to study?
+- figure "Last summer, we welcomed students from over 300 universities in more than 40 countries. Come and join us in London!":
+  - blockquote:
+    - link "UCL Summer School":
+      - /url: "#"
+  - paragraph: Last summer, we welcomed students from over 300 universities in more than 40 countries. Come and join us in London!
+- figure "All our public lectures, podcasts, videos, workshops, festivals, exhibitions and conferences, open to all":
+  - blockquote:
+    - link "UCL Minds":
+      - /url: "#"
+  - paragraph: All our public lectures, podcasts, videos, workshops, festivals, exhibitions and conferences, open to all
+- figure "Find out about UCL student societies through second year Comparative Literature student Ellie-Jean's experience.":
+  - blockquote:
+    - link "Getting involved in UCL student societies":
+      - /url: "#"
+  - paragraph: Find out about UCL student societies through second year Comparative Literature student Ellie-Jean's experience.
+- img
+- text: prev
+- img
+- text: next
+- heading "Discover what’s on at UCL" [level=2]
+- paragraph: powered by UCL Minds
+- img "Disagreeing Well on Diplomacy"
+- paragraph:
+  - time: 03 Jul
+  - time
+- paragraph: Talk
+- heading "Disagreeing Well on Diplomacy" [level=3]
+- paragraph:
+  - time: 6:00 pm
+  - time: – 7:45 pm
+- paragraph
+- paragraph
+- paragraph: "Join us on UCL’s Bloomsbury campus for this interactive panel event discussing the topic: Disagreeing Well on Diplomacy - Are diplomatic institutions effective at resolving global crises?"
+- link "View event":
+  - /url: https://www.ucl.ac.uk/bloomsbury-theatre/events/2025/jul/disagreeing-well-diplomacy
+- paragraph:
+  - time: 30 Oct
+  - time: –28 Jun
+- paragraph: Exhibition
+- 'heading "Seeing and Unseeing the Pyramids: Lee Miller in Egypt" [level=3]'
+- paragraph:
+  - time: 1:00 pm
+  - time: – 5:00 pm
+- paragraph
+- paragraph: This exciting free display sheds light on the photography of surrealist artist Lee Miller (1907-1977) in Egypt.
+- link "View event":
+  - /url: https://www.ucl.ac.uk/museums-collections/events/2024/oct/seeing-and-unseeing-pyramids-lee-miller-egypt
+- paragraph:
+  - time: 20 Jun
+  - time
+- paragraph: Workshop
+- heading "AI Governance and Regulation in Latin America" [level=3]
+- paragraph:
+  - time: 11:00 am
+  - time: – 12:45 pm
+- paragraph: "103"
+- paragraph: This event brings together leading policymakers, researchers, and practitioners from Latin America to discuss emerging frameworks for the governance of artificial intelligence (AI) across the region.
+- link "View event":
+  - /url: https://www.ucl.ac.uk/americas/events/2025/jun/ai-governance-and-regulation-latin-america
+- paragraph:
+  - time: 21 Jun
+  - time
+- paragraph: Performance
+- heading "Laugh for Leukaemia 2025" [level=3]
+- paragraph:
+  - time: 7:30 pm
+  - time
+- paragraph
+- paragraph: Another night of chortles, giggles, and full on belly laughs in aid of Blood Cancer UK. Will you help the team hit £80k for this fantastic cause?
+- link "View event":
+  - /url: https://www.ucl.ac.uk/bloomsbury-theatre/events/2025/jun/laugh-leukaemia-2025
+- paragraph:
+  - time: 23 Jun
+  - time
+- paragraph: Panel discussion
+- 'heading "Workload, wellbeing and retention: Do NPQs make a difference?" [level=3]'
+- paragraph:
+  - time: 5:00 pm
+  - time: – 6:30 pm
+- paragraph
+- paragraph: The UCL Centre for Educational Leadership invites teachers, school leaders and researchers to contemplate the research-informed big questions about NPQ learning, wellbeing and retention in schools.
+- link "View event":
+  - /url: https://www.ucl.ac.uk/ioe/events/2025/jun/workload-wellbeing-and-retention-do-npqs-make-difference
+- paragraph: Discover more events, podcasts and exhibitions from UCL Minds
+- link "View event":
+  - /url: https://www.ucl.ac.uk/events
+- heading "Meet some of our people" [level=2]
+- link "UCL counts 32 Nobel laureates Professor Geoffrey E. Hinton and Sir Demis Hassabis Awarded the Nobel Prize in Physics and Chemistry respectively in October 24":
+  - /url: /about/who/history
+  - heading "UCL counts 32 Nobel laureates" [level=3]
+  - paragraph: Professor Geoffrey E. Hinton and Sir Demis Hassabis
+  - paragraph: Awarded the Nobel Prize in Physics and Chemistry respectively in October 24
+- link "Addressing the climate crisis Professor Mark Maslin and Professor Lisa Vanhala Appointed as Pro-Vice-Provosts to lead the new UCL Grand Challenges Theme of Climate Crisis":
+  - /url: https://www.ucl.ac.uk/grand-challenges/news/2023/dec/academic-leads-appointed-ucl-grand-challenge-climate-crisis
+  - heading "Addressing the climate crisis" [level=3]
+  - paragraph: Professor Mark Maslin and Professor Lisa Vanhala
+  - paragraph: Appointed as Pro-Vice-Provosts to lead the new UCL Grand Challenges Theme of Climate Crisis
+- link "Excellence in teaching Professor Mitchell & Professor Young Awarded National Teaching Fellowships, recognising their salient work in higher education teaching":
+  - /url: https://www.ucl.ac.uk/news/2024/aug/two-ucl-academics-awarded-national-teaching-fellowships
+  - heading "Excellence in teaching" [level=3]
+  - paragraph: Professor Mitchell & Professor Young
+  - paragraph: Awarded National Teaching Fellowships, recognising their salient work in higher education teaching
+- heading "The latest from UCL Podcasts" [level=2]
+- link "See all podcasts":
+  - /url: https://www.ucl.ac.uk/ucl-minds/podcasts
+- 'heading "From sidelines to solutions: Tackling emissions in sport" [level=3]'
+- paragraph: "Join our hosts and guests for episode 7 (season 5) of our Generation One: The Climate Podcast."
+- iframe
+- contentinfo:
+  - heading "Follow UCL" [level=2]
+  - list:
+    - listitem:
+      - link "UCL Twitter":
+        - /url: https://twitter.com/ucl
+    - listitem:
+      - link "UCL Facebook":
+        - /url: https://www.facebook.com/uclofficial
+    - listitem:
+      - link "UCL Instagram":
+        - /url: https://www.instagram.com/ucl/
+    - listitem:
+      - link "UCL YouTube":
+        - /url: http://www.youtube.com/ucltv
+    - listitem:
+      - link "UCL SoundCloud":
+        - /url: https://soundcloud.com/uclsound
+    - listitem:
+      - link "UCL Flickr":
+        - /url: http://www.flickr.com/photos/uclnews
+    - listitem:
+      - link "UCL TikTok":
+        - /url: https://tiktok.com/@uclofficial
+  - article:
+    - heading "Information for" [level=2]
+    - list:
+      - listitem:
+        - link "Current students":
+          - /url: //www.ucl.ac.uk/students
+      - listitem:
+        - link "Staff":
+          - /url: //www.ucl.ac.uk/staff
+      - listitem:
+        - link "Alumni":
+          - /url: //www.ucl.ac.uk/alumni
+      - listitem:
+        - link "Business":
+          - /url: //www.ucl.ac.uk/enterprise/businesses
+      - listitem:
+        - link "Donors":
+          - /url: //www.ucl.ac.uk/giving
+  - article:
+    - heading "Visit" [level=2]
+    - list:
+      - listitem:
+        - link "Maps":
+          - /url: //www.ucl.ac.uk/maps
+      - listitem:
+        - link "Library, museums and collections":
+          - /url: //www.ucl.ac.uk/lccos/library-culture-collections-and-open-science-lccos
+      - listitem:
+        - link "Bloomsbury Theatre":
+          - /url: //www.ucl.ac.uk/bloomsbury-theatre
+      - listitem:
+        - link "UCL East":
+          - /url: //www.ucl.ac.uk/ucl-east
+      - listitem:
+        - link "Tours and visits":
+          - /url: //www.ucl.ac.uk/maps
+  - article:
+    - heading "Connect with UCL" [level=2]
+    - list:
+      - listitem:
+        - link "Jobs":
+          - /url: //www.ucl.ac.uk/work-at-ucl/search-ucl-jobs
+      - listitem:
+        - link "Media Relations":
+          - /url: //www.ucl.ac.uk/news/services-media
+      - listitem:
+        - link "Events":
+          - /url: //www.ucl.ac.uk/events
+      - listitem:
+        - link "UCL and London":
+          - /url: //www.ucl.ac.uk/london
+      - listitem:
+        - link "UCL Shop":
+          - /url: //shop.ucl.ac.uk
+  - text: "University College London, Gower Street, London, WC1E 6BT Tel: +44 (0) 20 7679 2000 Copyright © 2025 UCL"
+  - list:
+    - listitem:
+      - link "Disclaimer":
+        - /url: //www.ucl.ac.uk/legal-services/disclaimer
+      - text: "|"
+    - listitem:
+      - link "Freedom of Information":
+        - /url: //www.ucl.ac.uk/foi
+      - text: "|"
+    - listitem:
+      - link "Accessibility":
+        - /url: //www.ucl.ac.uk/accessibility
+      - text: "|"
+    - listitem:
+      - link "Privacy and Cookies":
+        - /url: //www.ucl.ac.uk/legal-services/privacy
+      - text: "|"
+    - listitem:
+      - link "Slavery statement":
+        - /url: //www.ucl.ac.uk/commercial-procurement/modern-day-slavery-statement
+      - text: "|"
+    - listitem:
+      - link "Contact Us":
+        - /url: //www.ucl.ac.uk/about/contact-us
+      - text: "|"
+    - listitem:
+      - button "Submit"
+```

@@ -1,0 +1,361 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "Skip to main content":
+    - /url: "#main"
+  - heading "Opens the main home page" [level=1]:
+    - link "Opens the main home page":
+      - /url: /
+      - img "undefined"
+  - text: "Colour mode:"
+  - switch "Calm": Vivid Calm
+  - link "Sign in":
+    - /url: /login
+  - text: or
+  - link "Create account":
+    - /url: /my-account/sign-up
+  - navigation:
+    - list:
+      - listitem:
+        - link "Contact us":
+          - /url: /contact-us
+      - listitem:
+        - link "Online Community":
+          - /url: /what-we-do/community
+      - listitem:
+        - link "Work for us":
+          - /url: /get-involved/work-for-us
+      - listitem:
+        - link "News":
+          - /url: /what-we-do/news
+      - listitem:
+        - link "Shop":
+          - /url: /shop
+      - listitem: Accessibility options
+  - navigation "Main menu":
+    - menubar:
+      - listitem:
+        - link "Advice and guidance":
+          - /url: /advice-and-guidance
+      - listitem:
+        - link "What we do":
+          - /url: /what-we-do
+      - listitem:
+        - link "Who we are":
+          - /url: /what-we-do/who-we-are
+      - listitem:
+        - link "How you can help":
+          - /url: /get-involved
+  - search:
+    - searchbox "Search Input"
+    - button "Search"
+  - button "Donate"
+- main:
+  - img
+  - heading "Protect our benefits" [level=2]
+  - paragraph: "The Government has now published its Universal Credit and Personal Independence Payment Bill confirming their plans to cut disability benefit. Join the campaign to #ProtectOurBenefits"
+  - link "Find out more":
+    - /url: https://act.autism.org.uk/page/170245/action/1
+  - img
+  - img
+  - heading "Latest activities" [level=2]
+  - heading "Boshier Grant Scheme" [level=3]
+  - paragraph: This year's application period for the Boshier Grant Scheme which awards grants of up to £25,000 to UK registered charities is now live.
+  - link "Apply now":
+    - /url: https://www.autism.org.uk/what-we-do/funding-and-grants/the-boshier-grant-scheme
+  - heading "It’s How You Show Up" [level=3]
+  - paragraph: Taking action to build a world where autistic people feel valued, supported, and understood.
+  - link "Make your pledge":
+    - /url: https://www.autism.org.uk/what-we-do/acceptance-and-awareness/how-you-show-up/pledge-wall
+  - heading "Autism diagnosis support" [level=3]
+  - paragraph: Explore how to get assessed – we can help you understand what to expect and where to start.
+  - link "Get started":
+    - /url: https://www.autism.org.uk/what-we-do/autism-know-how/diagnostic-services
+  - link "What is autism?":
+    - /url: /advice-and-guidance/what-is-autism
+    - heading "What is autism?" [level=3]
+    - img "arrow right"
+  - heading "Advice and guidance" [level=3]
+  - paragraph:
+    - text: Our
+    - link "advice and guidance":
+      - /url: /advice-and-guidance
+    - text: section has a wide range of information about autism. There are 24 different topics, including
+    - link "diagnosis":
+      - /url: /advice-and-guidance/topics/diagnosis
+    - text: ","
+    - link "behaviour":
+      - /url: /advice-and-guidance/topics/behaviour
+    - text: ","
+    - link "communication":
+      - /url: /advice-and-guidance/topics/communication
+    - text: ","
+    - link "loneliness":
+      - /url: /advice-and-guidance/topics/loneliness
+    - text: ","
+    - link "sensory differences":
+      - /url: /advice-and-guidance/topics/sensory-differences/sensory-differences
+    - text: ","
+    - link "mental health":
+      - /url: /advice-and-guidance/topics/mental-health
+    - text: ","
+    - link "benefits and money":
+      - /url: /advice-and-guidance/topics/benefits-and-money
+    - text: ","
+    - link "education":
+      - /url: /advice-and-guidance/topics/education
+    - text: ", and more."
+  - img
+  - heading "Get involved and help create a society that works for autistic people" [level=3]
+  - heading "Make a donation" [level=3]
+  - list:
+    - listitem:
+      - link "Regular":
+        - /url: "#efa7b2e3-644a-4618-a379-382f55aef52a"
+    - listitem:
+      - link "Single":
+        - /url: "#e9a80f26-35af-42d4-892d-98d074665b7f"
+  - radiogroup "Frequency":
+    - group:
+      - text: Frequency
+      - list:
+        - listitem:
+          - radio "Monthly" [checked]
+          - text: Monthly
+        - listitem:
+          - radio "Quarterly"
+          - text: Quarterly
+        - listitem:
+          - radio "Yearly"
+          - text: Yearly
+  - radiogroup "I want to give":
+    - group:
+      - text: I want to give
+      - list:
+        - listitem:
+          - radio "£5"
+          - text: £5
+        - listitem:
+          - radio "£10"
+          - text: £10
+        - listitem:
+          - radio "£20"
+          - text: £20
+  - text: Amount
+  - radiogroup "Amount":
+    - radio "Amount"
+    - textbox "Amount"
+    - text: £
+  - button "Donate"
+  - img
+  - text: £10 could help an autistic person overcome isolation, thanks to our branch and social group network.
+  - img
+  - heading "Other ways to help" [level=2]
+  - img
+  - img
+  - heading "Become a member" [level=3]
+  - paragraph: Join today to receive Your Autism magazine, attend our AGM and access members' Facebook group.
+  - link "Join today":
+    - /url: /get-involved/membership
+  - img "false"
+  - img
+  - heading "Raise money" [level=3]
+  - paragraph: We have lots of events and fundraising ideas to help create a society that works for autistic people.
+  - link "Get involved":
+    - /url: /get-involved/raise-money
+  - img "false"
+  - img
+  - heading "Volunteer" [level=3]
+  - paragraph: Make a real difference to autistic children's and adults’ lives, meet new people and learn new skills.
+  - link "Find out more":
+    - /url: /get-involved/volunteer
+  - img
+  - heading "Our services" [level=2]
+  - img
+  - img
+  - link "Adult residential services":
+    - /url: /what-we-do/adult-residential-services
+    - heading "Adult residential services" [level=3]
+    - img "arrow right"
+  - link "Autism Services Directory":
+    - /url: /autism-services-directory
+    - heading "Autism Services Directory" [level=3]
+    - img "arrow right"
+  - link "Autism Know How - Training, consultancy, accreditation and diagnostic assessments":
+    - /url: /what-we-do/autism-know-how
+    - heading "Autism Know How - Training, consultancy, accreditation and diagnostic assessments" [level=3]
+    - img "arrow right"
+  - link "Branches":
+    - /url: /what-we-do/branches
+    - heading "Branches" [level=3]
+    - img "arrow right"
+  - link "Campaign":
+    - /url: /what-we-do/campaign
+    - heading "Campaign" [level=3]
+    - img "arrow right"
+  - link "Education and children's services":
+    - /url: /what-we-do/education-and-children-services
+    - heading "Education and children's services" [level=3]
+    - img "arrow right"
+  - img
+  - img "User Icon"
+  - img "Duck Icon"
+  - text: GW
+  - img "Dots"
+  - img "Dots"
+  - heading "You are not alone" [level=3]
+  - heading "Join the community" [level=2]
+  - paragraph: Our online community is a place for autistic people and their families to meet like-minded people and share their experiences.
+  - link "Join today":
+    - /url: /what-we-do/community
+  - img
+  - heading "Latest news" [level=2]
+  - 'link "News New project launch: Extended Reality for Autistic Drivers (XRAD) Published on 11 June 2025"':
+    - /url: /what-we-do/news/new-project-launch-xrad
+    - img
+    - img
+    - text: News
+    - 'heading "New project launch: Extended Reality for Autistic Drivers (XRAD)" [level=2]'
+    - paragraph: Published on 11 June 2025
+  - link "News Our response to the Chancellor's Spending Review Published on 11 June 2025":
+    - /url: /what-we-do/news/our-response-to-the-chancellors-spending-review
+    - img
+    - img
+    - text: News
+    - heading "Our response to the Chancellor's Spending Review" [level=2]
+    - paragraph: Published on 11 June 2025
+  - link "News Number of autistic people in mental health hospitals April 2025 Published on 22 May 2025":
+    - /url: /what-we-do/news/number-of-autistic-people-in-mental-health-ho-29
+    - img
+    - img
+    - text: News
+    - heading "Number of autistic people in mental health hospitals April 2025" [level=2]
+    - paragraph: Published on 22 May 2025
+  - link "News Disability Charities Consortium open letter Published on 21 May 2025":
+    - /url: /what-we-do/news/disability-charities-consortium-open-letter
+    - img
+    - img
+    - text: News
+    - heading "Disability Charities Consortium open letter" [level=2]
+    - paragraph: Published on 21 May 2025
+  - link "News ‘In our Words’ - Celebrating our charity’s sixty years and the story of autism in the UK Published on 19 May 2025":
+    - /url: /what-we-do/news/in-our-words
+    - img
+    - img
+    - text: News
+    - heading "‘In our Words’ - Celebrating our charity’s sixty years and the story of autism in the UK" [level=2]
+    - paragraph: Published on 19 May 2025
+  - link "News MPs attend Understanding Autism Sessions for World Autism Acceptance Month Published on 19 May 2025":
+    - /url: /what-we-do/news/mps-attend-understanding-autism-sessions
+    - img
+    - img
+    - text: News
+    - heading "MPs attend Understanding Autism Sessions for World Autism Acceptance Month" [level=2]
+    - paragraph: Published on 19 May 2025
+  - link "News Autism assessment waiting times Published on 15 May 2025":
+    - /url: /what-we-do/news/autism-assessment-waiting-times-10
+    - img
+    - img
+    - text: News
+    - heading "Autism assessment waiting times" [level=2]
+    - paragraph: Published on 15 May 2025
+  - link "News Our response to the Work and Pensions Committee report calling for greater protections for vulnerable benefit claimants Published on 15 May 2025":
+    - /url: /what-we-do/news/our-response-to-the-work-and-pensions-committee-re
+    - img
+    - img
+    - text: News
+    - heading "Our response to the Work and Pensions Committee report calling for greater protections for vulnerable benefit claimants" [level=2]
+    - paragraph: Published on 15 May 2025
+  - link "News Statement on President Trump and RFK Jr's comments on autism Published on 30 April 2025":
+    - /url: /what-we-do/news/statement-on-president-trump-and-rfk-jrs-comments
+    - img
+    - img
+    - text: News
+    - heading "Statement on President Trump and RFK Jr's comments on autism" [level=2]
+    - paragraph: Published on 30 April 2025
+  - link "News Our response to Nigel Farage's comments on SEND and diagnosis Published on 25 April 2025":
+    - /url: /what-we-do/news/our-response-to-nigel-farages-comments
+    - img
+    - img
+    - text: News
+    - heading "Our response to Nigel Farage's comments on SEND and diagnosis" [level=2]
+    - paragraph: Published on 25 April 2025
+  - button "View more"
+  - text: View more
+  - link "All news":
+    - /url: /what-we-do/news
+  - img
+  - heading "Dedicated areas for..." [level=2]
+  - paragraph
+  - list:
+    - listitem:
+      - link "Autistic adults":
+        - /url: /what-we-do/autistic-adults
+        - text: Autistic adults
+        - img
+    - listitem:
+      - link "Education professionals":
+        - /url: /what-we-do/education-professionals
+        - text: Education professionals
+        - img
+    - listitem:
+      - link "Families":
+        - /url: /what-we-do/families
+        - text: Families
+        - img
+    - listitem:
+      - link "Professionals":
+        - /url: /what-we-do/services-for-professionals
+        - text: Professionals
+        - img
+- contentinfo:
+  - heading "Keep up to date with all the great things we're doing" [level=3]
+  - link "Subscribe for updates":
+    - /url: /what-we-do/newsletter-form
+  - navigation "Footer navigation":
+    - list:
+      - listitem:
+        - link "Accessibility":
+          - /url: /accessibility
+      - listitem:
+        - link "Contact us":
+          - /url: /contact-us
+      - listitem:
+        - link "Legal information":
+          - /url: /legal-information
+  - list:
+    - listitem:
+      - link "Facebook":
+        - /url: https://www.facebook.com/NationalAutisticSociety/
+        - img
+    - listitem:
+      - link "X":
+        - /url: https://twitter.com/Autism
+        - img
+    - listitem:
+      - link "LinkedIn":
+        - /url: https://www.linkedin.com/company/national-autistic-society
+        - img
+    - listitem:
+      - link "YouTube":
+        - /url: https://www.youtube.com/user/NationalAutisticSoc
+        - img "undefined"
+    - listitem:
+      - link "Instagram":
+        - /url: https://www.instagram.com/nationalautisticsociety/?hl=en
+        - img
+  - paragraph: "We are registered as a charity in England and Wales (269425) and in Scotland (SC039427). The National Autistic Society is also a company limited by guarantee, registered at Companies House (01205298). VAT registration number: 653370050. © The National Autistic Society 2025"
+  - img "false"
+- region "Cookies on this site":
+  - button "close":
+    - img
+  - heading "Cookies on this site" [level=2]
+  - paragraph:
+    - text: Our site uses cookies for key functions and to give you the best experience. Use cookie settings to control which cookies are allowed or click on Allow Optional Cookies to allow all cookies. For more detailed information please see our
+    - link "cookie policy":
+      - /url: /what-we-do/website/privacy/cookies
+    - text: .
+  - button "Choose cookie settings"
+  - button "Allow all cookies"
+```

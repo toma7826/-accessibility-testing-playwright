@@ -1,0 +1,251 @@
+# Page snapshot
+
+```yaml
+- link "Skip to main content":
+  - /url: "#main-content"
+- banner:
+  - link "Mencap Mencap home":
+    - /url: /
+    - img "Mencap"
+    - text: Mencap home
+  - link "Donate ":
+    - /url: https://mencap.givingpage.org/mencap?utm_source=Mencap.org&utm_medium=Main%20Donate%20Button&utm_campaign=Main%20Donate%20Button&utm_id=Main%20Donate%20Button
+  - link "Easy Read":
+    - /url: /easy-read-library
+  - search:
+    - searchbox "Enter the terms you wish to search for."
+    - button:
+      - img
+  - navigation "Main menu 2024 Help and advice  Learning disability explained  Get involved  Fundraise and donate  What we do  News and Stories ":
+    - text: Main menu 2024
+    - list:
+      - listitem:
+        - button "Help and advice "
+      - listitem:
+        - button "Learning disability explained "
+      - listitem:
+        - button "Get involved "
+      - listitem:
+        - button "Fundraise and donate "
+      - listitem:
+        - button "What we do "
+      - listitem:
+        - button "News and Stories "
+- img
+- img
+- heading "It's Learning Disability week! 🎉" [level=1]
+- paragraph: This weekend make sure the world hears what life is like if you have a learning disability!
+- paragraph: "\"Do you see me?\" is the theme for this week."
+- link "Get involved! ":
+  - /url: https://www.mencap.org.uk/learningdisabilityweek
+- link "Easy read ":
+  - /url: https://www.mencap.org.uk/easyread/learning-disability-week-2025
+- main:
+  - article:
+    - heading "Do You See Me?" [level=2]
+    - paragraph: "This week is #LearningDisabilityWeek2025 and Alexander Dragonetti is here with a powerful reminder of why this week matters so much!"
+    - link "Find out more ":
+      - /url: https://www.mencap.org.uk/learningdisabilityweek
+    - iframe
+    - heading "Come shopping with Michael" [level=2]
+    - paragraph: "Looking for something to do this weekend? Visiting a Mencap charity shop is a great way to support this #LearningDisabilityWeek2025. Find one near you!"
+    - link "Find a shop ":
+      - /url: https://www.mencap.org.uk/what-we-do/mencap-shops
+    - iframe
+    - img "A graphic divider"
+    - heading "Latest news and stories from Mencap" [level=2]
+    - link "By Mencap Giving employment a Fair Shot":
+      - /url: /blog/giving-employment-fair-shot
+      - img
+      - img
+      - img
+      - paragraph: By Mencap
+      - heading "Giving employment a Fair Shot" [level=2]
+      - paragraph
+    - link "By Mencap Mencap’s Myth Buster isn’t just a model, she’s a moment. Meet Ellie Goldstein.":
+      - /url: /blog/mencaps-myth-buster-isnt-just-model-shes-moment-meet-ellie-goldstein
+      - img
+      - img
+      - img
+      - paragraph: By Mencap
+      - heading "Mencap’s Myth Buster isn’t just a model, she’s a moment. Meet Ellie Goldstein." [level=2]
+      - paragraph
+    - link "By Mencap From volunteer to paid team member":
+      - /url: /blog/volunteer-paid-team-member
+      - img
+      - img
+      - img
+      - paragraph: By Mencap
+      - heading "From volunteer to paid team member" [level=2]
+      - paragraph
+    - link "Show More ":
+      - /url: /search?f%5B0%5D=all_content_type_solr%3Ablog
+    - heading "Being seen and heard in hospital" [level=2]
+    - paragraph:
+      - text: Julie looks after and supports her sister Caroline, who has a
+      - term: learning disability
+      - text: and is non verbal. Whenever Caroline goes into hospital Julie fears for her, as too often, she’s not received the level of care that she needs or deserves.
+    - link "Help end health inequalities ":
+      - /url: https://mencap.givingpage.org/spring-appeal
+    - iframe
+    - heading "Getting a Fair Shot at employment" [level=2]
+    - paragraph: Learners from the Mencap Training Academy are growing in skills and confidence at Fair Shot cafe every day, taking steps towards paid work.
+    - link "Visit the Mencap Training Academy ":
+      - /url: https://trainingacademy.mencap.org.uk/
+    - iframe
+    - heading "Easy Reads about conditions" [level=2]
+    - paragraph: Find out about some conditions associated with a learning disability through our series of Easy Reads.
+    - link "Find out more ":
+      - /url: https://www.mencap.org.uk/search/easy_read?f%5B0%5D=all_category%3A1093&f%5B1%5D=topic%3A1106&search=
+    - article:
+      - img "A photograph of Seb sitting on Carolines lap talking"
+    - img "White space"
+    - article:
+      - img "Walkers Starting their Easter challenge, wearing coats and jackets on a bright sunny day"
+    - text: Fundraise for Mencap
+    - link "Find ideas and events":
+      - /url: https://www.mencap.org.uk/fundraise-and-donate/fundraise-mencap
+    - article:
+      - img "Dan Scorer gets interviewed by ITV"
+    - text: Mencap media news
+    - link "Browse Press Releases":
+      - /url: https://www.mencap.org.uk/press-releases
+    - heading "Donate to Mencap" [level=2]
+    - paragraph: £7
+    - paragraph: could answer a call from someone in crisis who reaches out to our Learning Disability Helpline for support.
+    - paragraph: £25
+    - paragraph: could help a trained caseworker stop a parent’s loved one from being wrongfully locked up in a mental health hospital.
+    - paragraph: £50
+    - paragraph: could help pay for urgent legal support for a family in desperate need of advice to prevent their loved one being admitted to an in-patient unit.
+    - link "Donate now →":
+      - /url: https://secure.mencap.org.uk/?utm_source=Donate%20banner&utm_medium=Donate%20banner&utm_campaign=Donate%20banner&utm_id=Donate%20banner
+      - button "Donate now →"
+    - heading "Mencap is here to help" [level=2]
+    - paragraph:
+      - text: If you need information or advice you can use our free helpline and advice
+      - term: service
+      - text: .
+    - link "Find out more ":
+      - /url: https://www.mencap.org.uk/advice-and-support
+    - article:
+      - img "Man sitting at computer wearing a telephone headset"
+    - img "White space"
+    - link "Learning Disability Helpline The Learning Disability Helpline is our free helpline service offering advice and support":
+      - /url: /advice-and-support/learning-disability-helpline
+      - img
+      - heading "Learning Disability Helpline" [level=2]
+      - paragraph: The Learning Disability Helpline is our free helpline service offering advice and support
+    - link "Volunteering Find out about our exciting opportunities!":
+      - /url: /get-involved/volunteering
+      - img
+      - img
+      - heading "Volunteering" [level=2]
+      - paragraph: Find out about our exciting opportunities!
+    - link "Mencap Shops Shop online, or visit one of our many stores across England to donate or buy":
+      - /url: /what-we-do/mencap-shops
+      - img
+      - img
+      - heading "Mencap Shops" [level=2]
+      - paragraph: Shop online, or visit one of our many stores across England to donate or buy
+- contentinfo:
+  - article:
+    - link "Mencap Home":
+      - /url: /
+      - img
+    - link "Mencap Facebook page":
+      - /url: https://www.facebook.com/Mencap
+      - img
+      - text: Mencap Facebook page
+    - link "Mencap Twitter page":
+      - /url: https://twitter.com/mencap_charity
+      - img
+      - text: Mencap Twitter page
+    - link "Mencap Instagram page":
+      - /url: https://www.instagram.com/mencap
+      - img
+      - text: Mencap Instagram page
+    - link "Mencap Linkedin page":
+      - /url: https://www.linkedin.com/company/mencap
+      - img
+      - text: Mencap Linkedin page
+    - link "Mencap Youtube page":
+      - /url: https://www.youtube.com/user/MencapDirector
+      - img
+      - text: Mencap Youtube page
+    - link "Mencap Bluesky page":
+      - /url: https://bsky.app/profile/mencap.org.uk
+      - img
+      - text: Mencap Bluesky page
+    - navigation "Utilities":
+      - heading "Utilities" [level=2]
+      - link "Contact us":
+        - /url: https://www.mencap.org.uk/contact-us-mencap
+      - link "Jobs":
+        - /url: https://jobs.mencap.org.uk
+      - link "Media centre":
+        - /url: https://www.mencap.org.uk/news-and-stories/media-centre
+      - link "Mencap Cymru":
+        - /url: https://wales.mencap.org.uk/
+      - link "Mencap NI":
+        - /url: https://northernireland.mencap.org.uk/
+      - link "Mencap Training Academy":
+        - /url: https://trainingacademy.mencap.org.uk/
+      - link "Visit a Shop":
+        - /url: https://www.mencap.org.uk/what-we-do/mencap-shops
+    - navigation "About us":
+      - heading "About us" [level=2]
+      - link "Annual reports":
+        - /url: https://www.mencap.org.uk/what-we-do/annual-reports
+      - link "Inclusion at Mencap":
+        - /url: https://www.mencap.org.uk/about-us/inclusion-mencap
+      - link "Leadership":
+        - /url: https://www.mencap.org.uk/about-us
+      - link "Mencap pension plan":
+        - /url: https://www.mencap.org.uk/mencap-pension-plan
+      - link "Our ambassadors":
+        - /url: https://www.mencap.org.uk/news-and-stories/our-ambassadors
+      - link "What we do":
+        - /url: https://www.mencap.org.uk/what-we-do
+    - heading "Stay up to date, join our mailing list" [level=2]
+    - text: Your first name*
+    - textbox "Your first name*"
+    - text: Your last name*
+    - textbox "Your last name*"
+    - text: Your email address
+    - textbox "Your email address"
+    - group "CAPTCHA *":
+      - text: CAPTCHA *
+      - iframe
+    - button "Sign up"
+  - navigation "Footer Sub Menu":
+    - heading "Footer Sub Menu" [level=2]
+    - link "Cookie policy":
+      - /url: /cookie-policy
+    - link "Direct debit guarantee":
+      - /url: /direct-debit-guarantee
+    - link "Feedback":
+      - /url: /complaints-and-compliments-mencap
+    - link "Privacy notice":
+      - /url: /our-privacy-notice-fundraising-supporters
+    - link "Sitemap":
+      - /url: /sitemap?_ga=2.252698953.1942540445.1717409644-135247842.1714471937
+    - link "Slavery and human trafficking statement":
+      - /url: /what-we-do/slavery-and-human-trafficking-statements
+    - link "Website accessibility":
+      - /url: /website-accessibility
+  - paragraph: Charity number 222377 (England and Wales); SC041079 (Scotland)
+  - link "Fundraising Regulator badge with validation link":
+    - /url: https://www.fundraisingregulator.org.uk/validate?registrant=ROYAL+MENCAP+SOCIETY
+    - img "Fundraising Regulator badge with validation link"
+- complementary:
+  - dialog "Privacy Settings":
+    - link:
+      - /url: https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/
+    - tab "Consent" [selected]
+    - tab "Details"
+    - tabpanel "Consent":
+      - heading "Privacy Settings" [level=2]
+      - text: This site uses third-party website tracking technologies to provide and continually improve our services, and to display advertisements according to users' interests. I agree and may revoke or change my consent at any time with effect for the future.
+    - button "Customise Cookies"
+    - button "Accept All"
+```

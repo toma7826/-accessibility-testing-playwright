@@ -1,0 +1,351 @@
+# Page snapshot
+
+```yaml
+- button "Skip to content"
+- banner:
+  - list:
+    - listitem:
+      - link "Find your local Age UK":
+        - /url: /services/in-your-area/
+    - listitem:
+      - link "Contact us":
+        - /url: /contact-us/
+  - link "Age UK - Let's change how we age":
+    - /url: /
+    - img "Age UK - Let's change how we age"
+  - group "Site search":
+    - text: Site search Search term
+    - textbox "Search term Search term"
+    - button "Search"
+  - link "Please donate":
+    - /url: /get-involved/donate/a/donate/
+  - menubar:
+    - menuitem
+    - menuitem "Information and advice":
+      - link "Information and advice":
+        - /url: /information-advice/
+    - menuitem "Services":
+      - link "Services":
+        - /url: /services/
+    - menuitem "Get involved":
+      - link "Get involved":
+        - /url: /get-involved/
+    - menuitem "Our impact":
+      - link "Our impact":
+        - /url: /our-impact/
+    - menuitem "Buy products":
+      - link "Buy products":
+        - /url: /products/
+- article:
+  - link "A woman sat in the garden drinking a glass of orange juice.":
+    - /url: /information-advice/health-wellbeing/mind-body/staying-cool-in-a-heatwave/
+    - img "A woman sat in the garden drinking a glass of orange juice."
+  - heading "Stay cool in this heatwave" [level=1]
+  - paragraph: We have some helpful tips on how to stay well when it's scorching outside.
+  - paragraph:
+    - link "Find out more":
+      - /url: /information-advice/health-wellbeing/mind-body/staying-cool-in-a-heatwave/
+- heading "Get information" [level=2]
+- article:
+  - link:
+    - /url: /information-advice/money-legal/benefits-entitlements/winter-fuel-payment/
+  - heading "Winter Fuel Payment" [level=2]:
+    - link "Winter Fuel Payment":
+      - /url: /information-advice/money-legal/benefits-entitlements/winter-fuel-payment/
+  - paragraph
+- article:
+  - link:
+    - /url: /information-advice/money-legal/cost-of-living/
+  - heading "Cost of living support" [level=2]:
+    - link "Cost of living support":
+      - /url: /information-advice/money-legal/cost-of-living/
+  - paragraph
+- article:
+  - link "An older man and woman looking at the laptop":
+    - /url: /information-advice/care/helping-a-loved-one/
+    - img "An older man and woman looking at the laptop"
+  - heading "Help for carers" [level=2]:
+    - link "Help for carers":
+      - /url: /information-advice/care/helping-a-loved-one/
+  - paragraph
+- article:
+  - link:
+    - /url: /information-advice/care/arranging-care/
+  - heading "Finding and arranging care" [level=2]:
+    - link "Finding and arranging care":
+      - /url: /information-advice/care/arranging-care/
+  - paragraph
+- article:
+  - link "Lady on laptop":
+    - /url: /information-advice/money-legal/benefits-entitlements/benefits-calculator/
+    - img "Lady on laptop"
+  - heading "Benefits calculator" [level=2]:
+    - link "Benefits calculator":
+      - /url: /information-advice/money-legal/benefits-entitlements/benefits-calculator/
+  - paragraph
+- article:
+  - link:
+    - /url: /information-advice/money-legal/legal-issues/power-of-attorney/
+  - heading "Power of attorney" [level=2]:
+    - link "Power of attorney":
+      - /url: /information-advice/money-legal/legal-issues/power-of-attorney/
+  - paragraph
+- group "In your area":
+  - text: In your area
+  - group:
+    - text: "I’d like to find: Age UK"
+    - strong: Services
+    - text: Age UKs
+    - strong: Near me
+    - text: Age UK
+    - strong: Shops
+  - text: In which location? Postcode
+  - textbox "Postcode"
+  - button "Search"
+- article:
+  - link "A man and woman stretching at home and laughing":
+    - /url: /discover/2025/april/act-now/
+    - img "A man and woman stretching at home and laughing"
+  - heading "Act Now, Age Better" [level=1]
+  - paragraph: We're encouraging everyone to move more for a better later life. Download your free leaflet filled with tips and inspiration.
+  - paragraph:
+    - link "Get started":
+      - /url: /discover/2025/april/act-now/
+- heading "Get involved" [level=2]
+- article:
+  - link "Woman giving high fives to the crowd whilst running in the Age UK Leeds Abbey Dash":
+    - /url: /get-involved/fundraise/
+    - img "Woman giving high fives to the crowd whilst running in the Age UK Leeds Abbey Dash"
+  - heading "Fundraise for us" [level=2]:
+    - link "Fundraise for us":
+      - /url: /get-involved/fundraise/
+  - paragraph
+- article:
+  - link:
+    - /url: /get-involved/donate/a/donate/
+  - heading "Make a donation" [level=2]:
+    - link "Make a donation":
+      - /url: /get-involved/donate/a/donate/
+  - paragraph
+- article:
+  - link "Woman reading through the options of leaving gifts in her will":
+    - /url: /get-involved/donate/leave-legacy/
+    - img "Woman reading through the options of leaving gifts in her will"
+  - heading "Leave a gift in your will" [level=2]:
+    - link "Leave a gift in your will":
+      - /url: /get-involved/donate/leave-legacy/
+  - paragraph
+- article:
+  - link "Older person":
+    - /url: /get-involved/volunteer/
+    - img "Older person"
+  - heading "Volunteer with us" [level=2]:
+    - link "Volunteer with us":
+      - /url: /get-involved/volunteer/
+  - paragraph
+- article:
+  - link "Age UK shop volunteers":
+    - /url: /services/charity-shops/
+    - img "Age UK shop volunteers"
+  - heading "Shop with us" [level=2]:
+    - link "Shop with us":
+      - /url: /services/charity-shops/
+  - paragraph
+- article:
+  - link "Age UK campaigns":
+    - /url: /our-impact/campaigning/
+    - img "Age UK campaigns"
+  - heading "Campaign with us" [level=2]:
+    - link "Campaign with us":
+      - /url: /our-impact/campaigning/
+  - paragraph
+- heading "Stay up to date with the latest news from Age UK" [level=2]
+- paragraph: Get regular updates on our information and advice, campaigns, and more.
+- paragraph:
+  - link "Sign up to our newsletters":
+    - /url: /email/newsletter-registration/
+- article:
+  - link "An older man with brown-grey hair on the phone, smiling":
+    - /url: /get-involved/donate/a/donate/
+    - img "An older man with brown-grey hair on the phone, smiling"
+  - heading "Help keep our life-changing services running" [level=2]
+  - paragraph: You could turn worries into answers for someone like James.
+  - paragraph:
+    - link "Donate now":
+      - /url: /get-involved/donate/a/donate/
+- heading "Latest news and views" [level=2]
+- article:
+  - link:
+    - /url: /discover/2025/june/my-dad-family-faith-and-fostering/
+  - 'heading "My dad: family, faith and fostering" [level=2]':
+    - 'link "My dad: family, faith and fostering"':
+      - /url: /discover/2025/june/my-dad-family-faith-and-fostering/
+  - paragraph: Tammy discusses her relationship with her father Craig, family, faith and fostering.
+- article:
+  - link:
+    - /url: /discover/2025/may/ve-day-2025/
+  - heading "5 reasons to celebrate Silver Sunday" [level=2]:
+    - link "5 reasons to celebrate Silver Sunday":
+      - /url: /discover/2025/may/ve-day-2025/
+  - paragraph: Why Silver Sunday is a day for fun, learning and celebration, whether you’re 9 or 99!
+- article:
+  - link:
+    - /url: /discover/2025/april/life-lessons-with-the-author-of-the-penguin-lessons/
+  - heading "Life lessons with the author of The Penguin Lessons" [level=2]:
+    - link "Life lessons with the author of The Penguin Lessons":
+      - /url: /discover/2025/april/life-lessons-with-the-author-of-the-penguin-lessons/
+  - paragraph: Tom Michell, author of The Penguin Lessons, discusses seeing his younger self 'aged up' on screen and life's challenges.
+- article:
+  - link:
+    - /url: /discover/2025/april/the-ingredients-for-a-better-life/
+  - heading "The ingredients for a better life" [level=2]:
+    - link "The ingredients for a better life":
+      - /url: /discover/2025/april/the-ingredients-for-a-better-life/
+  - paragraph: Age UK storyteller Iris explains how support from our advice line helped her afford to eat properly again.
+- paragraph:
+  - link "Read more articles":
+    - /url: /discover/
+- heading "Phone icon Get in touch" [level=2]:
+  - img "Phone icon"
+  - text: Get in touch
+- paragraph: Call our free, confidential advice line on 0800 678 1602. We're open 8am-7pm, 365 days a year
+- paragraph:
+  - link "About the advice line":
+    - /url: /services/age-uk-advice-line/
+- heading "Become part of our story" [level=2]
+- list:
+  - listitem:
+    - link "Facebook":
+      - /url: https://www.facebook.com/ageuk
+  - listitem:
+    - link "X":
+      - /url: https://twitter.com/age_uk
+  - listitem:
+    - link "Youtube":
+      - /url: https://www.youtube.com/user/ageuktv
+  - listitem:
+    - link "Instagram":
+      - /url: https://instagram.com/age_uk
+- group "Sign up today":
+  - text: Sign up today Email address
+  - textbox "Email address"
+  - button "Subscribe"
+- contentinfo:
+  - heading "About Age UK" [level=2]
+  - list:
+    - listitem:
+      - link "What we do":
+        - /url: /about-us/what-we-do/
+    - listitem:
+      - link "Work for us":
+        - /url: /about-us/jobs/
+    - listitem:
+      - link "Age International":
+        - /url: https://www.ageinternational.org.uk/
+    - listitem:
+      - link "Media / Press":
+        - /url: /latest-press/
+    - listitem:
+      - link "Latest news":
+        - /url: /discover/
+    - listitem:
+      - link "Who we are":
+        - /url: /about-us/who-we-are/
+  - heading "Services" [level=2]
+  - list:
+    - listitem:
+      - link "Age UK Advice Line":
+        - /url: /services/age-uk-advice-line/
+    - listitem:
+      - link "Befriending services":
+        - /url: /services/befriending-services/
+    - listitem:
+      - link "Charity shops":
+        - /url: /services/charity-shops/
+    - listitem:
+      - link "In your area":
+        - /url: /services/in-your-area/
+  - heading "Popular pages" [level=2]
+  - list:
+    - listitem:
+      - link "Benefits Calculator":
+        - /url: /information-advice/money-legal/benefits-entitlements/benefits-calculator/
+    - listitem:
+      - link "TV licence concessions":
+        - /url: /information-advice/money-legal/benefits-entitlements/tv-licence-concessions/
+    - listitem:
+      - link "Pension Credit":
+        - /url: /information-advice/money-legal/benefits-entitlements/pension-credit/
+    - listitem:
+      - link "Making a will":
+        - /url: /information-advice/money-legal/legal-issues/making-a-will/
+  - heading "Latest" [level=2]
+  - list:
+    - listitem:
+      - link "Act Now, Age Better":
+        - /url: /discover/2025/april/act-now/
+    - listitem:
+      - link "Let's change how we age":
+        - /url: /get-involved/letschange/
+    - listitem:
+      - link "The difference your support makes":
+        - /url: /our-impact/the-difference-your-support-can-make/
+  - heading "Support links" [level=2]
+  - list:
+    - listitem:
+      - link "Linking policy":
+        - /url: /help/linking-policy/
+    - listitem:
+      - link "Terms and conditions":
+        - /url: /help/terms-and-conditions/
+    - listitem:
+      - link "Privacy policy":
+        - /url: /help/privacy-policy/
+    - listitem:
+      - link "Publications":
+        - /url: /services/information-advice/guides-and-factsheets/
+    - listitem:
+      - link "Cookies":
+        - /url: /help/cookies/
+    - listitem:
+      - link "Safeguarding":
+        - /url: /about-us/who-we-are/safeguarding/
+    - listitem:
+      - link "About us":
+        - /url: /about-us/
+    - listitem:
+      - link "Sitemap":
+        - /url: /sitemap/
+    - listitem:
+      - link "Contact us":
+        - /url: /contact-us/
+    - listitem:
+      - link "Modern slavery statement":
+        - /url: /about-us/modern-slavery-and-human-trafficking-statement/
+    - listitem:
+      - link "Fundraising charter":
+        - /url: /get-involved/fundraise/fundraising-charter/
+  - paragraph: Age UK, 7th Floor, One America Square, 17 Crosswall, London, EC3N 2LB. Registered charity number 1128267. Company number 6825798. © Age UK Group and/or its National Partners (Age NI, Age Scotland and Age Cymru) 2025. All Rights Reserved
+  - link "Registered with the Fundraising Regulator":
+    - /url: https://www.fundraisingregulator.org.uk/
+    - img "Registered with the Fundraising Regulator"
+- button "click here to toggle the virtual assistant": Ask us a question
+- heading "Ask the Virtual Assistant" [level=3]
+- link "Close the Virtual Assistant":
+  - /url: ""
+  - img "Close the Virtual Assistant"
+- status
+- textbox "Enter your question"
+- button "Submit"
+- button "Related Questions"
+- status
+- status
+- status
+- region "Cookie banner":
+  - alertdialog "Cookies on this website":
+    - heading "Cookies on this website" [level=2]
+    - text: We use cookies to give you the best experience of our website. By clicking ‘accept all', you’re agreeing to our use of cookies. You can change this at any time.
+    - button "Reject All"
+    - button "Accept All"
+    - button "Change settings"
+```

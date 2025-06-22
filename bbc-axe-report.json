@@ -1,0 +1,34 @@
+[
+  {
+    "id": "heading-order",
+    "impact": "moderate",
+    "tags": [
+      "cat.semantics",
+      "best-practice"
+    ],
+    "description": "Ensure the order of headings is semantically correct",
+    "help": "Heading levels should only increase by one",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/heading-order?application=playwright",
+    "nodes": [
+      {
+        "any": [
+          {
+            "id": "heading-order",
+            "data": null,
+            "relatedNodes": [],
+            "impact": "moderate",
+            "message": "Heading order invalid"
+          }
+        ],
+        "all": [],
+        "none": [],
+        "impact": "moderate",
+        "html": "<h3>",
+        "target": [
+          ".ssrcss-yawlqh-GridWrapper.eqfxz1e4 > .ssrcss-1fyr2t1-HierarchicalCollectionsWrapper.eqfxz1e3 > .ssrcss-wtht9i-Grid.e12imr580[role=\"list\"] > .ssrcss-rs7w2i-ListItem.e1gp961v0 > .ssrcss-1t3sjik-Promo.e1vyq2e80[type=\"live\"] > .ssrcss-1w1z3gj-PromoSwitchLayoutAtBreakpoints.et5qctl0 > .ssrcss-83l9lf-PromoContent.exn3ah912 > .ssrcss-espw6b-Stack.e1y4nx260[spacing=\"2\"] > h3"
+        ],
+        "failureSummary": "Fix any of the following:\n  Heading order invalid"
+      }
+    ]
+  }
+]

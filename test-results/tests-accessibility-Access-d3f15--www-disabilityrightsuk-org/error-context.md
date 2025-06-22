@@ -1,0 +1,319 @@
+# Page snapshot
+
+```yaml
+- link "Skip to main content":
+  - /url: "#main-content"
+- button "Accessibility":
+  - img
+  - text: Accessibility
+  - img
+- navigation
+- banner:
+  - link "Home":
+    - /url: /
+    - img "Home"
+  - navigation:
+    - list:
+      - listitem:
+        - link "Navigation bar dropdown":
+          - /url: https://shop.disabilityrightsuk.org/
+          - text: Shop
+      - listitem:
+        - link "Navigation bar dropdown":
+          - /url: https://disabilityrightsuk.enthuse.com/donate#!/
+          - text: Donate
+    - list
+    - separator
+    - list:
+      - listitem:
+        - search:
+          - text: Search here
+          - combobox "Search here"
+    - separator
+    - list:
+      - listitem:
+        - link "Media":
+          - /url: https://www.disabilityrightsuk.org/media
+      - listitem:
+        - link "Contact":
+          - /url: https://www.disabilityrightsuk.org/contact-us
+  - separator
+  - navigation:
+    - list:
+      - listitem:
+        - link "About Us":
+          - /url: /about-us
+          - text: About Us
+          - img
+      - listitem:
+        - link "News & Policy":
+          - /url: /news-policy
+          - text: News & Policy
+          - img
+      - listitem:
+        - link "Guidance & Resources":
+          - /url: /guidance-resources
+          - text: Guidance & Resources
+          - img
+      - listitem:
+        - link "Get Involved":
+          - /url: /get-involved
+          - text: Get Involved
+          - img
+      - listitem:
+        - link "DPO Hub":
+          - /url: /disabled-peoples-organisations
+          - text: DPO Hub
+          - img
+      - listitem:
+        - link "Training & Consultancy":
+          - /url: /training-consultancy
+          - text: Training & Consultancy
+          - img
+- banner
+- heading "Home Page" [level=1]
+- heading "We are Disabled people leading change" [level=2]
+- paragraph: Disability Rights UK is the UK’s leading Disabled People's Organisation (DPO) led by, run by, and working for Disabled people.
+- paragraph: We work with other DPOs, public bodies, businesses and Government across the UK to influence regional and national change for better rights, accessibility, benefits, quality of life and economic opportunities for Disabled people.
+- paragraph:
+  - link "What we're doing":
+    - /url: https://disabilityrightsuk.org/what-were-doing
+  - link "Find out more":
+    - /url: https://disabilityrightsuk.org/about-us
+- 'heading "Benefit Cuts: Take Action!" [level=2]'
+- paragraph: We will not stay silent as benefits are cut, public services are slashed, and our rights are eroded. If you want to join us in the fight, you're in the right place.
+- paragraph: Learn more from our Take Action page about getting involved to fight back!
+- link "Take action!":
+  - /url: https://www.disabilityrightsuk.org/take-action
+- button "Slide 1"
+- button "Slide 2"
+- button "Slide 3"
+- button "Slide 4"
+- button "Previous"
+- button "Next"
+- heading "Latest news" [level=2]
+- link "Image of a brass statue scales of justice - a blindfolded woman holding up a scales News Fri, 20 June 2025 Devastation as Assisted Dying Bill Passes":
+  - /url: /news/devastation-assisted-dying-bill-passes
+  - img "Image of a brass statue scales of justice - a blindfolded woman holding up a scales"
+  - text: News Fri, 20 June 2025
+  - heading "Devastation as Assisted Dying Bill Passes" [level=4]
+- link "Personal Independence Payment News Fri, 20 June 2025 More Than a Quarter of PIP 2026/2030 Award Reviews to Result in Daily Living Award Loss Under New 4-Point Rule":
+  - /url: /news/more-quarter-pip-20262030-award-reviews-result-daily-living-award-loss-under-new-4-point-rule
+  - img "Personal Independence Payment"
+  - text: News Fri, 20 June 2025
+  - heading "More Than a Quarter of PIP 2026/2030 Award Reviews to Result in Daily Living Award Loss Under New 4-Point Rule" [level=4]
+- 'link "Image of the front page of the UC and PIP Bill Blog Fri, 20 June 2025 The Universal Credit and PIP Bill: Our Concerns"':
+  - /url: /news/universal-credit-and-pip-bill-our-concerns
+  - img "Image of the front page of the UC and PIP Bill"
+  - text: Blog Fri, 20 June 2025
+  - 'heading "The Universal Credit and PIP Bill: Our Concerns" [level=4]'
+- link "Houses of Parliament and Big Ben News Wed, 18 June 2025 Government Publishes Universal Credit And Personal Independence Payment Bill - Aimed At Cutting Billions Of Pounds From Disability Benefits":
+  - /url: /news/government-publishes-universal-credit-and-personal-independence-payment-bill-aimed-cutting
+  - img "Houses of Parliament and Big Ben"
+  - text: News Wed, 18 June 2025
+  - heading "Government Publishes Universal Credit And Personal Independence Payment Bill - Aimed At Cutting Billions Of Pounds From Disability Benefits" [level=4]
+- link "Image shows an underground station. A train is arriving at a level platform. News Wed, 18 June 2025 Transport accessibility put on a back burner":
+  - /url: /news/transport-accessibility-put-back-burner
+  - img "Image shows an underground station. A train is arriving at a level platform."
+  - text: News Wed, 18 June 2025
+  - heading "Transport accessibility put on a back burner" [level=4]
+- 'link "Image is black and white. A pair of hands count some pennies. News Wed, 18 June 2025 APPG Findings: Benefit Cuts Will Worsen Disability Poverty"':
+  - /url: /news/appg-findings-benefit-cuts-will-worsen-disability-poverty
+  - img "Image is black and white. A pair of hands count some pennies."
+  - text: News Wed, 18 June 2025
+  - 'heading "APPG Findings: Benefit Cuts Will Worsen Disability Poverty" [level=4]'
+- link "Image of 15 MPs outside Parliament holding DPO Forum 'Vote NO to benefit cuts' placards News Tue, 17 June 2025 Labour MPs Take a Public Stand Against the Disability and Health Benefit Cuts":
+  - /url: /news/labour-mps-take-public-stand-against-disability-and-health-benefit-cuts
+  - img "Image of 15 MPs outside Parliament holding DPO Forum 'Vote NO to benefit cuts' placards"
+  - text: News Tue, 17 June 2025
+  - heading "Labour MPs Take a Public Stand Against the Disability and Health Benefit Cuts" [level=4]
+- link "Pound sign News Fri, 13 June 2025 Half a Million in Disabled Households Forced into Severe Hardship by Green Paper Cuts":
+  - /url: /news/half-million-disabled-households-forced-severe-hardship-green-paper-cuts
+  - img "Pound sign"
+  - text: News Fri, 13 June 2025
+  - heading "Half a Million in Disabled Households Forced into Severe Hardship by Green Paper Cuts" [level=4]
+- link "See more":
+  - /url: /news/news-index?news_title=&news_date_filter%5Bmin%5D%5Bdate%5D=&news_date_filter%5Bmax%5D%5Bdate%5D=&cw_paragraph_id=5&
+- heading "Sign up for our newsletter" [level=2]
+- group:
+  - text: First Name *
+  - textbox "First Name *"
+  - text: Last Name *
+  - textbox "Last Name *"
+  - text: Email *
+  - textbox "Email *"
+- paragraph:
+  - text: Clicking submit button means you agree to our
+  - link "privacy policy":
+    - /url: https://www.disabilityrightsuk.org/disability-rights-uk-privacy-policy-disclaimer-and-copyright-information
+  - link ".":
+    - /url: https://www.disabilityrightsuk.org/disability-rights-uk-privacy-policy-disclaimer-and-copyright-information
+- button "Submit"
+- heading "Featured products from the shop" [level=2]
+- img "Disability Rights Handbook Edition 50"
+- heading "Disability Rights Handbook - 2025-2026" [level=4]
+- heading "£48" [level=4]
+- link "Product Link":
+  - /url: https://shop.disabilityrightsuk.org/products/disability-rights-handbook-2025-2026
+- img "Disability Rights Handbook Updater 2025-26"
+- heading "Disability Rights Handbook - Updater 2025-2026" [level=4]
+- heading "£8" [level=4]
+- link "Product Link":
+  - /url: https://shop.disabilityrightsuk.org/products/updater-2025-2026
+- img "Radar key"
+- heading "Radar key" [level=4]
+- heading "£5 + £1.25 postage" [level=4]
+- link "Product Link":
+  - /url: https://shop.disabilityrightsuk.org/products/radar-key
+- heading "Featured resources" [level=2]
+- link "Pound sign Wed, 23 April 2025 Bedroom Tax":
+  - /url: /resources/bedroom-tax
+  - img "Pound sign"
+  - text: Wed, 23 April 2025
+  - heading "Bedroom Tax" [level=4]
+- link "People together Fri, 7 October 2022 Getting Advice":
+  - /url: /resources/getting-advice
+  - img "People together"
+  - text: Fri, 7 October 2022
+  - heading "Getting Advice" [level=4]
+- link "A briefcase Fri, 7 October 2022 Access to Work":
+  - /url: /resources/access-work
+  - img "A briefcase"
+  - text: Fri, 7 October 2022
+  - heading "Access to Work" [level=4]
+- link "Pound sign Mon, 10 October 2022 Links to organisations giving advice on benefits, care and debt":
+  - /url: /resources/links-organisations-giving-advice-benefits-care-and-debt
+  - img "Pound sign"
+  - text: Mon, 10 October 2022
+  - heading "Links to organisations giving advice on benefits, care and debt" [level=4]
+- 'link "Megaphone Thu, 23 March 2023 Disabled people’s protest rights: what you need to know"':
+  - /url: /resources/disabled-people’s-protest-rights-what-you-need-know
+  - img "Megaphone"
+  - text: Thu, 23 March 2023
+  - 'heading "Disabled people’s protest rights: what you need to know" [level=4]'
+- heading "Become a member" [level=2]
+- paragraph: Become a member of Disability Rights UK and make your voice heard
+- link "Find out more about membership":
+  - /url: https://www.disabilityrightsuk.org/content/membership
+- heading "Upcoming events" [level=2]
+- 'link "The Black neurodivergent community for women & LGBTQ+ people. Meeting  Spotlighting Intersectional Events: Speedfriending Social for POC Neurodivergent Women and Queers NeuroNoir, The community for Black neurodivergent women & LGBTQ+ people, is launching a speed friending event"':
+  - /url: /events/spotlighting-intersectional-events-speedfriending-social-poc-neurodivergent-women-and-queers
+  - img "The Black neurodivergent community for women & LGBTQ+ people."
+  - text: Meeting 
+  - 'heading "Spotlighting Intersectional Events: Speedfriending Social for POC Neurodivergent Women and Queers" [level=4]'
+  - text: NeuroNoir, The community for Black neurodivergent women & LGBTQ+ people, is launching a speed friending event
+- heading "Our Staff" [level=2]
+- link "Kamran is smiling, he is sat in a wheelchair in front of green leaves Kamran Mallick CEO":
+  - /url: "#"
+  - img "Kamran is smiling, he is sat in a wheelchair in front of green leaves"
+  - heading "Kamran Mallick" [level=5]
+  - text: CEO
+- link "Tony Stevens Head of Business Development":
+  - /url: "#"
+  - heading "Tony Stevens" [level=5]
+  - text: Head of Business Development
+- link "Fazilet has short grey hair and is smiling as she stands in front of green leaves Fazilet Hadi Head of Policy, Advice and Information":
+  - /url: "#"
+  - img "Fazilet has short grey hair and is smiling as she stands in front of green leaves"
+  - heading "Fazilet Hadi" [level=5]
+  - text: Head of Policy, Advice and Information
+- link "Michael has short black hair and wears glasses. He is standing in front of green leaves Michael Paul Head of Engagement":
+  - /url: "#"
+  - img "Michael has short black hair and wears glasses. He is standing in front of green leaves"
+  - heading "Michael Paul" [level=5]
+  - text: Head of Engagement
+- link "Rebecca is female, she stands in front of a green plant background and is smiling. Rebecca Clarkson Head of Partnerships":
+  - /url: "#"
+  - img "Rebecca is female, she stands in front of a green plant background and is smiling."
+  - heading "Rebecca Clarkson" [level=5]
+  - text: Head of Partnerships
+- link "View all":
+  - /url: https://www.disabilityrightsuk.org/content/team-listing
+- heading "We are supported by" [level=2]
+- link "Sport England logo":
+  - /url: https://www.sportengland.org/
+  - img "Sport England logo"
+- link "Legal Education Foundation":
+  - /url: https://thelegaleducationfoundation.org/
+  - img "Legal Education Foundation"
+- link "Department for Education":
+  - /url: https://www.gov.uk/government/organisations/department-for-education
+  - img "Department for Education"
+- img "Three Guineas Trust"
+- contentinfo "Footer begins":
+  - img "Footer logo"
+  - paragraph: "Disability Rights UK is a company limited by guarantee, registered in England no: 07314865, and a registered charity no: 1138585 (England & Wales). VAT no: 127880492."
+  - paragraph:
+    - link:
+      - /url: https://www.charitygovernanceawards.co.uk/short-list/disability-rights-uk-2/?landing=winner
+      - img
+    - link:
+      - /url: https://asauk.org.uk/advice-quality-standard/
+      - img
+  - paragraph:
+    - link:
+      - /url: https://www.livingwage.org.uk/
+      - img
+    - link:
+      - /url: https://www.ncsc.gov.uk/cyberessentials
+      - img
+  - paragraph: "Registered office: Plexal 14 East Bay Lane, Queen Elizabeth Olympic Park, London, England, E20 3BS."
+  - link "Social media link":
+    - /url: https://twitter.com/DisRightsUK
+    - text: 
+  - link "Social media link":
+    - /url: https://www.facebook.com/disabilityrightsuk/
+    - text: 
+  - link "Social media link":
+    - /url: https://www.instagram.com/disrights_uk/
+    - text: 
+  - link "Social media link":
+    - /url: https://www.youtube.com/user/DisabilityRightsUK1
+    - text: 
+  - link "Social media link":
+    - /url: https://www.linkedin.com/company/2462073?trk=tyah
+    - text: 
+  - list:
+    - listitem:
+      - link "About us":
+        - /url: /about-us
+    - listitem:
+      - link "Contact us":
+        - /url: /contact-us
+    - listitem:
+      - link "Jobs":
+        - /url: /work-us
+    - listitem:
+      - link "Accessibility":
+        - /url: /accessibility
+    - listitem:
+      - link "Blog":
+        - /url: https://www.disabilityrightsuk.org/blog
+  - separator
+  - list:
+    - listitem:
+      - link "Cookie Policy":
+        - /url: /
+    - listitem:
+      - link "Privacy Policy":
+        - /url: https://www.disabilityrightsuk.org/disability-rights-uk-privacy-policy-disclaimer-and-copyright-information
+    - listitem:
+      - link "Sitemap":
+        - /url: https://www.disabilityrightsuk.org/sitemap
+    - listitem:
+      - link "Terms of Use":
+        - /url: /
+  - separator
+  - text: Copyright © 2025 Website and
+  - link "CiviPlus":
+    - /url: https://civi.plus/
+  - text: by
+  - link "Compuco":
+    - /url: https://compuco.io/
+- status
+- heading "We use cookies on this site to enhance your user experience. Accessibility preferences are retained when navigating to other pages within the site when cookies are accepted." [level=5]
+- paragraph: By clicking the Accept button, you agree to us doing so.
+- button "No, give me more info"
+- button "OK, I agree"
+- button "No, thanks"
+```

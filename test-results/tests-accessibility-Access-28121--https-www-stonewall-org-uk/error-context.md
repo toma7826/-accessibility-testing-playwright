@@ -1,0 +1,161 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "Homepage":
+    - /url: https://www.stonewall.org.uk/
+  - navigation "Main menu":
+    - list:
+      - listitem:
+        - link "About us":
+          - /url: https://www.stonewall.org.uk/about-us
+      - listitem:
+        - link "Inclusive workplaces":
+          - /url: https://www.stonewall.org.uk/inclusive-workplaces
+      - listitem:
+        - link "Get involved":
+          - /url: https://www.stonewall.org.uk/get-involved
+      - listitem:
+        - link "Global":
+          - /url: https://www.stonewall.org.uk/global
+      - listitem:
+        - link "Resources":
+          - /url: https://www.stonewall.org.uk/resources
+  - img
+  - link:
+    - /url: https://www.stonewall.org.uk/login
+    - img
+  - link "Donate":
+    - /url: https://stonewall.donorsupport.co/-/XMYCJCQM
+  - text: What you can do
+- main:
+  - link "Pride Month Help support change":
+    - /url: https://www.stonewall.org.uk/?form=FUNBAPVJBZG
+  - text: Latest news The latest news from Stonewall
+  - link "Pride flag 2 Government commitment is one step closer to giving LGBTQ+ people equal protections they deserve":
+    - /url: https://www.stonewall.org.uk/news/government-commitment-is-one-step-closer-to-giving-lgbtq-people-equal-protections-they-deserve-says-stonewall
+    - img "Pride flag 2"
+    - text: Government commitment is one step closer to giving LGBTQ+ people equal protections they deserve
+  - link "Trans flag and pride flag How to respond effectively to the Equality and Human Rights Commission’s public consultation":
+    - /url: https://www.stonewall.org.uk/news/how-to-respond-effectively-to-the-equality-and-human-rights-commissions-public-consultation
+    - img "Trans flag and pride flag"
+    - text: How to respond effectively to the Equality and Human Rights Commission’s public consultation
+  - link "Simon blog image 01 The roll back of LGBTQ+ rights means Pride is more important than ever":
+    - /url: https://www.stonewall.org.uk/news/the-roll-back-of-lgbtq-rights-means-pride-is-more-important-than-ever
+    - img "Simon blog image 01"
+    - text: The roll back of LGBTQ+ rights means Pride is more important than ever
+  - link "More news »":
+    - /url: /news
+  - text: Take action Take action now to support LGBTQ+ equality
+  - link "HMH new logo Hold my Hand":
+    - /url: https://www.stonewall.org.uk/get-involved/campaign-with-us/hold-my-hand
+    - img "HMH new logo"
+    - text: Hold my Hand
+  - link "Untitled design 2021 09 29t154906 728 1 Ban Conversion Practices":
+    - /url: https://www.stonewall.org.uk/get-involved/campaign-with-us/ban-conversion-practices
+    - img "Untitled design 2021 09 29t154906 728 1"
+    - text: Ban Conversion Practices
+  - link "Ivf action block IVF For All":
+    - /url: https://www.stonewall.org.uk/get-involved/campaign-with-us/ivf-for-all
+    - img "Ivf action block"
+    - text: IVF For All
+  - link "More campaigns »":
+    - /url: /get-involved/campaign-with-us
+  - heading "Support Stonewall" [level=3]
+  - paragraph: We won’t stop working until all LGBTQ+ people everywhere are free to be themselves and love who they love.
+  - iframe
+  - text: Get involved Find out how to get involved in our work
+  - link "Workplace 2017 17 1 Become a Diversity Champion":
+    - /url: https://www.stonewall.org.uk/inclusive-workplaces/diversity-champions
+    - img "Workplace 2017 17 1"
+    - text: Become a Diversity Champion
+  - link "Untitled design 2024 10 04 T132619 683 1 Fundraise with us":
+    - /url: https://www.stonewall.org.uk/get-involved/support-us/fundraise-for-stonewall
+    - img "Untitled design 2024 10 04 T132619 683 1"
+    - text: Fundraise with us
+  - link "Untitled design 2024 04 04 T135221 495 Corporate Partnerships":
+    - /url: https://www.stonewall.org.uk/get-involved/corporate-partnerships
+    - img "Untitled design 2024 04 04 T135221 495"
+    - text: Corporate Partnerships
+  - link "More ways to get involved »":
+    - /url: /get-involved
+  - text: What we do Find out more about Stonewall
+  - link "Untitled design 2024 08 25 T141826 757 1 What we stand for":
+    - /url: https://www.stonewall.org.uk/about-us/what-we-stand-for
+    - img "Untitled design 2024 08 25 T141826 757 1"
+    - text: What we stand for
+  - link "Untitled design 2024 10 07 T153213 613 1 Our strategy":
+    - /url: https://www.stonewall.org.uk/about-us/stonewall-strategy-free-to-be
+    - img "Untitled design 2024 10 07 T153213 613 1"
+    - text: Our strategy
+  - link "Untitled design 2024 08 25 T141902 330 1 Our impact":
+    - /url: https://www.stonewall.org.uk/about-us/our-impact
+    - img "Untitled design 2024 08 25 T141902 330 1"
+    - text: Our impact
+  - link "About us »":
+    - /url: /about-us
+- contentinfo:
+  - text: About us
+  - list:
+    - listitem:
+      - link "Contact us":
+        - /url: https://www.stonewall.org.uk/contact-us
+    - listitem:
+      - link "News":
+        - /url: https://www.stonewall.org.uk/news
+    - listitem:
+      - link "Join our team":
+        - /url: https://stonewall.earcu.com/jobs/
+    - listitem:
+      - link "Press office":
+        - /url: https://www.stonewall.org.uk/about-us/press-office
+    - listitem:
+      - link "Who we are":
+        - /url: https://www.stonewall.org.uk/about-us/who-we-are
+  - text: Want to hear more from Stonewall?
+  - img
+  - text: We'd love to show you how your support is helping LGBTQ+ people everywhere to thrive. We need your consent to share news, campaigns, events and ways in which you can further support this important work.
+  - button "Sign up now"
+  - text: FIND US ON SOCIAL
+  - list:
+    - listitem:
+      - link "Facebook":
+        - /url: https://www.facebook.com/stonewalluk
+    - listitem:
+      - link "Instagram":
+        - /url: https://www.instagram.com/stonewalluk/
+    - listitem:
+      - link "Twitter":
+        - /url: https://twitter.com/stonewalluk
+    - listitem:
+      - link "Youtube":
+        - /url: https://www.youtube.com/user/stonewalluk
+    - listitem:
+      - link "TikTok":
+        - /url: https://www.tiktok.com/@stonewalluk?lang=en
+    - listitem:
+      - link "LinkedIn":
+        - /url: https://www.linkedin.com/company/stonewall_2/
+  - text: Stonewall is proud to provide information, support and guidance on LGBTQ+ inclusion, working towards a world where we're all free to be. This does not constitute legal advice, and is not intended to be a substitute for legal counsel on any subject matter.
+  - list:
+    - listitem: Cookie Law
+    - listitem:
+      - link "Accessibility statement":
+        - /url: https://www.stonewall.org.uk/about-us/accessibility-statement
+    - listitem: REGISTERED COMPANY NO. 02412299
+    - listitem: CHARITY NUMBER 1101255
+    - listitem: VAT REG NO. 862906405
+    - listitem:
+      - link "Registered with the Fundraising Regulator":
+        - /url: https://www.fundraisingregulator.org.uk/
+    - listitem:
+      - link "Site by LuckyTurn":
+        - /url: https://www.luckyturnmedia.co.uk
+    - listitem: © COPYRIGHT 2024 STONEWALL
+  - link "Fundraising Regulator badge with validation link":
+    - /url: https://www.fundraisingregulator.org.uk/validate?registrant=STONEWALL+EQUALITY+LIMITED
+    - img "Fundraising Regulator badge with validation link"
+  - link "PLEASE THINK ABOUT YOUR PRIVACY - CLEAR BROWSING HISTORY IF NECESSARY. CLICK FOR QUICK EXIT.":
+    - /url: https://www.google.co.uk/
+- iframe
+```
