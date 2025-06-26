@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-06-21T22:54:03.788Z",
+  "timestamp": "2025-06-26T21:07:09.202Z",
   "url": "https://www.coursera.org/",
   "toolOptions": {
     "runOnly": {
@@ -862,6 +862,32 @@
             }
           ],
           "impact": null,
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "target": [
+            ".cds-iconButton-small"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-allowed-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attributes are used correctly for the defined role"
+            }
+          ],
+          "none": [
+            {
+              "id": "aria-unsupported-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute is supported"
+            }
+          ],
+          "impact": null,
           "html": "<div class=\"cds-182 cds-183 cds-select-select cds-186 cds-219 cds-203 cds-input-input\" tabindex=\"0\" role=\"button\" aria-expanded=\"false\" aria-haspopup=\"listbox\" aria-label=\"Filter by, Required\" id=\"cds-react-aria-:Rkmdalalaila:-value\">Beginner</div>",
           "target": [
             "#cds-react-aria-\\:Rkmdalalaila\\:-value"
@@ -1432,6 +1458,24 @@
           ],
           "none": [],
           "impact": null,
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "target": [
+            ".cds-iconButton-small"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-conditional-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "ARIA attribute is allowed"
+            }
+          ],
+          "none": [],
+          "impact": null,
           "html": "<div class=\"cds-182 cds-183 cds-select-select cds-186 cds-219 cds-203 cds-input-input\" tabindex=\"0\" role=\"button\" aria-expanded=\"false\" aria-haspopup=\"listbox\" aria-label=\"Filter by, Required\" id=\"cds-react-aria-:Rkmdalalaila:-value\">Beginner</div>",
           "target": [
             "#cds-react-aria-\\:Rkmdalalaila\\:-value"
@@ -1775,6 +1819,42 @@
           "html": "<a data-click-key=\"front_page.front_page_story.click.header_right_nav_button\" data-click-value=\"{&quot;href&quot;:&quot;/?authMode=signup&quot;,&quot;namespace&quot;:{&quot;action&quot;:&quot;click&quot;,&quot;app&quot;:&quot;front_page&quot;,&quot;component&quot;:&quot;header_right_nav_button&quot;,&quot;page&quot;:&quot;front_page_story&quot;},&quot;schema_type&quot;:&quot;FRONTEND&quot;}\" data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"header_right_nav_button\" data-track-href=\"/?authMode=signup\" href=\"/?authMode=signup\" to=\"/?authMode=signup\" class=\"cds-149 cds-button-disableElevation cds-button-secondary css-jmnroe\" tabindex=\"0\" data-e2e=\"header-signup-button\" role=\"button\">",
           "target": [
             ".css-jmnroe"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "deprecatedrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "ARIA role is not deprecated"
+            }
+          ],
+          "impact": null,
+          "html": "<div data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator\" role=\"presentation\">",
+          "target": [
+            "div[data-track-component=\"lohp_contentcreator\"]"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "deprecatedrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "ARIA role is not deprecated"
+            }
+          ],
+          "impact": null,
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "target": [
+            ".cds-iconButton-small"
           ]
         },
         {
@@ -3718,6 +3798,38 @@
           ],
           "none": [],
           "impact": null,
+          "html": "<svg aria-hidden=\"true\" fill=\"none\" focusable=\"false\" height=\"20\" viewBox=\"0 0 20 20\" width=\"20\" id=\"cds-react-aria-:R1kqtagla:\" class=\"css-1u8qly9\">",
+          "target": [
+            "#cds-react-aria-\\:R1kqtagla\\:"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "focusable-modal-open",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements while a modal is open"
+            },
+            {
+              "id": "focusable-disabled",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            },
+            {
+              "id": "focusable-not-tabbable",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            }
+          ],
+          "none": [],
+          "impact": null,
           "html": "<input aria-hidden=\"true\" tabindex=\"-1\" class=\"cds-192\" id=\"cds-react-aria-:Rkmdalalaila:\" required=\"\" value=\"BEGINNER\">",
           "target": [
             "#cds-react-aria-\\:Rkmdalalaila\\:"
@@ -3750,9 +3862,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<svg aria-hidden=\"true\" fill=\"none\" focusable=\"false\" height=\"24\" viewBox=\"0 0 20 20\" width=\"24\" class=\"cds-188 cds-select-icon css-1u8qly9\" data-testid=\"chevron-down-icon\" id=\"cds-react-aria883840374-:r0:\">",
+          "html": "<svg aria-hidden=\"true\" fill=\"none\" focusable=\"false\" height=\"24\" viewBox=\"0 0 20 20\" width=\"24\" class=\"cds-188 cds-select-icon css-1u8qly9\" data-testid=\"chevron-down-icon\" id=\"cds-react-aria3007319246-:r0:\">",
           "target": [
-            "#cds-react-aria883840374-\\:r0\\:"
+            "#cds-react-aria3007319246-\\:r0\\:"
           ]
         },
         {
@@ -3816,7 +3928,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-listSkeletonPreview cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonPreviewContainer > .cds-ProductCard-listSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
+            ".cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonPreviewContainer > .cds-ProductCard-listSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
           ]
         },
         {
@@ -3848,7 +3960,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-listSkeletonSection cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:50%;height:14px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(1)"
+            ".cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(1)"
           ]
         },
         {
@@ -3880,7 +3992,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-listSkeletonSection cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:100%;height:14px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(2)"
+            ".cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(2)"
           ]
         },
         {
@@ -3912,7 +4024,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-listSkeletonSection cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:100%;height:14px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(3)"
+            ".cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(3)"
           ]
         },
         {
@@ -3944,7 +4056,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:20px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            ".cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -3976,7 +4088,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:20px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            ".cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -4008,7 +4120,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:20px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
+            ".cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
           ]
         },
         {
@@ -4040,7 +4152,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-listSkeletonPreview cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonPreviewContainer > .cds-ProductCard-listSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
+            ".cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonPreviewContainer > .cds-ProductCard-listSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
           ]
         },
         {
@@ -4072,7 +4184,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-listSkeletonSection cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:50%;height:14px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(1)"
+            ".cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(1)"
           ]
         },
         {
@@ -4104,7 +4216,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-listSkeletonSection cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:100%;height:14px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(2)"
+            ".cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(2)"
           ]
         },
         {
@@ -4136,7 +4248,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-listSkeletonSection cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:100%;height:14px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(3)"
+            ".cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(3)"
           ]
         },
         {
@@ -4168,7 +4280,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:20px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            ".cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -4200,7 +4312,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:20px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            ".cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -4232,7 +4344,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:20px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
+            ".cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
           ]
         },
         {
@@ -4264,7 +4376,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-listSkeletonPreview cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonPreviewContainer > .cds-ProductCard-listSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
+            ".cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonPreviewContainer > .cds-ProductCard-listSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
           ]
         },
         {
@@ -4296,7 +4408,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-listSkeletonSection cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:50%;height:14px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(1)"
+            ".cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(1)"
           ]
         },
         {
@@ -4328,7 +4440,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-listSkeletonSection cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:100%;height:14px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(2)"
+            ".cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(2)"
           ]
         },
         {
@@ -4360,7 +4472,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-listSkeletonSection cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:100%;height:14px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(3)"
+            ".cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonSection.cds-Skeleton-rect.cds-Skeleton-root:nth-child(3)"
           ]
         },
         {
@@ -4392,7 +4504,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:20px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            ".cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -4424,7 +4536,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:20px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            ".cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -4456,7 +4568,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:20px\"></span>",
           "target": [
-            ".cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-2kdvnl > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
+            ".cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-list.cds-ProductCard-base.css-144zsgh > .cds-ProductCard-listSkeleton > .cds-ProductCard-listSkeletonContent > .cds-ProductCard-listSkeletonFooter.css-0.cds-9 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
           ]
         },
         {
@@ -4488,7 +4600,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-gridSkeletonPreview cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > div:nth-child(1) > .cds-ProductCard-gridSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > div:nth-child(1) > .cds-ProductCard-gridSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
           ]
         },
         {
@@ -4520,7 +4632,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:50%;height:16px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -4552,7 +4664,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:90%;height:16px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -4584,7 +4696,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:90%;height:16px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -4616,7 +4728,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:70%;height:16px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -4648,7 +4760,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -4680,7 +4792,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -4712,7 +4824,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
           ]
         },
         {
@@ -4744,7 +4856,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-gridSkeletonPreview cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > div:nth-child(1) > .cds-ProductCard-gridSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > div:nth-child(1) > .cds-ProductCard-gridSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
           ]
         },
         {
@@ -4776,7 +4888,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:50%;height:16px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -4808,7 +4920,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:90%;height:16px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -4840,7 +4952,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:90%;height:16px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -4872,7 +4984,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:70%;height:16px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -4904,7 +5016,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -4936,7 +5048,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -4968,7 +5080,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
           ]
         },
         {
@@ -5000,7 +5112,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-gridSkeletonPreview cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > div:nth-child(1) > .cds-ProductCard-gridSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > div:nth-child(1) > .cds-ProductCard-gridSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
           ]
         },
         {
@@ -5032,7 +5144,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:50%;height:16px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -5064,7 +5176,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:90%;height:16px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -5096,7 +5208,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:90%;height:16px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -5128,7 +5240,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:70%;height:16px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -5160,7 +5272,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -5192,7 +5304,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -5224,7 +5336,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
+            "section[data-testid=\"placeholder\"] > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
           ]
         },
         {
@@ -5288,7 +5400,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-gridSkeletonPreview cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > div:nth-child(1) > .cds-ProductCard-gridSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > div:nth-child(1) > .cds-ProductCard-gridSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
           ]
         },
         {
@@ -5320,7 +5432,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:50%;height:16px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -5352,7 +5464,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:90%;height:16px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -5384,7 +5496,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:90%;height:16px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -5416,7 +5528,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:70%;height:16px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -5448,7 +5560,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -5480,7 +5592,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -5512,7 +5624,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(1) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
           ]
         },
         {
@@ -5544,7 +5656,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-gridSkeletonPreview cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > div:nth-child(1) > .cds-ProductCard-gridSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > div:nth-child(1) > .cds-ProductCard-gridSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
           ]
         },
         {
@@ -5576,7 +5688,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:50%;height:16px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -5608,7 +5720,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:90%;height:16px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -5640,7 +5752,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:90%;height:16px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -5672,7 +5784,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:70%;height:16px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -5704,7 +5816,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -5736,7 +5848,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -5768,7 +5880,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(2) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
           ]
         },
         {
@@ -5800,7 +5912,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-ProductCard-gridSkeletonPreview cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > div:nth-child(1) > .cds-ProductCard-gridSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > div:nth-child(1) > .cds-ProductCard-gridSkeletonPreview.cds-Skeleton-rect.cds-Skeleton-root"
           ]
         },
         {
@@ -5832,7 +5944,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:50%;height:16px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -5864,7 +5976,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:90%;height:16px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonHeader > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -5896,7 +6008,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:90%;height:16px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -5928,7 +6040,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-rect css-k5mpyx\" aria-hidden=\"true\" style=\"width:70%;height:16px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonBody > .cds-Skeleton-rect.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -5960,7 +6072,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(1)"
           ]
         },
         {
@@ -5992,7 +6104,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(2)"
           ]
         },
         {
@@ -6024,7 +6136,7 @@
           "impact": null,
           "html": "<span class=\"cds-Skeleton-root cds-Skeleton-text css-k5mpyx\" aria-hidden=\"true\" style=\"width:25%;height:24px\"></span>",
           "target": [
-            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-10mmrr8[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-2kdvnl.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
+            ".rc-CollectionsContainer > .rc-ProductCardCollectionPlaceholder.css-1ag1mf5 > .css-8ip8vz > .css-lrkx8e > .cds-90.cds-76.cds-64:nth-child(3) > .css-18wfq27[data-testid=\"card-wrapper\"] > .cds-ProductCard-base.css-144zsgh.cds-ProductCard-grid > .cds-ProductCard-gridSkeleton.cds-ProductCard-grid > .cds-ProductCard-gridSkeletonFooter.cds-18.cds-10 > .cds-Skeleton-text.cds-Skeleton-root.css-k5mpyx:nth-child(3)"
           ]
         },
         {
@@ -6363,6 +6475,24 @@
           "html": "<div data-testid=\"visually-hidden\" aria-live=\"assertive\" class=\"css-1whdyhf\"></div>",
           "target": [
             "div[aria-live=\"assertive\"]"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "aria-prohibited-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "ARIA attribute is allowed"
+            }
+          ],
+          "impact": null,
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "target": [
+            ".cds-iconButton-small"
           ]
         },
         {
@@ -6721,6 +6851,42 @@
           "html": "<a data-click-key=\"front_page.front_page_story.click.header_right_nav_button\" data-click-value=\"{&quot;href&quot;:&quot;/?authMode=signup&quot;,&quot;namespace&quot;:{&quot;action&quot;:&quot;click&quot;,&quot;app&quot;:&quot;front_page&quot;,&quot;component&quot;:&quot;header_right_nav_button&quot;,&quot;page&quot;:&quot;front_page_story&quot;},&quot;schema_type&quot;:&quot;FRONTEND&quot;}\" data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"header_right_nav_button\" data-track-href=\"/?authMode=signup\" href=\"/?authMode=signup\" to=\"/?authMode=signup\" class=\"cds-149 cds-button-disableElevation cds-button-secondary css-jmnroe\" tabindex=\"0\" data-e2e=\"header-signup-button\" role=\"button\">",
           "target": [
             ".css-jmnroe"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-required-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "All required ARIA attributes are present"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator\" role=\"presentation\">",
+          "target": [
+            "div[data-track-component=\"lohp_contentcreator\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-required-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "All required ARIA attributes are present"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "target": [
+            ".cds-iconButton-small"
           ]
         },
         {
@@ -10302,6 +10468,70 @@
             }
           ],
           "impact": null,
+          "html": "<div data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator\" role=\"presentation\">",
+          "target": [
+            "div[data-track-component=\"lohp_contentcreator\"]"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "invalidrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA role is valid"
+            },
+            {
+              "id": "abstractrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Abstract roles are not used"
+            },
+            {
+              "id": "unsupportedrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA role is supported"
+            }
+          ],
+          "impact": null,
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "target": [
+            ".cds-iconButton-small"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "invalidrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA role is valid"
+            },
+            {
+              "id": "abstractrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Abstract roles are not used"
+            },
+            {
+              "id": "unsupportedrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA role is supported"
+            }
+          ],
+          "impact": null,
           "html": "<div class=\"cds-182 cds-183 cds-select-select cds-186 cds-219 cds-203 cds-input-input\" tabindex=\"0\" role=\"button\" aria-expanded=\"false\" aria-haspopup=\"listbox\" aria-label=\"Filter by, Required\" id=\"cds-react-aria-:Rkmdalalaila:-value\">Beginner</div>",
           "target": [
             "#cds-react-aria-\\:Rkmdalalaila\\:-value"
@@ -13774,6 +14004,38 @@
           ],
           "none": [],
           "impact": null,
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "target": [
+            ".cds-iconButton-small"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-valid-attr-value",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute values are valid"
+            },
+            {
+              "id": "aria-errormessage",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
+            },
+            {
+              "id": "aria-level",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-level values are valid"
+            }
+          ],
+          "none": [],
+          "impact": null,
           "html": "<div class=\"cds-182 cds-183 cds-select-select cds-186 cds-219 cds-203 cds-input-input\" tabindex=\"0\" role=\"button\" aria-expanded=\"false\" aria-haspopup=\"listbox\" aria-label=\"Filter by, Required\" id=\"cds-react-aria-:Rkmdalalaila:-value\">Beginner</div>",
           "target": [
             "#cds-react-aria-\\:Rkmdalalaila\\:-value"
@@ -14372,6 +14634,24 @@
           "all": [],
           "none": [],
           "impact": null,
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "target": [
+            ".cds-iconButton-small"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-valid-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute name is valid"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
           "html": "<div class=\"cds-182 cds-183 cds-select-select cds-186 cds-219 cds-203 cds-input-input\" tabindex=\"0\" role=\"button\" aria-expanded=\"false\" aria-haspopup=\"listbox\" aria-label=\"Filter by, Required\" id=\"cds-react-aria-:Rkmdalalaila:-value\">Beginner</div>",
           "target": [
             "#cds-react-aria-\\:Rkmdalalaila\\:-value"
@@ -14660,6 +14940,24 @@
         {
           "any": [
             {
+              "id": "aria-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-label attribute exists and is not empty"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "target": [
+            ".cds-iconButton-small"
+          ]
+        },
+        {
+          "any": [
+            {
               "id": "button-has-visible-text",
               "data": null,
               "relatedNodes": [],
@@ -14928,7 +15226,7 @@
               "data": null,
               "relatedNodes": [
                 {
-                  "html": "<h1 class=\"css-49rqfd\"><div class=\"css-1mjwd27\">Heat up your career this summer</div></h1>",
+                  "html": "<h1 class=\"css-49rqfd\"><div class=\"css-1mjwd27\">Ends soon! Save £150</div></h1>",
                   "target": [
                     ".cds-168 > .css-1ucfkdb > .css-1pntud3.cds-1[data-testid=\"block_layout\"] > .cds-19.cds-27.css-1kspkkz > .css-pnx9l.cds-64.cds-56 > .css-l03onm > h1"
                   ]
@@ -15400,6 +15698,56 @@
             {
               "id": "color-contrast",
               "data": {
+                "fgColor": "#0f1114",
+                "bgColor": "#e3eeff",
+                "contrastRatio": 16.15,
+                "fontSize": "13.2pt (17.6px)",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 16.15"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div class=\"rc-Markdown styled\">",
+          "target": [
+            ".css-1bzrowv > .rc-Markdown.styled"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#0062e4",
+                "bgColor": "#e3eeff",
+                "contrastRatio": 4.63,
+                "fontSize": "13.2pt (17.6px)",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 4.63"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<a data-click-key=\"front_page.front_page_story.click.lohp_contentcreator_50%_off_with_coursera_plus_link\" data-click-value=\"{&quot;href&quot;:&quot;https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator&quot;,&quot;namespace&quot;:{&quot;action&quot;:&quot;click&quot;,&quot;app&quot;:&quot;front_page&quot;,&quot;component&quot;:&quot;lohp_contentcreator_50%_off_with_coursera_plus_link&quot;,&quot;page&quot;:&quot;front_page_story&quot;},&quot;schema_type&quot;:&quot;FRONTEND&quot;}\" data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_50%_off_with_coursera_plus_link\" data-track-href=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" href=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" to=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" class=\"cds-119 cds-113 cds-115 css-vflzcf cds-142\" target=\"_blank\">",
+          "target": [
+            ".css-vflzcf"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
                 "fgColor": "#ffffff",
                 "bgColor": "#0056d2",
                 "contrastRatio": 6.43,
@@ -15415,7 +15763,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div class=\"css-1mjwd27\">Heat up your career this summer</div>",
+          "html": "<div class=\"css-1mjwd27\">Ends soon! Save £150</div>",
           "target": [
             ".cds-168 > .css-1ucfkdb > .css-1pntud3.cds-1[data-testid=\"block_layout\"] > .cds-19.cds-27.css-1kspkkz > .css-pnx9l.cds-64.cds-56 > .css-l03onm > h1 > .css-1mjwd27"
           ]
@@ -15440,7 +15788,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p class=\"css-dxlk5w\">Unlock sizzling savings on top-tier programs from Google, Microsoft, and more—now £160/year. Don’t wait! Price increases to £190 on June 30.</p>",
+          "html": "<p class=\"css-dxlk5w\">Don’t miss the chance to unlock 10,000+ programs from Google, Microsoft, and more for £150 off. Price increases on June 30.</p>",
           "target": [
             ".cds-168 > .css-1ucfkdb > .css-1pntud3.cds-1[data-testid=\"block_layout\"] > .cds-19.cds-27.css-1kspkkz > .css-pnx9l.cds-64.cds-56 > .css-l03onm > .css-tvqrra > .css-dxlk5w"
           ]
@@ -15490,7 +15838,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span class=\"cds-button-label\">Get 50% off Teams</span>",
+          "html": "<span class=\"cds-button-label\">Save on Teams</span>",
           "target": [
             ".cds-168 > .css-1ucfkdb > .css-1pntud3.cds-1[data-testid=\"block_layout\"] > .cds-19.cds-27.css-1kspkkz > .css-pnx9l.cds-64.cds-56 > .css-l03onm > .css-18b0gsb > .css-ibj382.cds-button-primary.cds-button-disableElevation > .cds-button-label"
           ]
@@ -20374,6 +20722,45 @@
               "data": null,
               "relatedNodes": [
                 {
+                  "html": "<div class=\"rc-Markdown styled\">",
+                  "target": [
+                    ".css-1bzrowv > .rc-Markdown.styled"
+                  ]
+                }
+              ],
+              "impact": "serious",
+              "message": "Links can be distinguished from surrounding text in some way other than by color"
+            },
+            {
+              "id": "link-in-text-block-style",
+              "data": null,
+              "relatedNodes": [
+                {
+                  "html": "<div class=\"rc-Markdown styled\">",
+                  "target": [
+                    ".css-1bzrowv > .rc-Markdown.styled"
+                  ]
+                }
+              ],
+              "impact": "serious",
+              "message": "Links can be distinguished from surrounding text by visual styling"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<a data-click-key=\"front_page.front_page_story.click.lohp_contentcreator_50%_off_with_coursera_plus_link\" data-click-value=\"{&quot;href&quot;:&quot;https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator&quot;,&quot;namespace&quot;:{&quot;action&quot;:&quot;click&quot;,&quot;app&quot;:&quot;front_page&quot;,&quot;component&quot;:&quot;lohp_contentcreator_50%_off_with_coursera_plus_link&quot;,&quot;page&quot;:&quot;front_page_story&quot;},&quot;schema_type&quot;:&quot;FRONTEND&quot;}\" data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_50%_off_with_coursera_plus_link\" data-track-href=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" href=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" to=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" class=\"cds-119 cds-113 cds-115 css-vflzcf cds-142\" target=\"_blank\">",
+          "target": [
+            ".css-vflzcf"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "link-in-text-block",
+              "data": null,
+              "relatedNodes": [
+                {
                   "html": "<div class=\"rc-Markdown styled css-1n8yyey\">",
                   "target": [
                     ".css-1n8yyey"
@@ -20668,6 +21055,32 @@
           "html": "<a data-click-key=\"front_page.front_page_story.click.header_right_nav_button\" data-click-value=\"{&quot;href&quot;:&quot;/?authMode=signup&quot;,&quot;namespace&quot;:{&quot;action&quot;:&quot;click&quot;,&quot;app&quot;:&quot;front_page&quot;,&quot;component&quot;:&quot;header_right_nav_button&quot;,&quot;page&quot;:&quot;front_page_story&quot;},&quot;schema_type&quot;:&quot;FRONTEND&quot;}\" data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"header_right_nav_button\" data-track-href=\"/?authMode=signup\" href=\"/?authMode=signup\" to=\"/?authMode=signup\" class=\"cds-149 cds-button-disableElevation cds-button-secondary css-jmnroe\" tabindex=\"0\" data-e2e=\"header-signup-button\" role=\"button\">",
           "target": [
             ".css-jmnroe"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "has-visible-text",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has text that is visible to screen readers"
+            }
+          ],
+          "all": [],
+          "none": [
+            {
+              "id": "focusable-no-name",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element is not in tab order or has accessible text"
+            }
+          ],
+          "impact": null,
+          "html": "<a data-click-key=\"front_page.front_page_story.click.lohp_contentcreator_50%_off_with_coursera_plus_link\" data-click-value=\"{&quot;href&quot;:&quot;https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator&quot;,&quot;namespace&quot;:{&quot;action&quot;:&quot;click&quot;,&quot;app&quot;:&quot;front_page&quot;,&quot;component&quot;:&quot;lohp_contentcreator_50%_off_with_coursera_plus_link&quot;,&quot;page&quot;:&quot;front_page_story&quot;},&quot;schema_type&quot;:&quot;FRONTEND&quot;}\" data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_50%_off_with_coursera_plus_link\" data-track-href=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" href=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" to=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" class=\"cds-119 cds-113 cds-115 css-vflzcf cds-142\" target=\"_blank\">",
+          "target": [
+            ".css-vflzcf"
           ]
         },
         {
@@ -24037,6 +24450,24 @@
           "html": "<a data-click-key=\"front_page.front_page_story.click.header_right_nav_button\" data-click-value=\"{&quot;href&quot;:&quot;/?authMode=signup&quot;,&quot;namespace&quot;:{&quot;action&quot;:&quot;click&quot;,&quot;app&quot;:&quot;front_page&quot;,&quot;component&quot;:&quot;header_right_nav_button&quot;,&quot;page&quot;:&quot;front_page_story&quot;},&quot;schema_type&quot;:&quot;FRONTEND&quot;}\" data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"header_right_nav_button\" data-track-href=\"/?authMode=signup\" href=\"/?authMode=signup\" to=\"/?authMode=signup\" class=\"cds-149 cds-button-disableElevation cds-button-secondary css-jmnroe\" tabindex=\"0\" data-e2e=\"header-signup-button\" role=\"button\">",
           "target": [
             ".css-jmnroe"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "no-focusable-content",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element does not have focusable descendants"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "target": [
+            ".cds-iconButton-small"
           ]
         },
         {

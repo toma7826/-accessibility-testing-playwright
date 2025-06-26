@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-06-21T22:53:09.958Z",
+  "timestamp": "2025-06-26T21:06:32.043Z",
   "url": "https://www.scope.org.uk/",
   "toolOptions": {
     "runOnly": {
@@ -808,7 +808,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"634\" data-gtm-vis-first-on-screen166076_508=\"634\" data-gtm-vis-total-visible-time166076_508=\"1400\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"826\" data-gtm-vis-first-on-screen166076_508=\"826\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
             "a[aria-label=\"Learn more about our campaign\"]"
           ]
@@ -1042,7 +1042,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/what-you-need-to-know-about-the-new-bill-to-change-disability-benefits\" aria-label=\"What you need to know about the new bill to change disability benefits. Read about the Universal Credit and Personal Independence Payment Bill. And what it means for disability benefits.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1)"
           ]
@@ -1068,7 +1068,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2)"
           ]
@@ -1094,7 +1094,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/radio-teleswitch-service-rts-meters-are-being-switched-off-on-30-june-what-it-means-for-disabled-people\" aria-label=\"Radio Teleswitch Service (RTS) meters are being switched off on 30 June: what it means for disabled people If you have a Radio Teleswitch Service (RTS) meter, they are being switched off on 30 June. Find out what this means for disabled people.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
           "target": [
             ".PageItem__item:nth-child(3)"
           ]
@@ -1262,7 +1262,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"634\" data-gtm-vis-first-on-screen166076_508=\"634\" data-gtm-vis-total-visible-time166076_508=\"1400\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"826\" data-gtm-vis-first-on-screen166076_508=\"826\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
             "a[aria-label=\"Learn more about our campaign\"]"
           ]
@@ -1424,7 +1424,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/what-you-need-to-know-about-the-new-bill-to-change-disability-benefits\" aria-label=\"What you need to know about the new bill to change disability benefits. Read about the Universal Credit and Personal Independence Payment Bill. And what it means for disability benefits.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1)"
           ]
@@ -1442,7 +1442,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2)"
           ]
@@ -1460,7 +1460,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/radio-teleswitch-service-rts-meters-are-being-switched-off-on-30-june-what-it-means-for-disabled-people\" aria-label=\"Radio Teleswitch Service (RTS) meters are being switched off on 30 June: what it means for disabled people If you have a Radio Teleswitch Service (RTS) meter, they are being switched off on 30 June. Find out what this means for disabled people.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
           "target": [
             ".PageItem__item:nth-child(3)"
           ]
@@ -1936,7 +1936,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<img class=\"PageItem__img h-center\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/8ae79ddb-ace0-4053-a79d-5a94e9991643/SPN_128-Beneifits-Handraiser_Open-letter-webiste-hero_1400x600px_V1.jpg\" data-imgs=\"\" alt=\"\" aria-hidden=\"true\">",
+          "html": "<img class=\"PageItem__img h-center\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/734e5678-a154-4159-9819-ba6aaa9e3085/Untitled%20design%20%2814%29.png\" data-imgs=\"\" alt=\"\" aria-hidden=\"true\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1) > .PageItem__visual > .PageItem__img.h-center[data-imgs=\"\"]"
           ]
@@ -1968,7 +1968,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<img class=\"PageItem__img h-center\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/f01e94fe-a720-4208-8dac-4ad726212989/Cost%20of%20cuts%20petition%20hand%20in.png\" data-imgs=\"\" alt=\"\" aria-hidden=\"true\">",
+          "html": "<img class=\"PageItem__img h-center\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/8ae79ddb-ace0-4053-a79d-5a94e9991643/SPN_128-Beneifits-Handraiser_Open-letter-webiste-hero_1400x600px_V1.jpg\" data-imgs=\"\" alt=\"\" aria-hidden=\"true\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2) > .PageItem__visual > .PageItem__img.h-center[data-imgs=\"\"]"
           ]
@@ -2000,7 +2000,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<img class=\"PageItem__img h-center\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/8eb8f10e-2dc5-4280-8271-f56f3ffb61df/rts-meter.jpg\" data-imgs=\"\" alt=\"\" aria-hidden=\"true\">",
+          "html": "<img class=\"PageItem__img h-center\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/f01e94fe-a720-4208-8dac-4ad726212989/Cost%20of%20cuts%20petition%20hand%20in.png\" data-imgs=\"\" alt=\"\" aria-hidden=\"true\">",
           "target": [
             ".PageItem__item:nth-child(3) > .PageItem__visual > .PageItem__img.h-center[data-imgs=\"\"]"
           ]
@@ -2238,7 +2238,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"634\" data-gtm-vis-first-on-screen166076_508=\"634\" data-gtm-vis-total-visible-time166076_508=\"1400\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"826\" data-gtm-vis-first-on-screen166076_508=\"826\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
             "a[aria-label=\"Learn more about our campaign\"]"
           ]
@@ -2400,7 +2400,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/what-you-need-to-know-about-the-new-bill-to-change-disability-benefits\" aria-label=\"What you need to know about the new bill to change disability benefits. Read about the Universal Credit and Personal Independence Payment Bill. And what it means for disability benefits.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1)"
           ]
@@ -2418,7 +2418,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2)"
           ]
@@ -2436,7 +2436,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/radio-teleswitch-service-rts-meters-are-being-switched-off-on-30-june-what-it-means-for-disabled-people\" aria-label=\"Radio Teleswitch Service (RTS) meters are being switched off on 30 June: what it means for disabled people If you have a Radio Teleswitch Service (RTS) meter, they are being switched off on 30 June. Find out what this means for disabled people.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
           "target": [
             ".PageItem__item:nth-child(3)"
           ]
@@ -2764,7 +2764,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"634\" data-gtm-vis-first-on-screen166076_508=\"634\" data-gtm-vis-total-visible-time166076_508=\"1400\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"826\" data-gtm-vis-first-on-screen166076_508=\"826\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
             "a[aria-label=\"Learn more about our campaign\"]"
           ]
@@ -3052,7 +3052,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/what-you-need-to-know-about-the-new-bill-to-change-disability-benefits\" aria-label=\"What you need to know about the new bill to change disability benefits. Read about the Universal Credit and Personal Independence Payment Bill. And what it means for disability benefits.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1)"
           ]
@@ -3084,7 +3084,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2)"
           ]
@@ -3116,7 +3116,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/radio-teleswitch-service-rts-meters-are-being-switched-off-on-30-june-what-it-means-for-disabled-people\" aria-label=\"Radio Teleswitch Service (RTS) meters are being switched off on 30 June: what it means for disabled people If you have a Radio Teleswitch Service (RTS) meter, they are being switched off on 30 June. Find out what this means for disabled people.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
           "target": [
             ".PageItem__item:nth-child(3)"
           ]
@@ -3290,7 +3290,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"634\" data-gtm-vis-first-on-screen166076_508=\"634\" data-gtm-vis-total-visible-time166076_508=\"1400\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"826\" data-gtm-vis-first-on-screen166076_508=\"826\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
             "a[aria-label=\"Learn more about our campaign\"]"
           ]
@@ -3452,7 +3452,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/what-you-need-to-know-about-the-new-bill-to-change-disability-benefits\" aria-label=\"What you need to know about the new bill to change disability benefits. Read about the Universal Credit and Personal Independence Payment Bill. And what it means for disability benefits.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1)"
           ]
@@ -3470,7 +3470,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2)"
           ]
@@ -3488,7 +3488,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/radio-teleswitch-service-rts-meters-are-being-switched-off-on-30-june-what-it-means-for-disabled-people\" aria-label=\"Radio Teleswitch Service (RTS) meters are being switched off on 30 June: what it means for disabled people If you have a Radio Teleswitch Service (RTS) meter, they are being switched off on 30 June. Find out what this means for disabled people.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
           "target": [
             ".PageItem__item:nth-child(3)"
           ]
@@ -3758,19 +3758,19 @@
                   ]
                 },
                 {
-                  "html": "<h3 class=\"PageItem__title\">Universal Credit and Personal Independence Payment Bill</h3>",
+                  "html": "<h3 class=\"PageItem__title\">What you need to know about the new bill to change disability benefits.</h3>",
                   "target": [
                     ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1) > .PageItem__content.rte > .PageItem__title"
                   ]
                 },
                 {
-                  "html": "<h3 class=\"PageItem__title\">Over 100,000 say no to benefit cuts</h3>",
+                  "html": "<h3 class=\"PageItem__title\">Universal Credit and Personal Independence Payment Bill</h3>",
                   "target": [
                     ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2) > .PageItem__content.rte > .PageItem__title"
                   ]
                 },
                 {
-                  "html": "<h3 class=\"PageItem__title\">Radio Teleswitch Service (RTS) meters are being switched off on 30 June: what it means for disabled people</h3>",
+                  "html": "<h3 class=\"PageItem__title\">Over 100,000 say no to benefit cuts</h3>",
                   "target": [
                     ".PageItem__item:nth-child(3) > .PageItem__content.rte > .PageItem__title"
                   ]
@@ -4765,7 +4765,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<h3 class=\"PageItem__title\">Universal Credit and Personal Independence Payment Bill</h3>",
+          "html": "<h3 class=\"PageItem__title\">What you need to know about the new bill to change disability benefits.</h3>",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1) > .PageItem__content.rte > .PageItem__title"
           ]
@@ -4790,7 +4790,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p class=\"PageItem__text\">The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. </p>",
+          "html": "<p class=\"PageItem__text\">Read about the Universal Credit and Personal Independence Payment Bill. And what it means for disability benefits.</p>",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1) > .PageItem__content.rte > .PageItem__text"
           ]
@@ -4815,7 +4815,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<h3 class=\"PageItem__title\">Over 100,000 say no to benefit cuts</h3>",
+          "html": "<h3 class=\"PageItem__title\">Universal Credit and Personal Independence Payment Bill</h3>",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2) > .PageItem__content.rte > .PageItem__title"
           ]
@@ -4840,7 +4840,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p class=\"PageItem__text\">Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.</p>",
+          "html": "<p class=\"PageItem__text\">The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. </p>",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2) > .PageItem__content.rte > .PageItem__text"
           ]
@@ -4865,7 +4865,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<h3 class=\"PageItem__title\">Radio Teleswitch Service (RTS) meters are being switched off on 30 June: what it means for disabled people</h3>",
+          "html": "<h3 class=\"PageItem__title\">Over 100,000 say no to benefit cuts</h3>",
           "target": [
             ".PageItem__item:nth-child(3) > .PageItem__content.rte > .PageItem__title"
           ]
@@ -4890,7 +4890,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p class=\"PageItem__text\">If you have a Radio Teleswitch Service (RTS) meter, they are being switched off on 30 June. Find out what this means for disabled people.</p>",
+          "html": "<p class=\"PageItem__text\">Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.</p>",
           "target": [
             ".PageItem__item:nth-child(3) > .PageItem__content.rte > .PageItem__text"
           ]
@@ -6609,9 +6609,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"189\" data-gtm-vis-recent-on-screen166076_508=\"634\" data-gtm-vis-first-on-screen166076_508=\"634\" data-gtm-vis-total-visible-time166076_508=\"1400\">",
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"188\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
-            "a[title=\"Get support today\"][data-gtm-vis-recent-on-screen166076_508=\"634\"][data-gtm-vis-first-on-screen166076_508=\"634\"]"
+            "a[data-gtm-vis-polling-id166076_508=\"188\"]"
           ]
         },
         {
@@ -6642,9 +6642,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"190\" data-gtm-vis-recent-on-screen166076_508=\"634\" data-gtm-vis-first-on-screen166076_508=\"634\" data-gtm-vis-total-visible-time166076_508=\"1400\">",
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"189\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
-            "a[title=\"Our shops\"][data-gtm-vis-recent-on-screen166076_508=\"634\"][data-gtm-vis-first-on-screen166076_508=\"634\"]"
+            "a[data-gtm-vis-polling-id166076_508=\"189\"]"
           ]
         },
         {
@@ -6675,9 +6675,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"634\" data-gtm-vis-first-on-screen166076_508=\"634\" data-gtm-vis-total-visible-time166076_508=\"1400\">",
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"190\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
-            "a[title=\"Donate now\"][data-gtm-vis-recent-on-screen166076_508=\"634\"][data-gtm-vis-first-on-screen166076_508=\"634\"]"
+            "a[data-gtm-vis-polling-id166076_508=\"190\"]"
           ]
         },
         {
@@ -6786,7 +6786,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"634\" data-gtm-vis-first-on-screen166076_508=\"634\" data-gtm-vis-total-visible-time166076_508=\"1400\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"826\" data-gtm-vis-first-on-screen166076_508=\"826\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
             "a[aria-label=\"Learn more about our campaign\"]"
           ]
@@ -7076,7 +7076,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/what-you-need-to-know-about-the-new-bill-to-change-disability-benefits\" aria-label=\"What you need to know about the new bill to change disability benefits. Read about the Universal Credit and Personal Independence Payment Bill. And what it means for disability benefits.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1)"
           ]
@@ -7109,7 +7109,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2)"
           ]
@@ -7142,7 +7142,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/radio-teleswitch-service-rts-meters-are-being-switched-off-on-30-june-what-it-means-for-disabled-people\" aria-label=\"Radio Teleswitch Service (RTS) meters are being switched off on 30 June: what it means for disabled people If you have a Radio Teleswitch Service (RTS) meter, they are being switched off on 30 June. Find out what this means for disabled people.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
           "target": [
             ".PageItem__item:nth-child(3)"
           ]
@@ -8837,9 +8837,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"189\" data-gtm-vis-recent-on-screen166076_508=\"634\" data-gtm-vis-first-on-screen166076_508=\"634\" data-gtm-vis-total-visible-time166076_508=\"1400\">",
+                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"188\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
                   "target": [
-                    "a[title=\"Get support today\"][data-gtm-vis-recent-on-screen166076_508=\"634\"][data-gtm-vis-first-on-screen166076_508=\"634\"]"
+                    "a[data-gtm-vis-polling-id166076_508=\"188\"]"
                   ]
                 }
               ],
@@ -8850,9 +8850,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"189\" data-gtm-vis-recent-on-screen166076_508=\"634\" data-gtm-vis-first-on-screen166076_508=\"634\" data-gtm-vis-total-visible-time166076_508=\"1400\">",
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"188\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
-            "a[title=\"Get support today\"][data-gtm-vis-recent-on-screen166076_508=\"634\"][data-gtm-vis-first-on-screen166076_508=\"634\"]"
+            "a[data-gtm-vis-polling-id166076_508=\"188\"]"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
         },
@@ -8869,9 +8869,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"190\" data-gtm-vis-recent-on-screen166076_508=\"634\" data-gtm-vis-first-on-screen166076_508=\"634\" data-gtm-vis-total-visible-time166076_508=\"1400\">",
+                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"189\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
                   "target": [
-                    "a[title=\"Our shops\"][data-gtm-vis-recent-on-screen166076_508=\"634\"][data-gtm-vis-first-on-screen166076_508=\"634\"]"
+                    "a[data-gtm-vis-polling-id166076_508=\"189\"]"
                   ]
                 }
               ],
@@ -8882,9 +8882,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"190\" data-gtm-vis-recent-on-screen166076_508=\"634\" data-gtm-vis-first-on-screen166076_508=\"634\" data-gtm-vis-total-visible-time166076_508=\"1400\">",
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"189\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
-            "a[title=\"Our shops\"][data-gtm-vis-recent-on-screen166076_508=\"634\"][data-gtm-vis-first-on-screen166076_508=\"634\"]"
+            "a[data-gtm-vis-polling-id166076_508=\"189\"]"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
         },
@@ -8901,9 +8901,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"634\" data-gtm-vis-first-on-screen166076_508=\"634\" data-gtm-vis-total-visible-time166076_508=\"1400\">",
+                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"190\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
                   "target": [
-                    "a[title=\"Donate now\"][data-gtm-vis-recent-on-screen166076_508=\"634\"][data-gtm-vis-first-on-screen166076_508=\"634\"]"
+                    "a[data-gtm-vis-polling-id166076_508=\"190\"]"
                   ]
                 }
               ],
@@ -8914,9 +8914,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"634\" data-gtm-vis-first-on-screen166076_508=\"634\" data-gtm-vis-total-visible-time166076_508=\"1400\">",
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"190\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
-            "a[title=\"Donate now\"][data-gtm-vis-recent-on-screen166076_508=\"634\"][data-gtm-vis-first-on-screen166076_508=\"634\"]"
+            "a[data-gtm-vis-polling-id166076_508=\"190\"]"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
         },
@@ -8933,7 +8933,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"634\" data-gtm-vis-first-on-screen166076_508=\"634\" data-gtm-vis-total-visible-time166076_508=\"1400\">",
+                  "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"826\" data-gtm-vis-first-on-screen166076_508=\"826\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
                   "target": [
                     "a[aria-label=\"Learn more about our campaign\"]"
                   ]
@@ -8946,7 +8946,7 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"634\" data-gtm-vis-first-on-screen166076_508=\"634\" data-gtm-vis-total-visible-time166076_508=\"1400\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"826\" data-gtm-vis-first-on-screen166076_508=\"826\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
             "a[aria-label=\"Learn more about our campaign\"]"
           ],
@@ -9158,7 +9158,7 @@
           "impact": "serious",
           "html": "<p class=\"PageItem__type PageItem__type--news\">Scope news</p>",
           "target": [
-            ".PageItem__item:nth-child(3) > .PageItem__visual > .PageItem__type--news.PageItem__type"
+            ".PageItem__item:nth-child(2) > .PageItem__visual > .PageItem__type--news.PageItem__type"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
         },

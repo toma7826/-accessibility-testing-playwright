@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-06-21T22:53:01.375Z",
+  "timestamp": "2025-06-26T21:06:23.574Z",
   "url": "https://www.gov.uk/",
   "toolOptions": {
     "runOnly": {
@@ -482,26 +482,6 @@
       "nodes": []
     },
     {
-      "id": "svg-img-alt",
-      "impact": null,
-      "tags": [
-        "cat.text-alternatives",
-        "wcag2a",
-        "wcag111",
-        "section508",
-        "section508.22.a",
-        "TTv5",
-        "TT7.a",
-        "EN-301-549",
-        "EN-9.1.1.1",
-        "ACT"
-      ],
-      "description": "Ensure <svg> elements with an img, graphics-document or graphics-symbol role have an accessible text",
-      "help": "<svg> elements with an img role must have an alternative text",
-      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/svg-img-alt?application=playwright",
-      "nodes": []
-    },
-    {
       "id": "td-headers-attr",
       "impact": null,
       "tags": [
@@ -639,9 +619,35 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-header__link govuk-header__link--homepage gem-c-header__link--large-navbar\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;external&quot;:&quot;false&quot;,&quot;text&quot;:&quot;GOV.UK&quot;,&quot;section&quot;:&quot;Logo&quot;,&quot;index_link&quot;:1,&quot;index_section&quot;:0,&quot;index_section_count&quot;:2,&quot;index_total&quot;:1}\" id=\"logo\" aria-label=\"Go to the GOV.UK homepage\" href=\"https://www.gov.uk\">",
+          "html": "<a class=\"govuk-header__link govuk-header__link--homepage\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;external&quot;:&quot;false&quot;,&quot;text&quot;:&quot;GOV.UK&quot;,&quot;section&quot;:&quot;Logo&quot;,&quot;index_link&quot;:1,&quot;index_section&quot;:0,&quot;index_section_count&quot;:2,&quot;index_total&quot;:1}\" id=\"logo\" aria-label=\"Go to the GOV.UK homepage\" href=\"https://www.gov.uk\">",
           "target": [
             "#logo"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-allowed-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attributes are used correctly for the defined role"
+            }
+          ],
+          "none": [
+            {
+              "id": "aria-unsupported-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute is supported"
+            }
+          ],
+          "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" role=\"img\" viewBox=\"0 0 324 60\" height=\"30\" width=\"162\" fill=\"currentcolor\" class=\"govuk-header__logotype\" aria-label=\"GOV.UK\">",
+          "target": [
+            ".govuk-header__logotype"
           ]
         },
         {
@@ -691,7 +697,7 @@
             }
           ],
           "impact": null,
-          "html": "<button aria-controls=\"super-navigation-menu\" aria-expanded=\"false\" aria-label=\"Show navigation menu\" class=\"gem-c-layout-super-navigation-header__navigation-top-toggle-button gem-c-layout-super-navigation-header__navigation-top-toggle-button--blue-background gem-c-layout-super-navigation-header__navigation-top-toggle-button--large-navbar\" data-text-for-hide=\"Hide navigation menu\" data-text-for-show=\"Show navigation menu\" data-toggle-desktop-group=\"top\" data-toggle-mobile-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Menu&quot;,&quot;index_section&quot;:1,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Menu&quot;}\" id=\"super-navigation-menu-toggle\" type=\"button\">",
+          "html": "<button aria-controls=\"super-navigation-menu\" aria-expanded=\"false\" aria-label=\"Show navigation menu\" class=\"gem-c-layout-super-navigation-header__navigation-top-toggle-button\" data-text-for-hide=\"Hide navigation menu\" data-text-for-show=\"Show navigation menu\" data-toggle-desktop-group=\"top\" data-toggle-mobile-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Menu&quot;,&quot;index_section&quot;:1,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Menu&quot;}\" id=\"super-navigation-menu-toggle\" type=\"button\">",
           "target": [
             "#super-navigation-menu-toggle"
           ]
@@ -717,7 +723,7 @@
             }
           ],
           "impact": null,
-          "html": "<button id=\"super-search-menu-toggle\" class=\"gem-c-layout-super-navigation-header__search-toggle-button gem-c-layout-super-navigation-header__search-toggle-button--blue-background gem-c-layout-super-navigation-header__search-toggle-button--large-navbar\" aria-controls=\"super-search-menu\" aria-expanded=\"false\" aria-label=\"Show search menu\" data-text-for-hide=\"Hide search menu\" data-text-for-show=\"Show search menu\" data-toggle-mobile-group=\"top\" data-toggle-desktop-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Search&quot;,&quot;index_section&quot;:2,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Search&quot;}\" type=\"button\">",
+          "html": "<button id=\"super-search-menu-toggle\" class=\"gem-c-layout-super-navigation-header__search-toggle-button\" aria-controls=\"super-search-menu\" aria-expanded=\"false\" aria-label=\"Show search menu\" data-text-for-hide=\"Hide search menu\" data-text-for-show=\"Show search menu\" data-toggle-mobile-group=\"top\" data-toggle-desktop-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Search&quot;,&quot;index_section&quot;:2,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Search&quot;}\" type=\"button\">",
           "target": [
             "#super-search-menu-toggle"
           ]
@@ -743,9 +749,9 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"search-main-1d73e34f__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-c0debfc5__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-1d73e34f__status--A"
+            "#search-main-c0debfc5__status--A"
           ]
         },
         {
@@ -769,9 +775,9 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"search-main-1d73e34f__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-c0debfc5__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-1d73e34f__status--B"
+            "#search-main-c0debfc5__status--B"
           ]
         },
         {
@@ -795,9 +801,9 @@
             }
           ],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-1d73e34f__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-1d73e34f__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-1d73e34f\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-1d73e34f"
+            "#search-main-c0debfc5"
           ]
         },
         {
@@ -899,9 +905,27 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-header__link govuk-header__link--homepage gem-c-header__link--large-navbar\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;external&quot;:&quot;false&quot;,&quot;text&quot;:&quot;GOV.UK&quot;,&quot;section&quot;:&quot;Logo&quot;,&quot;index_link&quot;:1,&quot;index_section&quot;:0,&quot;index_section_count&quot;:2,&quot;index_total&quot;:1}\" id=\"logo\" aria-label=\"Go to the GOV.UK homepage\" href=\"https://www.gov.uk\">",
+          "html": "<a class=\"govuk-header__link govuk-header__link--homepage\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;external&quot;:&quot;false&quot;,&quot;text&quot;:&quot;GOV.UK&quot;,&quot;section&quot;:&quot;Logo&quot;,&quot;index_link&quot;:1,&quot;index_section&quot;:0,&quot;index_section_count&quot;:2,&quot;index_total&quot;:1}\" id=\"logo\" aria-label=\"Go to the GOV.UK homepage\" href=\"https://www.gov.uk\">",
           "target": [
             "#logo"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-conditional-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "ARIA attribute is allowed"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" role=\"img\" viewBox=\"0 0 324 60\" height=\"30\" width=\"162\" fill=\"currentcolor\" class=\"govuk-header__logotype\" aria-label=\"GOV.UK\">",
+          "target": [
+            ".govuk-header__logotype"
           ]
         },
         {
@@ -935,7 +959,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<button aria-controls=\"super-navigation-menu\" aria-expanded=\"false\" aria-label=\"Show navigation menu\" class=\"gem-c-layout-super-navigation-header__navigation-top-toggle-button gem-c-layout-super-navigation-header__navigation-top-toggle-button--blue-background gem-c-layout-super-navigation-header__navigation-top-toggle-button--large-navbar\" data-text-for-hide=\"Hide navigation menu\" data-text-for-show=\"Show navigation menu\" data-toggle-desktop-group=\"top\" data-toggle-mobile-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Menu&quot;,&quot;index_section&quot;:1,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Menu&quot;}\" id=\"super-navigation-menu-toggle\" type=\"button\">",
+          "html": "<button aria-controls=\"super-navigation-menu\" aria-expanded=\"false\" aria-label=\"Show navigation menu\" class=\"gem-c-layout-super-navigation-header__navigation-top-toggle-button\" data-text-for-hide=\"Hide navigation menu\" data-text-for-show=\"Show navigation menu\" data-toggle-desktop-group=\"top\" data-toggle-mobile-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Menu&quot;,&quot;index_section&quot;:1,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Menu&quot;}\" id=\"super-navigation-menu-toggle\" type=\"button\">",
           "target": [
             "#super-navigation-menu-toggle"
           ]
@@ -953,7 +977,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<button id=\"super-search-menu-toggle\" class=\"gem-c-layout-super-navigation-header__search-toggle-button gem-c-layout-super-navigation-header__search-toggle-button--blue-background gem-c-layout-super-navigation-header__search-toggle-button--large-navbar\" aria-controls=\"super-search-menu\" aria-expanded=\"false\" aria-label=\"Show search menu\" data-text-for-hide=\"Hide search menu\" data-text-for-show=\"Show search menu\" data-toggle-mobile-group=\"top\" data-toggle-desktop-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Search&quot;,&quot;index_section&quot;:2,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Search&quot;}\" type=\"button\">",
+          "html": "<button id=\"super-search-menu-toggle\" class=\"gem-c-layout-super-navigation-header__search-toggle-button\" aria-controls=\"super-search-menu\" aria-expanded=\"false\" aria-label=\"Show search menu\" data-text-for-hide=\"Hide search menu\" data-text-for-show=\"Show search menu\" data-toggle-mobile-group=\"top\" data-toggle-desktop-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Search&quot;,&quot;index_section&quot;:2,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Search&quot;}\" type=\"button\">",
           "target": [
             "#super-search-menu-toggle"
           ]
@@ -971,9 +995,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div id=\"search-main-1d73e34f__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-c0debfc5__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-1d73e34f__status--A"
+            "#search-main-c0debfc5__status--A"
           ]
         },
         {
@@ -989,9 +1013,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div id=\"search-main-1d73e34f__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-c0debfc5__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-1d73e34f__status--B"
+            "#search-main-c0debfc5__status--B"
           ]
         },
         {
@@ -1007,9 +1031,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-1d73e34f__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-1d73e34f__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-1d73e34f\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-1d73e34f"
+            "#search-main-c0debfc5"
           ]
         },
         {
@@ -1095,6 +1119,24 @@
             }
           ],
           "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" role=\"img\" viewBox=\"0 0 324 60\" height=\"30\" width=\"162\" fill=\"currentcolor\" class=\"govuk-header__logotype\" aria-label=\"GOV.UK\">",
+          "target": [
+            ".govuk-header__logotype"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "deprecatedrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "ARIA role is not deprecated"
+            }
+          ],
+          "impact": null,
           "html": "<main role=\"main\" id=\"content\" class=\"govuk-main-wrapper govuk-!-padding-top-0\">",
           "target": [
             "#content"
@@ -1131,9 +1173,9 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"search-main-1d73e34f__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-c0debfc5__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-1d73e34f__status--A"
+            "#search-main-c0debfc5__status--A"
           ]
         },
         {
@@ -1149,9 +1191,9 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"search-main-1d73e34f__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-c0debfc5__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-1d73e34f__status--B"
+            "#search-main-c0debfc5__status--B"
           ]
         },
         {
@@ -1167,9 +1209,27 @@
             }
           ],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-1d73e34f__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-1d73e34f__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-1d73e34f\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-1d73e34f"
+            "#search-main-c0debfc5"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "deprecatedrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "ARIA role is not deprecated"
+            }
+          ],
+          "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 64 60\" height=\"30\" width=\"32\" fill=\"currentcolor\" class=\"govuk-footer__crown\">",
+          "target": [
+            ".govuk-footer__crown"
           ]
         }
       ]
@@ -1226,38 +1286,6 @@
       "help": "ARIA hidden element must not be focusable or contain focusable elements",
       "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-hidden-focus?application=playwright",
       "nodes": [
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<svg focusable=\"false\" class=\"govuk-header__logotype gem-c-layout-super-navigation-header__logotype-crown gem-c-layout-super-navigation-header__logotype-crown--large-navbar\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\" height=\"30\" width=\"32\" viewBox=\"0 0 32 30\">",
-          "target": [
-            ".govuk-header__logotype"
-          ]
-        },
         {
           "any": [],
           "all": [
@@ -1561,9 +1589,27 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-header__link govuk-header__link--homepage gem-c-header__link--large-navbar\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;external&quot;:&quot;false&quot;,&quot;text&quot;:&quot;GOV.UK&quot;,&quot;section&quot;:&quot;Logo&quot;,&quot;index_link&quot;:1,&quot;index_section&quot;:0,&quot;index_section_count&quot;:2,&quot;index_total&quot;:1}\" id=\"logo\" aria-label=\"Go to the GOV.UK homepage\" href=\"https://www.gov.uk\">",
+          "html": "<a class=\"govuk-header__link govuk-header__link--homepage\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;external&quot;:&quot;false&quot;,&quot;text&quot;:&quot;GOV.UK&quot;,&quot;section&quot;:&quot;Logo&quot;,&quot;index_link&quot;:1,&quot;index_section&quot;:0,&quot;index_section_count&quot;:2,&quot;index_total&quot;:1}\" id=\"logo\" aria-label=\"Go to the GOV.UK homepage\" href=\"https://www.gov.uk\">",
           "target": [
             "#logo"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "aria-prohibited-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "ARIA attribute is allowed"
+            }
+          ],
+          "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" role=\"img\" viewBox=\"0 0 324 60\" height=\"30\" width=\"162\" fill=\"currentcolor\" class=\"govuk-header__logotype\" aria-label=\"GOV.UK\">",
+          "target": [
+            ".govuk-header__logotype"
           ]
         },
         {
@@ -1597,7 +1643,7 @@
             }
           ],
           "impact": null,
-          "html": "<button aria-controls=\"super-navigation-menu\" aria-expanded=\"false\" aria-label=\"Show navigation menu\" class=\"gem-c-layout-super-navigation-header__navigation-top-toggle-button gem-c-layout-super-navigation-header__navigation-top-toggle-button--blue-background gem-c-layout-super-navigation-header__navigation-top-toggle-button--large-navbar\" data-text-for-hide=\"Hide navigation menu\" data-text-for-show=\"Show navigation menu\" data-toggle-desktop-group=\"top\" data-toggle-mobile-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Menu&quot;,&quot;index_section&quot;:1,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Menu&quot;}\" id=\"super-navigation-menu-toggle\" type=\"button\">",
+          "html": "<button aria-controls=\"super-navigation-menu\" aria-expanded=\"false\" aria-label=\"Show navigation menu\" class=\"gem-c-layout-super-navigation-header__navigation-top-toggle-button\" data-text-for-hide=\"Hide navigation menu\" data-text-for-show=\"Show navigation menu\" data-toggle-desktop-group=\"top\" data-toggle-mobile-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Menu&quot;,&quot;index_section&quot;:1,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Menu&quot;}\" id=\"super-navigation-menu-toggle\" type=\"button\">",
           "target": [
             "#super-navigation-menu-toggle"
           ]
@@ -1615,7 +1661,7 @@
             }
           ],
           "impact": null,
-          "html": "<button id=\"super-search-menu-toggle\" class=\"gem-c-layout-super-navigation-header__search-toggle-button gem-c-layout-super-navigation-header__search-toggle-button--blue-background gem-c-layout-super-navigation-header__search-toggle-button--large-navbar\" aria-controls=\"super-search-menu\" aria-expanded=\"false\" aria-label=\"Show search menu\" data-text-for-hide=\"Hide search menu\" data-text-for-show=\"Show search menu\" data-toggle-mobile-group=\"top\" data-toggle-desktop-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Search&quot;,&quot;index_section&quot;:2,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Search&quot;}\" type=\"button\">",
+          "html": "<button id=\"super-search-menu-toggle\" class=\"gem-c-layout-super-navigation-header__search-toggle-button\" aria-controls=\"super-search-menu\" aria-expanded=\"false\" aria-label=\"Show search menu\" data-text-for-hide=\"Hide search menu\" data-text-for-show=\"Show search menu\" data-toggle-mobile-group=\"top\" data-toggle-desktop-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Search&quot;,&quot;index_section&quot;:2,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Search&quot;}\" type=\"button\">",
           "target": [
             "#super-search-menu-toggle"
           ]
@@ -1633,9 +1679,9 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"search-main-1d73e34f__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-c0debfc5__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-1d73e34f__status--A"
+            "#search-main-c0debfc5__status--A"
           ]
         },
         {
@@ -1651,9 +1697,9 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"search-main-1d73e34f__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-c0debfc5__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-1d73e34f__status--B"
+            "#search-main-c0debfc5__status--B"
           ]
         },
         {
@@ -1669,9 +1715,9 @@
             }
           ],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-1d73e34f__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-1d73e34f__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-1d73e34f\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-1d73e34f"
+            "#search-main-c0debfc5"
           ]
         },
         {
@@ -1757,6 +1803,24 @@
           "all": [],
           "none": [],
           "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" role=\"img\" viewBox=\"0 0 324 60\" height=\"30\" width=\"162\" fill=\"currentcolor\" class=\"govuk-header__logotype\" aria-label=\"GOV.UK\">",
+          "target": [
+            ".govuk-header__logotype"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-required-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "All required ARIA attributes are present"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
           "html": "<main role=\"main\" id=\"content\" class=\"govuk-main-wrapper govuk-!-padding-top-0\">",
           "target": [
             "#content"
@@ -1793,9 +1857,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div id=\"search-main-1d73e34f__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-c0debfc5__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-1d73e34f__status--A"
+            "#search-main-c0debfc5__status--A"
           ]
         },
         {
@@ -1811,9 +1875,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div id=\"search-main-1d73e34f__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-c0debfc5__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-1d73e34f__status--B"
+            "#search-main-c0debfc5__status--B"
           ]
         },
         {
@@ -1829,9 +1893,27 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-1d73e34f__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-1d73e34f__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-1d73e34f\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-1d73e34f"
+            "#search-main-c0debfc5"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-required-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "All required ARIA attributes are present"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 64 60\" height=\"30\" width=\"32\" fill=\"currentcolor\" class=\"govuk-footer__crown\">",
+          "target": [
+            ".govuk-footer__crown"
           ]
         }
       ]
@@ -1909,6 +1991,38 @@
             }
           ],
           "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" role=\"img\" viewBox=\"0 0 324 60\" height=\"30\" width=\"162\" fill=\"currentcolor\" class=\"govuk-header__logotype\" aria-label=\"GOV.UK\">",
+          "target": [
+            ".govuk-header__logotype"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "invalidrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA role is valid"
+            },
+            {
+              "id": "abstractrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Abstract roles are not used"
+            },
+            {
+              "id": "unsupportedrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA role is supported"
+            }
+          ],
+          "impact": null,
           "html": "<main role=\"main\" id=\"content\" class=\"govuk-main-wrapper govuk-!-padding-top-0\">",
           "target": [
             "#content"
@@ -1973,9 +2087,9 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"search-main-1d73e34f__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-c0debfc5__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-1d73e34f__status--A"
+            "#search-main-c0debfc5__status--A"
           ]
         },
         {
@@ -2005,9 +2119,9 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"search-main-1d73e34f__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-c0debfc5__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-1d73e34f__status--B"
+            "#search-main-c0debfc5__status--B"
           ]
         },
         {
@@ -2037,9 +2151,41 @@
             }
           ],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-1d73e34f__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-1d73e34f__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-1d73e34f\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-1d73e34f"
+            "#search-main-c0debfc5"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "invalidrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA role is valid"
+            },
+            {
+              "id": "abstractrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Abstract roles are not used"
+            },
+            {
+              "id": "unsupportedrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA role is supported"
+            }
+          ],
+          "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 64 60\" height=\"30\" width=\"32\" fill=\"currentcolor\" class=\"govuk-footer__crown\">",
+          "target": [
+            ".govuk-footer__crown"
           ]
         }
       ]
@@ -2117,9 +2263,41 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-header__link govuk-header__link--homepage gem-c-header__link--large-navbar\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;external&quot;:&quot;false&quot;,&quot;text&quot;:&quot;GOV.UK&quot;,&quot;section&quot;:&quot;Logo&quot;,&quot;index_link&quot;:1,&quot;index_section&quot;:0,&quot;index_section_count&quot;:2,&quot;index_total&quot;:1}\" id=\"logo\" aria-label=\"Go to the GOV.UK homepage\" href=\"https://www.gov.uk\">",
+          "html": "<a class=\"govuk-header__link govuk-header__link--homepage\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;external&quot;:&quot;false&quot;,&quot;text&quot;:&quot;GOV.UK&quot;,&quot;section&quot;:&quot;Logo&quot;,&quot;index_link&quot;:1,&quot;index_section&quot;:0,&quot;index_section_count&quot;:2,&quot;index_total&quot;:1}\" id=\"logo\" aria-label=\"Go to the GOV.UK homepage\" href=\"https://www.gov.uk\">",
           "target": [
             "#logo"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-valid-attr-value",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute values are valid"
+            },
+            {
+              "id": "aria-errormessage",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
+            },
+            {
+              "id": "aria-level",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-level values are valid"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" role=\"img\" viewBox=\"0 0 324 60\" height=\"30\" width=\"162\" fill=\"currentcolor\" class=\"govuk-header__logotype\" aria-label=\"GOV.UK\">",
+          "target": [
+            ".govuk-header__logotype"
           ]
         },
         {
@@ -2181,7 +2359,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<button aria-controls=\"super-navigation-menu\" aria-expanded=\"false\" aria-label=\"Show navigation menu\" class=\"gem-c-layout-super-navigation-header__navigation-top-toggle-button gem-c-layout-super-navigation-header__navigation-top-toggle-button--blue-background gem-c-layout-super-navigation-header__navigation-top-toggle-button--large-navbar\" data-text-for-hide=\"Hide navigation menu\" data-text-for-show=\"Show navigation menu\" data-toggle-desktop-group=\"top\" data-toggle-mobile-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Menu&quot;,&quot;index_section&quot;:1,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Menu&quot;}\" id=\"super-navigation-menu-toggle\" type=\"button\">",
+          "html": "<button aria-controls=\"super-navigation-menu\" aria-expanded=\"false\" aria-label=\"Show navigation menu\" class=\"gem-c-layout-super-navigation-header__navigation-top-toggle-button\" data-text-for-hide=\"Hide navigation menu\" data-text-for-show=\"Show navigation menu\" data-toggle-desktop-group=\"top\" data-toggle-mobile-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Menu&quot;,&quot;index_section&quot;:1,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Menu&quot;}\" id=\"super-navigation-menu-toggle\" type=\"button\">",
           "target": [
             "#super-navigation-menu-toggle"
           ]
@@ -2213,7 +2391,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<button id=\"super-search-menu-toggle\" class=\"gem-c-layout-super-navigation-header__search-toggle-button gem-c-layout-super-navigation-header__search-toggle-button--blue-background gem-c-layout-super-navigation-header__search-toggle-button--large-navbar\" aria-controls=\"super-search-menu\" aria-expanded=\"false\" aria-label=\"Show search menu\" data-text-for-hide=\"Hide search menu\" data-text-for-show=\"Show search menu\" data-toggle-mobile-group=\"top\" data-toggle-desktop-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Search&quot;,&quot;index_section&quot;:2,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Search&quot;}\" type=\"button\">",
+          "html": "<button id=\"super-search-menu-toggle\" class=\"gem-c-layout-super-navigation-header__search-toggle-button\" aria-controls=\"super-search-menu\" aria-expanded=\"false\" aria-label=\"Show search menu\" data-text-for-hide=\"Hide search menu\" data-text-for-show=\"Show search menu\" data-toggle-mobile-group=\"top\" data-toggle-desktop-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Search&quot;,&quot;index_section&quot;:2,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Search&quot;}\" type=\"button\">",
           "target": [
             "#super-search-menu-toggle"
           ]
@@ -2245,9 +2423,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div id=\"search-main-1d73e34f__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-c0debfc5__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-1d73e34f__status--A"
+            "#search-main-c0debfc5__status--A"
           ]
         },
         {
@@ -2277,9 +2455,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div id=\"search-main-1d73e34f__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-c0debfc5__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-1d73e34f__status--B"
+            "#search-main-c0debfc5__status--B"
           ]
         },
         {
@@ -2309,9 +2487,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-1d73e34f__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-1d73e34f__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-1d73e34f\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-1d73e34f"
+            "#search-main-c0debfc5"
           ]
         },
         {
@@ -2425,9 +2603,27 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-header__link govuk-header__link--homepage gem-c-header__link--large-navbar\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;external&quot;:&quot;false&quot;,&quot;text&quot;:&quot;GOV.UK&quot;,&quot;section&quot;:&quot;Logo&quot;,&quot;index_link&quot;:1,&quot;index_section&quot;:0,&quot;index_section_count&quot;:2,&quot;index_total&quot;:1}\" id=\"logo\" aria-label=\"Go to the GOV.UK homepage\" href=\"https://www.gov.uk\">",
+          "html": "<a class=\"govuk-header__link govuk-header__link--homepage\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;external&quot;:&quot;false&quot;,&quot;text&quot;:&quot;GOV.UK&quot;,&quot;section&quot;:&quot;Logo&quot;,&quot;index_link&quot;:1,&quot;index_section&quot;:0,&quot;index_section_count&quot;:2,&quot;index_total&quot;:1}\" id=\"logo\" aria-label=\"Go to the GOV.UK homepage\" href=\"https://www.gov.uk\">",
           "target": [
             "#logo"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-valid-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute name is valid"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" role=\"img\" viewBox=\"0 0 324 60\" height=\"30\" width=\"162\" fill=\"currentcolor\" class=\"govuk-header__logotype\" aria-label=\"GOV.UK\">",
+          "target": [
+            ".govuk-header__logotype"
           ]
         },
         {
@@ -2461,7 +2657,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button aria-controls=\"super-navigation-menu\" aria-expanded=\"false\" aria-label=\"Show navigation menu\" class=\"gem-c-layout-super-navigation-header__navigation-top-toggle-button gem-c-layout-super-navigation-header__navigation-top-toggle-button--blue-background gem-c-layout-super-navigation-header__navigation-top-toggle-button--large-navbar\" data-text-for-hide=\"Hide navigation menu\" data-text-for-show=\"Show navigation menu\" data-toggle-desktop-group=\"top\" data-toggle-mobile-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Menu&quot;,&quot;index_section&quot;:1,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Menu&quot;}\" id=\"super-navigation-menu-toggle\" type=\"button\">",
+          "html": "<button aria-controls=\"super-navigation-menu\" aria-expanded=\"false\" aria-label=\"Show navigation menu\" class=\"gem-c-layout-super-navigation-header__navigation-top-toggle-button\" data-text-for-hide=\"Hide navigation menu\" data-text-for-show=\"Show navigation menu\" data-toggle-desktop-group=\"top\" data-toggle-mobile-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Menu&quot;,&quot;index_section&quot;:1,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Menu&quot;}\" id=\"super-navigation-menu-toggle\" type=\"button\">",
           "target": [
             "#super-navigation-menu-toggle"
           ]
@@ -2479,7 +2675,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button id=\"super-search-menu-toggle\" class=\"gem-c-layout-super-navigation-header__search-toggle-button gem-c-layout-super-navigation-header__search-toggle-button--blue-background gem-c-layout-super-navigation-header__search-toggle-button--large-navbar\" aria-controls=\"super-search-menu\" aria-expanded=\"false\" aria-label=\"Show search menu\" data-text-for-hide=\"Hide search menu\" data-text-for-show=\"Show search menu\" data-toggle-mobile-group=\"top\" data-toggle-desktop-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Search&quot;,&quot;index_section&quot;:2,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Search&quot;}\" type=\"button\">",
+          "html": "<button id=\"super-search-menu-toggle\" class=\"gem-c-layout-super-navigation-header__search-toggle-button\" aria-controls=\"super-search-menu\" aria-expanded=\"false\" aria-label=\"Show search menu\" data-text-for-hide=\"Hide search menu\" data-text-for-show=\"Show search menu\" data-toggle-mobile-group=\"top\" data-toggle-desktop-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Search&quot;,&quot;index_section&quot;:2,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Search&quot;}\" type=\"button\">",
           "target": [
             "#super-search-menu-toggle"
           ]
@@ -2497,9 +2693,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div id=\"search-main-1d73e34f__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-c0debfc5__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-1d73e34f__status--A"
+            "#search-main-c0debfc5__status--A"
           ]
         },
         {
@@ -2515,9 +2711,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div id=\"search-main-1d73e34f__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-c0debfc5__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-1d73e34f__status--B"
+            "#search-main-c0debfc5__status--B"
           ]
         },
         {
@@ -2533,9 +2729,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-1d73e34f__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-1d73e34f__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-1d73e34f\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-1d73e34f"
+            "#search-main-c0debfc5"
           ]
         },
         {
@@ -2651,7 +2847,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button aria-controls=\"super-navigation-menu\" aria-expanded=\"false\" aria-label=\"Show navigation menu\" class=\"gem-c-layout-super-navigation-header__navigation-top-toggle-button gem-c-layout-super-navigation-header__navigation-top-toggle-button--blue-background gem-c-layout-super-navigation-header__navigation-top-toggle-button--large-navbar\" data-text-for-hide=\"Hide navigation menu\" data-text-for-show=\"Show navigation menu\" data-toggle-desktop-group=\"top\" data-toggle-mobile-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Menu&quot;,&quot;index_section&quot;:1,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Menu&quot;}\" id=\"super-navigation-menu-toggle\" type=\"button\">",
+          "html": "<button aria-controls=\"super-navigation-menu\" aria-expanded=\"false\" aria-label=\"Show navigation menu\" class=\"gem-c-layout-super-navigation-header__navigation-top-toggle-button\" data-text-for-hide=\"Hide navigation menu\" data-text-for-show=\"Show navigation menu\" data-toggle-desktop-group=\"top\" data-toggle-mobile-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Menu&quot;,&quot;index_section&quot;:1,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Menu&quot;}\" id=\"super-navigation-menu-toggle\" type=\"button\">",
           "target": [
             "#super-navigation-menu-toggle"
           ]
@@ -2676,7 +2872,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button id=\"super-search-menu-toggle\" class=\"gem-c-layout-super-navigation-header__search-toggle-button gem-c-layout-super-navigation-header__search-toggle-button--blue-background gem-c-layout-super-navigation-header__search-toggle-button--large-navbar\" aria-controls=\"super-search-menu\" aria-expanded=\"false\" aria-label=\"Show search menu\" data-text-for-hide=\"Hide search menu\" data-text-for-show=\"Show search menu\" data-toggle-mobile-group=\"top\" data-toggle-desktop-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Search&quot;,&quot;index_section&quot;:2,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Search&quot;}\" type=\"button\">",
+          "html": "<button id=\"super-search-menu-toggle\" class=\"gem-c-layout-super-navigation-header__search-toggle-button\" aria-controls=\"super-search-menu\" aria-expanded=\"false\" aria-label=\"Show search menu\" data-text-for-hide=\"Hide search menu\" data-text-for-show=\"Show search menu\" data-toggle-mobile-group=\"top\" data-toggle-desktop-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Search&quot;,&quot;index_section&quot;:2,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Search&quot;}\" type=\"button\">",
           "target": [
             "#super-search-menu-toggle"
           ]
@@ -2799,7 +2995,7 @@
                   ]
                 },
                 {
-                  "html": "<h1 class=\"homepage-header__title\">",
+                  "html": "<h1 class=\"homepage-header__title\">\n        <span class=\"homepage-header__intro homepage-inverse-header__intro--bold\">The best place to find government services and information</span>\n      </h1>",
                   "target": [
                     "h1"
                   ]
@@ -2919,19 +3115,19 @@
                   ]
                 },
                 {
-                  "html": "<h3 class=\"gem-c-image-card__title govuk-heading-s\">\n              <a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/find-a-job\">Find a job</a>\n</h3>",
+                  "html": "<h3 class=\"gem-c-image-card__title govuk-heading-s\">\n              <a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/guidance/changes-to-govuk\">Changes to GOV.UK</a>\n</h3>",
                   "target": [
                     ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(2) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__header-and-context-wrapper > .gem-c-image-card__title.govuk-heading-s"
                   ]
                 },
                 {
-                  "html": "<h3 class=\"gem-c-image-card__title govuk-heading-s\">\n              <a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/check-national-insurance-record\">National Insurance</a>\n</h3>",
+                  "html": "<h3 class=\"gem-c-image-card__title govuk-heading-s\">\n              <a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/find-a-job\">Find a job</a>\n</h3>",
                   "target": [
                     ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(3) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__header-and-context-wrapper > .gem-c-image-card__title.govuk-heading-s"
                   ]
                 },
                 {
-                  "html": "<h3 class=\"gem-c-image-card__title govuk-heading-s\">\n              <a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/cost-of-living\">Cost of living support</a>\n</h3>",
+                  "html": "<h3 class=\"gem-c-image-card__title govuk-heading-s\">\n              <a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/check-national-insurance-record\">National Insurance</a>\n</h3>",
                   "target": [
                     ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(4) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__header-and-context-wrapper > .gem-c-image-card__title.govuk-heading-s"
                   ]
@@ -2939,7 +3135,7 @@
                 {
                   "html": "<h2 class=\"gem-c-heading__text govuk-heading-l\">\n    Government activity\n</h2>",
                   "target": [
-                    ".govuk-\\!-margin-bottom-2.gem-c-heading > .gem-c-heading__text.govuk-heading-l"
+                    ".govuk-\\!-margin-bottom-2 > .gem-c-heading__text.govuk-heading-l"
                   ]
                 },
                 {
@@ -3005,7 +3201,7 @@
                 {
                   "html": "<h2 class=\"govuk-visually-hidden\">Support links</h2>",
                   "target": [
-                    ".govuk-footer__meta-item--grow > h2"
+                    ".govuk-footer__meta-item--grow > .govuk-visually-hidden"
                   ]
                 }
               ],
@@ -3030,7 +3226,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<html class=\"govuk-template\" lang=\"en\">",
+          "html": "<html class=\"govuk-template govuk-template--rebranded\" lang=\"en\">",
           "target": [
             "html"
           ]
@@ -3039,7 +3235,7 @@
     },
     {
       "id": "color-contrast",
-      "impact": "serious",
+      "impact": null,
       "tags": [
         "cat.color",
         "wcag2aa",
@@ -3060,15 +3256,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "18.0pt (24px)",
                 "fontWeight": "bold",
                 "expectedContrastRatio": "3:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -3085,15 +3281,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -3110,15 +3306,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -3135,15 +3331,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -3210,15 +3406,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#1d70b8",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 4.62,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 4.84,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 4.62"
+              "message": "Element has sufficient color contrast of 4.84"
             }
           ],
           "all": [],
@@ -3249,7 +3445,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span class=\"gem-c-layout-super-navigation-header__navigation-top-toggle-button-inner gem-c-layout-super-navigation-header__navigation-top-toggle-button-inner--blue-background\">Menu</span>",
+          "html": "<span class=\"gem-c-layout-super-navigation-header__navigation-top-toggle-button-inner\">Menu</span>",
           "target": [
             ".gem-c-layout-super-navigation-header__navigation-top-toggle-button-inner"
           ]
@@ -3269,9 +3465,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-2cd39099__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-2cd39099__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-2cd39099\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-08165166__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-08165166__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-08165166\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-2cd39099"
+            "#search-main-08165166"
           ]
         },
         {
@@ -3289,31 +3485,6 @@
               "relatedNodes": [],
               "impact": "serious",
               "message": "Element has sufficient color contrast of 5.16"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<span class=\"govuk-!-margin-bottom-2 govuk-!-display-block\">GOV.UK</span>",
-          "target": [
-            ".govuk-\\!-display-block"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#d2e2f1",
-                "bgColor": "#1d70b8",
-                "contrastRatio": 3.91,
-                "fontSize": "41.3pt (55px)",
-                "fontWeight": "bold",
-                "expectedContrastRatio": "3:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 3.91"
             }
           ],
           "all": [],
@@ -3344,7 +3515,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<label for=\"search-main-1d73e34f\" class=\"govuk-label govuk-label--s gem-c-search__label--white govuk-!-margin-bottom-3\">Search</label>",
+          "html": "<label for=\"search-main-c0debfc5\" class=\"govuk-label govuk-label--s gem-c-search__label--white govuk-!-margin-bottom-3\">Search</label>",
           "target": [
             ".govuk-label--s"
           ]
@@ -3369,9 +3540,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-1d73e34f__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-1d73e34f__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-1d73e34f\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-1d73e34f"
+            "#search-main-c0debfc5"
           ]
         },
         {
@@ -4419,6 +4590,56 @@
           "all": [],
           "none": [],
           "impact": null,
+          "html": "<a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/guidance/changes-to-govuk\">Changes to GOV.UK</a>",
+          "target": [
+            "a[href$=\"changes-to-govuk\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#0b0c0c",
+                "bgColor": "#ffffff",
+                "contrastRatio": 19.58,
+                "fontSize": "14.3pt (19px)",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 19.58"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div class=\"gem-c-image-card__description gem-c-image-card__description--large-font-size-mobile\">Find out why you may see some differences to how GOV.UK looks.</div>",
+          "target": [
+            ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(2) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__description.gem-c-image-card__description--large-font-size-mobile"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#1d70b8",
+                "bgColor": "#ffffff",
+                "contrastRatio": 5.16,
+                "fontSize": "14.3pt (19px)",
+                "fontWeight": "bold",
+                "expectedContrastRatio": "3:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 5.16"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
           "html": "<a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/find-a-job\">Find a job</a>",
           "target": [
             "a[href$=\"find-a-job\"]"
@@ -4446,7 +4667,7 @@
           "impact": null,
           "html": "<div class=\"gem-c-image-card__description gem-c-image-card__description--large-font-size-mobile\">Search and apply for jobs in England, Scotland and Wales.</div>",
           "target": [
-            ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(2) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__description.gem-c-image-card__description--large-font-size-mobile"
+            ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(3) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__description.gem-c-image-card__description--large-font-size-mobile"
           ]
         },
         {
@@ -4471,7 +4692,7 @@
           "impact": null,
           "html": "<a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/check-national-insurance-record\">National Insurance</a>",
           "target": [
-            ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(3) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__header-and-context-wrapper > .gem-c-image-card__title.govuk-heading-s > .gem-c-image-card__title-link.gem-c-image-card__title-link--large-font-size-mobile.gem-c-force-print-link-styles"
+            ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(4) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__header-and-context-wrapper > .gem-c-image-card__title.govuk-heading-s > .gem-c-image-card__title-link.gem-c-image-card__title-link--large-font-size-mobile.gem-c-force-print-link-styles"
           ]
         },
         {
@@ -4495,56 +4716,6 @@
           "none": [],
           "impact": null,
           "html": "<div class=\"gem-c-image-card__description gem-c-image-card__description--large-font-size-mobile\">Check your record to see if you can add more contributions.</div>",
-          "target": [
-            ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(3) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__description.gem-c-image-card__description--large-font-size-mobile"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#1d70b8",
-                "bgColor": "#ffffff",
-                "contrastRatio": 5.16,
-                "fontSize": "14.3pt (19px)",
-                "fontWeight": "bold",
-                "expectedContrastRatio": "3:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 5.16"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/cost-of-living\">Cost of living support</a>",
-          "target": [
-            "a[href$=\"cost-of-living\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#0b0c0c",
-                "bgColor": "#ffffff",
-                "contrastRatio": 19.58,
-                "fontSize": "14.3pt (19px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 19.58"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"gem-c-image-card__description gem-c-image-card__description--large-font-size-mobile\">Find out what support is available to help with the cost of living.</div>",
           "target": [
             ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(4) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__description.gem-c-image-card__description--large-font-size-mobile"
           ]
@@ -4571,7 +4742,7 @@
           "impact": null,
           "html": "<h2 class=\"gem-c-heading__text govuk-heading-l\">\n    Government activity\n</h2>",
           "target": [
-            ".govuk-\\!-margin-bottom-2.gem-c-heading > .gem-c-heading__text.govuk-heading-l"
+            ".govuk-\\!-margin-bottom-2 > .gem-c-heading__text.govuk-heading-l"
           ]
         },
         {
@@ -5180,15 +5351,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "12.0pt (16px)",
                 "fontWeight": "bold",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5205,15 +5376,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "12.0pt (16px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5230,15 +5401,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "12.0pt (16px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5255,15 +5426,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "12.0pt (16px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5309,9 +5480,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<textarea name=\"what_doing\" class=\"govuk-textarea\" id=\"textarea-6fd203fb\" rows=\"3\" spellcheck=\"true\" aria-describedby=\"feedback_explanation\"></textarea>",
+          "html": "<textarea name=\"what_doing\" class=\"govuk-textarea\" id=\"textarea-533b4749\" rows=\"3\" spellcheck=\"true\" aria-describedby=\"feedback_explanation\"></textarea>",
           "target": [
-            "#textarea-6fd203fb"
+            "#textarea-533b4749"
           ]
         },
         {
@@ -5329,9 +5500,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<textarea name=\"what_wrong\" class=\"govuk-textarea\" id=\"textarea-8f7a42ad\" rows=\"3\" spellcheck=\"true\"></textarea>",
+          "html": "<textarea name=\"what_wrong\" class=\"govuk-textarea\" id=\"textarea-b94a0aa4\" rows=\"3\" spellcheck=\"true\"></textarea>",
           "target": [
-            "#textarea-8f7a42ad"
+            "#textarea-b94a0aa4"
           ]
         },
         {
@@ -5340,15 +5511,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "18.0pt (24px)",
                 "fontWeight": "bold",
                 "expectedContrastRatio": "3:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5365,15 +5536,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5390,15 +5561,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5415,15 +5586,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5440,15 +5611,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5465,15 +5636,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5490,15 +5661,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5515,15 +5686,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5540,15 +5711,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5565,15 +5736,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5590,15 +5761,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5615,15 +5786,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5640,15 +5811,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5665,15 +5836,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5690,15 +5861,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5715,15 +5886,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5740,15 +5911,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5765,15 +5936,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "18.0pt (24px)",
                 "fontWeight": "bold",
                 "expectedContrastRatio": "3:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5790,15 +5961,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5815,15 +5986,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5840,15 +6011,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5865,15 +6036,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5890,15 +6061,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5915,15 +6086,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5940,15 +6111,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5965,15 +6136,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -5990,15 +6161,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -6015,15 +6186,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -6040,15 +6211,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -6065,15 +6236,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -6090,15 +6261,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -6115,15 +6286,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -6140,15 +6311,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -6165,15 +6336,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -6190,15 +6361,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -6215,15 +6386,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0b0c0c",
-                "bgColor": "#f3f2f1",
-                "contrastRatio": 17.51,
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
                 "fontSize": "14.3pt (19px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 17.51"
+              "message": "Element has sufficient color contrast of 18.34"
             }
           ],
           "all": [],
@@ -6232,6 +6403,31 @@
           "html": "<a class=\"govuk-footer__link\" href=\"https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" rel=\"license\">Open Government Licence v3.0</a>",
           "target": [
             "a[rel=\"license\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#0b0c0c",
+                "bgColor": "#f4f8fb",
+                "contrastRatio": 18.34,
+                "fontSize": "14.3pt (19px)",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 18.34"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<a class=\"govuk-footer__link govuk-footer__copyright-logo\" href=\"https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/\">© Crown copyright</a>",
+          "target": [
+            ".govuk-footer__copyright-logo"
           ]
         }
       ]
@@ -6266,7 +6462,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<html class=\"govuk-template\" lang=\"en\">",
+          "html": "<html class=\"govuk-template govuk-template--rebranded\" lang=\"en\">",
           "target": [
             "html"
           ]
@@ -6318,7 +6514,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div id=\"super-navigation-menu\" hidden=\"hidden\" class=\"gem-c-layout-super-navigation-header__navigation-dropdown-menu gem-c-layout-super-navigation-header__navigation-dropdown-menu--large-navbar\">",
+          "html": "<div id=\"super-navigation-menu\" hidden=\"hidden\" class=\"gem-c-layout-super-navigation-header__navigation-dropdown-menu\">",
           "target": [
             "#super-navigation-menu"
           ]
@@ -6336,7 +6532,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div id=\"super-search-menu\" hidden=\"hidden\" class=\"gem-c-layout-super-navigation-header__navigation-dropdown-menu gem-c-layout-super-navigation-header__navigation-dropdown-menu--large-navbar\">",
+          "html": "<div id=\"super-search-menu\" hidden=\"hidden\" class=\"gem-c-layout-super-navigation-header__navigation-dropdown-menu\">",
           "target": [
             "#super-search-menu"
           ]
@@ -6345,7 +6541,7 @@
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "search-main-2cd39099",
+              "data": "search-main-08165166",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -6354,16 +6550,16 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-2cd39099__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-2cd39099__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-2cd39099\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-08165166__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-08165166__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-08165166\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-2cd39099"
+            "#search-main-08165166"
           ]
         },
         {
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "search-main-2cd39099__listbox",
+              "data": "search-main-08165166__listbox",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -6372,16 +6568,16 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<ul aria-labelledby=\"search-main-2cd39099\" id=\"search-main-2cd39099__listbox\" role=\"listbox\" class=\"gem-c-search-with-autocomplete__menu gem-c-search-with-autocomplete__menu--inline gem-c-search-with-autocomplete__menu--hidden\"></ul>",
+          "html": "<ul aria-labelledby=\"search-main-08165166\" id=\"search-main-08165166__listbox\" role=\"listbox\" class=\"gem-c-search-with-autocomplete__menu gem-c-search-with-autocomplete__menu--inline gem-c-search-with-autocomplete__menu--hidden\"></ul>",
           "target": [
-            "#search-main-2cd39099__listbox"
+            "#search-main-08165166__listbox"
           ]
         },
         {
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "search-main-2cd39099__assistiveHint",
+              "data": "search-main-08165166__assistiveHint",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -6390,16 +6586,16 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span id=\"search-main-2cd39099__assistiveHint\" style=\"display: none;\">When search suggestions are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.</span>",
+          "html": "<span id=\"search-main-08165166__assistiveHint\" style=\"display: none;\">When search suggestions are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.</span>",
           "target": [
-            "#search-main-2cd39099__assistiveHint"
+            "#search-main-08165166__assistiveHint"
           ]
         },
         {
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "search-main-1d73e34f",
+              "data": "search-main-c0debfc5",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -6408,16 +6604,16 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-1d73e34f__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-1d73e34f__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-1d73e34f\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-1d73e34f"
+            "#search-main-c0debfc5"
           ]
         },
         {
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "search-main-1d73e34f__listbox",
+              "data": "search-main-c0debfc5__listbox",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -6426,16 +6622,16 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<ul aria-labelledby=\"search-main-1d73e34f\" id=\"search-main-1d73e34f__listbox\" role=\"listbox\" class=\"gem-c-search-with-autocomplete__menu gem-c-search-with-autocomplete__menu--inline gem-c-search-with-autocomplete__menu--hidden\"></ul>",
+          "html": "<ul aria-labelledby=\"search-main-c0debfc5\" id=\"search-main-c0debfc5__listbox\" role=\"listbox\" class=\"gem-c-search-with-autocomplete__menu gem-c-search-with-autocomplete__menu--inline gem-c-search-with-autocomplete__menu--hidden\"></ul>",
           "target": [
-            "#search-main-1d73e34f__listbox"
+            "#search-main-c0debfc5__listbox"
           ]
         },
         {
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "search-main-1d73e34f__assistiveHint",
+              "data": "search-main-c0debfc5__assistiveHint",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -6444,9 +6640,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span id=\"search-main-1d73e34f__assistiveHint\" style=\"display: none;\">When search suggestions are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.</span>",
+          "html": "<span id=\"search-main-c0debfc5__assistiveHint\" style=\"display: none;\">When search suggestions are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.</span>",
           "target": [
-            "#search-main-1d73e34f__assistiveHint"
+            "#search-main-c0debfc5__assistiveHint"
           ]
         },
         {
@@ -6507,7 +6703,7 @@
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "textarea-6fd203fb",
+              "data": "textarea-533b4749",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -6516,16 +6712,16 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<textarea name=\"what_doing\" class=\"govuk-textarea\" id=\"textarea-6fd203fb\" rows=\"3\" spellcheck=\"true\" aria-describedby=\"feedback_explanation\"></textarea>",
+          "html": "<textarea name=\"what_doing\" class=\"govuk-textarea\" id=\"textarea-533b4749\" rows=\"3\" spellcheck=\"true\" aria-describedby=\"feedback_explanation\"></textarea>",
           "target": [
-            "#textarea-6fd203fb"
+            "#textarea-533b4749"
           ]
         },
         {
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "textarea-8f7a42ad",
+              "data": "textarea-b94a0aa4",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -6534,9 +6730,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<textarea name=\"what_wrong\" class=\"govuk-textarea\" id=\"textarea-8f7a42ad\" rows=\"3\" spellcheck=\"true\"></textarea>",
+          "html": "<textarea name=\"what_wrong\" class=\"govuk-textarea\" id=\"textarea-b94a0aa4\" rows=\"3\" spellcheck=\"true\"></textarea>",
           "target": [
-            "#textarea-8f7a42ad"
+            "#textarea-b94a0aa4"
           ]
         },
         {
@@ -6584,7 +6780,7 @@
               "data": null,
               "relatedNodes": [
                 {
-                  "html": "<label for=\"search-main-1d73e34f\" class=\"govuk-label govuk-label--s gem-c-search__label--white govuk-!-margin-bottom-3\">Search</label>",
+                  "html": "<label for=\"search-main-c0debfc5\" class=\"govuk-label govuk-label--s gem-c-search__label--white govuk-!-margin-bottom-3\">Search</label>",
                   "target": [
                     ".govuk-label--s"
                   ]
@@ -6595,9 +6791,9 @@
             }
           ],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-1d73e34f__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-1d73e34f__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-1d73e34f\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-1d73e34f"
+            "#search-main-c0debfc5"
           ]
         }
       ]
@@ -6632,7 +6828,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<html class=\"govuk-template\" lang=\"en\">",
+          "html": "<html class=\"govuk-template govuk-template--rebranded\" lang=\"en\">",
           "target": [
             "html"
           ]
@@ -6669,7 +6865,7 @@
             }
           ],
           "impact": null,
-          "html": "<html class=\"govuk-template\" lang=\"en\">",
+          "html": "<html class=\"govuk-template govuk-template--rebranded\" lang=\"en\">",
           "target": [
             "html"
           ]
@@ -6726,7 +6922,7 @@
             }
           ],
           "impact": null,
-          "html": "<img class=\"gem-c-image-card__image\" alt=\"\" loading=\"lazy\" height=\"90\" width=\"90\" src=\"/assets/frontend/homepage/find-a-job-4d38717b0451da3bb223ddea7f681d79e48c1c022da5a08f16aba3f681503150.png\">",
+          "html": "<img class=\"gem-c-image-card__image\" alt=\"\" loading=\"lazy\" height=\"90\" width=\"90\" src=\"/assets/frontend/homepage/brand-refresh-featured-11c31a41d51f3d0272789a8853bfe3cfd71fb96a64f0df09be6a5b0a18081000.png\">",
           "target": [
             ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(2) > figure > img"
           ]
@@ -6761,7 +6957,7 @@
             }
           ],
           "impact": null,
-          "html": "<img class=\"gem-c-image-card__image\" alt=\"\" loading=\"lazy\" height=\"90\" width=\"90\" src=\"/assets/frontend/homepage/national-insurance-featured-7169e3631b639dcfc7be22469daf155ad0aa7516143ff8cf2e6f95ba29c8656c.png\">",
+          "html": "<img class=\"gem-c-image-card__image\" alt=\"\" loading=\"lazy\" height=\"90\" width=\"90\" src=\"/assets/frontend/homepage/find-a-job-4d38717b0451da3bb223ddea7f681d79e48c1c022da5a08f16aba3f681503150.png\">",
           "target": [
             ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(3) > figure > img"
           ]
@@ -6796,7 +6992,7 @@
             }
           ],
           "impact": null,
-          "html": "<img class=\"gem-c-image-card__image\" alt=\"\" loading=\"lazy\" height=\"90\" width=\"90\" src=\"/assets/frontend/homepage/cost-of-living-featured-4cd41cec449e0bd47e707812a5c3b5c52726bed0acb4f31c9b66548cc6ff6309.png\">",
+          "html": "<img class=\"gem-c-image-card__image\" alt=\"\" loading=\"lazy\" height=\"90\" width=\"90\" src=\"/assets/frontend/homepage/national-insurance-featured-7169e3631b639dcfc7be22469daf155ad0aa7516143ff8cf2e6f95ba29c8656c.png\">",
           "target": [
             ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(4) > figure > img"
           ]
@@ -6831,7 +7027,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<label for=\"search-main-1d73e34f\" class=\"govuk-label govuk-label--s gem-c-search__label--white govuk-!-margin-bottom-3\">Search</label>",
+                  "html": "<label for=\"search-main-c0debfc5\" class=\"govuk-label govuk-label--s gem-c-search__label--white govuk-!-margin-bottom-3\">Search</label>",
                   "target": [
                     ".govuk-label--s"
                   ]
@@ -6852,9 +7048,9 @@
             }
           ],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-1d73e34f__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-1d73e34f__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-1d73e34f\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-1d73e34f"
+            "#search-main-c0debfc5"
           ]
         }
       ]
@@ -7017,7 +7213,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-header__link govuk-header__link--homepage gem-c-header__link--large-navbar\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;external&quot;:&quot;false&quot;,&quot;text&quot;:&quot;GOV.UK&quot;,&quot;section&quot;:&quot;Logo&quot;,&quot;index_link&quot;:1,&quot;index_section&quot;:0,&quot;index_section_count&quot;:2,&quot;index_total&quot;:1}\" id=\"logo\" aria-label=\"Go to the GOV.UK homepage\" href=\"https://www.gov.uk\">",
+          "html": "<a class=\"govuk-header__link govuk-header__link--homepage\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;external&quot;:&quot;false&quot;,&quot;text&quot;:&quot;GOV.UK&quot;,&quot;section&quot;:&quot;Logo&quot;,&quot;index_link&quot;:1,&quot;index_section&quot;:0,&quot;index_section_count&quot;:2,&quot;index_total&quot;:1}\" id=\"logo\" aria-label=\"Go to the GOV.UK homepage\" href=\"https://www.gov.uk\">",
           "target": [
             "#logo"
           ]
@@ -7615,6 +7811,32 @@
             }
           ],
           "impact": null,
+          "html": "<a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/guidance/changes-to-govuk\">Changes to GOV.UK</a>",
+          "target": [
+            "a[href$=\"changes-to-govuk\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "has-visible-text",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has text that is visible to screen readers"
+            }
+          ],
+          "all": [],
+          "none": [
+            {
+              "id": "focusable-no-name",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element is not in tab order or has accessible text"
+            }
+          ],
+          "impact": null,
           "html": "<a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/find-a-job\">Find a job</a>",
           "target": [
             "a[href$=\"find-a-job\"]"
@@ -7643,33 +7865,7 @@
           "impact": null,
           "html": "<a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/check-national-insurance-record\">National Insurance</a>",
           "target": [
-            ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(3) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__header-and-context-wrapper > .gem-c-image-card__title.govuk-heading-s > .gem-c-image-card__title-link.gem-c-image-card__title-link--large-font-size-mobile.gem-c-force-print-link-styles"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has text that is visible to screen readers"
-            }
-          ],
-          "all": [],
-          "none": [
-            {
-              "id": "focusable-no-name",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element is not in tab order or has accessible text"
-            }
-          ],
-          "impact": null,
-          "html": "<a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/cost-of-living\">Cost of living support</a>",
-          "target": [
-            "a[href$=\"cost-of-living\"]"
+            ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(4) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__header-and-context-wrapper > .gem-c-image-card__title.govuk-heading-s > .gem-c-image-card__title-link.gem-c-image-card__title-link--large-font-size-mobile.gem-c-force-print-link-styles"
           ]
         },
         {
@@ -10546,7 +10742,25 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button aria-controls=\"super-navigation-menu\" aria-expanded=\"false\" aria-label=\"Show navigation menu\" class=\"gem-c-layout-super-navigation-header__navigation-top-toggle-button gem-c-layout-super-navigation-header__navigation-top-toggle-button--blue-background gem-c-layout-super-navigation-header__navigation-top-toggle-button--large-navbar\" data-text-for-hide=\"Hide navigation menu\" data-text-for-show=\"Show navigation menu\" data-toggle-desktop-group=\"top\" data-toggle-mobile-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Menu&quot;,&quot;index_section&quot;:1,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Menu&quot;}\" id=\"super-navigation-menu-toggle\" type=\"button\">",
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" role=\"img\" viewBox=\"0 0 324 60\" height=\"30\" width=\"162\" fill=\"currentcolor\" class=\"govuk-header__logotype\" aria-label=\"GOV.UK\">",
+          "target": [
+            ".govuk-header__logotype"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "no-focusable-content",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element does not have focusable descendants"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button aria-controls=\"super-navigation-menu\" aria-expanded=\"false\" aria-label=\"Show navigation menu\" class=\"gem-c-layout-super-navigation-header__navigation-top-toggle-button\" data-text-for-hide=\"Hide navigation menu\" data-text-for-show=\"Show navigation menu\" data-toggle-desktop-group=\"top\" data-toggle-mobile-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Menu&quot;,&quot;index_section&quot;:1,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Menu&quot;}\" id=\"super-navigation-menu-toggle\" type=\"button\">",
           "target": [
             "#super-navigation-menu-toggle"
           ]
@@ -10564,7 +10778,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button id=\"super-search-menu-toggle\" class=\"gem-c-layout-super-navigation-header__search-toggle-button gem-c-layout-super-navigation-header__search-toggle-button--blue-background gem-c-layout-super-navigation-header__search-toggle-button--large-navbar\" aria-controls=\"super-search-menu\" aria-expanded=\"false\" aria-label=\"Show search menu\" data-text-for-hide=\"Hide search menu\" data-text-for-show=\"Show search menu\" data-toggle-mobile-group=\"top\" data-toggle-desktop-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Search&quot;,&quot;index_section&quot;:2,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Search&quot;}\" type=\"button\">",
+          "html": "<button id=\"super-search-menu-toggle\" class=\"gem-c-layout-super-navigation-header__search-toggle-button\" aria-controls=\"super-search-menu\" aria-expanded=\"false\" aria-label=\"Show search menu\" data-text-for-hide=\"Hide search menu\" data-text-for-show=\"Show search menu\" data-toggle-mobile-group=\"top\" data-toggle-desktop-group=\"top\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;header menu bar&quot;,&quot;text&quot;:&quot;Search&quot;,&quot;index_section&quot;:2,&quot;index_section_count&quot;:2,&quot;section&quot;:&quot;Search&quot;}\" type=\"button\">",
           "target": [
             "#super-search-menu-toggle"
           ]
@@ -10692,9 +10906,55 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<html class=\"govuk-template\" lang=\"en\">",
+          "html": "<html class=\"govuk-template govuk-template--rebranded\" lang=\"en\">",
           "target": [
             "html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "svg-img-alt",
+      "impact": null,
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag111",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT7.a",
+        "EN-301-549",
+        "EN-9.1.1.1",
+        "ACT"
+      ],
+      "description": "Ensure <svg> elements with an img, graphics-document or graphics-symbol role have an accessible text",
+      "help": "<svg> elements with an img role must have an alternative text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/svg-img-alt?application=playwright",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "svg-non-empty-title",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has a child that is a title"
+            },
+            {
+              "id": "aria-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "aria-label attribute exists and is not empty"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" role=\"img\" viewBox=\"0 0 324 60\" height=\"30\" width=\"162\" fill=\"currentcolor\" class=\"govuk-header__logotype\" aria-label=\"GOV.UK\">",
+          "target": [
+            ".govuk-header__logotype"
           ]
         }
       ]
@@ -10737,58 +10997,6 @@
       ]
     }
   ],
-  "incomplete": [
-    {
-      "id": "color-contrast",
-      "impact": "serious",
-      "tags": [
-        "cat.color",
-        "wcag2aa",
-        "wcag143",
-        "TTv5",
-        "TT13.c",
-        "EN-301-549",
-        "EN-9.1.4.3",
-        "ACT"
-      ],
-      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
-      "help": "Elements must meet minimum color contrast ratio thresholds",
-      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=playwright",
-      "nodes": [
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "contrastRatio": 0,
-                "fontSize": "14.3pt (19px)",
-                "fontWeight": "normal",
-                "messageKey": "bgImage",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [
-                {
-                  "html": "<a class=\"govuk-footer__link govuk-footer__copyright-logo\" href=\"https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/\">© Crown copyright</a>",
-                  "target": [
-                    ".govuk-footer__copyright-logo"
-                  ]
-                }
-              ],
-              "impact": "serious",
-              "message": "Element's background color could not be determined due to a background image"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "serious",
-          "html": "<a class=\"govuk-footer__link govuk-footer__copyright-logo\" href=\"https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/\">© Crown copyright</a>",
-          "target": [
-            ".govuk-footer__copyright-logo"
-          ],
-          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background image"
-        }
-      ]
-    }
-  ],
+  "incomplete": [],
   "violations": []
 }

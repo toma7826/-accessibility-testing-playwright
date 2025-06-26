@@ -24,7 +24,10 @@ const websites = [
   { name: 'Apple', url: 'https://www.apple.com/uk/' },
   { name: 'Google Search', url: 'https://www.google.com/' },
   { name: 'Pinterest', url: 'https://www.pinterest.co.uk/' },
-  { name: 'Coursera', url: 'https://www.coursera.org/' }
+  { name: 'Coursera', url: 'https://www.coursera.org/' },
+  { name: 'MS Team', url: 'https://www.microsoft.com/en-gb/microsoft-teams/group-chat-software' },
+  { name: 'Open Office', url: 'https://www.openoffice.org/' },
+  { name: 'Share Drive', url: 'https://sharedrive.co/' }
 ];
 
 test.describe('Accessibility Tests', () => {

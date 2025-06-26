@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-06-21T22:53:36.543Z",
+  "timestamp": "2025-06-26T21:06:54.986Z",
   "url": "https://www.facebook.com/",
   "toolOptions": {
     "runOnly": {
@@ -748,9 +748,9 @@
             }
           ],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_kx\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4M\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_kx"
+            "#u_0_j_4M"
           ]
         },
         {
@@ -930,35 +930,9 @@
             }
           ],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_4_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_5_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_4_"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-allowed-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attributes are used correctly for the defined role"
-            }
-          ],
-          "none": [
-            {
-              "id": "aria-unsupported-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_6_\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            "#_r_6_"
+            "#_r_5_"
           ]
         },
         {
@@ -1008,9 +982,9 @@
             }
           ],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_a_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_b_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_a_"
+            "#_r_b_"
           ]
         },
         {
@@ -1034,9 +1008,35 @@
             }
           ],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_c_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_e_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_c_"
+            "#_r_e_"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-allowed-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attributes are used correctly for the defined role"
+            }
+          ],
+          "none": [
+            {
+              "id": "aria-unsupported-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute is supported"
+            }
+          ],
+          "impact": null,
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_h_\" role=\"button\" tabindex=\"0\">",
+          "target": [
+            "#_r_h_"
           ]
         },
         {
@@ -1259,27 +1259,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_4_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_5_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_4_"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has text that is visible to screen readers"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_6_\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            "#_r_6_"
+            "#_r_5_"
           ]
         },
         {
@@ -1313,9 +1295,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_a_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_b_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_a_"
+            "#_r_b_"
           ]
         },
         {
@@ -1331,9 +1313,27 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_c_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_e_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_c_"
+            "#_r_e_"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "has-visible-text",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has text that is visible to screen readers"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_h_\" role=\"button\" tabindex=\"0\">",
+          "target": [
+            "#_r_h_"
           ]
         },
         {
@@ -1487,9 +1487,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_kx\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4M\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_kx"
+            "#u_0_j_4M"
           ]
         },
         {
@@ -1613,27 +1613,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_4_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_5_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_4_"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-conditional-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_6_\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            "#_r_6_"
+            "#_r_5_"
           ]
         },
         {
@@ -1667,9 +1649,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_a_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_b_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_a_"
+            "#_r_b_"
           ]
         },
         {
@@ -1685,9 +1667,27 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_c_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_e_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_c_"
+            "#_r_e_"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-conditional-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "ARIA attribute is allowed"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_h_\" role=\"button\" tabindex=\"0\">",
+          "target": [
+            "#_r_h_"
           ]
         },
         {
@@ -1773,9 +1773,9 @@
             }
           ],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_yQ\" data-testid=\"open-registration-form-button\">Create new account</a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_ni\" data-testid=\"open-registration-form-button\">Create new account</a>",
           "target": [
-            "#u_0_0_yQ"
+            "#u_0_0_ni"
           ]
         },
         {
@@ -1791,7 +1791,7 @@
             }
           ],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _517i _517h _51sy\" rel=\"dialog\" ajaxify=\"/settings/language/language/?uri=https%3A%2F%2Far-ar.facebook.com%2F&amp;source=www_list_selector_more\" href=\"#\" title=\"Show more languages\"><i class=\"img sp_GPvE0syHYuh sx_8e0301\"></i></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _517i _517h _51sy\" rel=\"dialog\" ajaxify=\"/settings/language/language/?uri=https%3A%2F%2Far-ar.facebook.com%2F&amp;source=www_list_selector_more\" href=\"#\" title=\"Show more languages\"><i class=\"img sp__ldT1fDU70I sx_fb08b8\"></i></a>",
           "target": [
             "._517i"
           ]
@@ -1845,9 +1845,9 @@
             }
           ],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_kx\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4M\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_kx"
+            "#u_0_j_4M"
           ]
         },
         {
@@ -2295,9 +2295,9 @@
             }
           ],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_4_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_5_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_4_"
+            "#_r_5_"
           ]
         },
         {
@@ -2315,43 +2315,7 @@
           "impact": null,
           "html": "<div class=\"x1ey2m1c xtijo5x x1o0tod xg01cxk x47corl x10l6tqk x13vifvy x1ebt8du x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh\" role=\"none\" data-visualcompletion=\"ignore\"></div>",
           "target": [
-            "#_r_4_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "deprecatedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "minor",
-              "message": "ARIA role is not deprecated"
-            }
-          ],
-          "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_6_\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            "#_r_6_"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "deprecatedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "minor",
-              "message": "ARIA role is not deprecated"
-            }
-          ],
-          "impact": null,
-          "html": "<div class=\"x1ey2m1c xtijo5x x1o0tod xg01cxk x47corl x10l6tqk x13vifvy x1ebt8du x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh\" role=\"none\" data-visualcompletion=\"ignore\"></div>",
-          "target": [
-            "#_r_6_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
+            "#_r_5_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
           ]
         },
         {
@@ -2403,9 +2367,9 @@
             }
           ],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_a_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_b_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_a_"
+            "#_r_b_"
           ]
         },
         {
@@ -2423,7 +2387,7 @@
           "impact": null,
           "html": "<div class=\"x1ey2m1c xtijo5x x1o0tod xg01cxk x47corl x10l6tqk x13vifvy x1ebt8du x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh\" role=\"none\" data-visualcompletion=\"ignore\"></div>",
           "target": [
-            "#_r_a_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
+            "#_r_b_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
           ]
         },
         {
@@ -2439,9 +2403,9 @@
             }
           ],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_c_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_e_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_c_"
+            "#_r_e_"
           ]
         },
         {
@@ -2459,7 +2423,43 @@
           "impact": null,
           "html": "<div class=\"x1ey2m1c xtijo5x x1o0tod xg01cxk x47corl x10l6tqk x13vifvy x1ebt8du x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh\" role=\"none\" data-visualcompletion=\"ignore\"></div>",
           "target": [
-            "#_r_c_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
+            "#_r_e_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "deprecatedrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "ARIA role is not deprecated"
+            }
+          ],
+          "impact": null,
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_h_\" role=\"button\" tabindex=\"0\">",
+          "target": [
+            "#_r_h_"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "deprecatedrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "ARIA role is not deprecated"
+            }
+          ],
+          "impact": null,
+          "html": "<div class=\"x1ey2m1c xtijo5x x1o0tod xg01cxk x47corl x10l6tqk x13vifvy x1ebt8du x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh\" role=\"none\" data-visualcompletion=\"ignore\"></div>",
+          "target": [
+            "#_r_h_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
           ]
         },
         {
@@ -2689,7 +2689,7 @@
           "impact": null,
           "html": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"currentColor\" aria-hidden=\"true\" class=\"xfx01vb x1lliihq x1tzjh5l x1k90msu x2h7rmj x1qfuztq\" style=\"--color: var(--secondary-icon);\">",
           "target": [
-            "svg"
+            "svg[viewBox=\"0 0 24 24\"]"
           ]
         },
         {
@@ -2719,9 +2719,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<i data-visualcompletion=\"css-img\" class=\"x1b0d499 x1d69dk1 sp_9DWmRT_sKgZ sx_156d94\" aria-hidden=\"true\"></i>",
+          "html": "<svg viewBox=\"0 0 20 20\" width=\"20\" height=\"20\" fill=\"currentColor\" aria-hidden=\"true\" class=\"xfx01vb x1lliihq x1tzjh5l x1k90msu x2h7rmj x1qfuztq\" style=\"--color: var(--secondary-icon);\">",
           "target": [
-            "#_r_2_ > .xsag5q8.xz9dl7a.xp1r0qw > .x1qughib.xozqiw3.x1q0g3np > .xeuugli.x2lah0s.xdt5ytf > .x1icxu4v.x25sj25.x10b6aqq > .x1d69dk1.sx_156d94.x1b0d499"
+            "#_r_2_ > .xsag5q8.xz9dl7a.xp1r0qw > .x1qughib.xozqiw3.x1q0g3np > .xeuugli.x2lah0s.xdt5ytf > .x1icxu4v.x25sj25.x10b6aqq > svg[viewBox=\"0 0 20 20\"][width=\"20\"][height=\"20\"]"
           ]
         },
         {
@@ -2751,9 +2751,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<i data-visualcompletion=\"css-img\" class=\"x1b0d499 x1d69dk1 sp_9DWmRT_sKgZ sx_156d94\" aria-hidden=\"true\"></i>",
+          "html": "<svg viewBox=\"0 0 20 20\" width=\"20\" height=\"20\" fill=\"currentColor\" aria-hidden=\"true\" class=\"xfx01vb x1lliihq x1tzjh5l x1k90msu x2h7rmj x1qfuztq\" style=\"--color: var(--secondary-icon);\">",
           "target": [
-            "#_r_4_ > .xsag5q8.xz9dl7a.xp1r0qw > .x1qughib.xozqiw3.x1q0g3np > .xeuugli.x2lah0s.xdt5ytf > .x1icxu4v.x25sj25.x10b6aqq > .x1d69dk1.sx_156d94.x1b0d499"
+            "#_r_5_ > .xsag5q8.xz9dl7a.xp1r0qw > .x1qughib.xozqiw3.x1q0g3np > .xeuugli.x2lah0s.xdt5ytf > .x1icxu4v.x25sj25.x10b6aqq > svg[viewBox=\"0 0 20 20\"][width=\"20\"][height=\"20\"]"
           ]
         },
         {
@@ -2783,9 +2783,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<i data-visualcompletion=\"css-img\" class=\"x1b0d499 x1d69dk1 sp_9DWmRT_sKgZ sx_156d94\" aria-hidden=\"true\"></i>",
+          "html": "<svg viewBox=\"0 0 20 20\" width=\"20\" height=\"20\" fill=\"currentColor\" aria-hidden=\"true\" class=\"xfx01vb x1lliihq x1tzjh5l x1k90msu x2h7rmj x1qfuztq\" style=\"--color: var(--secondary-icon);\">",
           "target": [
-            "#_r_6_ > .xsag5q8.xz9dl7a.xp1r0qw > .x1qughib.xozqiw3.x1q0g3np > .xeuugli.x2lah0s.xdt5ytf > .x1icxu4v.x25sj25.x10b6aqq > .x1d69dk1.sx_156d94.x1b0d499"
+            "#_r_8_ > .xsag5q8.xz9dl7a.xp1r0qw > .x1qughib.xozqiw3.x1q0g3np > .xeuugli.x2lah0s.xdt5ytf > .x1icxu4v.x25sj25.x10b6aqq > svg[viewBox=\"0 0 20 20\"][width=\"20\"][height=\"20\"]"
           ]
         },
         {
@@ -2815,9 +2815,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<i data-visualcompletion=\"css-img\" class=\"x1b0d499 x1d69dk1 sp_9DWmRT_sKgZ sx_156d94\" aria-hidden=\"true\"></i>",
+          "html": "<svg viewBox=\"0 0 20 20\" width=\"20\" height=\"20\" fill=\"currentColor\" aria-hidden=\"true\" class=\"xfx01vb x1lliihq x1tzjh5l x1k90msu x2h7rmj x1qfuztq\" style=\"--color: var(--secondary-icon);\">",
           "target": [
-            "#_r_8_ > .xsag5q8.xz9dl7a.xp1r0qw > .x1qughib.xozqiw3.x1q0g3np > .xeuugli.x2lah0s.xdt5ytf > .x1icxu4v.x25sj25.x10b6aqq > .x1d69dk1.sx_156d94.x1b0d499"
+            "#_r_b_ > .xsag5q8.xz9dl7a.xp1r0qw > .x1qughib.xozqiw3.x1q0g3np > .xeuugli.x2lah0s.xdt5ytf > .x1icxu4v.x25sj25.x10b6aqq > svg[viewBox=\"0 0 20 20\"][width=\"20\"][height=\"20\"]"
           ]
         },
         {
@@ -2847,9 +2847,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<i data-visualcompletion=\"css-img\" class=\"x1b0d499 x1d69dk1 sp_9DWmRT_sKgZ sx_156d94\" aria-hidden=\"true\"></i>",
+          "html": "<svg viewBox=\"0 0 20 20\" width=\"20\" height=\"20\" fill=\"currentColor\" aria-hidden=\"true\" class=\"xfx01vb x1lliihq x1tzjh5l x1k90msu x2h7rmj x1qfuztq\" style=\"--color: var(--secondary-icon);\">",
           "target": [
-            "#_r_a_ > .xsag5q8.xz9dl7a.xp1r0qw > .x1qughib.xozqiw3.x1q0g3np > .xeuugli.x2lah0s.xdt5ytf > .x1icxu4v.x25sj25.x10b6aqq > .x1d69dk1.sx_156d94.x1b0d499"
+            "#_r_e_ > .xsag5q8.xz9dl7a.xp1r0qw > .x1qughib.xozqiw3.x1q0g3np > .xeuugli.x2lah0s.xdt5ytf > .x1icxu4v.x25sj25.x10b6aqq > svg[viewBox=\"0 0 20 20\"][width=\"20\"][height=\"20\"]"
           ]
         },
         {
@@ -2879,9 +2879,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<i data-visualcompletion=\"css-img\" class=\"x1b0d499 x1d69dk1 sp_9DWmRT_sKgZ sx_156d94\" aria-hidden=\"true\"></i>",
+          "html": "<svg viewBox=\"0 0 20 20\" width=\"20\" height=\"20\" fill=\"currentColor\" aria-hidden=\"true\" class=\"xfx01vb x1lliihq x1tzjh5l x1k90msu x2h7rmj x1qfuztq\" style=\"--color: var(--secondary-icon);\">",
           "target": [
-            "#_r_c_ > .xsag5q8.xz9dl7a.xp1r0qw > .x1qughib.xozqiw3.x1q0g3np > .xeuugli.x2lah0s.xdt5ytf > .x1icxu4v.x25sj25.x10b6aqq > .x1d69dk1.sx_156d94.x1b0d499"
+            "#_r_h_ > .xsag5q8.xz9dl7a.xp1r0qw > .x1qughib.xozqiw3.x1q0g3np > .xeuugli.x2lah0s.xdt5ytf > .x1icxu4v.x25sj25.x10b6aqq > svg[viewBox=\"0 0 20 20\"][width=\"20\"][height=\"20\"]"
           ]
         },
         {
@@ -3049,9 +3049,9 @@
             }
           ],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_kx\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4M\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_kx"
+            "#u_0_j_4M"
           ]
         },
         {
@@ -3175,27 +3175,9 @@
             }
           ],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_4_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_5_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_4_"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "aria-prohibited-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_6_\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            "#_r_6_"
+            "#_r_5_"
           ]
         },
         {
@@ -3229,9 +3211,9 @@
             }
           ],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_a_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_b_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_a_"
+            "#_r_b_"
           ]
         },
         {
@@ -3247,9 +3229,27 @@
             }
           ],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_c_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_e_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_c_"
+            "#_r_e_"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "aria-prohibited-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "ARIA attribute is allowed"
+            }
+          ],
+          "impact": null,
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_h_\" role=\"button\" tabindex=\"0\">",
+          "target": [
+            "#_r_h_"
           ]
         },
         {
@@ -3335,9 +3335,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_yQ\" data-testid=\"open-registration-form-button\">Create new account</a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_ni\" data-testid=\"open-registration-form-button\">Create new account</a>",
           "target": [
-            "#u_0_0_yQ"
+            "#u_0_0_ni"
           ]
         },
         {
@@ -3353,7 +3353,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _517i _517h _51sy\" rel=\"dialog\" ajaxify=\"/settings/language/language/?uri=https%3A%2F%2Far-ar.facebook.com%2F&amp;source=www_list_selector_more\" href=\"#\" title=\"Show more languages\"><i class=\"img sp_GPvE0syHYuh sx_8e0301\"></i></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _517i _517h _51sy\" rel=\"dialog\" ajaxify=\"/settings/language/language/?uri=https%3A%2F%2Far-ar.facebook.com%2F&amp;source=www_list_selector_more\" href=\"#\" title=\"Show more languages\"><i class=\"img sp__ldT1fDU70I sx_fb08b8\"></i></a>",
           "target": [
             "._517i"
           ]
@@ -3407,9 +3407,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_kx\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4M\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_kx"
+            "#u_0_j_4M"
           ]
         },
         {
@@ -3857,9 +3857,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_4_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_5_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_4_"
+            "#_r_5_"
           ]
         },
         {
@@ -3877,43 +3877,7 @@
           "impact": null,
           "html": "<div class=\"x1ey2m1c xtijo5x x1o0tod xg01cxk x47corl x10l6tqk x13vifvy x1ebt8du x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh\" role=\"none\" data-visualcompletion=\"ignore\"></div>",
           "target": [
-            "#_r_4_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-required-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "All required ARIA attributes are present"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_6_\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            "#_r_6_"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-required-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "All required ARIA attributes are present"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"x1ey2m1c xtijo5x x1o0tod xg01cxk x47corl x10l6tqk x13vifvy x1ebt8du x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh\" role=\"none\" data-visualcompletion=\"ignore\"></div>",
-          "target": [
-            "#_r_6_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
+            "#_r_5_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
           ]
         },
         {
@@ -3965,9 +3929,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_a_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_b_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_a_"
+            "#_r_b_"
           ]
         },
         {
@@ -3985,7 +3949,7 @@
           "impact": null,
           "html": "<div class=\"x1ey2m1c xtijo5x x1o0tod xg01cxk x47corl x10l6tqk x13vifvy x1ebt8du x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh\" role=\"none\" data-visualcompletion=\"ignore\"></div>",
           "target": [
-            "#_r_a_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
+            "#_r_b_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
           ]
         },
         {
@@ -4001,9 +3965,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_c_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_e_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_c_"
+            "#_r_e_"
           ]
         },
         {
@@ -4021,7 +3985,43 @@
           "impact": null,
           "html": "<div class=\"x1ey2m1c xtijo5x x1o0tod xg01cxk x47corl x10l6tqk x13vifvy x1ebt8du x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh\" role=\"none\" data-visualcompletion=\"ignore\"></div>",
           "target": [
-            "#_r_c_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
+            "#_r_e_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-required-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "All required ARIA attributes are present"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_h_\" role=\"button\" tabindex=\"0\">",
+          "target": [
+            "#_r_h_"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-required-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "All required ARIA attributes are present"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div class=\"x1ey2m1c xtijo5x x1o0tod xg01cxk x47corl x10l6tqk x13vifvy x1ebt8du x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh\" role=\"none\" data-visualcompletion=\"ignore\"></div>",
+          "target": [
+            "#_r_h_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
           ]
         },
         {
@@ -4243,9 +4243,9 @@
             }
           ],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_yQ\" data-testid=\"open-registration-form-button\">Create new account</a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_ni\" data-testid=\"open-registration-form-button\">Create new account</a>",
           "target": [
-            "#u_0_0_yQ"
+            "#u_0_0_ni"
           ]
         },
         {
@@ -4275,7 +4275,7 @@
             }
           ],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _517i _517h _51sy\" rel=\"dialog\" ajaxify=\"/settings/language/language/?uri=https%3A%2F%2Far-ar.facebook.com%2F&amp;source=www_list_selector_more\" href=\"#\" title=\"Show more languages\"><i class=\"img sp_GPvE0syHYuh sx_8e0301\"></i></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _517i _517h _51sy\" rel=\"dialog\" ajaxify=\"/settings/language/language/?uri=https%3A%2F%2Far-ar.facebook.com%2F&amp;source=www_list_selector_more\" href=\"#\" title=\"Show more languages\"><i class=\"img sp__ldT1fDU70I sx_fb08b8\"></i></a>",
           "target": [
             "._517i"
           ]
@@ -4371,9 +4371,9 @@
             }
           ],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_kx\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4M\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_kx"
+            "#u_0_j_4M"
           ]
         },
         {
@@ -5171,9 +5171,9 @@
             }
           ],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_4_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_5_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_4_"
+            "#_r_5_"
           ]
         },
         {
@@ -5205,71 +5205,7 @@
           "impact": null,
           "html": "<div class=\"x1ey2m1c xtijo5x x1o0tod xg01cxk x47corl x10l6tqk x13vifvy x1ebt8du x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh\" role=\"none\" data-visualcompletion=\"ignore\"></div>",
           "target": [
-            "#_r_4_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "invalidrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is valid"
-            },
-            {
-              "id": "abstractrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Abstract roles are not used"
-            },
-            {
-              "id": "unsupportedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_6_\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            "#_r_6_"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "invalidrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is valid"
-            },
-            {
-              "id": "abstractrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Abstract roles are not used"
-            },
-            {
-              "id": "unsupportedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div class=\"x1ey2m1c xtijo5x x1o0tod xg01cxk x47corl x10l6tqk x13vifvy x1ebt8du x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh\" role=\"none\" data-visualcompletion=\"ignore\"></div>",
-          "target": [
-            "#_r_6_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
+            "#_r_5_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
           ]
         },
         {
@@ -5363,9 +5299,9 @@
             }
           ],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_a_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_b_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_a_"
+            "#_r_b_"
           ]
         },
         {
@@ -5397,7 +5333,7 @@
           "impact": null,
           "html": "<div class=\"x1ey2m1c xtijo5x x1o0tod xg01cxk x47corl x10l6tqk x13vifvy x1ebt8du x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh\" role=\"none\" data-visualcompletion=\"ignore\"></div>",
           "target": [
-            "#_r_a_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
+            "#_r_b_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
           ]
         },
         {
@@ -5427,9 +5363,9 @@
             }
           ],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_c_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_e_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_c_"
+            "#_r_e_"
           ]
         },
         {
@@ -5461,7 +5397,71 @@
           "impact": null,
           "html": "<div class=\"x1ey2m1c xtijo5x x1o0tod xg01cxk x47corl x10l6tqk x13vifvy x1ebt8du x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh\" role=\"none\" data-visualcompletion=\"ignore\"></div>",
           "target": [
-            "#_r_c_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
+            "#_r_e_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "invalidrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA role is valid"
+            },
+            {
+              "id": "abstractrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Abstract roles are not used"
+            },
+            {
+              "id": "unsupportedrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA role is supported"
+            }
+          ],
+          "impact": null,
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_h_\" role=\"button\" tabindex=\"0\">",
+          "target": [
+            "#_r_h_"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "invalidrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA role is valid"
+            },
+            {
+              "id": "abstractrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Abstract roles are not used"
+            },
+            {
+              "id": "unsupportedrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA role is supported"
+            }
+          ],
+          "impact": null,
+          "html": "<div class=\"x1ey2m1c xtijo5x x1o0tod xg01cxk x47corl x10l6tqk x13vifvy x1ebt8du x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh\" role=\"none\" data-visualcompletion=\"ignore\"></div>",
+          "target": [
+            "#_r_h_ > .x1ebt8du.x1dhq9h[data-visualcompletion=\"ignore\"]"
           ]
         },
         {
@@ -5859,9 +5859,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_kx\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4M\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_kx"
+            "#u_0_j_4M"
           ]
         },
         {
@@ -6083,41 +6083,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_4_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_5_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_4_"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-valid-attr-value",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute values are valid"
-            },
-            {
-              "id": "aria-errormessage",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
-            },
-            {
-              "id": "aria-level",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-level values are valid"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_6_\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            "#_r_6_"
+            "#_r_5_"
           ]
         },
         {
@@ -6179,9 +6147,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_a_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_b_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_a_"
+            "#_r_b_"
           ]
         },
         {
@@ -6211,9 +6179,41 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_c_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_e_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_c_"
+            "#_r_e_"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-valid-attr-value",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute values are valid"
+            },
+            {
+              "id": "aria-errormessage",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
+            },
+            {
+              "id": "aria-level",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-level values are valid"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_h_\" role=\"button\" tabindex=\"0\">",
+          "target": [
+            "#_r_h_"
           ]
         },
         {
@@ -6381,9 +6381,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_kx\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4M\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_kx"
+            "#u_0_j_4M"
           ]
         },
         {
@@ -6507,27 +6507,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_4_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_5_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_4_"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-valid-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute name is valid"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_6_\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            "#_r_6_"
+            "#_r_5_"
           ]
         },
         {
@@ -6561,9 +6543,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_a_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_b_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_a_"
+            "#_r_b_"
           ]
         },
         {
@@ -6579,9 +6561,27 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_c_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_e_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_c_"
+            "#_r_e_"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-valid-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute name is valid"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_h_\" role=\"button\" tabindex=\"0\">",
+          "target": [
+            "#_r_h_"
           ]
         },
         {
@@ -6654,9 +6654,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button value=\"1\" class=\"_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy\" name=\"login\" data-testid=\"royal-login-button\" type=\"submit\" id=\"u_0_5_kp\">Log in</button>",
+          "html": "<button value=\"1\" class=\"_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy\" name=\"login\" data-testid=\"royal-login-button\" type=\"submit\" id=\"u_0_5_/x\">Log in</button>",
           "target": [
-            "#u_0_5_kp"
+            "#u_0_5_\\/x"
           ]
         }
       ]
@@ -7298,7 +7298,7 @@
             }
           ],
           "impact": null,
-          "html": "<img width=\"100%\" alt=\"\" class=\"xz74otr x15mokao x1ga7v0g x16uus16 xbiv7yw\" referrerpolicy=\"origin-when-cross-origin\" src=\"/images/cookies/cookie_info_card_image_1.png\">",
+          "html": "<img width=\"100%\" class=\"xz74otr x15mokao x1ga7v0g x16uus16 xbiv7yw\" alt=\"\" referrerpolicy=\"origin-when-cross-origin\" src=\"/images/cookies/cookie_info_card_image_1.png\">",
           "target": [
             ".xyamay9.x1ws5yxj.xw01apr:nth-child(1) > .x1icxu4v.x25sj25.x10b6aqq:nth-child(1) > .xh8yej3.html-div.x14z9mp > .xw5cjc7.x1dmpuos.x1vsv7so > .x2lah0s.xdt5ytf.x193iq5w:nth-child(1) > .xz74otr.x15mokao.x1ga7v0g"
           ]
@@ -7333,7 +7333,7 @@
             }
           ],
           "impact": null,
-          "html": "<img width=\"100%\" alt=\"\" class=\"xz74otr x15mokao x1ga7v0g x16uus16 xbiv7yw\" referrerpolicy=\"origin-when-cross-origin\" src=\"/images/cookies/cookie_info_card_image_2.png\">",
+          "html": "<img width=\"100%\" class=\"xz74otr x15mokao x1ga7v0g x16uus16 xbiv7yw\" alt=\"\" referrerpolicy=\"origin-when-cross-origin\" src=\"/images/cookies/cookie_info_card_image_2.png\">",
           "target": [
             ".xyamay9.x1ws5yxj.xw01apr:nth-child(1) > .x1icxu4v.x25sj25.x10b6aqq:nth-child(2) > .xh8yej3.html-div.x14z9mp > .xw5cjc7.x1dmpuos.x1vsv7so > .x2lah0s.xdt5ytf.x193iq5w:nth-child(1) > .xz74otr.x15mokao.x1ga7v0g"
           ]
@@ -7368,7 +7368,7 @@
             }
           ],
           "impact": null,
-          "html": "<img width=\"100%\" alt=\"\" class=\"xz74otr x15mokao x1ga7v0g x16uus16 xbiv7yw\" referrerpolicy=\"origin-when-cross-origin\" src=\"/images/cookies/cookie_info_card_image_3.png\">",
+          "html": "<img width=\"100%\" class=\"xz74otr x15mokao x1ga7v0g x16uus16 xbiv7yw\" alt=\"\" referrerpolicy=\"origin-when-cross-origin\" src=\"/images/cookies/cookie_info_card_image_3.png\">",
           "target": [
             ".xyamay9.x1ws5yxj.xw01apr:nth-child(2) > .x1icxu4v.x25sj25.x10b6aqq:nth-child(1) > .xh8yej3.html-div.x14z9mp > .xw5cjc7.x1dmpuos.x1vsv7so > .x2lah0s.xdt5ytf.x193iq5w:nth-child(1) > .xz74otr.x15mokao.x1ga7v0g"
           ]
@@ -7403,7 +7403,7 @@
             }
           ],
           "impact": null,
-          "html": "<img width=\"100%\" alt=\"\" class=\"xz74otr x15mokao x1ga7v0g x16uus16 xbiv7yw\" referrerpolicy=\"origin-when-cross-origin\" src=\"/images/cookies/cookie_info_card_image_4.png\">",
+          "html": "<img width=\"100%\" class=\"xz74otr x15mokao x1ga7v0g x16uus16 xbiv7yw\" alt=\"\" referrerpolicy=\"origin-when-cross-origin\" src=\"/images/cookies/cookie_info_card_image_4.png\">",
           "target": [
             ".xyamay9.x1ws5yxj.xw01apr:nth-child(2) > .x1icxu4v.x25sj25.x10b6aqq:nth-child(2) > .xh8yej3.html-div.x14z9mp > .xw5cjc7.x1dmpuos.x1vsv7so > .x2lah0s.xdt5ytf.x193iq5w:nth-child(1) > .xz74otr.x15mokao.x1ga7v0g"
           ]
@@ -7686,9 +7686,9 @@
             }
           ],
           "impact": null,
-          "html": "<a href=\"https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzUwNTQ2NDE1LCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&amp;ars=facebook_login&amp;next\" id=\"u_0_6_+w\">Forgotten password?</a>",
+          "html": "<a href=\"https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzUwOTcyMDEzLCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&amp;ars=facebook_login&amp;next\" id=\"u_0_6_a+\">Forgotten password?</a>",
           "target": [
-            "#u_0_6_\\+w"
+            "#u_0_6_a\\+"
           ]
         },
         {
@@ -7712,9 +7712,9 @@
             }
           ],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_yQ\" data-testid=\"open-registration-form-button\">Create new account</a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_ni\" data-testid=\"open-registration-form-button\">Create new account</a>",
           "target": [
-            "#u_0_0_yQ"
+            "#u_0_0_ni"
           ]
         },
         {
@@ -7771,9 +7771,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://www.facebook.com/\" title=\"Polish\" id=\"u_0_7_fV\">Polski</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://www.facebook.com/\" title=\"Polish\" id=\"u_0_7_C4\">Polski</a>",
           "target": [
-            "#u_0_7_fV"
+            "#u_0_7_C4"
           ]
         },
         {
@@ -7804,9 +7804,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://pl-pl.facebook.com/\" title=\"Spanish\" id=\"u_0_8_ia\">Español</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://pl-pl.facebook.com/\" title=\"Spanish\" id=\"u_0_8_U5\">Español</a>",
           "target": [
-            "#u_0_8_ia"
+            "#u_0_8_U5"
           ]
         },
         {
@@ -7837,9 +7837,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://es-la.facebook.com/\" title=\"French (France)\" id=\"u_0_9_UZ\">Français (France)</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://es-la.facebook.com/\" title=\"French (France)\" id=\"u_0_9_7j\">Français (France)</a>",
           "target": [
-            "#u_0_9_UZ"
+            "#u_0_9_7j"
           ]
         },
         {
@@ -7870,9 +7870,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://fr-fr.facebook.com/\" title=\"Italian\" id=\"u_0_a_OI\">Italiano</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://fr-fr.facebook.com/\" title=\"Italian\" id=\"u_0_a_pN\">Italiano</a>",
           "target": [
-            "#u_0_a_OI"
+            "#u_0_a_pN"
           ]
         },
         {
@@ -7903,9 +7903,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://it-it.facebook.com/\" title=\"Lithuanian\" id=\"u_0_b_Rh\">Lietuvių</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://it-it.facebook.com/\" title=\"Lithuanian\" id=\"u_0_b_8Y\">Lietuvių</a>",
           "target": [
-            "#u_0_b_Rh"
+            "#u_0_b_8Y"
           ]
         },
         {
@@ -7936,9 +7936,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://lt-lt.facebook.com/\" title=\"Romanian\" id=\"u_0_c_bW\">Română</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://lt-lt.facebook.com/\" title=\"Romanian\" id=\"u_0_c_P5\">Română</a>",
           "target": [
-            "#u_0_c_bW"
+            "#u_0_c_P5"
           ]
         },
         {
@@ -7969,9 +7969,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://ro-ro.facebook.com/\" title=\"Simplified Chinese (China)\" id=\"u_0_d_aT\">中文(简体)</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://ro-ro.facebook.com/\" title=\"Simplified Chinese (China)\" id=\"u_0_d_Hp\">中文(简体)</a>",
           "target": [
-            "#u_0_d_aT"
+            "#u_0_d_Hp"
           ]
         },
         {
@@ -8002,9 +8002,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://zh-cn.facebook.com/\" title=\"Portuguese (Brazil)\" id=\"u_0_e_a0\">Português (Brasil)</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://zh-cn.facebook.com/\" title=\"Portuguese (Brazil)\" id=\"u_0_e_nE\">Português (Brasil)</a>",
           "target": [
-            "#u_0_e_a0"
+            "#u_0_e_nE"
           ]
         },
         {
@@ -8035,9 +8035,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://pt-br.facebook.com/\" title=\"German\" id=\"u_0_f_Wy\">Deutsch</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://pt-br.facebook.com/\" title=\"German\" id=\"u_0_f_Ru\">Deutsch</a>",
           "target": [
-            "#u_0_f_Wy"
+            "#u_0_f_Ru"
           ]
         },
         {
@@ -8068,9 +8068,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"rtl\" href=\"https://de-de.facebook.com/\" title=\"Arabic\" id=\"u_0_g_9B\">العربية</a>",
+          "html": "<a class=\"_sv4\" dir=\"rtl\" href=\"https://de-de.facebook.com/\" title=\"Arabic\" id=\"u_0_g_Mq\">العربية</a>",
           "target": [
-            "#u_0_g_9B"
+            "#u_0_g_Mq"
           ]
         },
         {
@@ -8094,7 +8094,7 @@
             }
           ],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _517i _517h _51sy\" rel=\"dialog\" ajaxify=\"/settings/language/language/?uri=https%3A%2F%2Far-ar.facebook.com%2F&amp;source=www_list_selector_more\" href=\"#\" title=\"Show more languages\"><i class=\"img sp_GPvE0syHYuh sx_8e0301\"></i></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _517i _517h _51sy\" rel=\"dialog\" ajaxify=\"/settings/language/language/?uri=https%3A%2F%2Far-ar.facebook.com%2F&amp;source=www_list_selector_more\" href=\"#\" title=\"Show more languages\"><i class=\"img sp__ldT1fDU70I sx_fb08b8\"></i></a>",
           "target": [
             "._517i"
           ]
@@ -8457,7 +8457,7 @@
             }
           ],
           "impact": null,
-          "html": "<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&amp;h=AT3arFsC41pphduzpIe4FevpxAT92WlIdcz9eKyIzcucvzOZzaXPCAuiWycwedRZw9cXVPfyRIxbxkv-Fh5P2UIoQ3LBuVl0psv_NmP6ICE7yiAaFTZyD4-CqrpwOILtE0rZ0E698izIUzRvReqw_Q\" title=\"Take a look at Instagram\" target=\"_blank\" rel=\"noreferrer nofollow\" data-lynx-mode=\"asynclazy\">",
+          "html": "<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&amp;h=AT0q9CvgYZB-MkFysd7QnVaOhYfzJ9dWkF82qaRxtWYbQvzcav1k1c6IJPiBoBjf2iGwo31gzp_ie04h6huBOCXsi57uvslQNNPP0ts-IRtc2SLu7jqUDugdgw2UzDayrmuzwaewHsgqJfOQyJ925A\" title=\"Take a look at Instagram\" target=\"_blank\" rel=\"noreferrer nofollow\" data-lynx-mode=\"asynclazy\">",
           "target": [
             "a[title=\"Take a look at Instagram\"]"
           ]
@@ -8820,7 +8820,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_41ug\" data-nocookies=\"1\" href=\"https://www.facebook.com/help/568137493302217\" title=\"Learn about Ad Choices.\">AdChoices<i class=\"img sp_GPvE0syHYuh sx_7d98b4\"></i></a>",
+          "html": "<a class=\"_41ug\" data-nocookies=\"1\" href=\"https://www.facebook.com/help/568137493302217\" title=\"Learn about Ad Choices.\">AdChoices<i class=\"img sp__ldT1fDU70I sx_d3cbab\"></i></a>",
           "target": [
             "._41ug"
           ]
@@ -9167,7 +9167,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://www.facebook.com/\" title=\"Polish\" id=\"u_0_7_fV\">Polski</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://www.facebook.com/\" title=\"Polish\" id=\"u_0_7_C4\">Polski</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(2)"
           ]
@@ -9185,7 +9185,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://pl-pl.facebook.com/\" title=\"Spanish\" id=\"u_0_8_ia\">Español</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://pl-pl.facebook.com/\" title=\"Spanish\" id=\"u_0_8_U5\">Español</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(3)"
           ]
@@ -9203,7 +9203,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://es-la.facebook.com/\" title=\"French (France)\" id=\"u_0_9_UZ\">Français (France)</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://es-la.facebook.com/\" title=\"French (France)\" id=\"u_0_9_7j\">Français (France)</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(4)"
           ]
@@ -9221,7 +9221,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://fr-fr.facebook.com/\" title=\"Italian\" id=\"u_0_a_OI\">Italiano</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://fr-fr.facebook.com/\" title=\"Italian\" id=\"u_0_a_pN\">Italiano</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(5)"
           ]
@@ -9239,7 +9239,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://it-it.facebook.com/\" title=\"Lithuanian\" id=\"u_0_b_Rh\">Lietuvių</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://it-it.facebook.com/\" title=\"Lithuanian\" id=\"u_0_b_8Y\">Lietuvių</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(6)"
           ]
@@ -9257,7 +9257,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://lt-lt.facebook.com/\" title=\"Romanian\" id=\"u_0_c_bW\">Română</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://lt-lt.facebook.com/\" title=\"Romanian\" id=\"u_0_c_P5\">Română</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(7)"
           ]
@@ -9275,7 +9275,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://ro-ro.facebook.com/\" title=\"Simplified Chinese (China)\" id=\"u_0_d_aT\">中文(简体)</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://ro-ro.facebook.com/\" title=\"Simplified Chinese (China)\" id=\"u_0_d_Hp\">中文(简体)</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(8)"
           ]
@@ -9293,7 +9293,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://zh-cn.facebook.com/\" title=\"Portuguese (Brazil)\" id=\"u_0_e_a0\">Português (Brasil)</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://zh-cn.facebook.com/\" title=\"Portuguese (Brazil)\" id=\"u_0_e_nE\">Português (Brasil)</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(9)"
           ]
@@ -9311,7 +9311,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://pt-br.facebook.com/\" title=\"German\" id=\"u_0_f_Wy\">Deutsch</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://pt-br.facebook.com/\" title=\"German\" id=\"u_0_f_Ru\">Deutsch</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(10)"
           ]
@@ -9329,7 +9329,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"rtl\" href=\"https://de-de.facebook.com/\" title=\"Arabic\" id=\"u_0_g_9B\">العربية</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"rtl\" href=\"https://de-de.facebook.com/\" title=\"Arabic\" id=\"u_0_g_Mq\">العربية</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(11)"
           ]
@@ -9347,7 +9347,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a role=\"button\" class=\"_42ft _4jy0 _517i _517h _51sy\" rel=\"dialog\" ajaxify=\"/settings/language/language/?uri=https%3A%2F%2Far-ar.facebook.com%2F&amp;source=www_list_selector_more\" href=\"#\" title=\"Show more languages\"><i class=\"img sp_GPvE0syHYuh sx_8e0301\"></i></a></li>",
+          "html": "<li><a role=\"button\" class=\"_42ft _4jy0 _517i _517h _51sy\" rel=\"dialog\" ajaxify=\"/settings/language/language/?uri=https%3A%2F%2Far-ar.facebook.com%2F&amp;source=www_list_selector_more\" href=\"#\" title=\"Show more languages\"><i class=\"img sp__ldT1fDU70I sx_fb08b8\"></i></a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(12)"
           ]
@@ -9743,7 +9743,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_41ug\" data-nocookies=\"1\" href=\"https://www.facebook.com/help/568137493302217\" title=\"Learn about Ad Choices.\">AdChoices<i class=\"img sp_GPvE0syHYuh sx_7d98b4\"></i></a></li>",
+          "html": "<li><a class=\"_41ug\" data-nocookies=\"1\" href=\"https://www.facebook.com/help/568137493302217\" title=\"Learn about Ad Choices.\">AdChoices<i class=\"img sp__ldT1fDU70I sx_d3cbab\"></i></a></li>",
           "target": [
             "li:nth-child(22)"
           ]
@@ -9887,9 +9887,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button value=\"1\" class=\"_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy\" name=\"login\" data-testid=\"royal-login-button\" type=\"submit\" id=\"u_0_5_kp\">Log in</button>",
+          "html": "<button value=\"1\" class=\"_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy\" name=\"login\" data-testid=\"royal-login-button\" type=\"submit\" id=\"u_0_5_/x\">Log in</button>",
           "target": [
-            "#u_0_5_kp"
+            "#u_0_5_\\/x"
           ]
         },
         {
@@ -9905,9 +9905,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_yQ\" data-testid=\"open-registration-form-button\">Create new account</a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_ni\" data-testid=\"open-registration-form-button\">Create new account</a>",
           "target": [
-            "#u_0_0_yQ"
+            "#u_0_0_ni"
           ]
         },
         {
@@ -9923,7 +9923,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _517i _517h _51sy\" rel=\"dialog\" ajaxify=\"/settings/language/language/?uri=https%3A%2F%2Far-ar.facebook.com%2F&amp;source=www_list_selector_more\" href=\"#\" title=\"Show more languages\"><i class=\"img sp_GPvE0syHYuh sx_8e0301\"></i></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _517i _517h _51sy\" rel=\"dialog\" ajaxify=\"/settings/language/language/?uri=https%3A%2F%2Far-ar.facebook.com%2F&amp;source=www_list_selector_more\" href=\"#\" title=\"Show more languages\"><i class=\"img sp__ldT1fDU70I sx_fb08b8\"></i></a>",
           "target": [
             "._517i"
           ]
@@ -9941,9 +9941,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_kx\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4M\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_kx"
+            "#u_0_j_4M"
           ]
         },
         {
@@ -10085,27 +10085,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_4_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_5_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_4_"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "no-focusable-content",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element does not have focusable descendants"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_6_\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            "#_r_6_"
+            "#_r_5_"
           ]
         },
         {
@@ -10139,9 +10121,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_a_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_b_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_a_"
+            "#_r_b_"
           ]
         },
         {
@@ -10157,9 +10139,27 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_c_\" role=\"button\" tabindex=\"0\">",
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_e_\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#_r_c_"
+            "#_r_e_"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "no-focusable-content",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element does not have focusable descendants"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div aria-expanded=\"false\" class=\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1lliihq\" id=\"_r_h_\" role=\"button\" tabindex=\"0\">",
+          "target": [
+            "#_r_h_"
           ]
         },
         {
@@ -10389,9 +10389,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<button value=\"1\" class=\"_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy\" name=\"login\" data-testid=\"royal-login-button\" type=\"submit\" id=\"u_0_5_kp\">Log in</button>",
+          "html": "<button value=\"1\" class=\"_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy\" name=\"login\" data-testid=\"royal-login-button\" type=\"submit\" id=\"u_0_5_/x\">Log in</button>",
           "target": [
-            "#u_0_5_kp"
+            "#u_0_5_\\/x"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
         },
@@ -10414,9 +10414,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a href=\"https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzUwNTQ2NDE1LCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&amp;ars=facebook_login&amp;next\" id=\"u_0_6_+w\">Forgotten password?</a>",
+          "html": "<a href=\"https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzUwOTcyMDEzLCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&amp;ars=facebook_login&amp;next\" id=\"u_0_6_a+\">Forgotten password?</a>",
           "target": [
-            "#u_0_6_\\+w"
+            "#u_0_6_a\\+"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
         },
@@ -10439,9 +10439,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_yQ\" data-testid=\"open-registration-form-button\">Create new account</a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_ni\" data-testid=\"open-registration-form-button\">Create new account</a>",
           "target": [
-            "#u_0_0_yQ"
+            "#u_0_0_ni"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
         },
@@ -10537,9 +10537,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://www.facebook.com/\" title=\"Polish\" id=\"u_0_7_fV\">Polski</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://www.facebook.com/\" title=\"Polish\" id=\"u_0_7_C4\">Polski</a>",
           "target": [
-            "#u_0_7_fV"
+            "#u_0_7_C4"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10564,9 +10564,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://pl-pl.facebook.com/\" title=\"Spanish\" id=\"u_0_8_ia\">Español</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://pl-pl.facebook.com/\" title=\"Spanish\" id=\"u_0_8_U5\">Español</a>",
           "target": [
-            "#u_0_8_ia"
+            "#u_0_8_U5"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10591,9 +10591,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://es-la.facebook.com/\" title=\"French (France)\" id=\"u_0_9_UZ\">Français (France)</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://es-la.facebook.com/\" title=\"French (France)\" id=\"u_0_9_7j\">Français (France)</a>",
           "target": [
-            "#u_0_9_UZ"
+            "#u_0_9_7j"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10618,9 +10618,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://fr-fr.facebook.com/\" title=\"Italian\" id=\"u_0_a_OI\">Italiano</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://fr-fr.facebook.com/\" title=\"Italian\" id=\"u_0_a_pN\">Italiano</a>",
           "target": [
-            "#u_0_a_OI"
+            "#u_0_a_pN"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10645,9 +10645,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://it-it.facebook.com/\" title=\"Lithuanian\" id=\"u_0_b_Rh\">Lietuvių</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://it-it.facebook.com/\" title=\"Lithuanian\" id=\"u_0_b_8Y\">Lietuvių</a>",
           "target": [
-            "#u_0_b_Rh"
+            "#u_0_b_8Y"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10672,9 +10672,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://lt-lt.facebook.com/\" title=\"Romanian\" id=\"u_0_c_bW\">Română</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://lt-lt.facebook.com/\" title=\"Romanian\" id=\"u_0_c_P5\">Română</a>",
           "target": [
-            "#u_0_c_bW"
+            "#u_0_c_P5"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10699,9 +10699,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://ro-ro.facebook.com/\" title=\"Simplified Chinese (China)\" id=\"u_0_d_aT\">中文(简体)</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://ro-ro.facebook.com/\" title=\"Simplified Chinese (China)\" id=\"u_0_d_Hp\">中文(简体)</a>",
           "target": [
-            "#u_0_d_aT"
+            "#u_0_d_Hp"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10726,9 +10726,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://zh-cn.facebook.com/\" title=\"Portuguese (Brazil)\" id=\"u_0_e_a0\">Português (Brasil)</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://zh-cn.facebook.com/\" title=\"Portuguese (Brazil)\" id=\"u_0_e_nE\">Português (Brasil)</a>",
           "target": [
-            "#u_0_e_a0"
+            "#u_0_e_nE"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10753,9 +10753,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://pt-br.facebook.com/\" title=\"German\" id=\"u_0_f_Wy\">Deutsch</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://pt-br.facebook.com/\" title=\"German\" id=\"u_0_f_Ru\">Deutsch</a>",
           "target": [
-            "#u_0_f_Wy"
+            "#u_0_f_Ru"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10780,9 +10780,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"rtl\" href=\"https://de-de.facebook.com/\" title=\"Arabic\" id=\"u_0_g_9B\">العربية</a>",
+          "html": "<a class=\"_sv4\" dir=\"rtl\" href=\"https://de-de.facebook.com/\" title=\"Arabic\" id=\"u_0_g_Mq\">العربية</a>",
           "target": [
-            "#u_0_g_9B"
+            "#u_0_g_Mq"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -11077,7 +11077,7 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&amp;h=AT3arFsC41pphduzpIe4FevpxAT92WlIdcz9eKyIzcucvzOZzaXPCAuiWycwedRZw9cXVPfyRIxbxkv-Fh5P2UIoQ3LBuVl0psv_NmP6ICE7yiAaFTZyD4-CqrpwOILtE0rZ0E698izIUzRvReqw_Q\" title=\"Take a look at Instagram\" target=\"_blank\" rel=\"noreferrer nofollow\" data-lynx-mode=\"asynclazy\">",
+          "html": "<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&amp;h=AT0q9CvgYZB-MkFysd7QnVaOhYfzJ9dWkF82qaRxtWYbQvzcav1k1c6IJPiBoBjf2iGwo31gzp_ie04h6huBOCXsi57uvslQNNPP0ts-IRtc2SLu7jqUDugdgw2UzDayrmuzwaewHsgqJfOQyJ925A\" title=\"Take a look at Instagram\" target=\"_blank\" rel=\"noreferrer nofollow\" data-lynx-mode=\"asynclazy\">",
           "target": [
             "a[title=\"Take a look at Instagram\"]"
           ],
@@ -11374,7 +11374,7 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_41ug\" data-nocookies=\"1\" href=\"https://www.facebook.com/help/568137493302217\" title=\"Learn about Ad Choices.\">AdChoices<i class=\"img sp_GPvE0syHYuh sx_7d98b4\"></i></a>",
+          "html": "<a class=\"_41ug\" data-nocookies=\"1\" href=\"https://www.facebook.com/help/568137493302217\" title=\"Learn about Ad Choices.\">AdChoices<i class=\"img sp__ldT1fDU70I sx_d3cbab\"></i></a>",
           "target": [
             "._41ug"
           ],
@@ -11528,9 +11528,9 @@
             }
           ],
           "impact": "serious",
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_kx\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4M\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_kx"
+            "#u_0_j_4M"
           ],
           "failureSummary": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
         }

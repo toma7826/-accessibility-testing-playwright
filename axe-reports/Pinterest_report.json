@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-06-21T22:54:00.429Z",
+  "timestamp": "2025-06-26T21:07:05.914Z",
   "url": "https://uk.pinterest.com/",
   "toolOptions": {
     "runOnly": {
@@ -191,6 +191,63 @@
       "description": "Ensure <blink> elements are not used",
       "help": "<blink> elements are deprecated and must not be used",
       "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/blink?application=playwright",
+      "nodes": []
+    },
+    {
+      "id": "button-name",
+      "impact": null,
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "ACT"
+      ],
+      "description": "Ensure buttons have discernible text",
+      "help": "Buttons must have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/button-name?application=playwright",
+      "nodes": []
+    },
+    {
+      "id": "bypass",
+      "impact": null,
+      "tags": [
+        "cat.keyboard",
+        "wcag2a",
+        "wcag241",
+        "section508",
+        "section508.22.o",
+        "TTv5",
+        "TT9.a",
+        "EN-301-549",
+        "EN-9.2.4.1"
+      ],
+      "description": "Ensure each page has at least one mechanism for a user to bypass navigation and jump straight to the content",
+      "help": "Page must have means to bypass repeated blocks",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/bypass?application=playwright",
+      "nodes": []
+    },
+    {
+      "id": "color-contrast",
+      "impact": null,
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT"
+      ],
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=playwright",
       "nodes": []
     },
     {
@@ -425,6 +482,28 @@
       "nodes": []
     },
     {
+      "id": "link-name",
+      "impact": null,
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag244",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.2.4.4",
+        "EN-9.4.1.2",
+        "ACT"
+      ],
+      "description": "Ensure links have discernible text",
+      "help": "Links must have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/link-name?application=playwright",
+      "nodes": []
+    },
+    {
       "id": "list",
       "impact": null,
       "tags": [
@@ -603,6 +682,26 @@
       "nodes": []
     },
     {
+      "id": "svg-img-alt",
+      "impact": null,
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag111",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT7.a",
+        "EN-301-549",
+        "EN-9.1.1.1",
+        "ACT"
+      ],
+      "description": "Ensure <svg> elements with an img, graphics-document or graphics-symbol role have an accessible text",
+      "help": "<svg> elements with an img role must have an alternative text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/svg-img-alt?application=playwright",
+      "nodes": []
+    },
+    {
       "id": "td-headers-attr",
       "impact": null,
       "tags": [
@@ -734,59 +833,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-allowed-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attributes are used correctly for the defined role"
-            }
-          ],
-          "none": [
-            {
-              "id": "aria-unsupported-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            ".un8.C9i.TB_ > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-allowed-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attributes are used correctly for the defined role"
-            }
-          ],
-          "none": [
-            {
-              "id": "aria-unsupported-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<svg aria-label=\"Pinterest logo\" fill=\"none\" height=\"18\" role=\"img\" viewBox=\"0 0 98 18\" width=\"98\" xmlns=\"http://www.w3.org/2000/svg\">",
-          "target": [
-            "svg"
+            "div[role=\"banner\"] > .S9z"
           ]
         }
       ]
@@ -823,25 +870,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has text that is visible to screen readers"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            ".un8.C9i.TB_ > .n9p.e8F[role=\"button\"]"
+            "div[role=\"banner\"] > .S9z"
           ]
         }
       ]
@@ -875,43 +904,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-conditional-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            ".un8.C9i.TB_ > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-conditional-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<svg aria-label=\"Pinterest logo\" fill=\"none\" height=\"18\" role=\"img\" viewBox=\"0 0 98 18\" width=\"98\" xmlns=\"http://www.w3.org/2000/svg\">",
-          "target": [
-            "svg"
+            "div[role=\"banner\"] > .S9z"
           ]
         }
       ]
@@ -963,43 +956,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "deprecatedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "minor",
-              "message": "ARIA role is not deprecated"
-            }
-          ],
-          "impact": null,
-          "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            ".un8.C9i.TB_ > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "deprecatedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "minor",
-              "message": "ARIA role is not deprecated"
-            }
-          ],
-          "impact": null,
-          "html": "<svg aria-label=\"Pinterest logo\" fill=\"none\" height=\"18\" role=\"img\" viewBox=\"0 0 98 18\" width=\"98\" xmlns=\"http://www.w3.org/2000/svg\">",
-          "target": [
-            "svg"
+            "div[role=\"banner\"] > .S9z"
           ]
         },
         {
@@ -1137,43 +1094,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "aria-prohibited-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "impact": null,
-          "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            ".un8.C9i.TB_ > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "aria-prohibited-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "impact": null,
-          "html": "<svg aria-label=\"Pinterest logo\" fill=\"none\" height=\"18\" role=\"img\" viewBox=\"0 0 98 18\" width=\"98\" xmlns=\"http://www.w3.org/2000/svg\">",
-          "target": [
-            "svg"
+            "div[role=\"banner\"] > .S9z"
           ]
         }
       ]
@@ -1225,43 +1146,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-required-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "All required ARIA attributes are present"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            ".un8.C9i.TB_ > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-required-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "All required ARIA attributes are present"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<svg aria-label=\"Pinterest logo\" fill=\"none\" height=\"18\" role=\"img\" viewBox=\"0 0 98 18\" width=\"98\" xmlns=\"http://www.w3.org/2000/svg\">",
-          "target": [
-            "svg"
+            "div[role=\"banner\"] > .S9z"
           ]
         },
         {
@@ -1359,71 +1244,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "invalidrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is valid"
-            },
-            {
-              "id": "abstractrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Abstract roles are not used"
-            },
-            {
-              "id": "unsupportedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            ".un8.C9i.TB_ > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "invalidrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is valid"
-            },
-            {
-              "id": "abstractrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Abstract roles are not used"
-            },
-            {
-              "id": "unsupportedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<svg aria-label=\"Pinterest logo\" fill=\"none\" height=\"18\" role=\"img\" viewBox=\"0 0 98 18\" width=\"98\" xmlns=\"http://www.w3.org/2000/svg\">",
-          "target": [
-            "svg"
+            "div[role=\"banner\"] > .S9z"
           ]
         },
         {
@@ -1503,71 +1324,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-valid-attr-value",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute values are valid"
-            },
-            {
-              "id": "aria-errormessage",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
-            },
-            {
-              "id": "aria-level",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-level values are valid"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            ".un8.C9i.TB_ > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-valid-attr-value",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute values are valid"
-            },
-            {
-              "id": "aria-errormessage",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
-            },
-            {
-              "id": "aria-level",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-level values are valid"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<svg aria-label=\"Pinterest logo\" fill=\"none\" height=\"18\" role=\"img\" viewBox=\"0 0 98 18\" width=\"98\" xmlns=\"http://www.w3.org/2000/svg\">",
-          "target": [
-            "svg"
+            "div[role=\"banner\"] > .S9z"
           ]
         }
       ]
@@ -1601,339 +1358,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-valid-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute name is valid"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            ".un8.C9i.TB_ > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-valid-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute name is valid"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<svg aria-label=\"Pinterest logo\" fill=\"none\" height=\"18\" role=\"img\" viewBox=\"0 0 98 18\" width=\"98\" xmlns=\"http://www.w3.org/2000/svg\">",
-          "target": [
-            "svg"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "button-name",
-      "impact": null,
-      "tags": [
-        "cat.name-role-value",
-        "wcag2a",
-        "wcag412",
-        "section508",
-        "section508.22.a",
-        "TTv5",
-        "TT6.a",
-        "EN-301-549",
-        "EN-9.4.1.2",
-        "ACT"
-      ],
-      "description": "Ensure buttons have discernible text",
-      "help": "Buttons must have discernible text",
-      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/button-name?application=playwright",
-      "nodes": [
-        {
-          "any": [
-            {
-              "id": "button-has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Element has inner text that is visible to screen readers"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<button class=\"xuB ChZ undefined NTm KhY vrQ dfM oRi lnZ wsz Il7\" tabindex=\"0\" type=\"button\"><div class=\"xuB ChZ undefined NTm KhY vrQ dfM S9z hNT BG7 hDj _O1 KS5 mQ8 Tbt L4E\"><div class=\"B1n tg7 fxm dyH wm0\">Log in</div></div></button>",
-          "target": [
-            ".Il7"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "button-has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Element has inner text that is visible to screen readers"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<button class=\"xuB ChZ undefined NTm KhY vrQ dfM oRi lnZ wsz a_A\" tabindex=\"0\" type=\"button\"><div class=\"xuB ChZ undefined NTm KhY vrQ dfM S9z hNT BG7 hDj _O1 KS5 mQ8 Tbt L4E\"><div class=\"X8m tg7 fxm dyH wm0\">Sign up</div></div></button>",
-          "target": [
-            ".a_A"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bypass",
-      "impact": null,
-      "tags": [
-        "cat.keyboard",
-        "wcag2a",
-        "wcag241",
-        "section508",
-        "section508.22.o",
-        "TTv5",
-        "TT9.a",
-        "EN-301-549",
-        "EN-9.2.4.1"
-      ],
-      "description": "Ensure each page has at least one mechanism for a user to bypass navigation and jump straight to the content",
-      "help": "Page must have means to bypass repeated blocks",
-      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/bypass?application=playwright",
-      "nodes": [
-        {
-          "any": [
-            {
-              "id": "landmark",
-              "data": null,
-              "relatedNodes": [
-                {
-                  "html": "<div id=\"mweb-unauth-container\" role=\"main\" class=\"zI7 iyn Hsu\"></div>",
-                  "target": [
-                    "#mweb-unauth-container"
-                  ]
-                }
-              ],
-              "impact": "serious",
-              "message": "Page has a landmark region"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<html class=\"en\" lang=\"en\">",
-          "target": [
-            "html"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "color-contrast",
-      "impact": null,
-      "tags": [
-        "cat.color",
-        "wcag2aa",
-        "wcag143",
-        "TTv5",
-        "TT13.c",
-        "EN-301-549",
-        "EN-9.1.4.3",
-        "ACT"
-      ],
-      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
-      "help": "Elements must meet minimum color contrast ratio thresholds",
-      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=playwright",
-      "nodes": [
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#000000",
-                "bgColor": "#ffffff",
-                "contrastRatio": 21,
-                "fontSize": "12.0pt (16px)",
-                "fontWeight": "bold",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 21"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<span class=\"X8m tg7 eSP dyH llN Kv8\">Explore</span>",
-          "target": [
-            "span"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#215d82",
-                "bgColor": "#ffffff",
-                "contrastRatio": 7.11,
-                "fontSize": "12.0pt (16px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 7.11"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<a class=\"nrl _74 eEj kVc S9z PUS NtY uTl K1L H2s\" href=\"/_/_/about/\" rel=\"noopener noreferrer\" target=\"_blank\">About</a>",
-          "target": [
-            "a[href$=\"about/\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#215d82",
-                "bgColor": "#ffffff",
-                "contrastRatio": 7.11,
-                "fontSize": "12.0pt (16px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 7.11"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<a class=\"nrl _74 eEj kVc S9z PUS NtY uTl K1L H2s\" href=\"/_/_/business/\" rel=\"noopener noreferrer\" target=\"_blank\">Businesses</a>",
-          "target": [
-            "a[href$=\"business/\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#215d82",
-                "bgColor": "#ffffff",
-                "contrastRatio": 7.11,
-                "fontSize": "12.0pt (16px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 7.11"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<a class=\"nrl _74 eEj kVc S9z PUS NtY uTl K1L H2s\" href=\"/_/_/create/\" rel=\"noopener noreferrer\" target=\"_blank\">Create</a>",
-          "target": [
-            "a[href$=\"create/\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#215d82",
-                "bgColor": "#ffffff",
-                "contrastRatio": 7.11,
-                "fontSize": "12.0pt (16px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 7.11"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<a class=\"nrl _74 eEj kVc S9z PUS NtY uTl K1L H2s\" href=\"/_/_/blog/?utm_source=organicpins_pinsite_homepageicon&amp;utm_campaign=pinterest_homepage_blogicon_all_evergreen&amp;utm_medium=organic-pinterest\" rel=\"noopener noreferrer\" target=\"_blank\">News</a>",
-          "target": [
-            "div[data-test-id=\"header-blog-button\"] > .zDA.IZT.X8m > .PUS.uTl.H2s"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#ffffff",
-                "bgColor": "#e60023",
-                "contrastRatio": 4.78,
-                "fontSize": "12.0pt (16px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 4.78"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"B1n tg7 fxm dyH wm0\">Log in</div>",
-          "target": [
-            ".B1n.fxm.wm0"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#000000",
-                "bgColor": "#e0e0d9",
-                "contrastRatio": 15.83,
-                "fontSize": "12.0pt (16px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 15.83"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"X8m tg7 fxm dyH wm0\">Sign up</div>",
-          "target": [
-            ".a_A > .hNT.hDj._O1 > .fxm.wm0.tg7"
+            "div[role=\"banner\"] > .S9z"
           ]
         }
       ]
@@ -2050,185 +1475,6 @@
       ]
     },
     {
-      "id": "link-name",
-      "impact": null,
-      "tags": [
-        "cat.name-role-value",
-        "wcag2a",
-        "wcag244",
-        "wcag412",
-        "section508",
-        "section508.22.a",
-        "TTv5",
-        "TT6.a",
-        "EN-301-549",
-        "EN-9.2.4.4",
-        "EN-9.4.1.2",
-        "ACT"
-      ],
-      "description": "Ensure links have discernible text",
-      "help": "Links must have discernible text",
-      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/link-name?application=playwright",
-      "nodes": [
-        {
-          "any": [
-            {
-              "id": "has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has text that is visible to screen readers"
-            }
-          ],
-          "all": [],
-          "none": [
-            {
-              "id": "focusable-no-name",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element is not in tab order or has accessible text"
-            }
-          ],
-          "impact": null,
-          "html": "<a class=\"nrl _74 Lfz KhY S9z NP- NtY K1L\" href=\"/\" rel=\"\" target=\"_self\">",
-          "target": [
-            ".Lfz"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has text that is visible to screen readers"
-            }
-          ],
-          "all": [],
-          "none": [
-            {
-              "id": "focusable-no-name",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element is not in tab order or has accessible text"
-            }
-          ],
-          "impact": null,
-          "html": "<a class=\"nrl _74 NtY S9z fev kVc Tbt L4E n9p e8F BG7\" href=\"/ideas/\" rel=\"\" tabindex=\"0\">",
-          "target": [
-            "a[href$=\"ideas/\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has text that is visible to screen readers"
-            }
-          ],
-          "all": [],
-          "none": [
-            {
-              "id": "focusable-no-name",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element is not in tab order or has accessible text"
-            }
-          ],
-          "impact": null,
-          "html": "<a class=\"nrl _74 eEj kVc S9z PUS NtY uTl K1L H2s\" href=\"/_/_/about/\" rel=\"noopener noreferrer\" target=\"_blank\">About</a>",
-          "target": [
-            "a[href$=\"about/\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has text that is visible to screen readers"
-            }
-          ],
-          "all": [],
-          "none": [
-            {
-              "id": "focusable-no-name",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element is not in tab order or has accessible text"
-            }
-          ],
-          "impact": null,
-          "html": "<a class=\"nrl _74 eEj kVc S9z PUS NtY uTl K1L H2s\" href=\"/_/_/business/\" rel=\"noopener noreferrer\" target=\"_blank\">Businesses</a>",
-          "target": [
-            "a[href$=\"business/\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has text that is visible to screen readers"
-            }
-          ],
-          "all": [],
-          "none": [
-            {
-              "id": "focusable-no-name",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element is not in tab order or has accessible text"
-            }
-          ],
-          "impact": null,
-          "html": "<a class=\"nrl _74 eEj kVc S9z PUS NtY uTl K1L H2s\" href=\"/_/_/create/\" rel=\"noopener noreferrer\" target=\"_blank\">Create</a>",
-          "target": [
-            "a[href$=\"create/\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has text that is visible to screen readers"
-            }
-          ],
-          "all": [],
-          "none": [
-            {
-              "id": "focusable-no-name",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element is not in tab order or has accessible text"
-            }
-          ],
-          "impact": null,
-          "html": "<a class=\"nrl _74 eEj kVc S9z PUS NtY uTl K1L H2s\" href=\"/_/_/blog/?utm_source=organicpins_pinsite_homepageicon&amp;utm_campaign=pinterest_homepage_blogicon_all_evergreen&amp;utm_medium=organic-pinterest\" rel=\"noopener noreferrer\" target=\"_blank\">News</a>",
-          "target": [
-            "div[data-test-id=\"header-blog-button\"] > .zDA.IZT.X8m > .PUS.uTl.H2s"
-          ]
-        }
-      ]
-    },
-    {
       "id": "meta-viewport",
       "impact": null,
       "tags": [
@@ -2265,7 +1511,7 @@
     },
     {
       "id": "nested-interactive",
-      "impact": "serious",
+      "impact": null,
       "tags": [
         "cat.keyboard",
         "wcag2a",
@@ -2294,150 +1540,12 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .n9p.e8F[role=\"button\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "no-focusable-content",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element does not have focusable descendants"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<svg aria-label=\"Pinterest logo\" fill=\"none\" height=\"18\" role=\"img\" viewBox=\"0 0 98 18\" width=\"98\" xmlns=\"http://www.w3.org/2000/svg\">",
-          "target": [
-            "svg"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "no-focusable-content",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element does not have focusable descendants"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<button class=\"xuB ChZ undefined NTm KhY vrQ dfM oRi lnZ wsz Il7\" tabindex=\"0\" type=\"button\"><div class=\"xuB ChZ undefined NTm KhY vrQ dfM S9z hNT BG7 hDj _O1 KS5 mQ8 Tbt L4E\"><div class=\"B1n tg7 fxm dyH wm0\">Log in</div></div></button>",
-          "target": [
-            ".Il7"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "no-focusable-content",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element does not have focusable descendants"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<button class=\"xuB ChZ undefined NTm KhY vrQ dfM oRi lnZ wsz a_A\" tabindex=\"0\" type=\"button\"><div class=\"xuB ChZ undefined NTm KhY vrQ dfM S9z hNT BG7 hDj _O1 KS5 mQ8 Tbt L4E\"><div class=\"X8m tg7 fxm dyH wm0\">Sign up</div></div></button>",
-          "target": [
-            ".a_A"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "svg-img-alt",
-      "impact": null,
-      "tags": [
-        "cat.text-alternatives",
-        "wcag2a",
-        "wcag111",
-        "section508",
-        "section508.22.a",
-        "TTv5",
-        "TT7.a",
-        "EN-301-549",
-        "EN-9.1.1.1",
-        "ACT"
-      ],
-      "description": "Ensure <svg> elements with an img, graphics-document or graphics-symbol role have an accessible text",
-      "help": "<svg> elements with an img role must have an alternative text",
-      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/svg-img-alt?application=playwright",
-      "nodes": [
-        {
-          "any": [
-            {
-              "id": "aria-label",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "aria-label attribute exists and is not empty"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<svg aria-label=\"Pinterest logo\" fill=\"none\" height=\"18\" role=\"img\" viewBox=\"0 0 98 18\" width=\"98\" xmlns=\"http://www.w3.org/2000/svg\">",
-          "target": [
-            "svg"
+            "div[role=\"banner\"] > .S9z"
           ]
         }
       ]
     }
   ],
   "incomplete": [],
-  "violations": [
-    {
-      "id": "nested-interactive",
-      "impact": "serious",
-      "tags": [
-        "cat.keyboard",
-        "wcag2a",
-        "wcag412",
-        "TTv5",
-        "TT6.a",
-        "EN-301-549",
-        "EN-9.4.1.2"
-      ],
-      "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
-      "help": "Interactive controls must not be nested",
-      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/nested-interactive?application=playwright",
-      "nodes": [
-        {
-          "any": [
-            {
-              "id": "no-focusable-content",
-              "data": null,
-              "relatedNodes": [
-                {
-                  "html": "<a class=\"nrl _74 Lfz KhY S9z NP- NtY K1L\" href=\"/\" rel=\"\" target=\"_self\">",
-                  "target": [
-                    ".Lfz"
-                  ]
-                }
-              ],
-              "impact": "serious",
-              "message": "Element has focusable descendants"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "serious",
-          "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
-          "target": [
-            ".un8.C9i.TB_ > .n9p.e8F[role=\"button\"]"
-          ],
-          "failureSummary": "Fix any of the following:\n  Element has focusable descendants"
-        }
-      ]
-    }
-  ]
+  "violations": []
 }
