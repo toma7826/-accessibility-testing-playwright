@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-08-04T15:35:07.935Z",
+  "timestamp": "2025-08-04T17:17:45.188Z",
   "url": "https://uk.pinterest.com/",
   "toolOptions": {
     "runOnly": {
@@ -833,7 +833,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .S9z"
+            ".S9z"
           ]
         }
       ]
@@ -870,7 +870,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .S9z"
+            ".S9z"
           ]
         }
       ]
@@ -904,7 +904,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .S9z"
+            ".S9z"
           ]
         }
       ]
@@ -956,7 +956,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .S9z"
+            ".S9z"
           ]
         },
         {
@@ -1094,7 +1094,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .S9z"
+            ".S9z"
           ]
         }
       ]
@@ -1146,7 +1146,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .S9z"
+            ".S9z"
           ]
         },
         {
@@ -1244,7 +1244,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .S9z"
+            ".S9z"
           ]
         },
         {
@@ -1324,7 +1324,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .S9z"
+            ".S9z"
           ]
         }
       ]
@@ -1358,7 +1358,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .S9z"
+            ".S9z"
           ]
         }
       ]
@@ -1540,7 +1540,7 @@
           "impact": null,
           "html": "<div aria-disabled=\"false\" class=\"S9z eEj n9p Tbt L4E e8F BG7\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "div[role=\"banner\"] > .S9z"
+            ".S9z"
           ]
         }
       ]

@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-08-04T15:35:39.389Z",
+  "timestamp": "2025-08-04T17:18:51.157Z",
   "url": "https://www.linkedin.com/",
   "toolOptions": {
     "runOnly": {
@@ -817,7 +817,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_738490_220673",
+            "#gsi_930213_467252",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -1174,7 +1174,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_738490_220673",
+            "#gsi_930213_467252",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -1361,7 +1361,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_738490_220673",
+            "#gsi_930213_467252",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -1668,7 +1668,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_738490_220673",
+            "#gsi_930213_467252",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -2384,38 +2384,6 @@
           "target": [
             ".mb-2:nth-child(3) > .min-h-8.bg-color-background-canvas-mobile.link\\:body > .flip-rtl"
           ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<iframe id=\"humanThirdPartyIframe\" src=\"https://li.protechts.net/index.html?ts=1754321738435&amp;r_id=AAY7i9vyhgJrHxyvwcSHSg%3D%3D&amp;app_id=PXdOjV695v&amp;uc=scraping&amp;d_id=62a7127bcf54a9602a5669ef91631a400cf28897ece9d38d2aea81e4cb360faf\" sandbox=\"allow-same-origin allow-scripts\" aria-hidden=\"true\" style=\"height: 0px; width: 0px; border: none; position: absolute; left: -9999px;\">",
-          "target": [
-            "#humanThirdPartyIframe"
-          ]
         }
       ]
     },
@@ -2574,7 +2542,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_738490_220673",
+            "#gsi_930213_467252",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -2881,7 +2849,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_738490_220673",
+            "#gsi_930213_467252",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -3109,7 +3077,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_738490_220673",
+            "#gsi_930213_467252",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -3383,7 +3351,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_738490_220673",
+            "#gsi_930213_467252",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -3866,7 +3834,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_738490_220673",
+            "#gsi_930213_467252",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -4836,7 +4804,7 @@
           "impact": null,
           "html": "<span class=\"nsm7Bb-HzV7m-LgbsSe-BPrWId\">Continue with Google</span>",
           "target": [
-            "#gsi_738490_220673",
+            "#gsi_930213_467252",
             ".nsm7Bb-HzV7m-LgbsSe-BPrWId"
           ]
         },
@@ -5086,7 +5054,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/engineering-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/engineering-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(1) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5111,7 +5079,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/business-development-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/business-development-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(2) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5136,7 +5104,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/finance-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/finance-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(3) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5161,7 +5129,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/administrative-assistant-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/administrative-assistant-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(4) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5186,7 +5154,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/retail-associate-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/retail-associate-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(5) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5211,7 +5179,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/customer-service-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/customer-service-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(6) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5236,7 +5204,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/operations-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/operations-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(7) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5261,7 +5229,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/information-technology-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/information-technology-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(8) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5286,7 +5254,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/marketing-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/marketing-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(9) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5311,7 +5279,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/human-resources-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/human-resources-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(10) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -6330,9 +6298,9 @@
             }
           ],
           "impact": null,
-          "html": "<iframe src=\"https://accounts.google.com/gsi/button?logo_alignment=center&amp;shape=pill&amp;size=large&amp;text=continue_with&amp;theme=filled_blue&amp;type=undefined&amp;width=400px&amp;client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&amp;iframe_id=gsi_738490_220673&amp;as=pQlCdCDeMumgX1f0G2fDdQ&amp;hl=en_US\" allow=\"identity-credentials-get\" id=\"gsi_738490_220673\" title=\"Sign in with Google Button\" style=\"display: block; position: relative; top: 0px; left: 0px; height: 0px; width: 0px; border: 0px;\">",
+          "html": "<iframe src=\"https://accounts.google.com/gsi/button?logo_alignment=center&amp;shape=pill&amp;size=large&amp;text=continue_with&amp;theme=filled_blue&amp;type=undefined&amp;width=400px&amp;client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&amp;iframe_id=gsi_930213_467252&amp;as=OtzgG8J7rClIkKXw6tB2EQ&amp;hl=en_US\" allow=\"identity-credentials-get\" id=\"gsi_930213_467252\" title=\"Sign in with Google Button\" style=\"display: block; position: relative; top: 0px; left: 0px; height: 0px; width: 0px; border: 0px;\">",
           "target": [
-            "#gsi_738490_220673"
+            "#gsi_930213_467252"
           ]
         },
         {
@@ -6348,7 +6316,7 @@
             }
           ],
           "impact": null,
-          "html": "<iframe name=\"microsoft_signin_iframe_1\" title=\"Sign in with Microsoft button\" src=\"https://edge-auth.microsoft.com/v0.5/signinbutton?type=standard&amp;theme=light&amp;size=large&amp;text=continue_with&amp;shape=pill&amp;width=400&amp;height=42&amp;logo_alignment=center&amp;locale=en-US&amp;use_dropdown_list=true&amp;uuid=8cf1bf51-45b9-48b5-96a1-5825922e1156&amp;client_id=3fa91358-6f74-4525-b5df-da149652be36\" style=\"display: block; position: relative; top: 0px; left: 0px; height: 42px; width: 400px; border: 0px;\">",
+          "html": "<iframe name=\"microsoft_signin_iframe_1\" title=\"Sign in with Microsoft button\" src=\"https://edge-auth.microsoft.com/v0.5/signinbutton?type=standard&amp;theme=light&amp;size=large&amp;text=continue_with&amp;shape=pill&amp;width=400&amp;height=42&amp;logo_alignment=center&amp;locale=en-US&amp;use_dropdown_list=true&amp;uuid=d8ffe990-effa-4dfd-ae0d-b61b6c42b188&amp;client_id=3fa91358-6f74-4525-b5df-da149652be36\" style=\"display: block; position: relative; top: 0px; left: 0px; height: 42px; width: 400px; border: 0px;\">",
           "target": [
             "iframe[name=\"microsoft_signin_iframe_1\"]"
           ]
@@ -6366,7 +6334,7 @@
             }
           ],
           "impact": null,
-          "html": "<iframe id=\"microsoft_signin_prompt_holder\" name=\"microsoft_signin_prompt_iframe\" title=\"Sign in with Microsoft prompt\" src=\"https://edge-auth.microsoft.com/v0.5/signinprompt?uuid=8cf1bf51-45b9-48b5-96a1-5825922e1156&amp;send_session_started=true&amp;client_id=3fa91358-6f74-4525-b5df-da149652be36&amp;locale=en-US&amp;context=use\" style=\"height: 0px; width: 0px; border: 0px;\">",
+          "html": "<iframe id=\"microsoft_signin_prompt_holder\" name=\"microsoft_signin_prompt_iframe\" title=\"Sign in with Microsoft prompt\" src=\"https://edge-auth.microsoft.com/v0.5/signinprompt?uuid=d8ffe990-effa-4dfd-ae0d-b61b6c42b188&amp;send_session_started=true&amp;client_id=3fa91358-6f74-4525-b5df-da149652be36&amp;locale=en-US&amp;context=use\" style=\"height: 0px; width: 0px; border: 0px;\">",
           "target": [
             "#microsoft_signin_prompt_holder"
           ]
@@ -6404,9 +6372,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<iframe src=\"https://accounts.google.com/gsi/button?logo_alignment=center&amp;shape=pill&amp;size=large&amp;text=continue_with&amp;theme=filled_blue&amp;type=undefined&amp;width=400px&amp;client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&amp;iframe_id=gsi_738490_220673&amp;as=pQlCdCDeMumgX1f0G2fDdQ&amp;hl=en_US\" allow=\"identity-credentials-get\" id=\"gsi_738490_220673\" title=\"Sign in with Google Button\" style=\"display: block; position: relative; top: 0px; left: 0px; height: 0px; width: 0px; border: 0px;\">",
+          "html": "<iframe src=\"https://accounts.google.com/gsi/button?logo_alignment=center&amp;shape=pill&amp;size=large&amp;text=continue_with&amp;theme=filled_blue&amp;type=undefined&amp;width=400px&amp;client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&amp;iframe_id=gsi_930213_467252&amp;as=OtzgG8J7rClIkKXw6tB2EQ&amp;hl=en_US\" allow=\"identity-credentials-get\" id=\"gsi_930213_467252\" title=\"Sign in with Google Button\" style=\"display: block; position: relative; top: 0px; left: 0px; height: 0px; width: 0px; border: 0px;\">",
           "target": [
-            "#gsi_738490_220673"
+            "#gsi_930213_467252"
           ]
         },
         {
@@ -6422,7 +6390,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<iframe name=\"microsoft_signin_iframe_1\" title=\"Sign in with Microsoft button\" src=\"https://edge-auth.microsoft.com/v0.5/signinbutton?type=standard&amp;theme=light&amp;size=large&amp;text=continue_with&amp;shape=pill&amp;width=400&amp;height=42&amp;logo_alignment=center&amp;locale=en-US&amp;use_dropdown_list=true&amp;uuid=8cf1bf51-45b9-48b5-96a1-5825922e1156&amp;client_id=3fa91358-6f74-4525-b5df-da149652be36\" style=\"display: block; position: relative; top: 0px; left: 0px; height: 42px; width: 400px; border: 0px;\">",
+          "html": "<iframe name=\"microsoft_signin_iframe_1\" title=\"Sign in with Microsoft button\" src=\"https://edge-auth.microsoft.com/v0.5/signinbutton?type=standard&amp;theme=light&amp;size=large&amp;text=continue_with&amp;shape=pill&amp;width=400&amp;height=42&amp;logo_alignment=center&amp;locale=en-US&amp;use_dropdown_list=true&amp;uuid=d8ffe990-effa-4dfd-ae0d-b61b6c42b188&amp;client_id=3fa91358-6f74-4525-b5df-da149652be36\" style=\"display: block; position: relative; top: 0px; left: 0px; height: 42px; width: 400px; border: 0px;\">",
           "target": [
             "iframe[name=\"microsoft_signin_iframe_1\"]"
           ]
@@ -6440,7 +6408,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<iframe id=\"microsoft_signin_prompt_holder\" name=\"microsoft_signin_prompt_iframe\" title=\"Sign in with Microsoft prompt\" src=\"https://edge-auth.microsoft.com/v0.5/signinprompt?uuid=8cf1bf51-45b9-48b5-96a1-5825922e1156&amp;send_session_started=true&amp;client_id=3fa91358-6f74-4525-b5df-da149652be36&amp;locale=en-US&amp;context=use\" style=\"height: 0px; width: 0px; border: 0px;\">",
+          "html": "<iframe id=\"microsoft_signin_prompt_holder\" name=\"microsoft_signin_prompt_iframe\" title=\"Sign in with Microsoft prompt\" src=\"https://edge-auth.microsoft.com/v0.5/signinprompt?uuid=d8ffe990-effa-4dfd-ae0d-b61b6c42b188&amp;send_session_started=true&amp;client_id=3fa91358-6f74-4525-b5df-da149652be36&amp;locale=en-US&amp;context=use\" style=\"height: 0px; width: 0px; border: 0px;\">",
           "target": [
             "#microsoft_signin_prompt_holder"
           ]
@@ -6534,7 +6502,7 @@
           "impact": null,
           "html": "<html lang=\"en\">",
           "target": [
-            "#gsi_738490_220673",
+            "#gsi_930213_467252",
             "html"
           ]
         }
@@ -7748,7 +7716,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/engineering-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/engineering-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(1) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -7774,7 +7742,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/business-development-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/business-development-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(2) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -7800,7 +7768,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/finance-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/finance-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(3) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -7826,7 +7794,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/administrative-assistant-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/administrative-assistant-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(4) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -7852,7 +7820,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/retail-associate-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/retail-associate-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(5) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -7878,7 +7846,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/customer-service-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/customer-service-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(6) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -7904,7 +7872,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/operations-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/operations-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(7) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -7930,7 +7898,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/information-technology-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/information-technology-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(8) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -7956,7 +7924,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/marketing-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/marketing-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(9) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -7982,7 +7950,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/human-resources-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/human-resources-jobs-newbury?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(10) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -8483,7 +8451,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"flex justify-between items-center min-h-8 w-column babybear:w-full\n            bg-color-background-canvas-mobile p-2 link:body\n            hover:bg-[#e1dad0] hover:link:text-color-text hover:link:no-underline\" data-tracking-control-name=\"homepage-basic_brand-discovery_intent-module-secondBtn\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/jobs-in-london?trk=homepage-basic_brand-discovery_intent-module-secondBtn\">",
+          "html": "<a class=\"flex justify-between items-center min-h-8 w-column babybear:w-full\n            bg-color-background-canvas-mobile p-2 link:body\n            hover:bg-[#e1dad0] hover:link:text-color-text hover:link:no-underline\" data-tracking-control-name=\"homepage-basic_brand-discovery_intent-module-secondBtn\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/jobs-in-newbury?trk=homepage-basic_brand-discovery_intent-module-secondBtn\">",
           "target": [
             ".mb-2:nth-child(2) > .min-h-8.bg-color-background-canvas-mobile.link\\:body"
           ]
@@ -11622,7 +11590,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_738490_220673",
+            "#gsi_930213_467252",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -12578,7 +12546,7 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"flex justify-between items-center min-h-8 w-column babybear:w-full\n            bg-color-background-canvas-mobile p-2 link:body\n            hover:bg-[#e1dad0] hover:link:text-color-text hover:link:no-underline\" data-tracking-control-name=\"homepage-basic_brand-discovery_intent-module-secondBtn\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/jobs-in-london?trk=homepage-basic_brand-discovery_intent-module-secondBtn\">",
+          "html": "<a class=\"flex justify-between items-center min-h-8 w-column babybear:w-full\n            bg-color-background-canvas-mobile p-2 link:body\n            hover:bg-[#e1dad0] hover:link:text-color-text hover:link:no-underline\" data-tracking-control-name=\"homepage-basic_brand-discovery_intent-module-secondBtn\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/jobs-in-newbury?trk=homepage-basic_brand-discovery_intent-module-secondBtn\">",
           "target": [
             ".mb-2:nth-child(2) > .min-h-8.bg-color-background-canvas-mobile.link\\:body"
           ],

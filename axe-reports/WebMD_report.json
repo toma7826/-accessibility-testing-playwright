@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-08-04T15:35:05.226Z",
+  "timestamp": "2025-08-04T17:17:41.819Z",
   "url": "https://www.webmd.com/",
   "toolOptions": {
     "runOnly": {
@@ -4758,19 +4758,19 @@
                   ]
                 },
                 {
-                  "html": "<h3 class=\"module-head\" data-v-75af017e=\"\">Understanding MASLD and MASH</h3>",
+                  "html": "<h3 class=\"module-head\" data-v-75af017e=\"\">Breaking Barriers in Lupus</h3>",
                   "target": [
                     "a[data-metrics-link=\"1\"][data-v-75af017e=\"\"] > .text-container[data-v-75af017e=\"\"] > .module-head[data-v-75af017e=\"\"]"
                   ]
                 },
                 {
-                  "html": "<h3 class=\"module-head\" data-v-75af017e=\"\">Content on Exercise-Related Pains</h3>",
+                  "html": "<h3 class=\"module-head\" data-v-75af017e=\"\">Understanding MASLD and MASH</h3>",
                   "target": [
                     "a[data-metrics-link=\"2\"][data-v-75af017e=\"\"] > .text-container[data-v-75af017e=\"\"] > .module-head[data-v-75af017e=\"\"]"
                   ]
                 },
                 {
-                  "html": "<h3 class=\"module-head\" data-v-75af017e=\"\">Breaking Barriers in Lupus</h3>",
+                  "html": "<h3 class=\"module-head\" data-v-75af017e=\"\">Content on Exercise-Related Pains</h3>",
                   "target": [
                     "a[data-metrics-link=\"3\"][data-v-75af017e=\"\"] > .text-container[data-v-75af017e=\"\"] > .module-head[data-v-75af017e=\"\"]"
                   ]
@@ -6124,7 +6124,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span class=\"eye-brow\" data-v-75af017e=\"\">Content on MASLD and MASH</span>",
+          "html": "<span class=\"eye-brow\" data-v-75af017e=\"\">Spotlight on Lupus</span>",
           "target": [
             "a[data-metrics-link=\"1\"][data-v-75af017e=\"\"] > .text-container[data-v-75af017e=\"\"] > .eye-brow[data-v-75af017e=\"\"]"
           ]
@@ -6149,7 +6149,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<h3 class=\"module-head\" data-v-75af017e=\"\">Understanding MASLD and MASH</h3>",
+          "html": "<h3 class=\"module-head\" data-v-75af017e=\"\">Breaking Barriers in Lupus</h3>",
           "target": [
             "a[data-metrics-link=\"1\"][data-v-75af017e=\"\"] > .text-container[data-v-75af017e=\"\"] > .module-head[data-v-75af017e=\"\"]"
           ]
@@ -6174,7 +6174,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p class=\"content\" data-v-75af017e=\"\">Learn about these liver conditions, how they’re treated, and ways to work with your care team for better health.</p>",
+          "html": "<p class=\"content\" data-v-75af017e=\"\">Learn how to speak up for your care, why research diversity matters, and how lupus affects people of color differently.</p>",
           "target": [
             "a[data-metrics-link=\"1\"][data-v-75af017e=\"\"] > .text-container[data-v-75af017e=\"\"] > .content[data-v-75af017e=\"\"]"
           ]
@@ -6199,7 +6199,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span class=\"eye-brow\" data-v-75af017e=\"\">Content on Exercise-Related Pains</span>",
+          "html": "<span class=\"eye-brow\" data-v-75af017e=\"\">Content on MASLD and MASH</span>",
           "target": [
             "a[data-metrics-link=\"2\"][data-v-75af017e=\"\"] > .text-container[data-v-75af017e=\"\"] > .eye-brow[data-v-75af017e=\"\"]"
           ]
@@ -6224,7 +6224,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<h3 class=\"module-head\" data-v-75af017e=\"\">Content on Exercise-Related Pains</h3>",
+          "html": "<h3 class=\"module-head\" data-v-75af017e=\"\">Understanding MASLD and MASH</h3>",
           "target": [
             "a[data-metrics-link=\"2\"][data-v-75af017e=\"\"] > .text-container[data-v-75af017e=\"\"] > .module-head[data-v-75af017e=\"\"]"
           ]
@@ -6249,7 +6249,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p class=\"content\" data-v-75af017e=\"\">Soothe sore muscles and prevent injury. Learn how to manage exercise pain, stay flexible, and choose the right relief for your body.</p>",
+          "html": "<p class=\"content\" data-v-75af017e=\"\">Learn about these liver conditions, how they’re treated, and ways to work with your care team for better health.</p>",
           "target": [
             "a[data-metrics-link=\"2\"][data-v-75af017e=\"\"] > .text-container[data-v-75af017e=\"\"] > .content[data-v-75af017e=\"\"]"
           ]
@@ -6274,7 +6274,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span class=\"eye-brow\" data-v-75af017e=\"\">Spotlight on Lupus</span>",
+          "html": "<span class=\"eye-brow\" data-v-75af017e=\"\">Content on Exercise-Related Pains</span>",
           "target": [
             "a[data-metrics-link=\"3\"][data-v-75af017e=\"\"] > .text-container[data-v-75af017e=\"\"] > .eye-brow[data-v-75af017e=\"\"]"
           ]
@@ -6299,7 +6299,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<h3 class=\"module-head\" data-v-75af017e=\"\">Breaking Barriers in Lupus</h3>",
+          "html": "<h3 class=\"module-head\" data-v-75af017e=\"\">Content on Exercise-Related Pains</h3>",
           "target": [
             "a[data-metrics-link=\"3\"][data-v-75af017e=\"\"] > .text-container[data-v-75af017e=\"\"] > .module-head[data-v-75af017e=\"\"]"
           ]
@@ -6324,7 +6324,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p class=\"content\" data-v-75af017e=\"\">Learn how to speak up for your care, why research diversity matters, and how lupus affects people of color differently.</p>",
+          "html": "<p class=\"content\" data-v-75af017e=\"\">Soothe sore muscles and prevent injury. Learn how to manage exercise pain, stay flexible, and choose the right relief for your body.</p>",
           "target": [
             "a[data-metrics-link=\"3\"][data-v-75af017e=\"\"] > .text-container[data-v-75af017e=\"\"] > .content[data-v-75af017e=\"\"]"
           ]
@@ -12568,7 +12568,7 @@
             }
           ],
           "impact": null,
-          "html": "<a href=\"https://www.webmd.com/fatty-liver-disease/toc-masld-mash?mmtrack=17166-28563-9-1-0-0-1\" data-metrics-link=\"1\" data-v-75af017e=\"\">",
+          "html": "<a href=\"https://www.webmd.com/lupus/toc-lupus-breaking-barriers?mmtrack=22283-41269-9-1-0-0-1\" data-metrics-link=\"1\" data-v-75af017e=\"\">",
           "target": [
             "a[data-metrics-link=\"1\"][data-v-75af017e=\"\"]"
           ]
@@ -12594,7 +12594,7 @@
             }
           ],
           "impact": null,
-          "html": "<a href=\"https://www.webmd.com/pain-management/cc-soothe-exercise-related-pains?mmtrack=16620-27103-9-1-0-0-2\" data-metrics-link=\"2\" data-v-75af017e=\"\">",
+          "html": "<a href=\"https://www.webmd.com/fatty-liver-disease/toc-masld-mash?mmtrack=17166-28563-9-1-0-0-2\" data-metrics-link=\"2\" data-v-75af017e=\"\">",
           "target": [
             "a[data-metrics-link=\"2\"][data-v-75af017e=\"\"]"
           ]
@@ -12620,7 +12620,7 @@
             }
           ],
           "impact": null,
-          "html": "<a href=\"https://www.webmd.com/lupus/toc-lupus-breaking-barriers?mmtrack=22283-41269-9-1-0-0-3\" data-metrics-link=\"3\" data-v-75af017e=\"\">",
+          "html": "<a href=\"https://www.webmd.com/pain-management/cc-soothe-exercise-related-pains?mmtrack=16620-27103-9-1-0-0-3\" data-metrics-link=\"3\" data-v-75af017e=\"\">",
           "target": [
             "a[data-metrics-link=\"3\"][data-v-75af017e=\"\"]"
           ]
@@ -16508,7 +16508,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<img src=\"https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/stay-motivated-to-care-for-your-copd-slideshow/1800ss-getty-rf-doctor-and-patient-talking.jpg?resize=400px:*&amp;output-quality=70\" loading=\"lazy\" data-v-75af017e=\"\">",
+          "html": "<img src=\"https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/migraine/1800x1200_getty_rf_young_woman_in_cafe_thinking.jpg?resize=400px:*&amp;output-quality=70\" loading=\"lazy\" data-v-75af017e=\"\">",
           "target": [
             "a[data-metrics-link=\"1\"][data-v-75af017e=\"\"] > .img-container[data-v-75af017e=\"\"] > img[loading=\"lazy\"][data-v-75af017e=\"\"]"
           ]
@@ -16526,7 +16526,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<img src=\"https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/2024_ib_ai_slideshows/slide8_shutterstock_2355198685_1800x1200.jpg?resize=400px:*&amp;output-quality=70\" loading=\"lazy\" data-v-75af017e=\"\">",
+          "html": "<img src=\"https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/stay-motivated-to-care-for-your-copd-slideshow/1800ss-getty-rf-doctor-and-patient-talking.jpg?resize=400px:*&amp;output-quality=70\" loading=\"lazy\" data-v-75af017e=\"\">",
           "target": [
             "a[data-metrics-link=\"2\"][data-v-75af017e=\"\"] > .img-container[data-v-75af017e=\"\"] > img[loading=\"lazy\"][data-v-75af017e=\"\"]"
           ]
@@ -16544,7 +16544,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<img src=\"https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/migraine/1800x1200_getty_rf_young_woman_in_cafe_thinking.jpg?resize=400px:*&amp;output-quality=70\" loading=\"lazy\" data-v-75af017e=\"\">",
+          "html": "<img src=\"https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/2024_ib_ai_slideshows/slide8_shutterstock_2355198685_1800x1200.jpg?resize=400px:*&amp;output-quality=70\" loading=\"lazy\" data-v-75af017e=\"\">",
           "target": [
             "a[data-metrics-link=\"3\"][data-v-75af017e=\"\"] > .img-container[data-v-75af017e=\"\"] > img[loading=\"lazy\"][data-v-75af017e=\"\"]"
           ]
@@ -19061,7 +19061,7 @@
           "all": [],
           "none": [],
           "impact": "critical",
-          "html": "<img src=\"https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/stay-motivated-to-care-for-your-copd-slideshow/1800ss-getty-rf-doctor-and-patient-talking.jpg?resize=400px:*&amp;output-quality=70\" loading=\"lazy\" data-v-75af017e=\"\">",
+          "html": "<img src=\"https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/migraine/1800x1200_getty_rf_young_woman_in_cafe_thinking.jpg?resize=400px:*&amp;output-quality=70\" loading=\"lazy\" data-v-75af017e=\"\">",
           "target": [
             "a[data-metrics-link=\"1\"][data-v-75af017e=\"\"] > .img-container[data-v-75af017e=\"\"] > img[loading=\"lazy\"][data-v-75af017e=\"\"]"
           ],
@@ -19110,7 +19110,7 @@
           "all": [],
           "none": [],
           "impact": "critical",
-          "html": "<img src=\"https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/2024_ib_ai_slideshows/slide8_shutterstock_2355198685_1800x1200.jpg?resize=400px:*&amp;output-quality=70\" loading=\"lazy\" data-v-75af017e=\"\">",
+          "html": "<img src=\"https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/stay-motivated-to-care-for-your-copd-slideshow/1800ss-getty-rf-doctor-and-patient-talking.jpg?resize=400px:*&amp;output-quality=70\" loading=\"lazy\" data-v-75af017e=\"\">",
           "target": [
             "a[data-metrics-link=\"2\"][data-v-75af017e=\"\"] > .img-container[data-v-75af017e=\"\"] > img[loading=\"lazy\"][data-v-75af017e=\"\"]"
           ],
@@ -19159,7 +19159,7 @@
           "all": [],
           "none": [],
           "impact": "critical",
-          "html": "<img src=\"https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/migraine/1800x1200_getty_rf_young_woman_in_cafe_thinking.jpg?resize=400px:*&amp;output-quality=70\" loading=\"lazy\" data-v-75af017e=\"\">",
+          "html": "<img src=\"https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/2024_ib_ai_slideshows/slide8_shutterstock_2355198685_1800x1200.jpg?resize=400px:*&amp;output-quality=70\" loading=\"lazy\" data-v-75af017e=\"\">",
           "target": [
             "a[data-metrics-link=\"3\"][data-v-75af017e=\"\"] > .img-container[data-v-75af017e=\"\"] > img[loading=\"lazy\"][data-v-75af017e=\"\"]"
           ],
