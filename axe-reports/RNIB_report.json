@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-06-26T21:06:46.567Z",
+  "timestamp": "2025-07-08T11:14:28.534Z",
   "url": "https://www.rnib.org.uk/",
   "toolOptions": {
     "runOnly": {
@@ -14186,7 +14186,7 @@
               "data": null,
               "relatedNodes": [
                 {
-                  "html": "<h1 class=\"hero-home__title\">\n                    <span class=\"u-sr-only\">Home</span>\n                    <span class=\"hero-home__subtitle \">Supporting you with Cataracts</span>\n                </h1>",
+                  "html": "<h1 class=\"hero-home__title\">\n                    <span class=\"u-sr-only\">Home</span>\n                    <span class=\"hero-home__subtitle \">Join RNIB at RHS Flower Show Wentworth Woodhouse</span>\n                </h1>",
                   "target": [
                     "h1"
                   ]
@@ -14589,6 +14589,56 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#ffffff",
+                "bgColor": "#292929",
+                "contrastRatio": 14.54,
+                "fontSize": "15.0pt (20px)",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 14.54"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<span class=\"helpline-banner__text\">\n             Call our Helpline on <b><a class=\"helpline-banner__link\" href=\"tel:+443031239999\">0303 123 9999</a></b> \n        </span>",
+          "target": [
+            ".helpline-banner__text"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#ffffff",
+                "bgColor": "#292929",
+                "contrastRatio": 14.54,
+                "fontSize": "15.0pt (20px)",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 14.54"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<a class=\"helpline-banner__link\" href=\"tel:+443031239999\">0303 123 9999</a>",
+          "target": [
+            ".helpline-banner__link"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#ffffff",
                 "bgColor": "#111111",
                 "contrastRatio": 18.88,
                 "fontSize": "35.3pt (47px)",
@@ -14603,7 +14653,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span class=\"hero-home__subtitle \">Supporting you with Cataracts</span>",
+          "html": "<span class=\"hero-home__subtitle \">Join RNIB at RHS Flower Show Wentworth Woodhouse</span>",
           "target": [
             ".hero-home__subtitle"
           ]
@@ -14628,9 +14678,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p data-block-key=\"pwo82\">This June, for Cataracts Awareness Month, we’re sharing tips to help whether you’re recently diagnosed with cataracts, managing your symptoms or recovering after surgery.</p>",
+          "html": "<p data-block-key=\"3f2bg\">Explore the accessible RNIB Legacy Garden on 16-20 July 2025, brought to life by award-winning designer Paul Hervey-Brookes, to celebrate the impact of gifts in Wills on RNIB's work.</p>",
           "target": [
-            "p[data-block-key=\"pwo82\"]"
+            "p[data-block-key=\"3f2bg\"]"
           ]
         },
         {
@@ -14653,7 +14703,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a href=\"https://www.rnib.org.uk/your-eyes/eye-conditions-az/cataracts/\" class=\"hero-home__button rnib-button rnib-button--primary\">",
+          "html": "<a href=\"https://www.rnib.org.uk/get-involved/fundraise/gifts-in-wills/rnib-legacy-garden-rhs-flower-show-wentworth-woodhouse-2025/\" class=\"hero-home__button rnib-button rnib-button--primary\">",
           "target": [
             ".hero-home__button"
           ]
@@ -15643,7 +15693,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p data-block-key=\"hth65\">We're open 9am – 6pm on weekdays and 9am – 1pm on Saturdays</p>",
+          "html": "<p data-block-key=\"hth65\">We're open Monday to Friday, 9am – 6pm. </p>",
           "target": [
             "p[data-block-key=\"hth65\"]"
           ]
@@ -16984,7 +17034,7 @@
             }
           ],
           "impact": null,
-          "html": "<img alt=\"Graphic with a bright pink background and image of an eye, with a cataract, in the middle.\" class=\"hero-home__img\" height=\"400\" loading=\"lazy\" src=\"https://media.rnib.org.uk/images/RNIB_cataracts_Header_v1.2e16d0ba.fill-580x400.jpg\" width=\"580\">",
+          "html": "<img alt=\"A watercolour illustration of the RNIB Legacy Garden at RHS Flower Show Wentworth Woodhouse. It features two lattice pods surrounded by green trees and colourful flowers. The setting is designed to be accessible and provide a rich sensory experience.\" class=\"hero-home__img\" height=\"400\" loading=\"lazy\" src=\"https://media.rnib.org.uk/images/RNIB_Legacy_Garden_illustration.2e16d0ba.fill-580x400.jpg\" width=\"580\">",
           "target": [
             "img[width=\"580\"]"
           ]
@@ -17149,6 +17199,20 @@
         {
           "any": [
             {
+              "id": "link-in-text-block",
+              "data": null,
+              "relatedNodes": [
+                {
+                  "html": "<span class=\"helpline-banner__text\">\n             Call our Helpline on <b><a class=\"helpline-banner__link\" href=\"tel:+443031239999\">0303 123 9999</a></b> \n        </span>",
+                  "target": [
+                    ".helpline-banner__text"
+                  ]
+                }
+              ],
+              "impact": "serious",
+              "message": "Links can be distinguished from surrounding text in some way other than by color"
+            },
+            {
               "id": "link-in-text-block-style",
               "data": null,
               "relatedNodes": [
@@ -17191,7 +17255,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a href=\"https://www.rnib.org.uk/your-eyes/eye-conditions-az/cataracts/\" class=\"hero-home__button rnib-button rnib-button--primary\">",
+          "html": "<a href=\"https://www.rnib.org.uk/get-involved/fundraise/gifts-in-wills/rnib-legacy-garden-rhs-flower-show-wentworth-woodhouse-2025/\" class=\"hero-home__button rnib-button rnib-button--primary\">",
           "target": [
             ".hero-home__button"
           ]
@@ -17563,7 +17627,7 @@
             }
           ],
           "impact": null,
-          "html": "<a href=\"https://www.rnib.org.uk/your-eyes/eye-conditions-az/cataracts/\" class=\"hero-home__button rnib-button rnib-button--primary\">",
+          "html": "<a href=\"https://www.rnib.org.uk/get-involved/fundraise/gifts-in-wills/rnib-legacy-garden-rhs-flower-show-wentworth-woodhouse-2025/\" class=\"hero-home__button rnib-button rnib-button--primary\">",
           "target": [
             ".hero-home__button"
           ]
@@ -19698,7 +19762,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<img alt=\"Graphic with a bright pink background and image of an eye, with a cataract, in the middle.\" class=\"hero-home__img\" height=\"400\" loading=\"lazy\" src=\"https://media.rnib.org.uk/images/RNIB_cataracts_Header_v1.2e16d0ba.fill-580x400.jpg\" width=\"580\">",
+          "html": "<img alt=\"A watercolour illustration of the RNIB Legacy Garden at RHS Flower Show Wentworth Woodhouse. It features two lattice pods surrounded by green trees and colourful flowers. The setting is designed to be accessible and provide a rich sensory experience.\" class=\"hero-home__img\" height=\"400\" loading=\"lazy\" src=\"https://media.rnib.org.uk/images/RNIB_Legacy_Garden_illustration.2e16d0ba.fill-580x400.jpg\" width=\"580\">",
           "target": [
             "img[width=\"580\"]"
           ]
@@ -19960,56 +20024,6 @@
       "help": "Elements must meet minimum color contrast ratio thresholds",
       "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=playwright",
       "nodes": [
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "contrastRatio": 0,
-                "fontSize": "15.0pt (20px)",
-                "fontWeight": "normal",
-                "messageKey": "bgOverlap",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element's background color could not be determined because it is overlapped by another element"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "serious",
-          "html": "<span class=\"helpline-banner__text\">\n             Call our Helpline on <b><a class=\"helpline-banner__link\" href=\"tel:+443031239999\">0303 123 9999</a></b> \n        </span>",
-          "target": [
-            ".helpline-banner__text"
-          ],
-          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "contrastRatio": 0,
-                "fontSize": "15.0pt (20px)",
-                "fontWeight": "normal",
-                "messageKey": "bgOverlap",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element's background color could not be determined because it is overlapped by another element"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "serious",
-          "html": "<a class=\"helpline-banner__link\" href=\"tel:+443031239999\">0303 123 9999</a>",
-          "target": [
-            ".helpline-banner__link"
-          ],
-          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
-        },
         {
           "any": [
             {

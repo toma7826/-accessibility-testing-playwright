@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-06-26T21:06:32.043Z",
+  "timestamp": "2025-08-04T15:34:16.411Z",
   "url": "https://www.scope.org.uk/",
   "toolOptions": {
     "runOnly": {
@@ -808,9 +808,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"826\" data-gtm-vis-first-on-screen166076_508=\"826\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"677\" data-gtm-vis-first-on-screen166076_508=\"677\" data-gtm-vis-total-visible-time166076_508=\"1200\">",
           "target": [
-            "a[aria-label=\"Learn more about our campaign\"]"
+            "a[href$=\"awards\"]"
           ]
         },
         {
@@ -834,9 +834,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/volunteering\" aria-label=\"Volunteer with Scope\">",
+          "html": "<a class=\"PageItem__item\" href=\"/charity-shops/donating-goods\" aria-label=\"Donating items to our shops\">",
           "target": [
-            "a[aria-label=\"Volunteer with Scope\"]"
+            "a[href$=\"donating-goods\"]"
           ]
         },
         {
@@ -860,9 +860,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/the-disability-benefits-green-paper-what-you-need-to-know\" aria-label=\"Changes to disability benefits: what you need to know\">",
+          "html": "<a class=\"PageItem__item\" href=\"/campaigns/disability-price-tag\" aria-label=\"Disability Price Tag&nbsp;2025\">",
           "target": [
-            ".PromotedItems:nth-child(3) > .PageItem > .PageItem__item:nth-child(2)"
+            "a[aria-label=\"Disability Price Tag 2025\"]"
           ]
         },
         {
@@ -1042,7 +1042,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/what-you-need-to-know-about-the-new-bill-to-change-disability-benefits\" aria-label=\"What you need to know about the new bill to change disability benefits. Read about the Universal Credit and Personal Independence Payment Bill. And what it means for disability benefits.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/new-survey-shows-impact-of-heatwaves-on-disabled-people\" aria-label=\"New survey shows impact of heatwaves on disabled people A recent survey with Scope’s Lived Experience&nbsp;Research Panel shows how summer heatwaves affect many disabled people. Both physically and financially.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1)"
           ]
@@ -1068,7 +1068,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/the-universal-credit-bill-becomes-law-here-are-the-changes-to-disability-benefits-you-need-to-know-about\" aria-label=\"The Universal Credit Bill becomes law. Here are the changes to disability benefits you need to know about On 9 July, MPs voted to pass the Universal Credit Bill, previously known as Universal Credit and Personal Independence Payment Bill for the final time. It will now become law. Read here about what changes to disability benefits are happening and when.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2)"
           ]
@@ -1094,7 +1094,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/the-universal-credit-bill-has-passed-its-second-reading-here-is-everything-you-need-to-know\" aria-label=\"The Universal Credit Bill has passed its second reading. Here is everything you need to know MPs have voted to pass the Universal Credit Bill. Formerly known as the Universal Credit and Personal Independence Payment Bill. But with massive changes. Read about what the changes are and what they mean for disabled people.\">",
           "target": [
             ".PageItem__item:nth-child(3)"
           ]
@@ -1262,9 +1262,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"826\" data-gtm-vis-first-on-screen166076_508=\"826\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"677\" data-gtm-vis-first-on-screen166076_508=\"677\" data-gtm-vis-total-visible-time166076_508=\"1200\">",
           "target": [
-            "a[aria-label=\"Learn more about our campaign\"]"
+            "a[href$=\"awards\"]"
           ]
         },
         {
@@ -1280,9 +1280,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/volunteering\" aria-label=\"Volunteer with Scope\">",
+          "html": "<a class=\"PageItem__item\" href=\"/charity-shops/donating-goods\" aria-label=\"Donating items to our shops\">",
           "target": [
-            "a[aria-label=\"Volunteer with Scope\"]"
+            "a[href$=\"donating-goods\"]"
           ]
         },
         {
@@ -1298,9 +1298,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/the-disability-benefits-green-paper-what-you-need-to-know\" aria-label=\"Changes to disability benefits: what you need to know\">",
+          "html": "<a class=\"PageItem__item\" href=\"/campaigns/disability-price-tag\" aria-label=\"Disability Price Tag&nbsp;2025\">",
           "target": [
-            ".PromotedItems:nth-child(3) > .PageItem > .PageItem__item:nth-child(2)"
+            "a[aria-label=\"Disability Price Tag 2025\"]"
           ]
         },
         {
@@ -1424,7 +1424,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/what-you-need-to-know-about-the-new-bill-to-change-disability-benefits\" aria-label=\"What you need to know about the new bill to change disability benefits. Read about the Universal Credit and Personal Independence Payment Bill. And what it means for disability benefits.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/new-survey-shows-impact-of-heatwaves-on-disabled-people\" aria-label=\"New survey shows impact of heatwaves on disabled people A recent survey with Scope’s Lived Experience&nbsp;Research Panel shows how summer heatwaves affect many disabled people. Both physically and financially.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1)"
           ]
@@ -1442,7 +1442,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/the-universal-credit-bill-becomes-law-here-are-the-changes-to-disability-benefits-you-need-to-know-about\" aria-label=\"The Universal Credit Bill becomes law. Here are the changes to disability benefits you need to know about On 9 July, MPs voted to pass the Universal Credit Bill, previously known as Universal Credit and Personal Independence Payment Bill for the final time. It will now become law. Read here about what changes to disability benefits are happening and when.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2)"
           ]
@@ -1460,7 +1460,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/the-universal-credit-bill-has-passed-its-second-reading-here-is-everything-you-need-to-know\" aria-label=\"The Universal Credit Bill has passed its second reading. Here is everything you need to know MPs have voted to pass the Universal Credit Bill. Formerly known as the Universal Credit and Personal Independence Payment Bill. But with massive changes. Read about what the changes are and what they mean for disabled people.\">",
           "target": [
             ".PageItem__item:nth-child(3)"
           ]
@@ -1616,7 +1616,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<img class=\"Hero__img\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/8eedd078-f19c-4b30-865a-47f906cf797c/cost-of-cuts.jpg\" data-imgs=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/8eedd078-f19c-4b30-865a-47f906cf797c/cost-of-cuts.jpg\" alt=\"\" aria-hidden=\"true\">",
+          "html": "<img class=\"Hero__img\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/32f01ac5-9cd3-425f-b02b-a8ad99b3f7c6/SPN_055_Scope%20award_Digital_v1_Website%20banner_1400x600_2.jpg\" data-imgs=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/32f01ac5-9cd3-425f-b02b-a8ad99b3f7c6/SPN_055_Scope%20award_Digital_v1_Website%20banner_1400x600_2.jpg\" alt=\"\" aria-hidden=\"true\">",
           "target": [
             ".Hero--homepage > .Hero__container > .Hero__img-container > .Hero__img[aria-hidden=\"true\"][alt=\"\"]"
           ]
@@ -1648,7 +1648,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<img class=\"Hero__img-mobile\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/8eedd078-f19c-4b30-865a-47f906cf797c/cost-of-cuts.jpg\" data-imgs=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/8eedd078-f19c-4b30-865a-47f906cf797c/cost-of-cuts.jpg\" alt=\"\" aria-hidden=\"true\">",
+          "html": "<img class=\"Hero__img-mobile\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/32f01ac5-9cd3-425f-b02b-a8ad99b3f7c6/SPN_055_Scope%20award_Digital_v1_Website%20banner_1400x600_2.jpg\" data-imgs=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/32f01ac5-9cd3-425f-b02b-a8ad99b3f7c6/SPN_055_Scope%20award_Digital_v1_Website%20banner_1400x600_2.jpg\" alt=\"\" aria-hidden=\"true\">",
           "target": [
             ".Hero--homepage > .Hero__container > .Hero__img-container > .Hero__img-mobile[aria-hidden=\"true\"][alt=\"\"]"
           ]
@@ -1680,9 +1680,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<img class=\"PageItem__img h-center\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/f4bcd54b-8eb2-4466-bb80-c4e8eb0dabcf/SPN%20146%20Volunteer%20campaign%20May%2025_Web%20banners_Homepage.png\" data-imgs=\"\" alt=\"\" aria-hidden=\"true\">",
+          "html": "<img class=\"PageItem__img h-center\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/cd8d1d77-8570-47f8-b701-98d7493d7743/SPN_172-Retail-Stock-Donation_Digital-Assets_Website-hero_1400x600px_V2.jpg\" data-imgs=\"\" alt=\"\" aria-hidden=\"true\">",
           "target": [
-            "a[aria-label=\"Volunteer with Scope\"] > .PageItem__visual > .PageItem__img.h-center[data-imgs=\"\"]"
+            "a[href$=\"donating-goods\"] > .PageItem__visual > .PageItem__img.h-center[data-imgs=\"\"]"
           ]
         },
         {
@@ -1712,9 +1712,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<img class=\"PageItem__img h-center\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/734e5678-a154-4159-9819-ba6aaa9e3085/Untitled%20design%20%2814%29.png\" data-imgs=\"\" alt=\"\" aria-hidden=\"true\">",
+          "html": "<img class=\"PageItem__img h-center\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/eee98dc7-1679-4248-9511-904453487eef/price-tag-2025-hero.jpg\" data-imgs=\"\" alt=\"\" aria-hidden=\"true\">",
           "target": [
-            ".PromotedItems:nth-child(3) > .PageItem > .PageItem__item:nth-child(2) > .PageItem__visual > .PageItem__img.h-center[data-imgs=\"\"]"
+            "a[aria-label=\"Disability Price Tag 2025\"] > .PageItem__visual > .PageItem__img.h-center[data-imgs=\"\"]"
           ]
         },
         {
@@ -1936,7 +1936,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<img class=\"PageItem__img h-center\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/734e5678-a154-4159-9819-ba6aaa9e3085/Untitled%20design%20%2814%29.png\" data-imgs=\"\" alt=\"\" aria-hidden=\"true\">",
+          "html": "<img class=\"PageItem__img h-center\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/d8335f7a-bf8a-4f81-87eb-6c4ca7e2ed20/Heatwave.jpg\" data-imgs=\"\" alt=\"\" aria-hidden=\"true\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1) > .PageItem__visual > .PageItem__img.h-center[data-imgs=\"\"]"
           ]
@@ -2000,7 +2000,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<img class=\"PageItem__img h-center\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/f01e94fe-a720-4208-8dac-4ad726212989/Cost%20of%20cuts%20petition%20hand%20in.png\" data-imgs=\"\" alt=\"\" aria-hidden=\"true\">",
+          "html": "<img class=\"PageItem__img h-center\" src=\"https://assets-eu-01.kc-usercontent.com:443/73ea709e-f9f8-0168-3842-ebd7ad1e23ac/bfe78ad6-7ff5-467e-af19-113251992421/Untitled%20design%20%2814%29.png\" data-imgs=\"\" alt=\"\" aria-hidden=\"true\">",
           "target": [
             ".PageItem__item:nth-child(3) > .PageItem__visual > .PageItem__img.h-center[data-imgs=\"\"]"
           ]
@@ -2238,9 +2238,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"826\" data-gtm-vis-first-on-screen166076_508=\"826\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"677\" data-gtm-vis-first-on-screen166076_508=\"677\" data-gtm-vis-total-visible-time166076_508=\"1200\">",
           "target": [
-            "a[aria-label=\"Learn more about our campaign\"]"
+            "a[href$=\"awards\"]"
           ]
         },
         {
@@ -2256,9 +2256,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/volunteering\" aria-label=\"Volunteer with Scope\">",
+          "html": "<a class=\"PageItem__item\" href=\"/charity-shops/donating-goods\" aria-label=\"Donating items to our shops\">",
           "target": [
-            "a[aria-label=\"Volunteer with Scope\"]"
+            "a[href$=\"donating-goods\"]"
           ]
         },
         {
@@ -2274,9 +2274,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/the-disability-benefits-green-paper-what-you-need-to-know\" aria-label=\"Changes to disability benefits: what you need to know\">",
+          "html": "<a class=\"PageItem__item\" href=\"/campaigns/disability-price-tag\" aria-label=\"Disability Price Tag&nbsp;2025\">",
           "target": [
-            ".PromotedItems:nth-child(3) > .PageItem > .PageItem__item:nth-child(2)"
+            "a[aria-label=\"Disability Price Tag 2025\"]"
           ]
         },
         {
@@ -2400,7 +2400,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/what-you-need-to-know-about-the-new-bill-to-change-disability-benefits\" aria-label=\"What you need to know about the new bill to change disability benefits. Read about the Universal Credit and Personal Independence Payment Bill. And what it means for disability benefits.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/new-survey-shows-impact-of-heatwaves-on-disabled-people\" aria-label=\"New survey shows impact of heatwaves on disabled people A recent survey with Scope’s Lived Experience&nbsp;Research Panel shows how summer heatwaves affect many disabled people. Both physically and financially.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1)"
           ]
@@ -2418,7 +2418,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/the-universal-credit-bill-becomes-law-here-are-the-changes-to-disability-benefits-you-need-to-know-about\" aria-label=\"The Universal Credit Bill becomes law. Here are the changes to disability benefits you need to know about On 9 July, MPs voted to pass the Universal Credit Bill, previously known as Universal Credit and Personal Independence Payment Bill for the final time. It will now become law. Read here about what changes to disability benefits are happening and when.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2)"
           ]
@@ -2436,7 +2436,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/the-universal-credit-bill-has-passed-its-second-reading-here-is-everything-you-need-to-know\" aria-label=\"The Universal Credit Bill has passed its second reading. Here is everything you need to know MPs have voted to pass the Universal Credit Bill. Formerly known as the Universal Credit and Personal Independence Payment Bill. But with massive changes. Read about what the changes are and what they mean for disabled people.\">",
           "target": [
             ".PageItem__item:nth-child(3)"
           ]
@@ -2764,9 +2764,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"826\" data-gtm-vis-first-on-screen166076_508=\"826\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"677\" data-gtm-vis-first-on-screen166076_508=\"677\" data-gtm-vis-total-visible-time166076_508=\"1200\">",
           "target": [
-            "a[aria-label=\"Learn more about our campaign\"]"
+            "a[href$=\"awards\"]"
           ]
         },
         {
@@ -2796,9 +2796,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/volunteering\" aria-label=\"Volunteer with Scope\">",
+          "html": "<a class=\"PageItem__item\" href=\"/charity-shops/donating-goods\" aria-label=\"Donating items to our shops\">",
           "target": [
-            "a[aria-label=\"Volunteer with Scope\"]"
+            "a[href$=\"donating-goods\"]"
           ]
         },
         {
@@ -2828,9 +2828,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/the-disability-benefits-green-paper-what-you-need-to-know\" aria-label=\"Changes to disability benefits: what you need to know\">",
+          "html": "<a class=\"PageItem__item\" href=\"/campaigns/disability-price-tag\" aria-label=\"Disability Price Tag&nbsp;2025\">",
           "target": [
-            ".PromotedItems:nth-child(3) > .PageItem > .PageItem__item:nth-child(2)"
+            "a[aria-label=\"Disability Price Tag 2025\"]"
           ]
         },
         {
@@ -3052,7 +3052,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/what-you-need-to-know-about-the-new-bill-to-change-disability-benefits\" aria-label=\"What you need to know about the new bill to change disability benefits. Read about the Universal Credit and Personal Independence Payment Bill. And what it means for disability benefits.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/new-survey-shows-impact-of-heatwaves-on-disabled-people\" aria-label=\"New survey shows impact of heatwaves on disabled people A recent survey with Scope’s Lived Experience&nbsp;Research Panel shows how summer heatwaves affect many disabled people. Both physically and financially.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1)"
           ]
@@ -3084,7 +3084,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/the-universal-credit-bill-becomes-law-here-are-the-changes-to-disability-benefits-you-need-to-know-about\" aria-label=\"The Universal Credit Bill becomes law. Here are the changes to disability benefits you need to know about On 9 July, MPs voted to pass the Universal Credit Bill, previously known as Universal Credit and Personal Independence Payment Bill for the final time. It will now become law. Read here about what changes to disability benefits are happening and when.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2)"
           ]
@@ -3116,7 +3116,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/the-universal-credit-bill-has-passed-its-second-reading-here-is-everything-you-need-to-know\" aria-label=\"The Universal Credit Bill has passed its second reading. Here is everything you need to know MPs have voted to pass the Universal Credit Bill. Formerly known as the Universal Credit and Personal Independence Payment Bill. But with massive changes. Read about what the changes are and what they mean for disabled people.\">",
           "target": [
             ".PageItem__item:nth-child(3)"
           ]
@@ -3290,9 +3290,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"826\" data-gtm-vis-first-on-screen166076_508=\"826\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"677\" data-gtm-vis-first-on-screen166076_508=\"677\" data-gtm-vis-total-visible-time166076_508=\"1200\">",
           "target": [
-            "a[aria-label=\"Learn more about our campaign\"]"
+            "a[href$=\"awards\"]"
           ]
         },
         {
@@ -3308,9 +3308,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/volunteering\" aria-label=\"Volunteer with Scope\">",
+          "html": "<a class=\"PageItem__item\" href=\"/charity-shops/donating-goods\" aria-label=\"Donating items to our shops\">",
           "target": [
-            "a[aria-label=\"Volunteer with Scope\"]"
+            "a[href$=\"donating-goods\"]"
           ]
         },
         {
@@ -3326,9 +3326,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/the-disability-benefits-green-paper-what-you-need-to-know\" aria-label=\"Changes to disability benefits: what you need to know\">",
+          "html": "<a class=\"PageItem__item\" href=\"/campaigns/disability-price-tag\" aria-label=\"Disability Price Tag&nbsp;2025\">",
           "target": [
-            ".PromotedItems:nth-child(3) > .PageItem > .PageItem__item:nth-child(2)"
+            "a[aria-label=\"Disability Price Tag 2025\"]"
           ]
         },
         {
@@ -3452,7 +3452,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/what-you-need-to-know-about-the-new-bill-to-change-disability-benefits\" aria-label=\"What you need to know about the new bill to change disability benefits. Read about the Universal Credit and Personal Independence Payment Bill. And what it means for disability benefits.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/new-survey-shows-impact-of-heatwaves-on-disabled-people\" aria-label=\"New survey shows impact of heatwaves on disabled people A recent survey with Scope’s Lived Experience&nbsp;Research Panel shows how summer heatwaves affect many disabled people. Both physically and financially.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1)"
           ]
@@ -3470,7 +3470,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/the-universal-credit-bill-becomes-law-here-are-the-changes-to-disability-benefits-you-need-to-know-about\" aria-label=\"The Universal Credit Bill becomes law. Here are the changes to disability benefits you need to know about On 9 July, MPs voted to pass the Universal Credit Bill, previously known as Universal Credit and Personal Independence Payment Bill for the final time. It will now become law. Read here about what changes to disability benefits are happening and when.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2)"
           ]
@@ -3488,7 +3488,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/the-universal-credit-bill-has-passed-its-second-reading-here-is-everything-you-need-to-know\" aria-label=\"The Universal Credit Bill has passed its second reading. Here is everything you need to know MPs have voted to pass the Universal Credit Bill. Formerly known as the Universal Credit and Personal Independence Payment Bill. But with massive changes. Read about what the changes are and what they mean for disabled people.\">",
           "target": [
             ".PageItem__item:nth-child(3)"
           ]
@@ -3674,21 +3674,27 @@
               "data": null,
               "relatedNodes": [
                 {
-                  "html": "<h1><span class=\"Hero__ribbon-title white\">Disability benefits are a lifeline</span></h1>",
+                  "html": "<h1><span class=\"Hero__ribbon-title white\">Scope Awards 2026</span></h1>",
                   "target": [
-                    "h1"
+                    ".Hero__ribbon-content > h1"
                   ]
                 },
                 {
-                  "html": "<h3 class=\"PageItem__title underline\">Volunteer with Scope</h3>",
+                  "html": "<h1 class=\"injected-title\">The latest from Scope</h1>",
                   "target": [
-                    "a[aria-label=\"Volunteer with Scope\"] > .PageItem__content.rte > .underline.PageItem__title"
+                    ".PromotedItems:nth-child(3) > .injected-title"
                   ]
                 },
                 {
-                  "html": "<h3 class=\"PageItem__title underline\">Changes to disability benefits: what you need to know</h3>",
+                  "html": "<h3 class=\"PageItem__title underline\">Donating items to our shops</h3>",
                   "target": [
-                    ".PromotedItems:nth-child(3) > .PageItem > .PageItem__item:nth-child(2) > .PageItem__content.rte > .underline.PageItem__title"
+                    "a[href$=\"donating-goods\"] > .PageItem__content.rte > .underline.PageItem__title"
+                  ]
+                },
+                {
+                  "html": "<h3 class=\"PageItem__title underline\">Disability Price Tag&nbsp;2025</h3>",
+                  "target": [
+                    "a[aria-label=\"Disability Price Tag 2025\"] > .PageItem__content.rte > .underline.PageItem__title"
                   ]
                 },
                 {
@@ -3719,6 +3725,12 @@
                   "html": "<h3>Employment</h3>",
                   "target": [
                     ".Services__item:nth-child(3) > .Services__content-container.rte > h3"
+                  ]
+                },
+                {
+                  "html": "<h1 class=\"injected-title\">Campaigns</h1>",
+                  "target": [
+                    ".PromotedItems:nth-child(6) > .injected-title"
                   ]
                 },
                 {
@@ -3758,19 +3770,19 @@
                   ]
                 },
                 {
-                  "html": "<h3 class=\"PageItem__title\">What you need to know about the new bill to change disability benefits.</h3>",
+                  "html": "<h3 class=\"PageItem__title\">New survey shows impact of heatwaves on disabled people</h3>",
                   "target": [
                     ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1) > .PageItem__content.rte > .PageItem__title"
                   ]
                 },
                 {
-                  "html": "<h3 class=\"PageItem__title\">Universal Credit and Personal Independence Payment Bill</h3>",
+                  "html": "<h3 class=\"PageItem__title\">The Universal Credit Bill becomes law. Here are the changes to disability benefits you need to know about</h3>",
                   "target": [
                     ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2) > .PageItem__content.rte > .PageItem__title"
                   ]
                 },
                 {
-                  "html": "<h3 class=\"PageItem__title\">Over 100,000 say no to benefit cuts</h3>",
+                  "html": "<h3 class=\"PageItem__title\">The Universal Credit Bill has passed its second reading. Here is everything you need to know</h3>",
                   "target": [
                     ".PageItem__item:nth-child(3) > .PageItem__content.rte > .PageItem__title"
                   ]
@@ -4090,7 +4102,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span class=\"Hero__ribbon-title white\">Disability benefits are a lifeline</span>",
+          "html": "<span class=\"Hero__ribbon-title white\">Scope Awards 2026</span>",
           "target": [
             ".Hero__ribbon-title"
           ]
@@ -4125,49 +4137,24 @@
             {
               "id": "color-contrast",
               "data": {
-                "fgColor": "#340458",
-                "bgColor": "#faf9f6",
-                "contrastRatio": 15.29,
-                "fontSize": "18.8pt (25px)",
+                "fgColor": "#ffffff",
+                "bgColor": "#340458",
+                "contrastRatio": 16.1,
+                "fontSize": "26.3pt (35px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "3:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 15.29"
+              "message": "Element has sufficient color contrast of 16.1"
             }
           ],
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<h3 class=\"PageItem__title underline\">Volunteer with Scope</h3>",
+          "html": "<h1 class=\"injected-title\">The latest from Scope</h1>",
           "target": [
-            "a[aria-label=\"Volunteer with Scope\"] > .PageItem__content.rte > .underline.PageItem__title"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#444444",
-                "bgColor": "#faf9f6",
-                "contrastRatio": 9.25,
-                "fontSize": "13.5pt (18px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 9.25"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<p class=\"PageItem__text PageItem__text--\">Come and volunteer with Scope. It’s a great way to boost your confidence, meet new people and learn new skills.</p>",
-          "target": [
-            "a[aria-label=\"Volunteer with Scope\"] > .PageItem__content.rte > .PageItem__text--.PageItem__text"
+            ".PromotedItems:nth-child(3) > .injected-title"
           ]
         },
         {
@@ -4190,9 +4177,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<h3 class=\"PageItem__title underline\">Changes to disability benefits: what you need to know</h3>",
+          "html": "<h3 class=\"PageItem__title underline\">Donating items to our shops</h3>",
           "target": [
-            ".PromotedItems:nth-child(3) > .PageItem > .PageItem__item:nth-child(2) > .PageItem__content.rte > .underline.PageItem__title"
+            "a[href$=\"donating-goods\"] > .PageItem__content.rte > .underline.PageItem__title"
           ]
         },
         {
@@ -4215,9 +4202,59 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p class=\"PageItem__text PageItem__text--\">Our analysis of the Government's benefits Green Paper</p>",
+          "html": "<p class=\"PageItem__text PageItem__text--\">It’s great to donate! Your bag of donations helps fund 1 vital helpline call.</p>",
           "target": [
-            ".PromotedItems:nth-child(3) > .PageItem > .PageItem__item:nth-child(2) > .PageItem__content.rte > .PageItem__text--.PageItem__text"
+            "a[href$=\"donating-goods\"] > .PageItem__content.rte > .PageItem__text--.PageItem__text"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#340458",
+                "bgColor": "#faf9f6",
+                "contrastRatio": 15.29,
+                "fontSize": "18.8pt (25px)",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "3:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 15.29"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<h3 class=\"PageItem__title underline\">Disability Price Tag&nbsp;2025</h3>",
+          "target": [
+            "a[aria-label=\"Disability Price Tag 2025\"] > .PageItem__content.rte > .underline.PageItem__title"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#444444",
+                "bgColor": "#faf9f6",
+                "contrastRatio": 9.25,
+                "fontSize": "13.5pt (18px)",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 9.25"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<p class=\"PageItem__text PageItem__text--\">Life costs more if you’re disabled. This report by Scope uses data from the Family Resources Survey to&nbsp;calculate the extra costs faced by disabled households. We call this the ‘Disability Price Tag. </p>",
+          "target": [
+            "a[aria-label=\"Disability Price Tag 2025\"] > .PageItem__content.rte > .PageItem__text--.PageItem__text"
           ]
         },
         {
@@ -4390,7 +4427,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p class=\"Services__content-text\">On average life costs an extra £1,010 a month when you’re disabled.</p>",
+          "html": "<p class=\"Services__content-text\">On average life costs an extra £1,095 a month when you’re disabled.</p>",
           "target": [
             ".Services__item:nth-child(2) > .Services__content-container.rte > .Services__content-text"
           ]
@@ -4443,6 +4480,31 @@
           "html": "<p class=\"Services__content-text\">Disabled people are almost twice as likely to be unemployed.</p>",
           "target": [
             ".Services__item:nth-child(3) > .Services__content-container.rte > .Services__content-text"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#ffffff",
+                "bgColor": "#340458",
+                "contrastRatio": 16.1,
+                "fontSize": "26.3pt (35px)",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "3:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 16.1"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<h1 class=\"injected-title\">Campaigns</h1>",
+          "target": [
+            ".PromotedItems:nth-child(6) > .injected-title"
           ]
         },
         {
@@ -4765,7 +4827,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<h3 class=\"PageItem__title\">What you need to know about the new bill to change disability benefits.</h3>",
+          "html": "<h3 class=\"PageItem__title\">New survey shows impact of heatwaves on disabled people</h3>",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1) > .PageItem__content.rte > .PageItem__title"
           ]
@@ -4790,7 +4852,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p class=\"PageItem__text\">Read about the Universal Credit and Personal Independence Payment Bill. And what it means for disability benefits.</p>",
+          "html": "<p class=\"PageItem__text\">A recent survey with Scope’s Lived Experience&nbsp;Research Panel shows how summer heatwaves affect many disabled people. Both physically and financially.</p>",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1) > .PageItem__content.rte > .PageItem__text"
           ]
@@ -4815,7 +4877,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<h3 class=\"PageItem__title\">Universal Credit and Personal Independence Payment Bill</h3>",
+          "html": "<h3 class=\"PageItem__title\">The Universal Credit Bill becomes law. Here are the changes to disability benefits you need to know about</h3>",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2) > .PageItem__content.rte > .PageItem__title"
           ]
@@ -4840,7 +4902,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p class=\"PageItem__text\">The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. </p>",
+          "html": "<p class=\"PageItem__text\">On 9 July, MPs voted to pass the Universal Credit Bill, previously known as Universal Credit and Personal Independence Payment Bill for the final time. It will now become law. Read here about what changes to disability benefits are happening and when.</p>",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2) > .PageItem__content.rte > .PageItem__text"
           ]
@@ -4865,7 +4927,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<h3 class=\"PageItem__title\">Over 100,000 say no to benefit cuts</h3>",
+          "html": "<h3 class=\"PageItem__title\">The Universal Credit Bill has passed its second reading. Here is everything you need to know</h3>",
           "target": [
             ".PageItem__item:nth-child(3) > .PageItem__content.rte > .PageItem__title"
           ]
@@ -4890,7 +4952,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p class=\"PageItem__text\">Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.</p>",
+          "html": "<p class=\"PageItem__text\">MPs have voted to pass the Universal Credit Bill. Formerly known as the Universal Credit and Personal Independence Payment Bill. But with massive changes. Read about what the changes are and what they mean for disabled people.</p>",
           "target": [
             ".PageItem__item:nth-child(3) > .PageItem__content.rte > .PageItem__text"
           ]
@@ -6609,40 +6671,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"188\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
-          "target": [
-            "a[data-gtm-vis-polling-id166076_508=\"188\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has text that is visible to screen readers"
-            },
-            {
-              "id": "non-empty-title",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has a title attribute"
-            }
-          ],
-          "all": [],
-          "none": [
-            {
-              "id": "focusable-no-name",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element is not in tab order or has accessible text"
-            }
-          ],
-          "impact": null,
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"189\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"189\" data-gtm-vis-recent-on-screen166076_508=\"677\" data-gtm-vis-first-on-screen166076_508=\"677\" data-gtm-vis-total-visible-time166076_508=\"1200\">",
           "target": [
             "a[data-gtm-vis-polling-id166076_508=\"189\"]"
           ]
@@ -6675,9 +6704,42 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"190\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"190\" data-gtm-vis-recent-on-screen166076_508=\"677\" data-gtm-vis-first-on-screen166076_508=\"677\" data-gtm-vis-total-visible-time166076_508=\"1200\">",
           "target": [
             "a[data-gtm-vis-polling-id166076_508=\"190\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "has-visible-text",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has text that is visible to screen readers"
+            },
+            {
+              "id": "non-empty-title",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has a title attribute"
+            }
+          ],
+          "all": [],
+          "none": [
+            {
+              "id": "focusable-no-name",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element is not in tab order or has accessible text"
+            }
+          ],
+          "impact": null,
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"677\" data-gtm-vis-first-on-screen166076_508=\"677\" data-gtm-vis-total-visible-time166076_508=\"1200\">",
+          "target": [
+            "a[data-gtm-vis-polling-id166076_508=\"191\"]"
           ]
         },
         {
@@ -6786,9 +6848,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"826\" data-gtm-vis-first-on-screen166076_508=\"826\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"677\" data-gtm-vis-first-on-screen166076_508=\"677\" data-gtm-vis-total-visible-time166076_508=\"1200\">",
           "target": [
-            "a[aria-label=\"Learn more about our campaign\"]"
+            "a[href$=\"awards\"]"
           ]
         },
         {
@@ -6819,9 +6881,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/volunteering\" aria-label=\"Volunteer with Scope\">",
+          "html": "<a class=\"PageItem__item\" href=\"/charity-shops/donating-goods\" aria-label=\"Donating items to our shops\">",
           "target": [
-            "a[aria-label=\"Volunteer with Scope\"]"
+            "a[href$=\"donating-goods\"]"
           ]
         },
         {
@@ -6852,9 +6914,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/the-disability-benefits-green-paper-what-you-need-to-know\" aria-label=\"Changes to disability benefits: what you need to know\">",
+          "html": "<a class=\"PageItem__item\" href=\"/campaigns/disability-price-tag\" aria-label=\"Disability Price Tag&nbsp;2025\">",
           "target": [
-            ".PromotedItems:nth-child(3) > .PageItem > .PageItem__item:nth-child(2)"
+            "a[aria-label=\"Disability Price Tag 2025\"]"
           ]
         },
         {
@@ -7076,7 +7138,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/what-you-need-to-know-about-the-new-bill-to-change-disability-benefits\" aria-label=\"What you need to know about the new bill to change disability benefits. Read about the Universal Credit and Personal Independence Payment Bill. And what it means for disability benefits.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/new-survey-shows-impact-of-heatwaves-on-disabled-people\" aria-label=\"New survey shows impact of heatwaves on disabled people A recent survey with Scope’s Lived Experience&nbsp;Research Panel shows how summer heatwaves affect many disabled people. Both physically and financially.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(1)"
           ]
@@ -7109,7 +7171,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/universal-credit-and-personal-independence-payment-bill\" aria-label=\"Universal Credit and Personal Independence Payment Bill The Universal Credit and Personal Independence Payment Bill aims to reform welfare benefits in the UK, focusing on streamlining the application process and improving financial support for individuals with disabilities. \">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/the-universal-credit-bill-becomes-law-here-are-the-changes-to-disability-benefits-you-need-to-know-about\" aria-label=\"The Universal Credit Bill becomes law. Here are the changes to disability benefits you need to know about On 9 July, MPs voted to pass the Universal Credit Bill, previously known as Universal Credit and Personal Independence Payment Bill for the final time. It will now become law. Read here about what changes to disability benefits are happening and when.\">",
           "target": [
             ".RelatedArticle > .PageItem > .PageItem__item:nth-child(2)"
           ]
@@ -7142,7 +7204,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/over-100-000-say-no-to-benefit-cuts\" aria-label=\"Over 100,000 say no to benefit cuts Disabled people and allies came together to deliver our petition against devastating benefit cuts. Now we must keep the pressure on MPs to vote no.\">",
+          "html": "<a class=\"PageItem__item\" href=\"/news-and-stories/the-universal-credit-bill-has-passed-its-second-reading-here-is-everything-you-need-to-know\" aria-label=\"The Universal Credit Bill has passed its second reading. Here is everything you need to know MPs have voted to pass the Universal Credit Bill. Formerly known as the Universal Credit and Personal Independence Payment Bill. But with massive changes. Read about what the changes are and what they mean for disabled people.\">",
           "target": [
             ".PageItem__item:nth-child(3)"
           ]
@@ -8837,39 +8899,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"188\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
-                  "target": [
-                    "a[data-gtm-vis-polling-id166076_508=\"188\"]"
-                  ]
-                }
-              ],
-              "impact": "serious",
-              "message": "Element's background color could not be determined due to a background gradient"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "serious",
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"188\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
-          "target": [
-            "a[data-gtm-vis-polling-id166076_508=\"188\"]"
-          ],
-          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "contrastRatio": 0,
-                "fontSize": "14.3pt (19px)",
-                "fontWeight": "normal",
-                "messageKey": "bgGradient",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [
-                {
-                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"189\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
+                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"189\" data-gtm-vis-recent-on-screen166076_508=\"677\" data-gtm-vis-first-on-screen166076_508=\"677\" data-gtm-vis-total-visible-time166076_508=\"1200\">",
                   "target": [
                     "a[data-gtm-vis-polling-id166076_508=\"189\"]"
                   ]
@@ -8882,7 +8912,7 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"189\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"189\" data-gtm-vis-recent-on-screen166076_508=\"677\" data-gtm-vis-first-on-screen166076_508=\"677\" data-gtm-vis-total-visible-time166076_508=\"1200\">",
           "target": [
             "a[data-gtm-vis-polling-id166076_508=\"189\"]"
           ],
@@ -8901,7 +8931,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"190\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
+                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"190\" data-gtm-vis-recent-on-screen166076_508=\"677\" data-gtm-vis-first-on-screen166076_508=\"677\" data-gtm-vis-total-visible-time166076_508=\"1200\">",
                   "target": [
                     "a[data-gtm-vis-polling-id166076_508=\"190\"]"
                   ]
@@ -8914,9 +8944,41 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"190\" data-gtm-vis-recent-on-screen166076_508=\"825\" data-gtm-vis-first-on-screen166076_508=\"825\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"190\" data-gtm-vis-recent-on-screen166076_508=\"677\" data-gtm-vis-first-on-screen166076_508=\"677\" data-gtm-vis-total-visible-time166076_508=\"1200\">",
           "target": [
             "a[data-gtm-vis-polling-id166076_508=\"190\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "14.3pt (19px)",
+                "fontWeight": "normal",
+                "messageKey": "bgGradient",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [
+                {
+                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"677\" data-gtm-vis-first-on-screen166076_508=\"677\" data-gtm-vis-total-visible-time166076_508=\"1200\">",
+                  "target": [
+                    "a[data-gtm-vis-polling-id166076_508=\"191\"]"
+                  ]
+                }
+              ],
+              "impact": "serious",
+              "message": "Element's background color could not be determined due to a background gradient"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": "serious",
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"677\" data-gtm-vis-first-on-screen166076_508=\"677\" data-gtm-vis-total-visible-time166076_508=\"1200\">",
+          "target": [
+            "a[data-gtm-vis-polling-id166076_508=\"191\"]"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
         },
@@ -8933,9 +8995,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"826\" data-gtm-vis-first-on-screen166076_508=\"826\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
+                  "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"677\" data-gtm-vis-first-on-screen166076_508=\"677\" data-gtm-vis-total-visible-time166076_508=\"1200\">",
                   "target": [
-                    "a[aria-label=\"Learn more about our campaign\"]"
+                    "a[href$=\"awards\"]"
                   ]
                 }
               ],
@@ -8946,11 +9008,36 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"btn yellow text-purple\" href=\"https://www.scope.org.uk/campaigns/the-cost-of-cuts\" target=\"_blank\" aria-label=\"Learn more about our campaign\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"826\" data-gtm-vis-first-on-screen166076_508=\"826\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"677\" data-gtm-vis-first-on-screen166076_508=\"677\" data-gtm-vis-total-visible-time166076_508=\"1200\">",
           "target": [
-            "a[aria-label=\"Learn more about our campaign\"]"
+            "a[href$=\"awards\"]"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "13.5pt (18px)",
+                "fontWeight": "normal",
+                "messageKey": "bgOverlap",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element's background color could not be determined because it is overlapped by another element"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": "serious",
+          "html": "<p class=\"PageItem__type PageItem__type--campaign\">Scope campaigns</p>",
+          "target": [
+            ".PageItem__type--campaign"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
         },
         {
           "any": [
@@ -9133,32 +9220,7 @@
           "impact": "serious",
           "html": "<p class=\"PageItem__type PageItem__type--news\">Scope news</p>",
           "target": [
-            ".PageItem__item:nth-child(1) > .PageItem__visual > .PageItem__type--news.PageItem__type"
-          ],
-          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "contrastRatio": 0,
-                "fontSize": "13.5pt (18px)",
-                "fontWeight": "normal",
-                "messageKey": "bgOverlap",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element's background color could not be determined because it is overlapped by another element"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "serious",
-          "html": "<p class=\"PageItem__type PageItem__type--news\">Scope news</p>",
-          "target": [
-            ".PageItem__item:nth-child(2) > .PageItem__visual > .PageItem__type--news.PageItem__type"
+            ".PageItem__type--news"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
         },

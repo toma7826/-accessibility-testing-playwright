@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-06-26T21:06:28.854Z",
+  "timestamp": "2025-07-08T11:14:01.589Z",
   "url": "https://www.netflix.com/gb/",
   "toolOptions": {
     "runOnly": {
@@ -874,7 +874,33 @@
             }
           ],
           "impact": null,
-          "html": "<button class=\"onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon\" style=\"background-image: url(&quot;https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production/consent/87b6a5c0-0104-4e96-a291-092c11350111/01938dc4-59b3-7f67-86aa-d06aa27c6cc0/logos/static/ot_close.svg&quot;);\" aria-label=\"Close\">",
+          "html": "<button id=\"onetrust-pc-btn-handler\" aria-label=\"Learn more, Opens the preference center dialog\">Learn more</button>",
+          "target": [
+            "#onetrust-pc-btn-handler"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-allowed-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attributes are used correctly for the defined role"
+            }
+          ],
+          "none": [
+            {
+              "id": "aria-unsupported-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute is supported"
+            }
+          ],
+          "impact": null,
+          "html": "<button class=\"onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon\" style=\"background-image: url(&quot;https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2025-07-01/consent/87b6a5c0-0104-4e96-a291-092c11350111/01938dc4-59b3-7f67-86aa-d06aa27c6cc0/logos/static/ot_close.svg&quot;);\" aria-label=\"Close\">",
           "target": [
             ".onetrust-close-btn-ui"
           ]
@@ -1088,7 +1114,25 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<button class=\"onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon\" style=\"background-image: url(&quot;https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production/consent/87b6a5c0-0104-4e96-a291-092c11350111/01938dc4-59b3-7f67-86aa-d06aa27c6cc0/logos/static/ot_close.svg&quot;);\" aria-label=\"Close\">",
+          "html": "<button id=\"onetrust-pc-btn-handler\" aria-label=\"Learn more, Opens the preference center dialog\">Learn more</button>",
+          "target": [
+            "#onetrust-pc-btn-handler"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-conditional-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "ARIA attribute is allowed"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<button class=\"onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon\" style=\"background-image: url(&quot;https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2025-07-01/consent/87b6a5c0-0104-4e96-a291-092c11350111/01938dc4-59b3-7f67-86aa-d06aa27c6cc0/logos/static/ot_close.svg&quot;);\" aria-label=\"Close\">",
           "target": [
             ".onetrust-close-btn-ui"
           ]
@@ -1326,7 +1370,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<img src=\"https://assets.nflxext.com/ffe/siteui/vlv3/75b0ed49-75ab-4a63-bd45-37bc2c95cb73/web/GB-en-20250623-TRIFECTA-perspective_8853d9bd-d077-4eb8-a3d3-aaf090968f38_large.jpg\" srcset=\"https://assets.nflxext.com/ffe/siteui/vlv3/75b0ed49-75ab-4a63-bd45-37bc2c95cb73/web/GB-en-20250623-TRIFECTA-perspective_8853d9bd-d077-4eb8-a3d3-aaf090968f38_large.jpg 2000w, https://assets.nflxext.com/ffe/siteui/vlv3/75b0ed49-75ab-4a63-bd45-37bc2c95cb73/web/GB-en-20250623-TRIFECTA-perspective_8853d9bd-d077-4eb8-a3d3-aaf090968f38_medium.jpg 1279w, https://assets.nflxext.com/ffe/siteui/vlv3/75b0ed49-75ab-4a63-bd45-37bc2c95cb73/web/GB-en-20250623-TRIFECTA-perspective_8853d9bd-d077-4eb8-a3d3-aaf090968f38_small.jpg 959w\" alt=\"\" aria-hidden=\"true\" class=\"default-ltr-cache-19j6xtr\">",
+          "html": "<img src=\"https://assets.nflxext.com/ffe/siteui/vlv3/05e91faa-6f6d-4325-934e-5418dcc2567b/web/GB-en-20250630-TRIFECTA-perspective_20d611e8-c12b-40c4-90d0-9f8fcea601f3_large.jpg\" srcset=\"https://assets.nflxext.com/ffe/siteui/vlv3/05e91faa-6f6d-4325-934e-5418dcc2567b/web/GB-en-20250630-TRIFECTA-perspective_20d611e8-c12b-40c4-90d0-9f8fcea601f3_large.jpg 2000w, https://assets.nflxext.com/ffe/siteui/vlv3/05e91faa-6f6d-4325-934e-5418dcc2567b/web/GB-en-20250630-TRIFECTA-perspective_20d611e8-c12b-40c4-90d0-9f8fcea601f3_medium.jpg 1279w, https://assets.nflxext.com/ffe/siteui/vlv3/05e91faa-6f6d-4325-934e-5418dcc2567b/web/GB-en-20250630-TRIFECTA-perspective_20d611e8-c12b-40c4-90d0-9f8fcea601f3_small.jpg 959w\" alt=\"\" aria-hidden=\"true\" class=\"default-ltr-cache-19j6xtr\">",
           "target": [
             ".default-ltr-cache-19j6xtr"
           ]
@@ -1360,7 +1404,7 @@
           "impact": null,
           "html": "<div aria-hidden=\"true\" class=\"form-control_controlChromeStyles__oy4jpq4\" dir=\"ltr\"></div>",
           "target": [
-            ".default-ltr-cache-1xmj9r > .default-ltr-cache-inkrn.ev126k32 > form > .default-ltr-cache-1jbflut.ev126k30[data-issplitform=\"false\"] > .default-ltr-cache-1krcwqn.e2so2tu1[data-uia=\"field-email+container\"] > .form-control_controlWrapperStyles__oy4jpq1[dir=\"ltr\"] > .form-control_controlChromeStyles__oy4jpq4[aria-hidden=\"true\"][dir=\"ltr\"]"
+            ".default-ltr-cache-1xmj9r > .default-ltr-cache-inkrn.ev126k32 > form > .default-ltr-cache-1jbflut.ev126k30[data-issplitform=\"false\"] > .default-ltr-cache-1tmt8j0.e2so2tu1[data-uia=\"field-email+container\"] > .form-control_controlWrapperStyles__oy4jpq1[dir=\"ltr\"] > .form-control_controlChromeStyles__oy4jpq4[aria-hidden=\"true\"][dir=\"ltr\"]"
           ]
         },
         {
@@ -2128,7 +2172,7 @@
           "impact": null,
           "html": "<div aria-hidden=\"true\" class=\"form-control_controlChromeStyles__oy4jpq4\" dir=\"ltr\"></div>",
           "target": [
-            ".default-ltr-cache-1a847h5 > .default-ltr-cache-inkrn.ev126k32 > form > .default-ltr-cache-1jbflut.ev126k30[data-issplitform=\"false\"] > .default-ltr-cache-1krcwqn.e2so2tu1[data-uia=\"field-email+container\"] > .form-control_controlWrapperStyles__oy4jpq1[dir=\"ltr\"] > .form-control_controlChromeStyles__oy4jpq4[aria-hidden=\"true\"][dir=\"ltr\"]"
+            ".default-ltr-cache-1a847h5 > .default-ltr-cache-inkrn.ev126k32 > form > .default-ltr-cache-1jbflut.ev126k30[data-issplitform=\"false\"] > .default-ltr-cache-1tmt8j0.e2so2tu1[data-uia=\"field-email+container\"] > .form-control_controlWrapperStyles__oy4jpq1[dir=\"ltr\"] > .form-control_controlChromeStyles__oy4jpq4[aria-hidden=\"true\"][dir=\"ltr\"]"
           ]
         },
         {
@@ -2224,7 +2268,71 @@
           "impact": null,
           "html": "<div aria-hidden=\"true\" class=\"form-control_controlChromeStyles__oy4jpq4\" dir=\"ltr\">",
           "target": [
-            ".default-ltr-cache-nnjpba > .form-control_controlWrapperStyles__oy4jpq1[dir=\"ltr\"] > .form-control_controlChromeStyles__oy4jpq4[aria-hidden=\"true\"][dir=\"ltr\"]"
+            ".default-ltr-cache-xq4vj2 > .form-control_controlWrapperStyles__oy4jpq1[dir=\"ltr\"] > .form-control_controlChromeStyles__oy4jpq4[aria-hidden=\"true\"][dir=\"ltr\"]"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "focusable-modal-open",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements while a modal is open"
+            },
+            {
+              "id": "focusable-disabled",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            },
+            {
+              "id": "focusable-not-tabbable",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<iframe style=\"height: 1px; width: 1px; position: absolute; top: -9px; left: -9px;\" src=\"https://ae.nflximg.net/monet/scripts/adtech_iframe_target_05.html?data=%7B%22membership_status%22%3A%22ANONYMOUS%22%2C%22country%22%3A%22GB%22%2C%22region_code%22%3A%22ENG%22%2C%22is_member%22%3A%22ANONYMOUS%22%2C%22wasFormerMember%22%3Afalse%2C%22referrer%22%3A%22nmLanding%22%2C%22deniedConsentCookieGroups%22%3A%22C0003%2CC0004%2CC0005%22%7D\" name=\"if-communicator-8921518803617\" aria-hidden=\"true\" data-uia=\"adtech-iframe\">",
+          "target": [
+            "iframe[name=\"if-communicator-8921518803617\"]"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "focusable-modal-open",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements while a modal is open"
+            },
+            {
+              "id": "focusable-disabled",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            },
+            {
+              "id": "focusable-not-tabbable",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">",
+          "target": [
+            ".ot-optout-icon > svg"
           ]
         },
         {
@@ -2321,38 +2429,6 @@
           "html": "<iframe class=\"ot-text-resize\" sandbox=\"allow-same-origin\" title=\"onetrust-text-resize\" style=\"position: absolute; top: -50000px; width: 100em;\" aria-hidden=\"true\"></iframe>",
           "target": [
             ".ot-text-resize"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<iframe style=\"height: 1px; width: 1px; position: absolute; top: -9px; left: -9px;\" src=\"https://ae.nflximg.net/monet/scripts/adtech_iframe_target_05.html?data=%7B%22membership_status%22%3A%22ANONYMOUS%22%2C%22country%22%3A%22GB%22%2C%22region_code%22%3A%22ENG%22%2C%22is_member%22%3A%22ANONYMOUS%22%2C%22wasFormerMember%22%3Afalse%2C%22referrer%22%3A%22nmLanding%22%2C%22deniedConsentCookieGroups%22%3A%22C0003%2CC0004%2CC0005%22%7D\" name=\"if-communicator-1749236910993\" aria-hidden=\"true\" data-uia=\"adtech-iframe\">",
-          "target": [
-            "iframe[name=\"if-communicator-1749236910993\"]"
           ]
         }
       ]
@@ -2564,7 +2640,25 @@
             }
           ],
           "impact": null,
-          "html": "<button class=\"onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon\" style=\"background-image: url(&quot;https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production/consent/87b6a5c0-0104-4e96-a291-092c11350111/01938dc4-59b3-7f67-86aa-d06aa27c6cc0/logos/static/ot_close.svg&quot;);\" aria-label=\"Close\">",
+          "html": "<button id=\"onetrust-pc-btn-handler\" aria-label=\"Learn more, Opens the preference center dialog\">Learn more</button>",
+          "target": [
+            "#onetrust-pc-btn-handler"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "aria-prohibited-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "ARIA attribute is allowed"
+            }
+          ],
+          "impact": null,
+          "html": "<button class=\"onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon\" style=\"background-image: url(&quot;https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2025-07-01/consent/87b6a5c0-0104-4e96-a291-092c11350111/01938dc4-59b3-7f67-86aa-d06aa27c6cc0/logos/static/ot_close.svg&quot;);\" aria-label=\"Close\">",
           "target": [
             ".onetrust-close-btn-ui"
           ]
@@ -3164,7 +3258,39 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<button class=\"onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon\" style=\"background-image: url(&quot;https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production/consent/87b6a5c0-0104-4e96-a291-092c11350111/01938dc4-59b3-7f67-86aa-d06aa27c6cc0/logos/static/ot_close.svg&quot;);\" aria-label=\"Close\">",
+          "html": "<button id=\"onetrust-pc-btn-handler\" aria-label=\"Learn more, Opens the preference center dialog\">Learn more</button>",
+          "target": [
+            "#onetrust-pc-btn-handler"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-valid-attr-value",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute values are valid"
+            },
+            {
+              "id": "aria-errormessage",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
+            },
+            {
+              "id": "aria-level",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-level values are valid"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<button class=\"onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon\" style=\"background-image: url(&quot;https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2025-07-01/consent/87b6a5c0-0104-4e96-a291-092c11350111/01938dc4-59b3-7f67-86aa-d06aa27c6cc0/logos/static/ot_close.svg&quot;);\" aria-label=\"Close\">",
           "target": [
             ".onetrust-close-btn-ui"
           ]
@@ -3378,7 +3504,25 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button class=\"onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon\" style=\"background-image: url(&quot;https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production/consent/87b6a5c0-0104-4e96-a291-092c11350111/01938dc4-59b3-7f67-86aa-d06aa27c6cc0/logos/static/ot_close.svg&quot;);\" aria-label=\"Close\">",
+          "html": "<button id=\"onetrust-pc-btn-handler\" aria-label=\"Learn more, Opens the preference center dialog\">Learn more</button>",
+          "target": [
+            "#onetrust-pc-btn-handler"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-valid-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute name is valid"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button class=\"onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon\" style=\"background-image: url(&quot;https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2025-07-01/consent/87b6a5c0-0104-4e96-a291-092c11350111/01938dc4-59b3-7f67-86aa-d06aa27c6cc0/logos/static/ot_close.svg&quot;);\" aria-label=\"Close\">",
           "target": [
             ".onetrust-close-btn-ui"
           ]
@@ -3772,12 +3916,19 @@
               "relatedNodes": [],
               "impact": "critical",
               "message": "Element has inner text that is visible to screen readers"
+            },
+            {
+              "id": "aria-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-label attribute exists and is not empty"
             }
           ],
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button id=\"onetrust-pc-btn-handler\">Learn more</button>",
+          "html": "<button id=\"onetrust-pc-btn-handler\" aria-label=\"Learn more, Opens the preference center dialog\">Learn more</button>",
           "target": [
             "#onetrust-pc-btn-handler"
           ]
@@ -3831,7 +3982,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button class=\"onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon\" style=\"background-image: url(&quot;https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production/consent/87b6a5c0-0104-4e96-a291-092c11350111/01938dc4-59b3-7f67-86aa-d06aa27c6cc0/logos/static/ot_close.svg&quot;);\" aria-label=\"Close\">",
+          "html": "<button class=\"onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon\" style=\"background-image: url(&quot;https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2025-07-01/consent/87b6a5c0-0104-4e96-a291-092c11350111/01938dc4-59b3-7f67-86aa-d06aa27c6cc0/logos/static/ot_close.svg&quot;);\" aria-label=\"Close\">",
           "target": [
             ".onetrust-close-btn-ui"
           ]
@@ -3923,37 +4074,37 @@
                   ]
                 },
                 {
-                  "html": "<h3 data-uia=\"nmhp-faq-q-0\" class=\"accordion-heading_styles__199uojx0 default-ltr-cache-8usixx e164gv2o1\" dir=\"ltr\">",
+                  "html": "<h3 data-uia=\"nmhp-faq-q-0\" class=\"accordion-heading_styles__199uojx0 default-ltr-cache-sm8fes e164gv2o1\" dir=\"ltr\">",
                   "target": [
                     "h3[data-uia=\"nmhp-faq-q-0\"]"
                   ]
                 },
                 {
-                  "html": "<h3 data-uia=\"nmhp-faq-q-1\" class=\"accordion-heading_styles__199uojx0 default-ltr-cache-8usixx e164gv2o1\" dir=\"ltr\">",
+                  "html": "<h3 data-uia=\"nmhp-faq-q-1\" class=\"accordion-heading_styles__199uojx0 default-ltr-cache-sm8fes e164gv2o1\" dir=\"ltr\">",
                   "target": [
                     "h3[data-uia=\"nmhp-faq-q-1\"]"
                   ]
                 },
                 {
-                  "html": "<h3 data-uia=\"nmhp-faq-q-2\" class=\"accordion-heading_styles__199uojx0 default-ltr-cache-8usixx e164gv2o1\" dir=\"ltr\">",
+                  "html": "<h3 data-uia=\"nmhp-faq-q-2\" class=\"accordion-heading_styles__199uojx0 default-ltr-cache-sm8fes e164gv2o1\" dir=\"ltr\">",
                   "target": [
                     "h3[data-uia=\"nmhp-faq-q-2\"]"
                   ]
                 },
                 {
-                  "html": "<h3 data-uia=\"nmhp-faq-q-3\" class=\"accordion-heading_styles__199uojx0 default-ltr-cache-8usixx e164gv2o1\" dir=\"ltr\">",
+                  "html": "<h3 data-uia=\"nmhp-faq-q-3\" class=\"accordion-heading_styles__199uojx0 default-ltr-cache-sm8fes e164gv2o1\" dir=\"ltr\">",
                   "target": [
                     "h3[data-uia=\"nmhp-faq-q-3\"]"
                   ]
                 },
                 {
-                  "html": "<h3 data-uia=\"nmhp-faq-q-4\" class=\"accordion-heading_styles__199uojx0 default-ltr-cache-8usixx e164gv2o1\" dir=\"ltr\">",
+                  "html": "<h3 data-uia=\"nmhp-faq-q-4\" class=\"accordion-heading_styles__199uojx0 default-ltr-cache-sm8fes e164gv2o1\" dir=\"ltr\">",
                   "target": [
                     "h3[data-uia=\"nmhp-faq-q-4\"]"
                   ]
                 },
                 {
-                  "html": "<h3 data-uia=\"nmhp-faq-q-5\" class=\"accordion-heading_styles__199uojx0 default-ltr-cache-8usixx e164gv2o1\" dir=\"ltr\">",
+                  "html": "<h3 data-uia=\"nmhp-faq-q-5\" class=\"accordion-heading_styles__199uojx0 default-ltr-cache-sm8fes e164gv2o1\" dir=\"ltr\">",
                   "target": [
                     "h3[data-uia=\"nmhp-faq-q-5\"]"
                   ]
@@ -4976,46 +5127,6 @@
             {
               "id": "color-contrast",
               "data": {
-                "messageKey": "hidden"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element is hidden"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<textarea id=\"g-recaptcha-response-100000\" name=\"g-recaptcha-response\" class=\"g-recaptcha-response\" style=\"width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;\"></textarea>",
-          "target": [
-            "#g-recaptcha-response-100000"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "messageKey": "hidden"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element is hidden"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<textarea id=\"g-recaptcha-response-100001\" name=\"g-recaptcha-response\" class=\"g-recaptcha-response\" style=\"width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;\"></textarea>",
-          "target": [
-            "#g-recaptcha-response-100001"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
                 "fgColor": "#333333",
                 "bgColor": "#f2f2f2",
                 "contrastRatio": 11.28,
@@ -5056,7 +5167,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button id=\"onetrust-pc-btn-handler\">Learn more</button>",
+          "html": "<button id=\"onetrust-pc-btn-handler\" aria-label=\"Learn more, Opens the preference center dialog\">Learn more</button>",
           "target": [
             "#onetrust-pc-btn-handler"
           ]
@@ -5129,6 +5240,46 @@
           "html": "<input id=\"vendor-search-handler\" type=\"text\" name=\"vendor-search-handler\" placeholder=\"Search…\" aria-label=\"Cookie list search\">",
           "target": [
             "#vendor-search-handler"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "messageKey": "hidden"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element is hidden"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<textarea id=\"g-recaptcha-response-100000\" name=\"g-recaptcha-response\" class=\"g-recaptcha-response\" style=\"width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;\"></textarea>",
+          "target": [
+            "#g-recaptcha-response-100000"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "messageKey": "hidden"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element is hidden"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<textarea id=\"g-recaptcha-response-100001\" name=\"g-recaptcha-response\" class=\"g-recaptcha-response\" style=\"width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;\"></textarea>",
+          "target": [
+            "#g-recaptcha-response-100001"
           ]
         }
       ]
@@ -5233,7 +5384,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div id=\"content--nmhp-faq-accordion--0\" aria-labelledby=\"button--nmhp-faq-accordion--0\" role=\"region\" data-uia=\"nmhp-faq-a-0\" class=\"accordion-panel_styles__f5b0a10 accordion-panel_styles_isOpen_false__f5b0a12 default-ltr-cache-1qmkczf e164gv2o0\" dir=\"ltr\">",
+          "html": "<div id=\"content--nmhp-faq-accordion--0\" aria-labelledby=\"button--nmhp-faq-accordion--0\" role=\"region\" data-uia=\"nmhp-faq-a-0\" class=\"accordion-panel_styles__f5b0a10 accordion-panel_styles_isOpen_false__f5b0a12 default-ltr-cache-4etnj5 e164gv2o0\" dir=\"ltr\">",
           "target": [
             "#content--nmhp-faq-accordion--0"
           ]
@@ -5269,7 +5420,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div id=\"content--nmhp-faq-accordion--1\" aria-labelledby=\"button--nmhp-faq-accordion--1\" role=\"region\" data-uia=\"nmhp-faq-a-1\" class=\"accordion-panel_styles__f5b0a10 accordion-panel_styles_isOpen_false__f5b0a12 default-ltr-cache-1qmkczf e164gv2o0\" dir=\"ltr\">",
+          "html": "<div id=\"content--nmhp-faq-accordion--1\" aria-labelledby=\"button--nmhp-faq-accordion--1\" role=\"region\" data-uia=\"nmhp-faq-a-1\" class=\"accordion-panel_styles__f5b0a10 accordion-panel_styles_isOpen_false__f5b0a12 default-ltr-cache-4etnj5 e164gv2o0\" dir=\"ltr\">",
           "target": [
             "#content--nmhp-faq-accordion--1"
           ]
@@ -5305,7 +5456,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div id=\"content--nmhp-faq-accordion--2\" aria-labelledby=\"button--nmhp-faq-accordion--2\" role=\"region\" data-uia=\"nmhp-faq-a-2\" class=\"accordion-panel_styles__f5b0a10 accordion-panel_styles_isOpen_false__f5b0a12 default-ltr-cache-1qmkczf e164gv2o0\" dir=\"ltr\">",
+          "html": "<div id=\"content--nmhp-faq-accordion--2\" aria-labelledby=\"button--nmhp-faq-accordion--2\" role=\"region\" data-uia=\"nmhp-faq-a-2\" class=\"accordion-panel_styles__f5b0a10 accordion-panel_styles_isOpen_false__f5b0a12 default-ltr-cache-4etnj5 e164gv2o0\" dir=\"ltr\">",
           "target": [
             "#content--nmhp-faq-accordion--2"
           ]
@@ -5341,7 +5492,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div id=\"content--nmhp-faq-accordion--3\" aria-labelledby=\"button--nmhp-faq-accordion--3\" role=\"region\" data-uia=\"nmhp-faq-a-3\" class=\"accordion-panel_styles__f5b0a10 accordion-panel_styles_isOpen_false__f5b0a12 default-ltr-cache-1qmkczf e164gv2o0\" dir=\"ltr\">",
+          "html": "<div id=\"content--nmhp-faq-accordion--3\" aria-labelledby=\"button--nmhp-faq-accordion--3\" role=\"region\" data-uia=\"nmhp-faq-a-3\" class=\"accordion-panel_styles__f5b0a10 accordion-panel_styles_isOpen_false__f5b0a12 default-ltr-cache-4etnj5 e164gv2o0\" dir=\"ltr\">",
           "target": [
             "#content--nmhp-faq-accordion--3"
           ]
@@ -5377,7 +5528,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div id=\"content--nmhp-faq-accordion--4\" aria-labelledby=\"button--nmhp-faq-accordion--4\" role=\"region\" data-uia=\"nmhp-faq-a-4\" class=\"accordion-panel_styles__f5b0a10 accordion-panel_styles_isOpen_false__f5b0a12 default-ltr-cache-1qmkczf e164gv2o0\" dir=\"ltr\">",
+          "html": "<div id=\"content--nmhp-faq-accordion--4\" aria-labelledby=\"button--nmhp-faq-accordion--4\" role=\"region\" data-uia=\"nmhp-faq-a-4\" class=\"accordion-panel_styles__f5b0a10 accordion-panel_styles_isOpen_false__f5b0a12 default-ltr-cache-4etnj5 e164gv2o0\" dir=\"ltr\">",
           "target": [
             "#content--nmhp-faq-accordion--4"
           ]
@@ -5413,7 +5564,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div id=\"content--nmhp-faq-accordion--5\" aria-labelledby=\"button--nmhp-faq-accordion--5\" role=\"region\" data-uia=\"nmhp-faq-a-5\" class=\"accordion-panel_styles__f5b0a10 accordion-panel_styles_isOpen_false__f5b0a12 default-ltr-cache-1qmkczf e164gv2o0\" dir=\"ltr\">",
+          "html": "<div id=\"content--nmhp-faq-accordion--5\" aria-labelledby=\"button--nmhp-faq-accordion--5\" role=\"region\" data-uia=\"nmhp-faq-a-5\" class=\"accordion-panel_styles__f5b0a10 accordion-panel_styles_isOpen_false__f5b0a12 default-ltr-cache-4etnj5 e164gv2o0\" dir=\"ltr\">",
           "target": [
             "#content--nmhp-faq-accordion--5"
           ]
@@ -7821,7 +7972,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button id=\"onetrust-pc-btn-handler\">Learn more</button>",
+          "html": "<button id=\"onetrust-pc-btn-handler\" aria-label=\"Learn more, Opens the preference center dialog\">Learn more</button>",
           "target": [
             "#onetrust-pc-btn-handler"
           ]
@@ -7875,7 +8026,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button class=\"onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon\" style=\"background-image: url(&quot;https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production/consent/87b6a5c0-0104-4e96-a291-092c11350111/01938dc4-59b3-7f67-86aa-d06aa27c6cc0/logos/static/ot_close.svg&quot;);\" aria-label=\"Close\">",
+          "html": "<button class=\"onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon\" style=\"background-image: url(&quot;https://help.nflxext.com/helpcenter/OneTrust/oneTrust_production_2025-07-01/consent/87b6a5c0-0104-4e96-a291-092c11350111/01938dc4-59b3-7f67-86aa-d06aa27c6cc0/logos/static/ot_close.svg&quot;);\" aria-label=\"Close\">",
           "target": [
             ".onetrust-close-btn-ui"
           ]
@@ -8221,7 +8372,7 @@
                 {
                   "html": "<div aria-hidden=\"true\" class=\"form-control_controlChromeStyles__oy4jpq4\" dir=\"ltr\"></div>",
                   "target": [
-                    ".default-ltr-cache-1xmj9r > .default-ltr-cache-inkrn.ev126k32 > form > .default-ltr-cache-1jbflut.ev126k30[data-issplitform=\"false\"] > .default-ltr-cache-1krcwqn.e2so2tu1[data-uia=\"field-email+container\"] > .form-control_controlWrapperStyles__oy4jpq1[dir=\"ltr\"] > .form-control_controlChromeStyles__oy4jpq4[aria-hidden=\"true\"][dir=\"ltr\"]"
+                    ".default-ltr-cache-1xmj9r > .default-ltr-cache-inkrn.ev126k32 > form > .default-ltr-cache-1jbflut.ev126k30[data-issplitform=\"false\"] > .default-ltr-cache-1tmt8j0.e2so2tu1[data-uia=\"field-email+container\"] > .form-control_controlWrapperStyles__oy4jpq1[dir=\"ltr\"] > .form-control_controlChromeStyles__oy4jpq4[aria-hidden=\"true\"][dir=\"ltr\"]"
                   ]
                 },
                 {
@@ -8400,7 +8551,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-8272-300.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABTsIHqmKvuiJaunFg-3M7eRlEBPik8Un-eqTK-od9x48LzeGITagPm82bIopTRvyhIEMehQNdXN2qfj0AVpDTMhftqYStaCieJdbO-jfhSkFUVGBs9eYkpkjdzOj_UCKZi53.webp?r=06c&quot;);\">",
+                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-1386-299.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABaW57jWqw0Gs9gqgmW816THwyNfPqphIiruQRFy9KXtt9PTPJpB4kzDKriPcpNjPKCj0itu1Yfjl-CR8rGEokBHPKE4O9lZQHXHRRpUHEelwoKk8lOf4gqlws-HnR2iZeSk4.webp?r=609&quot;);\">",
                   "target": [
                     "button[data-uia=\"top-10-element-1\"] > .default-ltr-cache-3xjlkv.e1rogofe1 > .default-ltr-cache-cf8xw5.e1rogofe3"
                   ]
@@ -8457,7 +8608,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-8272-300.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABfrQ-ytQxZb4vAuUegqLRC6Mzo4qEMKBNKiYSsEqK16hUyXOUO2f7CZchxO_b4lhknmpf0C2ocJMYF1jChy3YpV3M5Osq7oVADhGKdJWQyaHA50EtvmM0TdxspGTAbQQHctr.webp?r=d36&quot;);\">",
+                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-1386-299.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABfrQ-ytQxZb4vAuUegqLRC6Mzo4qEMKBNKiYSsEqK16hUyXOUO2f7CZchxO_b4lhknmpf0C2ocJMYF1jChy3YpV3M5Osq7oVADhGKdJWQyaHA50EtvmM0TdxspGTAbQQHctr.webp?r=d36&quot;);\">",
                   "target": [
                     "button[data-uia=\"top-10-element-2\"] > .default-ltr-cache-3xjlkv.e1rogofe1 > .default-ltr-cache-cf8xw5.e1rogofe3"
                   ]
@@ -8514,7 +8665,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-8272-300.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABTfKPa9GQQYH9sRkSKIh8oVudq3kI3dlgj-XKXNQAnFrkkBk3h2C6UgrR2ZtrneAW-hx0MkocgffgSa2j-jYT69y1ZPp_HARZCQEO_221rIoUVhdUU5OQzamZFjcvvktpn2V.webp?r=1e7&quot;);\">",
+                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-1386-299.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABUasu_HTcTo0pDA_rwQAT3GoTSxFwLsUWb95pNwPF9STdUmxeByfTvWgJNpaKqmGPaUaxT5Q12cIqMJoJ8sBxZkpdkUGKVEmVz55xXPoYzx0O3x-KR7-kt07DM54BhdcTySP.webp?r=fbf&quot;);\">",
                   "target": [
                     "button[data-uia=\"top-10-element-3\"] > .default-ltr-cache-3xjlkv.e1rogofe1 > .default-ltr-cache-cf8xw5.e1rogofe3"
                   ]
@@ -8571,7 +8722,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-8272-300.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABfxSzuN7B27Pdb3Wp8YN5EMKDbYG6vZysOzXTBPX85WOvJngDgj2KbKT08ddEZ3eGPcoE7Rw6GYFZ6FEZCf4qWlkjU2ryc_0OJF6wuMw5NO45DBsadkXYkTNXPedyMNircRl.webp?r=9a8&quot;);\">",
+                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-1386-299.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABRS_77dhhj6XpMj91rPiEI2g7XGUysu1g0vGaXZNPTTscsBMNJY9OdDkVNsd-Z5CsSX7cdyWSqOjJNRjrWnOBuF4U-MUz7hlmGtIm6gwf_9vAl3_3dpZyOc8EMKt0pxKqXVp.webp?r=2a5&quot;);\">",
                   "target": [
                     "button[data-uia=\"top-10-element-4\"] > .default-ltr-cache-3xjlkv.e1rogofe1 > .default-ltr-cache-cf8xw5.e1rogofe3"
                   ]
@@ -8628,7 +8779,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-8272-300.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABYzJFNm9fYpxFDXaBRd4akHgBTET1K4B26eJ4kSUOYrhsYnfRcVk6yiiQk7v4ouIXk4ZsE3sPyacpJc5e9DiK557ORpE2TKtHRNYBJbZ9J-tYeGdEh2yDleqLg2qNnA-YaTB.webp?r=958&quot;);\">",
+                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-1386-299.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABTfKPa9GQQYH9sRkSKIh8oVudq3kI3dlgj-XKXNQAnFrkkBk3h2C6UgrR2ZtrneAW-hx0MkocgffgSa2j-jYT69y1ZPp_HARZCQEO_221rIoUVhdUU5OQzamZFjcvvktpn2V.webp?r=1e7&quot;);\">",
                   "target": [
                     "button[data-uia=\"top-10-element-5\"] > .default-ltr-cache-3xjlkv.e1rogofe1 > .default-ltr-cache-cf8xw5.e1rogofe3"
                   ]
@@ -8685,7 +8836,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-8272-300.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABUasu_HTcTo0pDA_rwQAT3GoTSxFwLsUWb95pNwPF9STdUmxeByfTvWgJNpaKqmGPaUaxT5Q12cIqMJoJ8sBxZkpdkUGKVEmVz55xXPoYzx0O3x-KR7-kt07DM54BhdcTySP.webp?r=fbf&quot;);\">",
+                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-1386-299.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABe_oRiE-uHF5BxTNucL9IUKqffENSXu1g3UqTHkoqkSWtVbU7E1t3EelyG8CJ3vnCtBZvV3RqKEPajyBuhW5i-l20HeobOOGbChHsqIO3L072A-czMgAxo8KSq09cHWt4sx7.webp?r=514&quot;);\">",
                   "target": [
                     "button[data-uia=\"top-10-element-6\"] > .default-ltr-cache-3xjlkv.e1rogofe1 > .default-ltr-cache-cf8xw5.e1rogofe3"
                   ]
@@ -8742,7 +8893,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-8272-300.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABaY8BTujE28JCdRd_PHP5-FbbOPRPc4R88mnlx9BcwfQRfw8I-9eo9PW8f1F9WgrBnOYYD5L7SLoC29TMfy8FbTG-XHjb11_quw.webp?r=b9f&quot;);\"></span>",
+                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-1386-299.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABSt8G2MWZrHLWyZOUoyllTSq0WH9-ErUIUSk59tobh1MWXog6Cmo0zRJopSwcqM0RqP9XJ5Xt2A7sNiYmfhK2waJYmt7pcG-5ZXmeowBDWg7cMIHfcOoqmUi7QdsyzdJKafH.webp?r=d3c&quot;);\">",
                   "target": [
                     "button[data-uia=\"top-10-element-7\"] > .default-ltr-cache-3xjlkv.e1rogofe1 > .default-ltr-cache-cf8xw5.e1rogofe3"
                   ]
@@ -8799,7 +8950,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-8272-300.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABTnKEt6WzeIRq4lVWQasUn679aCSkVjjBFhIxedXXdyrUTUQNpcND2CREe_Q7QbleFHq0vDLDqNPFgueMdPbtRyO6RXZIC6xfLM.webp?r=8bd&quot;);\"></span>",
+                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-1386-299.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABVH7S1X54xk1uCaFVsWz3hKrjCVG32B8-dRtF6yVJ6RjVtS0UGiNeSeDjeQdJ3UTQFTzCmS9oDpjxM7U8TB2wGvVL_zawaiLvbM.webp?r=2cd&quot;);\"></span>",
                   "target": [
                     "button[data-uia=\"top-10-element-8\"] > .default-ltr-cache-3xjlkv.e1rogofe1 > .default-ltr-cache-cf8xw5.e1rogofe3"
                   ]
@@ -8856,7 +9007,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-8272-300.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABdWqOEuSeUgeOy-3mgNBToYBV2mEqn-ROQl8S88qDtmq95rpzrfXO8F4qz8WqIXpd-9SmQuOrh_0ZesDJ562iBhuCP55KVQlL0GyZ6PVYcRyqmQ3TUqxnlycR_6K-bxuiaZx.webp?r=86f&quot;);\">",
+                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-1386-299.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABTnKEt6WzeIRq4lVWQasUn679aCSkVjjBFhIxedXXdyrUTUQNpcND2CREe_Q7QbleFHq0vDLDqNPFgueMdPbtRyO6RXZIC6xfLM.webp?r=8bd&quot;);\"></span>",
                   "target": [
                     "button[data-uia=\"top-10-element-9\"] > .default-ltr-cache-3xjlkv.e1rogofe1 > .default-ltr-cache-cf8xw5.e1rogofe3"
                   ]
@@ -8913,7 +9064,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-8272-300.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABTvBkwJcLPBQOOlTK9fBGAmoxYqlE6lcKi1uMDthO2XevZu0-l_fxBFOH5_dzkxvAXpXPE7VxMs4yK7tTTi8CQ14hEYuOyyTIMwdqPteCFLM1lK6dBmebyic-nqwDY24zWwU.webp?r=2f2&quot;);\">",
+                  "html": "<span class=\"default-ltr-cache-cf8xw5 e1rogofe3\" style=\"background-image: url(&quot;https://occ-0-1386-299.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABeysJ_o0Fqo2Esnk8H3hp3V1VarIGpeg_GoiaL3A4_BLVb29OEEM1b17gQxKFblxZaEl42kzUG8QkRINoZ4HHxAN8N-WoN_YF_fcPYgiIiq03s81yru4DEvGn7SiPnW55-JK.webp?r=49b&quot;);\">",
                   "target": [
                     "button[data-uia=\"top-10-element-10\"] > .default-ltr-cache-3xjlkv.e1rogofe1 > .default-ltr-cache-cf8xw5.e1rogofe3"
                   ]

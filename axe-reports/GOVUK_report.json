@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-06-26T21:06:23.574Z",
+  "timestamp": "2025-08-04T15:34:19.379Z",
   "url": "https://www.gov.uk/",
   "toolOptions": {
     "runOnly": {
@@ -749,9 +749,9 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"search-main-c0debfc5__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-b27350cb__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-c0debfc5__status--A"
+            "#search-main-b27350cb__status--A"
           ]
         },
         {
@@ -775,9 +775,9 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"search-main-c0debfc5__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-b27350cb__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-c0debfc5__status--B"
+            "#search-main-b27350cb__status--B"
           ]
         },
         {
@@ -801,9 +801,9 @@
             }
           ],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-b27350cb__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-b27350cb__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-b27350cb\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-c0debfc5"
+            "#search-main-b27350cb"
           ]
         },
         {
@@ -995,9 +995,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div id=\"search-main-c0debfc5__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-b27350cb__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-c0debfc5__status--A"
+            "#search-main-b27350cb__status--A"
           ]
         },
         {
@@ -1013,9 +1013,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div id=\"search-main-c0debfc5__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-b27350cb__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-c0debfc5__status--B"
+            "#search-main-b27350cb__status--B"
           ]
         },
         {
@@ -1031,9 +1031,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-b27350cb__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-b27350cb__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-b27350cb\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-c0debfc5"
+            "#search-main-b27350cb"
           ]
         },
         {
@@ -1157,7 +1157,7 @@
           "impact": null,
           "html": "<form action=\"/search/all\" method=\"get\" role=\"search\" data-module=\"ga4-search-tracker\" data-ga4-search-type=\"homepage\" data-ga4-search-url=\"/search/all\" data-ga4-search-section=\"Search\" data-ga4-search-index-section=\"1\" data-ga4-search-index-section-count=\"6\" data-ga4-search-tracker-module-started=\"true\">",
           "target": [
-            "form[action=\"/search/all\"]"
+            "form[data-ga4-search-type=\"homepage\"]"
           ]
         },
         {
@@ -1173,9 +1173,9 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"search-main-c0debfc5__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-b27350cb__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-c0debfc5__status--A"
+            "#search-main-b27350cb__status--A"
           ]
         },
         {
@@ -1191,9 +1191,9 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"search-main-c0debfc5__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-b27350cb__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-c0debfc5__status--B"
+            "#search-main-b27350cb__status--B"
           ]
         },
         {
@@ -1209,9 +1209,9 @@
             }
           ],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-b27350cb__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-b27350cb__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-b27350cb\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-c0debfc5"
+            "#search-main-b27350cb"
           ]
         },
         {
@@ -1473,6 +1473,198 @@
           ],
           "none": [],
           "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 27 27\">",
+          "target": [
+            ".homepage-most-viewed-list__item:nth-child(1) > .gem-c-action-link.govuk-\\!-margin-bottom-0 > .gem-c-action-link__icon[hidden=\"\"] > svg[viewBox=\"0 0 27 27\"]"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "focusable-modal-open",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements while a modal is open"
+            },
+            {
+              "id": "focusable-disabled",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            },
+            {
+              "id": "focusable-not-tabbable",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 27 27\">",
+          "target": [
+            ".homepage-most-viewed-list__item:nth-child(2) > .gem-c-action-link.govuk-\\!-margin-bottom-0 > .gem-c-action-link__icon[hidden=\"\"] > svg[viewBox=\"0 0 27 27\"]"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "focusable-modal-open",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements while a modal is open"
+            },
+            {
+              "id": "focusable-disabled",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            },
+            {
+              "id": "focusable-not-tabbable",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 27 27\">",
+          "target": [
+            ".homepage-most-viewed-list__item:nth-child(3) > .gem-c-action-link.govuk-\\!-margin-bottom-0 > .gem-c-action-link__icon[hidden=\"\"] > svg[viewBox=\"0 0 27 27\"]"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "focusable-modal-open",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements while a modal is open"
+            },
+            {
+              "id": "focusable-disabled",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            },
+            {
+              "id": "focusable-not-tabbable",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 27 27\">",
+          "target": [
+            ".homepage-most-viewed-list__item:nth-child(4) > .gem-c-action-link.govuk-\\!-margin-bottom-0 > .gem-c-action-link__icon[hidden=\"\"] > svg[viewBox=\"0 0 27 27\"]"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "focusable-modal-open",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements while a modal is open"
+            },
+            {
+              "id": "focusable-disabled",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            },
+            {
+              "id": "focusable-not-tabbable",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 27 27\">",
+          "target": [
+            ".homepage-most-viewed-list__item:nth-child(5) > .gem-c-action-link.govuk-\\!-margin-bottom-0 > .gem-c-action-link__icon[hidden=\"\"] > svg[viewBox=\"0 0 27 27\"]"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "focusable-modal-open",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements while a modal is open"
+            },
+            {
+              "id": "focusable-disabled",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            },
+            {
+              "id": "focusable-not-tabbable",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 27 27\">",
+          "target": [
+            ".homepage-most-viewed-list__item:nth-child(6) > .gem-c-action-link.govuk-\\!-margin-bottom-0 > .gem-c-action-link__icon[hidden=\"\"] > svg[viewBox=\"0 0 27 27\"]"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "focusable-modal-open",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements while a modal is open"
+            },
+            {
+              "id": "focusable-disabled",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            },
+            {
+              "id": "focusable-not-tabbable",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "No focusable elements contained within element"
+            }
+          ],
+          "none": [],
+          "impact": null,
           "html": "<a class=\"gem-c-feedback__prompt-link\" role=\"button\" hidden=\"hidden\" aria-hidden=\"true\" href=\"/contact/govuk\">\n              Maybe\n</a>",
           "target": [
             "a[role=\"button\"]"
@@ -1679,9 +1871,9 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"search-main-c0debfc5__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-b27350cb__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-c0debfc5__status--A"
+            "#search-main-b27350cb__status--A"
           ]
         },
         {
@@ -1697,9 +1889,9 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"search-main-c0debfc5__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-b27350cb__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-c0debfc5__status--B"
+            "#search-main-b27350cb__status--B"
           ]
         },
         {
@@ -1715,9 +1907,9 @@
             }
           ],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-b27350cb__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-b27350cb__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-b27350cb\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-c0debfc5"
+            "#search-main-b27350cb"
           ]
         },
         {
@@ -1841,7 +2033,7 @@
           "impact": null,
           "html": "<form action=\"/search/all\" method=\"get\" role=\"search\" data-module=\"ga4-search-tracker\" data-ga4-search-type=\"homepage\" data-ga4-search-url=\"/search/all\" data-ga4-search-section=\"Search\" data-ga4-search-index-section=\"1\" data-ga4-search-index-section-count=\"6\" data-ga4-search-tracker-module-started=\"true\">",
           "target": [
-            "form[action=\"/search/all\"]"
+            "form[data-ga4-search-type=\"homepage\"]"
           ]
         },
         {
@@ -1857,9 +2049,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div id=\"search-main-c0debfc5__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-b27350cb__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-c0debfc5__status--A"
+            "#search-main-b27350cb__status--A"
           ]
         },
         {
@@ -1875,9 +2067,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div id=\"search-main-c0debfc5__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-b27350cb__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-c0debfc5__status--B"
+            "#search-main-b27350cb__status--B"
           ]
         },
         {
@@ -1893,9 +2085,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-b27350cb__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-b27350cb__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-b27350cb\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-c0debfc5"
+            "#search-main-b27350cb"
           ]
         },
         {
@@ -2057,7 +2249,7 @@
           "impact": null,
           "html": "<form action=\"/search/all\" method=\"get\" role=\"search\" data-module=\"ga4-search-tracker\" data-ga4-search-type=\"homepage\" data-ga4-search-url=\"/search/all\" data-ga4-search-section=\"Search\" data-ga4-search-index-section=\"1\" data-ga4-search-index-section-count=\"6\" data-ga4-search-tracker-module-started=\"true\">",
           "target": [
-            "form[action=\"/search/all\"]"
+            "form[data-ga4-search-type=\"homepage\"]"
           ]
         },
         {
@@ -2087,9 +2279,9 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"search-main-c0debfc5__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-b27350cb__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-c0debfc5__status--A"
+            "#search-main-b27350cb__status--A"
           ]
         },
         {
@@ -2119,9 +2311,9 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"search-main-c0debfc5__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-b27350cb__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-c0debfc5__status--B"
+            "#search-main-b27350cb__status--B"
           ]
         },
         {
@@ -2151,9 +2343,9 @@
             }
           ],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-b27350cb__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-b27350cb__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-b27350cb\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-c0debfc5"
+            "#search-main-b27350cb"
           ]
         },
         {
@@ -2423,9 +2615,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div id=\"search-main-c0debfc5__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-b27350cb__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-c0debfc5__status--A"
+            "#search-main-b27350cb__status--A"
           ]
         },
         {
@@ -2455,9 +2647,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div id=\"search-main-c0debfc5__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-b27350cb__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-c0debfc5__status--B"
+            "#search-main-b27350cb__status--B"
           ]
         },
         {
@@ -2487,9 +2679,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-b27350cb__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-b27350cb__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-b27350cb\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-c0debfc5"
+            "#search-main-b27350cb"
           ]
         },
         {
@@ -2693,9 +2885,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div id=\"search-main-c0debfc5__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-b27350cb__status--A\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-c0debfc5__status--A"
+            "#search-main-b27350cb__status--A"
           ]
         },
         {
@@ -2711,9 +2903,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div id=\"search-main-c0debfc5__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
+          "html": "<div id=\"search-main-b27350cb__status--B\" role=\"status\" aria-atomic=\"true\" aria-live=\"polite\"></div>",
           "target": [
-            "#search-main-c0debfc5__status--B"
+            "#search-main-b27350cb__status--B"
           ]
         },
         {
@@ -2729,9 +2921,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-b27350cb__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-b27350cb__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-b27350cb\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-c0debfc5"
+            "#search-main-b27350cb"
           ]
         },
         {
@@ -3115,19 +3307,19 @@
                   ]
                 },
                 {
-                  "html": "<h3 class=\"gem-c-image-card__title govuk-heading-s\">\n              <a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/guidance/changes-to-govuk\">Changes to GOV.UK</a>\n</h3>",
+                  "html": "<h3 class=\"gem-c-image-card__title govuk-heading-s\">\n              <a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/find-a-job\">Find a job</a>\n</h3>",
                   "target": [
                     ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(2) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__header-and-context-wrapper > .gem-c-image-card__title.govuk-heading-s"
                   ]
                 },
                 {
-                  "html": "<h3 class=\"gem-c-image-card__title govuk-heading-s\">\n              <a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/find-a-job\">Find a job</a>\n</h3>",
+                  "html": "<h3 class=\"gem-c-image-card__title govuk-heading-s\">\n              <a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/check-national-insurance-record\">National Insurance</a>\n</h3>",
                   "target": [
                     ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(3) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__header-and-context-wrapper > .gem-c-image-card__title.govuk-heading-s"
                   ]
                 },
                 {
-                  "html": "<h3 class=\"gem-c-image-card__title govuk-heading-s\">\n              <a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/check-national-insurance-record\">National Insurance</a>\n</h3>",
+                  "html": "<h3 class=\"gem-c-image-card__title govuk-heading-s\">\n              <a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/cost-of-living\">Cost of living support</a>\n</h3>",
                   "target": [
                     ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(4) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__header-and-context-wrapper > .gem-c-image-card__title.govuk-heading-s"
                   ]
@@ -3420,9 +3612,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-link\" href=\"https://www.gov.uk/help/cookies\">View cookies</a>",
+          "html": "<a class=\"govuk-link\" href=\"/help/cookies\">View cookies</a>",
           "target": [
-            ".js-confirmation-buttons > .govuk-link"
+            ".js-confirmation-buttons > .govuk-link[href$=\"cookies\"]"
           ]
         },
         {
@@ -3465,9 +3657,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-08165166__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-08165166__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-08165166\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-8d9e5317__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-8d9e5317__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-8d9e5317\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-08165166"
+            "#search-main-8d9e5317"
           ]
         },
         {
@@ -3515,7 +3707,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<label for=\"search-main-c0debfc5\" class=\"govuk-label govuk-label--s gem-c-search__label--white govuk-!-margin-bottom-3\">Search</label>",
+          "html": "<label for=\"search-main-b27350cb\" class=\"govuk-label govuk-label--s gem-c-search__label--white govuk-!-margin-bottom-3\">Search</label>",
           "target": [
             ".govuk-label--s"
           ]
@@ -3540,9 +3732,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-b27350cb__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-b27350cb__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-b27350cb\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-c0debfc5"
+            "#search-main-b27350cb"
           ]
         },
         {
@@ -3590,9 +3782,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/log-in-register-hmrc-online-services\">\n                      HMRC account: sign in or set up\n          \n\n</a>",
+          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/log-in-register-hmrc-online-services\">HMRC account: sign in or set up</a>",
           "target": [
-            ".homepage-most-viewed-list__item:nth-child(1) > .gem-c-action-link.gem-c-action-link--light-icon.govuk-\\!-margin-bottom-0 > .gem-c-action-link__link-wrapper > .gem-c-action-link__link.gem-c-force-print-link-styles.govuk-link"
+            ".homepage-most-viewed-list__item:nth-child(1) > .gem-c-action-link.govuk-\\!-margin-bottom-0 > .gem-c-action-link__link-wrapper > .gem-c-action-link__link.gem-c-force-print-link-styles.govuk-link"
           ]
         },
         {
@@ -3615,9 +3807,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/get-access-evisa\">\n                      Get access to your eVisa\n          \n\n</a>",
+          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/evisa\">eVisas: access and use your online immigration status</a>",
           "target": [
-            "a[href$=\"get-access-evisa\"]"
+            "a[href$=\"evisa\"]"
           ]
         },
         {
@@ -3640,7 +3832,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/sign-in-universal-credit\">\n                      Universal Credit account: sign in\n          \n\n</a>",
+          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/sign-in-universal-credit\">Universal Credit account: sign in</a>",
           "target": [
             "a[href$=\"sign-in-universal-credit\"]"
           ]
@@ -3665,7 +3857,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/personal-tax-account\">\n                      Personal tax account: sign in or set up\n          \n\n</a>",
+          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/personal-tax-account\">Personal tax account: sign in or set up</a>",
           "target": [
             "a[href$=\"personal-tax-account\"]"
           ]
@@ -3690,7 +3882,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/sign-in-childcare-account\">\n                      Childcare account: sign in\n          \n\n</a>",
+          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/sign-in-childcare-account\">Childcare account: sign in</a>",
           "target": [
             ".gem-c-action-link__link.gem-c-force-print-link-styles[href$=\"sign-in-childcare-account\"]"
           ]
@@ -3715,7 +3907,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/check-state-pension\">\n                      Check your State Pension forecast\n          \n\n</a>",
+          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/check-state-pension\">Check your State Pension forecast</a>",
           "target": [
             "a[href$=\"check-state-pension\"]"
           ]
@@ -3767,7 +3959,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:1,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/benefits\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"benefits\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"benefits\"]"
           ]
         },
         {
@@ -3867,7 +4059,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:3,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/business\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"business\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"business\"]"
           ]
         },
         {
@@ -3917,7 +4109,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:4,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/childcare-parenting\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"childcare-parenting\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"childcare-parenting\"]"
           ]
         },
         {
@@ -3967,7 +4159,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:5,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/citizenship\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"citizenship\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"citizenship\"]"
           ]
         },
         {
@@ -4017,7 +4209,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:6,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/justice\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"justice\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"justice\"]"
           ]
         },
         {
@@ -4067,7 +4259,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:7,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/disabilities\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"disabilities\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"disabilities\"]"
           ]
         },
         {
@@ -4117,7 +4309,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:8,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/driving\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"driving\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"driving\"]"
           ]
         },
         {
@@ -4167,7 +4359,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:9,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/education\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"education\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"education\"]"
           ]
         },
         {
@@ -4217,7 +4409,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:10,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/employing-people\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"employing-people\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"employing-people\"]"
           ]
         },
         {
@@ -4317,7 +4509,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:12,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/housing-local-services\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"housing-local-services\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"housing-local-services\"]"
           ]
         },
         {
@@ -4417,7 +4609,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:14,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/abroad\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"abroad\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"abroad\"]"
           ]
         },
         {
@@ -4467,7 +4659,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:15,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/visas-immigration\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"visas-immigration\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"visas-immigration\"]"
           ]
         },
         {
@@ -4517,7 +4709,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:16,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/working\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"working\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"working\"]"
           ]
         },
         {
@@ -4590,56 +4782,6 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/guidance/changes-to-govuk\">Changes to GOV.UK</a>",
-          "target": [
-            "a[href$=\"changes-to-govuk\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#0b0c0c",
-                "bgColor": "#ffffff",
-                "contrastRatio": 19.58,
-                "fontSize": "14.3pt (19px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 19.58"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"gem-c-image-card__description gem-c-image-card__description--large-font-size-mobile\">Find out why you may see some differences to how GOV.UK looks.</div>",
-          "target": [
-            ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(2) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__description.gem-c-image-card__description--large-font-size-mobile"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#1d70b8",
-                "bgColor": "#ffffff",
-                "contrastRatio": 5.16,
-                "fontSize": "14.3pt (19px)",
-                "fontWeight": "bold",
-                "expectedContrastRatio": "3:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 5.16"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
           "html": "<a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/find-a-job\">Find a job</a>",
           "target": [
             "a[href$=\"find-a-job\"]"
@@ -4667,7 +4809,7 @@
           "impact": null,
           "html": "<div class=\"gem-c-image-card__description gem-c-image-card__description--large-font-size-mobile\">Search and apply for jobs in England, Scotland and Wales.</div>",
           "target": [
-            ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(3) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__description.gem-c-image-card__description--large-font-size-mobile"
+            ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(2) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__description.gem-c-image-card__description--large-font-size-mobile"
           ]
         },
         {
@@ -4692,7 +4834,7 @@
           "impact": null,
           "html": "<a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/check-national-insurance-record\">National Insurance</a>",
           "target": [
-            ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(4) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__header-and-context-wrapper > .gem-c-image-card__title.govuk-heading-s > .gem-c-image-card__title-link.gem-c-image-card__title-link--large-font-size-mobile.gem-c-force-print-link-styles"
+            ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(3) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__header-and-context-wrapper > .gem-c-image-card__title.govuk-heading-s > .gem-c-image-card__title-link.gem-c-image-card__title-link--large-font-size-mobile.gem-c-force-print-link-styles"
           ]
         },
         {
@@ -4716,6 +4858,56 @@
           "none": [],
           "impact": null,
           "html": "<div class=\"gem-c-image-card__description gem-c-image-card__description--large-font-size-mobile\">Check your record to see if you can add more contributions.</div>",
+          "target": [
+            ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(3) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__description.gem-c-image-card__description--large-font-size-mobile"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#1d70b8",
+                "bgColor": "#ffffff",
+                "contrastRatio": 5.16,
+                "fontSize": "14.3pt (19px)",
+                "fontWeight": "bold",
+                "expectedContrastRatio": "3:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 5.16"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/cost-of-living\">Cost of living support</a>",
+          "target": [
+            "a[href$=\"cost-of-living\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#0b0c0c",
+                "bgColor": "#ffffff",
+                "contrastRatio": 19.58,
+                "fontSize": "14.3pt (19px)",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 19.58"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div class=\"gem-c-image-card__description gem-c-image-card__description--large-font-size-mobile\">Find out what support is available to help with the cost of living.</div>",
           "target": [
             ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(4) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__description.gem-c-image-card__description--large-font-size-mobile"
           ]
@@ -4792,7 +4984,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:1,&quot;index_section&quot;:5,&quot;index_section_count&quot;:6,&quot;index_total&quot;:6,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/government/organisations\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"organisations\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"organisations\"]"
           ]
         },
         {
@@ -5480,9 +5672,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<textarea name=\"what_doing\" class=\"govuk-textarea\" id=\"textarea-533b4749\" rows=\"3\" spellcheck=\"true\" aria-describedby=\"feedback_explanation\"></textarea>",
+          "html": "<textarea name=\"what_doing\" class=\"govuk-textarea\" id=\"textarea-9672dc82\" rows=\"3\" spellcheck=\"true\" aria-describedby=\"feedback_explanation\"></textarea>",
           "target": [
-            "#textarea-533b4749"
+            "#textarea-9672dc82"
           ]
         },
         {
@@ -5500,9 +5692,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<textarea name=\"what_wrong\" class=\"govuk-textarea\" id=\"textarea-b94a0aa4\" rows=\"3\" spellcheck=\"true\"></textarea>",
+          "html": "<textarea name=\"what_wrong\" class=\"govuk-textarea\" id=\"textarea-0b950608\" rows=\"3\" spellcheck=\"true\"></textarea>",
           "target": [
-            "#textarea-b94a0aa4"
+            "#textarea-0b950608"
           ]
         },
         {
@@ -5550,9 +5742,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;1&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/benefits\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;1&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/benefits\">",
           "target": [
-            ".govuk-footer__list--columns-2 > .govuk-footer__list-item:nth-child(1) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"benefits\"]"
           ]
         },
         {
@@ -5575,7 +5767,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;2&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/births-deaths-marriages\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;2&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/births-deaths-marriages\">",
           "target": [
             ".govuk-footer__list--columns-2 > .govuk-footer__list-item:nth-child(2) > .govuk-footer__link"
           ]
@@ -5600,9 +5792,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;3&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/business\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;3&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/business\">",
           "target": [
-            ".govuk-footer__list--columns-2 > .govuk-footer__list-item:nth-child(3) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"business\"]"
           ]
         },
         {
@@ -5625,9 +5817,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;4&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/childcare-parenting\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;4&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/childcare-parenting\">",
           "target": [
-            ".govuk-footer__list--columns-2 > .govuk-footer__list-item:nth-child(4) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"childcare-parenting\"]"
           ]
         },
         {
@@ -5650,9 +5842,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;5&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/citizenship\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;5&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/citizenship\">",
           "target": [
-            ".govuk-footer__list--columns-2 > .govuk-footer__list-item:nth-child(5) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"citizenship\"]"
           ]
         },
         {
@@ -5675,9 +5867,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;6&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/justice\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;6&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/justice\">",
           "target": [
-            ".govuk-footer__list--columns-2 > .govuk-footer__list-item:nth-child(6) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"justice\"]"
           ]
         },
         {
@@ -5700,9 +5892,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;7&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/disabilities\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;7&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/disabilities\">",
           "target": [
-            ".govuk-footer__list--columns-2 > .govuk-footer__list-item:nth-child(7) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"disabilities\"]"
           ]
         },
         {
@@ -5725,9 +5917,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;8&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/driving\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;8&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/driving\">",
           "target": [
-            ".govuk-footer__list--columns-2 > .govuk-footer__list-item:nth-child(8) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"driving\"]"
           ]
         },
         {
@@ -5750,9 +5942,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;9&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/education\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;9&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/education\">",
           "target": [
-            ".govuk-footer__list-item:nth-child(9) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"education\"]"
           ]
         },
         {
@@ -5775,9 +5967,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;10&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/employing-people\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;10&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/employing-people\">",
           "target": [
-            ".govuk-footer__list-item:nth-child(10) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"employing-people\"]"
           ]
         },
         {
@@ -5800,7 +5992,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;11&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/environment-countryside\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;11&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/environment-countryside\">",
           "target": [
             ".govuk-footer__list-item:nth-child(11) > .govuk-footer__link"
           ]
@@ -5825,9 +6017,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;12&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/housing-local-services\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;12&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/housing-local-services\">",
           "target": [
-            ".govuk-footer__list-item:nth-child(12) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"housing-local-services\"]"
           ]
         },
         {
@@ -5850,7 +6042,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;13&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/tax\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;13&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/tax\">",
           "target": [
             ".govuk-footer__link[href$=\"tax\"]"
           ]
@@ -5875,9 +6067,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;14&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/abroad\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;14&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/abroad\">",
           "target": [
-            ".govuk-footer__list-item:nth-child(14) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"abroad\"]"
           ]
         },
         {
@@ -5900,9 +6092,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;15&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/visas-immigration\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;15&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/visas-immigration\">",
           "target": [
-            ".govuk-footer__list-item:nth-child(15) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"visas-immigration\"]"
           ]
         },
         {
@@ -5925,9 +6117,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;16&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/working\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;16&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/working\">",
           "target": [
-            ".govuk-footer__list-item:nth-child(16) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"working\"]"
           ]
         },
         {
@@ -5975,9 +6167,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;1&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"https://www.gov.uk/government/organisations\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;1&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/government/organisations\">",
           "target": [
-            ".govuk-footer__list--columns-1 > .govuk-footer__list-item:nth-child(1) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"organisations\"]"
           ]
         },
         {
@@ -6000,7 +6192,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;2&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"https://www.gov.uk/search/news-and-communications\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;2&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/search/news-and-communications\">",
           "target": [
             ".govuk-footer__list--columns-1 > .govuk-footer__list-item:nth-child(2) > .govuk-footer__link"
           ]
@@ -6025,7 +6217,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;3&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"https://www.gov.uk/search/guidance-and-regulation\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;3&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/search/guidance-and-regulation\">",
           "target": [
             ".govuk-footer__list--columns-1 > .govuk-footer__list-item:nth-child(3) > .govuk-footer__link"
           ]
@@ -6050,7 +6242,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;4&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"https://www.gov.uk/search/research-and-statistics\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;4&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/search/research-and-statistics\">",
           "target": [
             ".govuk-footer__list--columns-1 > .govuk-footer__list-item:nth-child(4) > .govuk-footer__link"
           ]
@@ -6075,7 +6267,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;5&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"https://www.gov.uk/search/policy-papers-and-consultations\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;5&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/search/policy-papers-and-consultations\">",
           "target": [
             ".govuk-footer__list--columns-1 > .govuk-footer__list-item:nth-child(5) > .govuk-footer__link"
           ]
@@ -6100,7 +6292,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;6&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"https://www.gov.uk/search/transparency-and-freedom-of-information-releases\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;6&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/search/transparency-and-freedom-of-information-releases\">",
           "target": [
             ".govuk-footer__list--columns-1 > .govuk-footer__list-item:nth-child(6) > .govuk-footer__link"
           ]
@@ -6125,7 +6317,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;7&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"https://www.gov.uk/government/how-government-works\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;7&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/government/how-government-works\">",
           "target": [
             ".govuk-footer__list--columns-1 > .govuk-footer__list-item:nth-child(7) > .govuk-footer__link"
           ]
@@ -6150,9 +6342,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;8&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"https://www.gov.uk/government/get-involved\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;8&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/government/get-involved\">",
           "target": [
-            ".govuk-footer__list--columns-1 > .govuk-footer__list-item:nth-child(8) > .govuk-footer__link"
+            "a[href$=\"get-involved\"]"
           ]
         },
         {
@@ -6175,7 +6367,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;1&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"https://www.gov.uk/help\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;1&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"/help\">",
           "target": [
             "a[href$=\"help\"]"
           ]
@@ -6200,9 +6392,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;2&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"https://www.gov.uk/help/privacy-notice\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;2&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"/help/privacy-notice\">",
           "target": [
-            ".govuk-footer__inline-list-item:nth-child(2) > .govuk-footer__link"
+            "a[href$=\"privacy-notice\"]"
           ]
         },
         {
@@ -6225,9 +6417,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;3&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"https://www.gov.uk/help/cookies\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;3&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"/help/cookies\">",
           "target": [
-            ".govuk-footer__inline-list-item:nth-child(3) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"cookies\"]"
           ]
         },
         {
@@ -6250,9 +6442,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;4&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"https://www.gov.uk/help/accessibility-statement\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;4&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"/help/accessibility-statement\">",
           "target": [
-            ".govuk-footer__inline-list-item:nth-child(4) > .govuk-footer__link"
+            "a[href$=\"accessibility-statement\"]"
           ]
         },
         {
@@ -6275,7 +6467,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;5&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"https://www.gov.uk/contact\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;5&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"/contact\">",
           "target": [
             "a[href$=\"contact\"]"
           ]
@@ -6300,9 +6492,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;6&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"https://www.gov.uk/help/terms-conditions\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;6&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"/help/terms-conditions\">",
           "target": [
-            ".govuk-footer__inline-list-item:nth-child(6) > .govuk-footer__link"
+            "a[href$=\"terms-conditions\"]"
           ]
         },
         {
@@ -6325,7 +6517,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" lang=\"cy\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;7&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"https://www.gov.uk/cymraeg\">",
+          "html": "<a class=\"govuk-footer__link\" lang=\"cy\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;7&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"/cymraeg\">",
           "target": [
             "a[lang=\"cy\"]"
           ]
@@ -6350,7 +6542,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;8&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"https://www.gov.uk/government/organisations/government-digital-service\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;8&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"/government/organisations/government-digital-service\">",
           "target": [
             ".govuk-footer__inline-list-item:nth-child(8) > .govuk-footer__link"
           ]
@@ -6541,7 +6733,7 @@
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "search-main-08165166",
+              "data": "search-main-8d9e5317",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -6550,16 +6742,16 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-08165166__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-08165166__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-08165166\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-8d9e5317__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-8d9e5317__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-8d9e5317\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-08165166"
+            "#search-main-8d9e5317"
           ]
         },
         {
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "search-main-08165166__listbox",
+              "data": "search-main-8d9e5317__listbox",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -6568,16 +6760,16 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<ul aria-labelledby=\"search-main-08165166\" id=\"search-main-08165166__listbox\" role=\"listbox\" class=\"gem-c-search-with-autocomplete__menu gem-c-search-with-autocomplete__menu--inline gem-c-search-with-autocomplete__menu--hidden\"></ul>",
+          "html": "<ul aria-labelledby=\"search-main-8d9e5317\" id=\"search-main-8d9e5317__listbox\" role=\"listbox\" class=\"gem-c-search-with-autocomplete__menu gem-c-search-with-autocomplete__menu--inline gem-c-search-with-autocomplete__menu--hidden\"></ul>",
           "target": [
-            "#search-main-08165166__listbox"
+            "#search-main-8d9e5317__listbox"
           ]
         },
         {
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "search-main-08165166__assistiveHint",
+              "data": "search-main-8d9e5317__assistiveHint",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -6586,16 +6778,16 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span id=\"search-main-08165166__assistiveHint\" style=\"display: none;\">When search suggestions are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.</span>",
+          "html": "<span id=\"search-main-8d9e5317__assistiveHint\" style=\"display: none;\">When search suggestions are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.</span>",
           "target": [
-            "#search-main-08165166__assistiveHint"
+            "#search-main-8d9e5317__assistiveHint"
           ]
         },
         {
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "search-main-c0debfc5",
+              "data": "search-main-b27350cb",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -6604,16 +6796,16 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-b27350cb__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-b27350cb__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-b27350cb\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-c0debfc5"
+            "#search-main-b27350cb"
           ]
         },
         {
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "search-main-c0debfc5__listbox",
+              "data": "search-main-b27350cb__listbox",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -6622,16 +6814,16 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<ul aria-labelledby=\"search-main-c0debfc5\" id=\"search-main-c0debfc5__listbox\" role=\"listbox\" class=\"gem-c-search-with-autocomplete__menu gem-c-search-with-autocomplete__menu--inline gem-c-search-with-autocomplete__menu--hidden\"></ul>",
+          "html": "<ul aria-labelledby=\"search-main-b27350cb\" id=\"search-main-b27350cb__listbox\" role=\"listbox\" class=\"gem-c-search-with-autocomplete__menu gem-c-search-with-autocomplete__menu--inline gem-c-search-with-autocomplete__menu--hidden\"></ul>",
           "target": [
-            "#search-main-c0debfc5__listbox"
+            "#search-main-b27350cb__listbox"
           ]
         },
         {
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "search-main-c0debfc5__assistiveHint",
+              "data": "search-main-b27350cb__assistiveHint",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -6640,9 +6832,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span id=\"search-main-c0debfc5__assistiveHint\" style=\"display: none;\">When search suggestions are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.</span>",
+          "html": "<span id=\"search-main-b27350cb__assistiveHint\" style=\"display: none;\">When search suggestions are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.</span>",
           "target": [
-            "#search-main-c0debfc5__assistiveHint"
+            "#search-main-b27350cb__assistiveHint"
           ]
         },
         {
@@ -6658,7 +6850,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<form action=\"https://www.gov.uk/contact/govuk/problem_reports\" id=\"something-is-wrong\" class=\"gem-c-feedback__form js-feedback-form\" method=\"post\" hidden=\"\">",
+          "html": "<form action=\"/contact/govuk/problem_reports\" id=\"something-is-wrong\" class=\"gem-c-feedback__form js-feedback-form\" method=\"post\" hidden=\"\">",
           "target": [
             "#something-is-wrong"
           ]
@@ -6703,7 +6895,7 @@
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "textarea-533b4749",
+              "data": "textarea-9672dc82",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -6712,16 +6904,16 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<textarea name=\"what_doing\" class=\"govuk-textarea\" id=\"textarea-533b4749\" rows=\"3\" spellcheck=\"true\" aria-describedby=\"feedback_explanation\"></textarea>",
+          "html": "<textarea name=\"what_doing\" class=\"govuk-textarea\" id=\"textarea-9672dc82\" rows=\"3\" spellcheck=\"true\" aria-describedby=\"feedback_explanation\"></textarea>",
           "target": [
-            "#textarea-533b4749"
+            "#textarea-9672dc82"
           ]
         },
         {
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "textarea-b94a0aa4",
+              "data": "textarea-0b950608",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -6730,9 +6922,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<textarea name=\"what_wrong\" class=\"govuk-textarea\" id=\"textarea-b94a0aa4\" rows=\"3\" spellcheck=\"true\"></textarea>",
+          "html": "<textarea name=\"what_wrong\" class=\"govuk-textarea\" id=\"textarea-0b950608\" rows=\"3\" spellcheck=\"true\"></textarea>",
           "target": [
-            "#textarea-b94a0aa4"
+            "#textarea-0b950608"
           ]
         },
         {
@@ -6780,7 +6972,7 @@
               "data": null,
               "relatedNodes": [
                 {
-                  "html": "<label for=\"search-main-c0debfc5\" class=\"govuk-label govuk-label--s gem-c-search__label--white govuk-!-margin-bottom-3\">Search</label>",
+                  "html": "<label for=\"search-main-b27350cb\" class=\"govuk-label govuk-label--s gem-c-search__label--white govuk-!-margin-bottom-3\">Search</label>",
                   "target": [
                     ".govuk-label--s"
                   ]
@@ -6791,9 +6983,9 @@
             }
           ],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-b27350cb__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-b27350cb__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-b27350cb\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-c0debfc5"
+            "#search-main-b27350cb"
           ]
         }
       ]
@@ -6922,7 +7114,7 @@
             }
           ],
           "impact": null,
-          "html": "<img class=\"gem-c-image-card__image\" alt=\"\" loading=\"lazy\" height=\"90\" width=\"90\" src=\"/assets/frontend/homepage/brand-refresh-featured-11c31a41d51f3d0272789a8853bfe3cfd71fb96a64f0df09be6a5b0a18081000.png\">",
+          "html": "<img class=\"gem-c-image-card__image\" alt=\"\" loading=\"lazy\" height=\"90\" width=\"90\" src=\"/assets/frontend/homepage/find-a-job-4d38717b0451da3bb223ddea7f681d79e48c1c022da5a08f16aba3f681503150.png\">",
           "target": [
             ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(2) > figure > img"
           ]
@@ -6957,7 +7149,7 @@
             }
           ],
           "impact": null,
-          "html": "<img class=\"gem-c-image-card__image\" alt=\"\" loading=\"lazy\" height=\"90\" width=\"90\" src=\"/assets/frontend/homepage/find-a-job-4d38717b0451da3bb223ddea7f681d79e48c1c022da5a08f16aba3f681503150.png\">",
+          "html": "<img class=\"gem-c-image-card__image\" alt=\"\" loading=\"lazy\" height=\"90\" width=\"90\" src=\"/assets/frontend/homepage/national-insurance-featured-7169e3631b639dcfc7be22469daf155ad0aa7516143ff8cf2e6f95ba29c8656c.png\">",
           "target": [
             ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(3) > figure > img"
           ]
@@ -6992,7 +7184,7 @@
             }
           ],
           "impact": null,
-          "html": "<img class=\"gem-c-image-card__image\" alt=\"\" loading=\"lazy\" height=\"90\" width=\"90\" src=\"/assets/frontend/homepage/national-insurance-featured-7169e3631b639dcfc7be22469daf155ad0aa7516143ff8cf2e6f95ba29c8656c.png\">",
+          "html": "<img class=\"gem-c-image-card__image\" alt=\"\" loading=\"lazy\" height=\"90\" width=\"90\" src=\"/assets/frontend/homepage/cost-of-living-featured-4cd41cec449e0bd47e707812a5c3b5c52726bed0acb4f31c9b66548cc6ff6309.png\">",
           "target": [
             ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(4) > figure > img"
           ]
@@ -7027,7 +7219,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<label for=\"search-main-c0debfc5\" class=\"govuk-label govuk-label--s gem-c-search__label--white govuk-!-margin-bottom-3\">Search</label>",
+                  "html": "<label for=\"search-main-b27350cb\" class=\"govuk-label govuk-label--s gem-c-search__label--white govuk-!-margin-bottom-3\">Search</label>",
                   "target": [
                     ".govuk-label--s"
                   ]
@@ -7048,9 +7240,9 @@
             }
           ],
           "impact": null,
-          "html": "<input aria-describedby=\"search-main-c0debfc5__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-c0debfc5__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-c0debfc5\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
+          "html": "<input aria-describedby=\"search-main-b27350cb__assistiveHint\" aria-expanded=\"false\" aria-controls=\"search-main-b27350cb__listbox\" aria-autocomplete=\"list\" autocomplete=\"off\" class=\"gem-c-search-with-autocomplete__input gem-c-search-with-autocomplete__input--default gem-c-search__item gem-c-search__input js-class-toggle\" id=\"search-main-b27350cb\" name=\"keywords\" placeholder=\"\" type=\"search\" role=\"combobox\">",
           "target": [
-            "#search-main-c0debfc5"
+            "#search-main-b27350cb"
           ]
         }
       ]
@@ -7154,9 +7346,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-link\" href=\"https://www.gov.uk/help/cookies\">View cookies</a>",
+          "html": "<a class=\"govuk-link\" href=\"/help/cookies\">View cookies</a>",
           "target": [
-            ".js-confirmation-buttons > .govuk-link"
+            ".js-confirmation-buttons > .govuk-link[href$=\"cookies\"]"
           ]
         },
         {
@@ -7239,9 +7431,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/log-in-register-hmrc-online-services\">\n                      HMRC account: sign in or set up\n          \n\n</a>",
+          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/log-in-register-hmrc-online-services\">HMRC account: sign in or set up</a>",
           "target": [
-            ".homepage-most-viewed-list__item:nth-child(1) > .gem-c-action-link.gem-c-action-link--light-icon.govuk-\\!-margin-bottom-0 > .gem-c-action-link__link-wrapper > .gem-c-action-link__link.gem-c-force-print-link-styles.govuk-link"
+            ".homepage-most-viewed-list__item:nth-child(1) > .gem-c-action-link.govuk-\\!-margin-bottom-0 > .gem-c-action-link__link-wrapper > .gem-c-action-link__link.gem-c-force-print-link-styles.govuk-link"
           ]
         },
         {
@@ -7265,9 +7457,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/get-access-evisa\">\n                      Get access to your eVisa\n          \n\n</a>",
+          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/evisa\">eVisas: access and use your online immigration status</a>",
           "target": [
-            "a[href$=\"get-access-evisa\"]"
+            "a[href$=\"evisa\"]"
           ]
         },
         {
@@ -7291,7 +7483,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/sign-in-universal-credit\">\n                      Universal Credit account: sign in\n          \n\n</a>",
+          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/sign-in-universal-credit\">Universal Credit account: sign in</a>",
           "target": [
             "a[href$=\"sign-in-universal-credit\"]"
           ]
@@ -7317,7 +7509,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/personal-tax-account\">\n                      Personal tax account: sign in or set up\n          \n\n</a>",
+          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/personal-tax-account\">Personal tax account: sign in or set up</a>",
           "target": [
             "a[href$=\"personal-tax-account\"]"
           ]
@@ -7343,7 +7535,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/sign-in-childcare-account\">\n                      Childcare account: sign in\n          \n\n</a>",
+          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/sign-in-childcare-account\">Childcare account: sign in</a>",
           "target": [
             ".gem-c-action-link__link.gem-c-force-print-link-styles[href$=\"sign-in-childcare-account\"]"
           ]
@@ -7369,7 +7561,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/check-state-pension\">\n                      Check your State Pension forecast\n          \n\n</a>",
+          "html": "<a class=\"govuk-link gem-c-action-link__link gem-c-force-print-link-styles\" href=\"/check-state-pension\">Check your State Pension forecast</a>",
           "target": [
             "a[href$=\"check-state-pension\"]"
           ]
@@ -7397,7 +7589,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:1,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/benefits\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"benefits\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"benefits\"]"
           ]
         },
         {
@@ -7449,7 +7641,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:3,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/business\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"business\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"business\"]"
           ]
         },
         {
@@ -7475,7 +7667,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:4,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/childcare-parenting\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"childcare-parenting\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"childcare-parenting\"]"
           ]
         },
         {
@@ -7501,7 +7693,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:5,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/citizenship\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"citizenship\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"citizenship\"]"
           ]
         },
         {
@@ -7527,7 +7719,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:6,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/justice\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"justice\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"justice\"]"
           ]
         },
         {
@@ -7553,7 +7745,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:7,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/disabilities\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"disabilities\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"disabilities\"]"
           ]
         },
         {
@@ -7579,7 +7771,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:8,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/driving\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"driving\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"driving\"]"
           ]
         },
         {
@@ -7605,7 +7797,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:9,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/education\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"education\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"education\"]"
           ]
         },
         {
@@ -7631,7 +7823,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:10,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/employing-people\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"employing-people\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"employing-people\"]"
           ]
         },
         {
@@ -7683,7 +7875,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:12,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/housing-local-services\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"housing-local-services\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"housing-local-services\"]"
           ]
         },
         {
@@ -7735,7 +7927,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:14,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/abroad\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"abroad\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"abroad\"]"
           ]
         },
         {
@@ -7761,7 +7953,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:15,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/visas-immigration\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"visas-immigration\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"visas-immigration\"]"
           ]
         },
         {
@@ -7787,33 +7979,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:16,&quot;index_section&quot;:3,&quot;index_section_count&quot;:6,&quot;index_total&quot;:16,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/working\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"working\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has text that is visible to screen readers"
-            }
-          ],
-          "all": [],
-          "none": [
-            {
-              "id": "focusable-no-name",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element is not in tab order or has accessible text"
-            }
-          ],
-          "impact": null,
-          "html": "<a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/guidance/changes-to-govuk\">Changes to GOV.UK</a>",
-          "target": [
-            "a[href$=\"changes-to-govuk\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"working\"]"
           ]
         },
         {
@@ -7865,7 +8031,33 @@
           "impact": null,
           "html": "<a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/check-national-insurance-record\">National Insurance</a>",
           "target": [
-            ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(4) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__header-and-context-wrapper > .gem-c-image-card__title.govuk-heading-s > .gem-c-image-card__title-link.gem-c-image-card__title-link--large-font-size-mobile.gem-c-force-print-link-styles"
+            ".gem-c-image-card.gem-c-image-card--two-thirds[data-module=\"ga4-link-tracker\"]:nth-child(3) > .gem-c-image-card__text-wrapper.gem-c-image-card__text-wrapper--two-thirds > .gem-c-image-card__header-and-context-wrapper > .gem-c-image-card__title.govuk-heading-s > .gem-c-image-card__title-link.gem-c-image-card__title-link--large-font-size-mobile.gem-c-force-print-link-styles"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "has-visible-text",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has text that is visible to screen readers"
+            }
+          ],
+          "all": [],
+          "none": [
+            {
+              "id": "focusable-no-name",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element is not in tab order or has accessible text"
+            }
+          ],
+          "impact": null,
+          "html": "<a class=\"gem-c-image-card__title-link govuk-link gem-c-force-print-link-styles gem-c-image-card__title-link--large-font-size-mobile\" href=\"/cost-of-living\">Cost of living support</a>",
+          "target": [
+            "a[href$=\"cost-of-living\"]"
           ]
         },
         {
@@ -7891,7 +8083,7 @@
           "impact": null,
           "html": "<a class=\"govuk-link gem-c-cards__link gem-c-force-print-link-styles\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;homepage&quot;,&quot;index_link&quot;:1,&quot;index_section&quot;:5,&quot;index_section_count&quot;:6,&quot;index_total&quot;:6,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/government/organisations\">",
           "target": [
-            ".gem-c-cards__sub-heading.govuk-heading-s > a[href$=\"organisations\"]"
+            ".gem-c-cards__link.gem-c-force-print-link-styles[href$=\"organisations\"]"
           ]
         },
         {
@@ -8305,9 +8497,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;1&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/benefits\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;1&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/benefits\">",
           "target": [
-            ".govuk-footer__list--columns-2 > .govuk-footer__list-item:nth-child(1) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"benefits\"]"
           ]
         },
         {
@@ -8331,7 +8523,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;2&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/births-deaths-marriages\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;2&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/births-deaths-marriages\">",
           "target": [
             ".govuk-footer__list--columns-2 > .govuk-footer__list-item:nth-child(2) > .govuk-footer__link"
           ]
@@ -8357,9 +8549,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;3&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/business\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;3&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/business\">",
           "target": [
-            ".govuk-footer__list--columns-2 > .govuk-footer__list-item:nth-child(3) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"business\"]"
           ]
         },
         {
@@ -8383,9 +8575,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;4&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/childcare-parenting\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;4&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/childcare-parenting\">",
           "target": [
-            ".govuk-footer__list--columns-2 > .govuk-footer__list-item:nth-child(4) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"childcare-parenting\"]"
           ]
         },
         {
@@ -8409,9 +8601,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;5&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/citizenship\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;5&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/citizenship\">",
           "target": [
-            ".govuk-footer__list--columns-2 > .govuk-footer__list-item:nth-child(5) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"citizenship\"]"
           ]
         },
         {
@@ -8435,9 +8627,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;6&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/justice\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;6&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/justice\">",
           "target": [
-            ".govuk-footer__list--columns-2 > .govuk-footer__list-item:nth-child(6) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"justice\"]"
           ]
         },
         {
@@ -8461,9 +8653,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;7&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/disabilities\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;7&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/disabilities\">",
           "target": [
-            ".govuk-footer__list--columns-2 > .govuk-footer__list-item:nth-child(7) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"disabilities\"]"
           ]
         },
         {
@@ -8487,9 +8679,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;8&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/driving\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;8&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/driving\">",
           "target": [
-            ".govuk-footer__list--columns-2 > .govuk-footer__list-item:nth-child(8) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"driving\"]"
           ]
         },
         {
@@ -8513,9 +8705,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;9&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/education\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;9&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/education\">",
           "target": [
-            ".govuk-footer__list-item:nth-child(9) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"education\"]"
           ]
         },
         {
@@ -8539,9 +8731,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;10&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/employing-people\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;10&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/employing-people\">",
           "target": [
-            ".govuk-footer__list-item:nth-child(10) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"employing-people\"]"
           ]
         },
         {
@@ -8565,7 +8757,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;11&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/environment-countryside\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;11&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/environment-countryside\">",
           "target": [
             ".govuk-footer__list-item:nth-child(11) > .govuk-footer__link"
           ]
@@ -8591,9 +8783,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;12&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/housing-local-services\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;12&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/housing-local-services\">",
           "target": [
-            ".govuk-footer__list-item:nth-child(12) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"housing-local-services\"]"
           ]
         },
         {
@@ -8617,7 +8809,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;13&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/tax\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;13&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/tax\">",
           "target": [
             ".govuk-footer__link[href$=\"tax\"]"
           ]
@@ -8643,9 +8835,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;14&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/abroad\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;14&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/abroad\">",
           "target": [
-            ".govuk-footer__list-item:nth-child(14) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"abroad\"]"
           ]
         },
         {
@@ -8669,9 +8861,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;15&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/visas-immigration\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;15&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/visas-immigration\">",
           "target": [
-            ".govuk-footer__list-item:nth-child(15) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"visas-immigration\"]"
           ]
         },
         {
@@ -8695,9 +8887,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;16&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"https://www.gov.uk/browse/working\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;16&quot;,&quot;index_section&quot;:&quot;1&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;16&quot;,&quot;section&quot;:&quot;Services and information&quot;}\" href=\"/browse/working\">",
           "target": [
-            ".govuk-footer__list-item:nth-child(16) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"working\"]"
           ]
         },
         {
@@ -8721,9 +8913,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;1&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"https://www.gov.uk/government/organisations\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;1&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/government/organisations\">",
           "target": [
-            ".govuk-footer__list--columns-1 > .govuk-footer__list-item:nth-child(1) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"organisations\"]"
           ]
         },
         {
@@ -8747,7 +8939,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;2&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"https://www.gov.uk/search/news-and-communications\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;2&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/search/news-and-communications\">",
           "target": [
             ".govuk-footer__list--columns-1 > .govuk-footer__list-item:nth-child(2) > .govuk-footer__link"
           ]
@@ -8773,7 +8965,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;3&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"https://www.gov.uk/search/guidance-and-regulation\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;3&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/search/guidance-and-regulation\">",
           "target": [
             ".govuk-footer__list--columns-1 > .govuk-footer__list-item:nth-child(3) > .govuk-footer__link"
           ]
@@ -8799,7 +8991,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;4&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"https://www.gov.uk/search/research-and-statistics\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;4&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/search/research-and-statistics\">",
           "target": [
             ".govuk-footer__list--columns-1 > .govuk-footer__list-item:nth-child(4) > .govuk-footer__link"
           ]
@@ -8825,7 +9017,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;5&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"https://www.gov.uk/search/policy-papers-and-consultations\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;5&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/search/policy-papers-and-consultations\">",
           "target": [
             ".govuk-footer__list--columns-1 > .govuk-footer__list-item:nth-child(5) > .govuk-footer__link"
           ]
@@ -8851,7 +9043,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;6&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"https://www.gov.uk/search/transparency-and-freedom-of-information-releases\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;6&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/search/transparency-and-freedom-of-information-releases\">",
           "target": [
             ".govuk-footer__list--columns-1 > .govuk-footer__list-item:nth-child(6) > .govuk-footer__link"
           ]
@@ -8877,7 +9069,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;7&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"https://www.gov.uk/government/how-government-works\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;7&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/government/how-government-works\">",
           "target": [
             ".govuk-footer__list--columns-1 > .govuk-footer__list-item:nth-child(7) > .govuk-footer__link"
           ]
@@ -8903,9 +9095,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;8&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"https://www.gov.uk/government/get-involved\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;8&quot;,&quot;index_section&quot;:&quot;2&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Government activity&quot;}\" href=\"/government/get-involved\">",
           "target": [
-            ".govuk-footer__list--columns-1 > .govuk-footer__list-item:nth-child(8) > .govuk-footer__link"
+            "a[href$=\"get-involved\"]"
           ]
         },
         {
@@ -8929,7 +9121,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;1&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"https://www.gov.uk/help\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;1&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"/help\">",
           "target": [
             "a[href$=\"help\"]"
           ]
@@ -8955,9 +9147,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;2&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"https://www.gov.uk/help/privacy-notice\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;2&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"/help/privacy-notice\">",
           "target": [
-            ".govuk-footer__inline-list-item:nth-child(2) > .govuk-footer__link"
+            "a[href$=\"privacy-notice\"]"
           ]
         },
         {
@@ -8981,9 +9173,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;3&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"https://www.gov.uk/help/cookies\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;3&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"/help/cookies\">",
           "target": [
-            ".govuk-footer__inline-list-item:nth-child(3) > .govuk-footer__link"
+            ".govuk-footer__link[href$=\"cookies\"]"
           ]
         },
         {
@@ -9007,9 +9199,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;4&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"https://www.gov.uk/help/accessibility-statement\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;4&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"/help/accessibility-statement\">",
           "target": [
-            ".govuk-footer__inline-list-item:nth-child(4) > .govuk-footer__link"
+            "a[href$=\"accessibility-statement\"]"
           ]
         },
         {
@@ -9033,7 +9225,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;5&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"https://www.gov.uk/contact\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;5&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"/contact\">",
           "target": [
             "a[href$=\"contact\"]"
           ]
@@ -9059,9 +9251,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;6&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"https://www.gov.uk/help/terms-conditions\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;6&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"/help/terms-conditions\">",
           "target": [
-            ".govuk-footer__inline-list-item:nth-child(6) > .govuk-footer__link"
+            "a[href$=\"terms-conditions\"]"
           ]
         },
         {
@@ -9085,7 +9277,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" lang=\"cy\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;7&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"https://www.gov.uk/cymraeg\">",
+          "html": "<a class=\"govuk-footer__link\" lang=\"cy\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;7&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"/cymraeg\">",
           "target": [
             "a[lang=\"cy\"]"
           ]
@@ -9111,7 +9303,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;8&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"https://www.gov.uk/government/organisations/government-digital-service\">",
+          "html": "<a class=\"govuk-footer__link\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;8&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"/government/organisations/government-digital-service\">",
           "target": [
             ".govuk-footer__inline-list-item:nth-child(8) > .govuk-footer__link"
           ]
@@ -10989,7 +11181,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"govuk-footer__link\" lang=\"cy\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;7&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"https://www.gov.uk/cymraeg\">",
+          "html": "<a class=\"govuk-footer__link\" lang=\"cy\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;footer&quot;,&quot;index_link&quot;:&quot;7&quot;,&quot;index_section&quot;:&quot;3&quot;,&quot;index_section_count&quot;:&quot;5&quot;,&quot;index_total&quot;:&quot;8&quot;,&quot;section&quot;:&quot;Support links&quot;}\" href=\"/cymraeg\">",
           "target": [
             "a[lang=\"cy\"]"
           ]

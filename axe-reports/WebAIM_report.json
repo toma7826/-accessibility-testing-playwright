@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-06-26T21:06:44.309Z",
+  "timestamp": "2025-08-04T15:34:48.299Z",
   "url": "https://webaim.org/",
   "toolOptions": {
     "runOnly": {
@@ -1146,6 +1146,31 @@
             {
               "id": "color-contrast",
               "data": {
+                "fgColor": "#161b41",
+                "bgColor": "#ffffff",
+                "contrastRatio": 16.57,
+                "fontSize": "17.6pt (23.4px)",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 16.57"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<a href=\"https://conference.webaim.org/\">LEARN MORE</a>",
+          "target": [
+            "a[href$=\"conference.webaim.org/\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
                 "fgColor": "#444444",
                 "bgColor": "#f1f5f7",
                 "contrastRatio": 8.87,
@@ -1238,7 +1263,7 @@
           "impact": null,
           "html": "<a href=\"/discussion/\">E-mail Discussion List</a>",
           "target": [
-            "#commbox > ul > li:nth-child(3) > a[href$=\"discussion/\"]"
+            "li:nth-child(3) > a[href$=\"discussion/\"]"
           ]
         },
         {
@@ -1686,7 +1711,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a href=\"/training/procurement/\"><strong>Accessibility in Technology Procurement and Use</strong></a><br>\n\t\t\t\tJune 12<br>\n\t\t\t\tOnline</li>",
+          "html": "<li><a href=\"/training/procurement/\"><strong>Accessibility in Technology Procurement and Use</strong></a><br>\n\t\t\t\tAugust 7<br>\n\t\t\t\tOnline</li>",
           "target": [
             ".events > ul > li:nth-child(2)"
           ]
@@ -1886,6 +1911,31 @@
           "all": [],
           "none": [],
           "impact": null,
+          "html": "<a href=\"/blog/accessibility-by-design/\">Accessibility by Design: Preparing K–12 Schools for What’s Next</a>",
+          "target": [
+            "a[href$=\"accessibility-by-design/\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#20399d",
+                "bgColor": "#e5e6eb",
+                "contrastRatio": 7.89,
+                "fontSize": "10.8pt (14.4px)",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 7.89"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
           "html": "<a href=\"/blog/up-and-coming-aria/\">Up and Coming ARIA&nbsp;</a>",
           "target": [
             "a[href$=\"up-and-coming-aria/\"]"
@@ -1939,31 +1989,6 @@
           "html": "<a href=\"/blog/join-the-discussion/\">Join the Discussion—From Your Inbox</a>",
           "target": [
             "a[href$=\"join-the-discussion/\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#20399d",
-                "bgColor": "#e5e6eb",
-                "contrastRatio": 7.89,
-                "fontSize": "10.8pt (14.4px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 7.89"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<a href=\"/blog/severity-ratings/\">Using Severity Ratings to Prioritize Web Accessibility Remediation</a>",
-          "target": [
-            "a[href$=\"severity-ratings/\"]"
           ]
         },
         {
@@ -2393,6 +2418,32 @@
           "html": "<img src=\"/media/logo.png\" width=\"315\" height=\"83\" alt=\"WebAIM - Web Accessibility In Mind\">",
           "target": [
             "img[src$=\"logo.png\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "has-alt",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Element has an alt attribute"
+            }
+          ],
+          "all": [],
+          "none": [
+            {
+              "id": "alt-space-value",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Element has a valid alt attribute value"
+            }
+          ],
+          "impact": null,
+          "html": "<img src=\"https://conference.webaim.org/media/popetechSmall.svg\" width=\"160\" alt=\"PopeTech\">",
+          "target": [
+            "img[width=\"160\"]"
           ]
         },
         {
@@ -2954,6 +3005,32 @@
             }
           ],
           "impact": null,
+          "html": "<a href=\"https://conference.webaim.org/\">LEARN MORE</a>",
+          "target": [
+            "a[href$=\"conference.webaim.org/\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "has-visible-text",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has text that is visible to screen readers"
+            }
+          ],
+          "all": [],
+          "none": [
+            {
+              "id": "focusable-no-name",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element is not in tab order or has accessible text"
+            }
+          ],
+          "impact": null,
           "html": "<a href=\"/services/training/\">Accessibility Training</a>",
           "target": [
             "a[href$=\"training/\"]"
@@ -3112,7 +3189,7 @@
           "impact": null,
           "html": "<a href=\"/discussion/\">E-mail Discussion List</a>",
           "target": [
-            "#commbox > ul > li:nth-child(3) > a[href$=\"discussion/\"]"
+            "li:nth-child(3) > a[href$=\"discussion/\"]"
           ]
         },
         {
@@ -3422,6 +3499,32 @@
             }
           ],
           "impact": null,
+          "html": "<a href=\"/blog/accessibility-by-design/\">Accessibility by Design: Preparing K–12 Schools for What’s Next</a>",
+          "target": [
+            "a[href$=\"accessibility-by-design/\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "has-visible-text",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has text that is visible to screen readers"
+            }
+          ],
+          "all": [],
+          "none": [
+            {
+              "id": "focusable-no-name",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element is not in tab order or has accessible text"
+            }
+          ],
+          "impact": null,
           "html": "<a href=\"/blog/up-and-coming-aria/\">Up and Coming ARIA&nbsp;</a>",
           "target": [
             "a[href$=\"up-and-coming-aria/\"]"
@@ -3477,32 +3580,6 @@
           "html": "<a href=\"/blog/join-the-discussion/\">Join the Discussion—From Your Inbox</a>",
           "target": [
             "a[href$=\"join-the-discussion/\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has text that is visible to screen readers"
-            }
-          ],
-          "all": [],
-          "none": [
-            {
-              "id": "focusable-no-name",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element is not in tab order or has accessible text"
-            }
-          ],
-          "impact": null,
-          "html": "<a href=\"/blog/severity-ratings/\">Using Severity Ratings to Prioritize Web Accessibility Remediation</a>",
-          "target": [
-            "a[href$=\"severity-ratings/\"]"
           ]
         },
         {
@@ -4124,7 +4201,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a href=\"/training/procurement/\"><strong>Accessibility in Technology Procurement and Use</strong></a><br>\n\t\t\t\tJune 12<br>\n\t\t\t\tOnline</li>",
+          "html": "<li><a href=\"/training/procurement/\"><strong>Accessibility in Technology Procurement and Use</strong></a><br>\n\t\t\t\tAugust 7<br>\n\t\t\t\tOnline</li>",
           "target": [
             ".events > ul > li:nth-child(2)"
           ]
@@ -4160,7 +4237,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a href=\"/blog/up-and-coming-aria/\">Up and Coming ARIA&nbsp;</a></li>",
+          "html": "<li><a href=\"/blog/accessibility-by-design/\">Accessibility by Design: Preparing K–12 Schools for What’s Next</a></li>",
           "target": [
             ".footerblock:nth-child(2) > ul > li:nth-child(1)"
           ]
@@ -4178,7 +4255,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a href=\"/blog/salary-survey-results/\">Global Digital Accessibility Salary Survey Results</a></li>",
+          "html": "<li><a href=\"/blog/up-and-coming-aria/\">Up and Coming ARIA&nbsp;</a></li>",
           "target": [
             ".footerblock:nth-child(2) > ul > li:nth-child(2)"
           ]
@@ -4196,7 +4273,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a href=\"/blog/join-the-discussion/\">Join the Discussion—From Your Inbox</a></li>",
+          "html": "<li><a href=\"/blog/salary-survey-results/\">Global Digital Accessibility Salary Survey Results</a></li>",
           "target": [
             ".footerblock:nth-child(2) > ul > li:nth-child(3)"
           ]
@@ -4214,7 +4291,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a href=\"/blog/severity-ratings/\">Using Severity Ratings to Prioritize Web Accessibility Remediation</a></li>",
+          "html": "<li><a href=\"/blog/join-the-discussion/\">Join the Discussion—From Your Inbox</a></li>",
           "target": [
             ".footerblock:nth-child(2) > ul > li:nth-child(4)"
           ]
@@ -4519,6 +4596,24 @@
           "all": [],
           "none": [],
           "impact": null,
+          "html": "<img src=\"https://conference.webaim.org/media/popetechSmall.svg\" width=\"160\" alt=\"PopeTech\">",
+          "target": [
+            "img[width=\"160\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "no-focusable-content",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element does not have focusable descendants"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
           "html": "<input type=\"submit\" value=\"WAVE\">",
           "target": [
             "input[type=\"submit\"]"
@@ -4736,6 +4831,70 @@
             "h1"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "33.8pt (45px)",
+                "fontWeight": "bold",
+                "messageKey": "bgImage",
+                "expectedContrastRatio": "3:1"
+              },
+              "relatedNodes": [
+                {
+                  "html": "<div id=\"banner\">",
+                  "target": [
+                    "#banner"
+                  ]
+                }
+              ],
+              "impact": "serious",
+              "message": "Element's background color could not be determined due to a background image"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": "serious",
+          "html": "<div id=\"bannerheader\">Web Accessibility in Mind Conference</div>",
+          "target": [
+            "#bannerheader"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background image"
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "16.9pt (22.5px)",
+                "fontWeight": "normal",
+                "messageKey": "bgImage",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [
+                {
+                  "html": "<div id=\"banner\">",
+                  "target": [
+                    "#banner"
+                  ]
+                }
+              ],
+              "impact": "serious",
+              "message": "Element's background color could not be determined due to a background image"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": "serious",
+          "html": "<div id=\"subbanner\">September 16-17<br>In partnership with <img src=\"https://conference.webaim.org/media/popetechSmall.svg\" width=\"160\" alt=\"PopeTech\"></div>",
+          "target": [
+            "#subbanner"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background image"
         },
         {
           "any": [

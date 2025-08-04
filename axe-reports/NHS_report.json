@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-06-26T21:06:18.334Z",
+  "timestamp": "2025-08-04T15:34:13.034Z",
   "url": "https://www.nhs.uk/",
   "toolOptions": {
     "runOnly": {
@@ -4369,6 +4369,31 @@
           "all": [],
           "none": [],
           "impact": null,
+          "html": "<a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/nhs-services/\">NHS services</a>",
+          "target": [
+            ".beta-nhsuk-footer__list-item-link.nhsuk-footer__list-item-link[href$=\"nhs-services/\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#003087",
+                "bgColor": "#d8dde0",
+                "contrastRatio": 8.65,
+                "fontSize": "12.0pt (16px)",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 8.65"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
           "html": "<a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/live-well/\">Live Well</a>",
           "target": [
             ".beta-nhsuk-footer__list-item-link.nhsuk-footer__list-item-link[href$=\"live-well/\"]"
@@ -4447,31 +4472,6 @@
           "html": "<a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/pregnancy/\">Pregnancy</a>",
           "target": [
             ".beta-nhsuk-footer__list-item-link.nhsuk-footer__list-item-link[href$=\"pregnancy/\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#003087",
-                "bgColor": "#d8dde0",
-                "contrastRatio": 8.65,
-                "fontSize": "12.0pt (16px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 8.65"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/nhs-services/\">NHS services</a>",
-          "target": [
-            ".beta-nhsuk-footer__list-item-link.nhsuk-footer__list-item-link[href$=\"nhs-services/\"]"
           ]
         },
         {
@@ -6131,6 +6131,32 @@
             }
           ],
           "impact": null,
+          "html": "<a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/nhs-services/\">NHS services</a>",
+          "target": [
+            ".beta-nhsuk-footer__list-item-link.nhsuk-footer__list-item-link[href$=\"nhs-services/\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "has-visible-text",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has text that is visible to screen readers"
+            }
+          ],
+          "all": [],
+          "none": [
+            {
+              "id": "focusable-no-name",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element is not in tab order or has accessible text"
+            }
+          ],
+          "impact": null,
           "html": "<a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/live-well/\">Live Well</a>",
           "target": [
             ".beta-nhsuk-footer__list-item-link.nhsuk-footer__list-item-link[href$=\"live-well/\"]"
@@ -6212,32 +6238,6 @@
           "html": "<a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/pregnancy/\">Pregnancy</a>",
           "target": [
             ".beta-nhsuk-footer__list-item-link.nhsuk-footer__list-item-link[href$=\"pregnancy/\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has text that is visible to screen readers"
-            }
-          ],
-          "all": [],
-          "none": [
-            {
-              "id": "focusable-no-name",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element is not in tab order or has accessible text"
-            }
-          ],
-          "impact": null,
-          "html": "<a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/nhs-services/\">NHS services</a>",
-          "target": [
-            ".beta-nhsuk-footer__list-item-link.nhsuk-footer__list-item-link[href$=\"nhs-services/\"]"
           ]
         },
         {
@@ -7333,7 +7333,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li class=\"beta-nhsuk-footer__list-item nhsuk-footer__list-item\">\n                <a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/live-well/\">Live Well</a>\n              </li>",
+          "html": "<li class=\"beta-nhsuk-footer__list-item nhsuk-footer__list-item\">\n                <a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/nhs-services/\">NHS services</a>\n              </li>",
           "target": [
             ".beta-nhsuk-footer__list.nhsuk-footer__list:nth-child(1) > .beta-nhsuk-footer__list-item.nhsuk-footer__list-item:nth-child(3)"
           ]
@@ -7351,7 +7351,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li class=\"beta-nhsuk-footer__list-item nhsuk-footer__list-item\">\n                <a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/mental-health/\">Mental health</a>\n              </li>",
+          "html": "<li class=\"beta-nhsuk-footer__list-item nhsuk-footer__list-item\">\n                <a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/live-well/\">Live Well</a>\n              </li>",
           "target": [
             ".beta-nhsuk-footer__list.nhsuk-footer__list:nth-child(1) > .beta-nhsuk-footer__list-item.nhsuk-footer__list-item:nth-child(4)"
           ]
@@ -7369,7 +7369,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li class=\"beta-nhsuk-footer__list-item nhsuk-footer__list-item\">\n                <a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/social-care-and-support/\">Care and support</a>\n              </li>",
+          "html": "<li class=\"beta-nhsuk-footer__list-item nhsuk-footer__list-item\">\n                <a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/mental-health/\">Mental health</a>\n              </li>",
           "target": [
             ".beta-nhsuk-footer__list.nhsuk-footer__list:nth-child(1) > .beta-nhsuk-footer__list-item.nhsuk-footer__list-item:nth-child(5)"
           ]
@@ -7387,7 +7387,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li class=\"beta-nhsuk-footer__list-item nhsuk-footer__list-item\">\n                <a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/pregnancy/\">Pregnancy</a>\n              </li>",
+          "html": "<li class=\"beta-nhsuk-footer__list-item nhsuk-footer__list-item\">\n                <a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/social-care-and-support/\">Care and support</a>\n              </li>",
           "target": [
             ".beta-nhsuk-footer__list.nhsuk-footer__list:nth-child(1) > .beta-nhsuk-footer__list-item.nhsuk-footer__list-item:nth-child(6)"
           ]
@@ -7405,7 +7405,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li class=\"beta-nhsuk-footer__list-item nhsuk-footer__list-item\">\n                <a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/nhs-services/\">NHS services</a>\n              </li>",
+          "html": "<li class=\"beta-nhsuk-footer__list-item nhsuk-footer__list-item\">\n                <a class=\"beta-nhsuk-footer__list-item-link nhsuk-footer__list-item-link\" href=\"/pregnancy/\">Pregnancy</a>\n              </li>",
           "target": [
             ".beta-nhsuk-footer__list-item.nhsuk-footer__list-item:nth-child(7)"
           ]

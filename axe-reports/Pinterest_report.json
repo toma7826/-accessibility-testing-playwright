@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-06-26T21:07:05.914Z",
+  "timestamp": "2025-08-04T15:35:07.935Z",
   "url": "https://uk.pinterest.com/",
   "toolOptions": {
     "runOnly": {
@@ -936,7 +936,7 @@
             }
           ],
           "impact": null,
-          "html": "<div role=\"banner\" class=\"zI7 iyn Hsu\">",
+          "html": "<div role=\"banner\" class=\"zI7\">",
           "target": [
             "div[role=\"banner\"]"
           ]
@@ -972,7 +972,7 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"mweb-unauth-container\" role=\"main\" class=\"zI7 iyn Hsu\"></div>",
+          "html": "<div id=\"mweb-unauth-container\" role=\"main\" class=\"zI7\"></div>",
           "target": [
             "#mweb-unauth-container"
           ]
@@ -1126,7 +1126,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div role=\"banner\" class=\"zI7 iyn Hsu\">",
+          "html": "<div role=\"banner\" class=\"zI7\">",
           "target": [
             "div[role=\"banner\"]"
           ]
@@ -1162,7 +1162,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div id=\"mweb-unauth-container\" role=\"main\" class=\"zI7 iyn Hsu\"></div>",
+          "html": "<div id=\"mweb-unauth-container\" role=\"main\" class=\"zI7\"></div>",
           "target": [
             "#mweb-unauth-container"
           ]
@@ -1210,7 +1210,7 @@
             }
           ],
           "impact": null,
-          "html": "<div role=\"banner\" class=\"zI7 iyn Hsu\">",
+          "html": "<div role=\"banner\" class=\"zI7\">",
           "target": [
             "div[role=\"banner\"]"
           ]
@@ -1274,7 +1274,7 @@
             }
           ],
           "impact": null,
-          "html": "<div id=\"mweb-unauth-container\" role=\"main\" class=\"zI7 iyn Hsu\"></div>",
+          "html": "<div id=\"mweb-unauth-container\" role=\"main\" class=\"zI7\"></div>",
           "target": [
             "#mweb-unauth-container"
           ]

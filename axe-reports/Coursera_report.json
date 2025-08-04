@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-06-26T21:07:09.202Z",
+  "timestamp": "2025-07-08T11:15:00.221Z",
   "url": "https://www.coursera.org/",
   "toolOptions": {
     "runOnly": {
@@ -862,9 +862,113 @@
             }
           ],
           "impact": null,
-          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_Adpprocert_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
           "target": [
             ".cds-iconButton-small"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-allowed-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attributes are used correctly for the defined role"
+            }
+          ],
+          "none": [
+            {
+              "id": "aria-unsupported-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute is supported"
+            }
+          ],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB\" tabindex=\"0\" value=\"LEARNING_GOAL_LAND_NEW_JOB\" aria-label=\"Start my career\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-allowed-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attributes are used correctly for the defined role"
+            }
+          ],
+          "none": [
+            {
+              "id": "aria-unsupported-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute is supported"
+            }
+          ],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_CHANGE_CAREER\" tabindex=\"0\" value=\"LEARNING_GOAL_CHANGE_CAREER\" aria-label=\"Change my career\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_CHANGE_CAREER"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-allowed-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attributes are used correctly for the defined role"
+            }
+          ],
+          "none": [
+            {
+              "id": "aria-unsupported-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute is supported"
+            }
+          ],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS\" tabindex=\"0\" value=\"LEARNING_GOAL_IMPROVE_SKILLS\" aria-label=\"Grow in my current role\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-allowed-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attributes are used correctly for the defined role"
+            }
+          ],
+          "none": [
+            {
+              "id": "aria-unsupported-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute is supported"
+            }
+          ],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST\" tabindex=\"0\" value=\"LEARNING_GOAL_PERSONAL_INTEREST\" aria-label=\"Explore topics outside of work\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST"
           ]
         },
         {
@@ -1458,9 +1562,81 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_Adpprocert_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
           "target": [
             ".cds-iconButton-small"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-conditional-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "ARIA attribute is allowed"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB\" tabindex=\"0\" value=\"LEARNING_GOAL_LAND_NEW_JOB\" aria-label=\"Start my career\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-conditional-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "ARIA attribute is allowed"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_CHANGE_CAREER\" tabindex=\"0\" value=\"LEARNING_GOAL_CHANGE_CAREER\" aria-label=\"Change my career\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_CHANGE_CAREER"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-conditional-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "ARIA attribute is allowed"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS\" tabindex=\"0\" value=\"LEARNING_GOAL_IMPROVE_SKILLS\" aria-label=\"Grow in my current role\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-conditional-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "ARIA attribute is allowed"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST\" tabindex=\"0\" value=\"LEARNING_GOAL_PERSONAL_INTEREST\" aria-label=\"Explore topics outside of work\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST"
           ]
         },
         {
@@ -1834,9 +2010,9 @@
             }
           ],
           "impact": null,
-          "html": "<div data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator\" role=\"presentation\">",
+          "html": "<div data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_Adpprocert\" role=\"presentation\">",
           "target": [
-            "div[data-track-component=\"lohp_contentcreator\"]"
+            "div[data-track-component=\"lohp_Adpprocert\"]"
           ]
         },
         {
@@ -1852,7 +2028,7 @@
             }
           ],
           "impact": null,
-          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_Adpprocert_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
           "target": [
             ".cds-iconButton-small"
           ]
@@ -3862,9 +4038,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<svg aria-hidden=\"true\" fill=\"none\" focusable=\"false\" height=\"24\" viewBox=\"0 0 20 20\" width=\"24\" class=\"cds-188 cds-select-icon css-1u8qly9\" data-testid=\"chevron-down-icon\" id=\"cds-react-aria3007319246-:r0:\">",
+          "html": "<svg aria-hidden=\"true\" fill=\"none\" focusable=\"false\" height=\"24\" viewBox=\"0 0 20 20\" width=\"24\" class=\"cds-188 cds-select-icon css-1u8qly9\" data-testid=\"chevron-down-icon\" id=\"cds-react-aria1944333603-:r0:\">",
           "target": [
-            "#cds-react-aria3007319246-\\:r0\\:"
+            "#cds-react-aria1944333603-\\:r0\\:"
           ]
         },
         {
@@ -6490,9 +6666,81 @@
             }
           ],
           "impact": null,
-          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_Adpprocert_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
           "target": [
             ".cds-iconButton-small"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "aria-prohibited-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "ARIA attribute is allowed"
+            }
+          ],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB\" tabindex=\"0\" value=\"LEARNING_GOAL_LAND_NEW_JOB\" aria-label=\"Start my career\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "aria-prohibited-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "ARIA attribute is allowed"
+            }
+          ],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_CHANGE_CAREER\" tabindex=\"0\" value=\"LEARNING_GOAL_CHANGE_CAREER\" aria-label=\"Change my career\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_CHANGE_CAREER"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "aria-prohibited-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "ARIA attribute is allowed"
+            }
+          ],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS\" tabindex=\"0\" value=\"LEARNING_GOAL_IMPROVE_SKILLS\" aria-label=\"Grow in my current role\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "aria-prohibited-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "ARIA attribute is allowed"
+            }
+          ],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST\" tabindex=\"0\" value=\"LEARNING_GOAL_PERSONAL_INTEREST\" aria-label=\"Explore topics outside of work\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST"
           ]
         },
         {
@@ -6866,9 +7114,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator\" role=\"presentation\">",
+          "html": "<div data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_Adpprocert\" role=\"presentation\">",
           "target": [
-            "div[data-track-component=\"lohp_contentcreator\"]"
+            "div[data-track-component=\"lohp_Adpprocert\"]"
           ]
         },
         {
@@ -6884,7 +7132,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_Adpprocert_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
           "target": [
             ".cds-iconButton-small"
           ]
@@ -10468,9 +10716,9 @@
             }
           ],
           "impact": null,
-          "html": "<div data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator\" role=\"presentation\">",
+          "html": "<div data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_Adpprocert\" role=\"presentation\">",
           "target": [
-            "div[data-track-component=\"lohp_contentcreator\"]"
+            "div[data-track-component=\"lohp_Adpprocert\"]"
           ]
         },
         {
@@ -10500,7 +10748,7 @@
             }
           ],
           "impact": null,
-          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_Adpprocert_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
           "target": [
             ".cds-iconButton-small"
           ]
@@ -14004,9 +14252,137 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_Adpprocert_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
           "target": [
             ".cds-iconButton-small"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-valid-attr-value",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute values are valid"
+            },
+            {
+              "id": "aria-errormessage",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
+            },
+            {
+              "id": "aria-level",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-level values are valid"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB\" tabindex=\"0\" value=\"LEARNING_GOAL_LAND_NEW_JOB\" aria-label=\"Start my career\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-valid-attr-value",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute values are valid"
+            },
+            {
+              "id": "aria-errormessage",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
+            },
+            {
+              "id": "aria-level",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-level values are valid"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_CHANGE_CAREER\" tabindex=\"0\" value=\"LEARNING_GOAL_CHANGE_CAREER\" aria-label=\"Change my career\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_CHANGE_CAREER"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-valid-attr-value",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute values are valid"
+            },
+            {
+              "id": "aria-errormessage",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
+            },
+            {
+              "id": "aria-level",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-level values are valid"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS\" tabindex=\"0\" value=\"LEARNING_GOAL_IMPROVE_SKILLS\" aria-label=\"Grow in my current role\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS"
+          ]
+        },
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-valid-attr-value",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute values are valid"
+            },
+            {
+              "id": "aria-errormessage",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
+            },
+            {
+              "id": "aria-level",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-level values are valid"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST\" tabindex=\"0\" value=\"LEARNING_GOAL_PERSONAL_INTEREST\" aria-label=\"Explore topics outside of work\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST"
           ]
         },
         {
@@ -14634,9 +15010,81 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_Adpprocert_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
           "target": [
             ".cds-iconButton-small"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-valid-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute name is valid"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB\" tabindex=\"0\" value=\"LEARNING_GOAL_LAND_NEW_JOB\" aria-label=\"Start my career\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-valid-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute name is valid"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_CHANGE_CAREER\" tabindex=\"0\" value=\"LEARNING_GOAL_CHANGE_CAREER\" aria-label=\"Change my career\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_CHANGE_CAREER"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-valid-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute name is valid"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS\" tabindex=\"0\" value=\"LEARNING_GOAL_IMPROVE_SKILLS\" aria-label=\"Grow in my current role\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-valid-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute name is valid"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST\" tabindex=\"0\" value=\"LEARNING_GOAL_PERSONAL_INTEREST\" aria-label=\"Explore topics outside of work\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST"
           ]
         },
         {
@@ -14950,9 +15398,145 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_Adpprocert_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
           "target": [
             ".cds-iconButton-small"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-label attribute exists and is not empty"
+            },
+            {
+              "id": "explicit-label",
+              "data": {
+                "explicitLabel": "Start my career"
+              },
+              "relatedNodes": [
+                {
+                  "html": "<label for=\"hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB\" class=\"css-ynn9p7\"><p class=\"css-5fnvki\">Start my career</p></label>",
+                  "target": [
+                    ".css-15wd6zu:nth-child(1) > label"
+                  ]
+                }
+              ],
+              "impact": "critical",
+              "message": "Element has an explicit <label>"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB\" tabindex=\"0\" value=\"LEARNING_GOAL_LAND_NEW_JOB\" aria-label=\"Start my career\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-label attribute exists and is not empty"
+            },
+            {
+              "id": "explicit-label",
+              "data": {
+                "explicitLabel": "Change my career"
+              },
+              "relatedNodes": [
+                {
+                  "html": "<label for=\"hiddenRadio-LEARNING_GOAL_CHANGE_CAREER\" class=\"css-ynn9p7\"><p class=\"css-5fnvki\">Change my career</p></label>",
+                  "target": [
+                    ".css-15wd6zu:nth-child(2) > label"
+                  ]
+                }
+              ],
+              "impact": "critical",
+              "message": "Element has an explicit <label>"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_CHANGE_CAREER\" tabindex=\"0\" value=\"LEARNING_GOAL_CHANGE_CAREER\" aria-label=\"Change my career\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_CHANGE_CAREER"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-label attribute exists and is not empty"
+            },
+            {
+              "id": "explicit-label",
+              "data": {
+                "explicitLabel": "Grow in my current role"
+              },
+              "relatedNodes": [
+                {
+                  "html": "<label for=\"hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS\" class=\"css-ynn9p7\"><p class=\"css-5fnvki\">Grow in my current role</p></label>",
+                  "target": [
+                    ".css-15wd6zu:nth-child(3) > label"
+                  ]
+                }
+              ],
+              "impact": "critical",
+              "message": "Element has an explicit <label>"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS\" tabindex=\"0\" value=\"LEARNING_GOAL_IMPROVE_SKILLS\" aria-label=\"Grow in my current role\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "aria-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "aria-label attribute exists and is not empty"
+            },
+            {
+              "id": "explicit-label",
+              "data": {
+                "explicitLabel": "Explore topics outside of work"
+              },
+              "relatedNodes": [
+                {
+                  "html": "<label for=\"hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST\" class=\"css-ynn9p7\"><p class=\"css-5fnvki\">Explore topics outside of work</p></label>",
+                  "target": [
+                    ".css-15wd6zu:nth-child(4) > label"
+                  ]
+                }
+              ],
+              "impact": "critical",
+              "message": "Element has an explicit <label>"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST\" tabindex=\"0\" value=\"LEARNING_GOAL_PERSONAL_INTEREST\" aria-label=\"Explore topics outside of work\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST"
           ]
         },
         {
@@ -15194,9 +15778,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button class=\"cds-149 cds-button-disableElevation cds-button-primary css-tpi4q0\" tabindex=\"0\" type=\"button\" data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"secondary_consumer_join_for_free\">",
+          "html": "<button class=\"cds-149 cds-button-disableElevation cds-button-primary css-1ftqpn5\" tabindex=\"0\" type=\"button\" data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"secondary_consumer_join_for_free\">",
           "target": [
-            ".css-tpi4q0"
+            ".css-1ftqpn5"
           ]
         }
       ]
@@ -15226,7 +15810,7 @@
               "data": null,
               "relatedNodes": [
                 {
-                  "html": "<h1 class=\"css-49rqfd\"><div class=\"css-1mjwd27\">Ends soon! Save £150</div></h1>",
+                  "html": "<h1 class=\"css-49rqfd\"><div class=\"css-1mjwd27\">Heat up your career this summer</div></h1>",
                   "target": [
                     ".cds-168 > .css-1ucfkdb > .css-1pntud3.cds-1[data-testid=\"block_layout\"] > .cds-19.cds-27.css-1kspkkz > .css-pnx9l.cds-64.cds-56 > .css-l03onm > h1"
                   ]
@@ -15235,6 +15819,12 @@
                   "html": "<h2 class=\"css-wow91g\">",
                   "target": [
                     ".css-wow91g"
+                  ]
+                },
+                {
+                  "html": "<h2 class=\"css-fk6qfz\">What brings you to Coursera today?</h2>",
+                  "target": [
+                    ".css-fk6qfz"
                   ]
                 },
                 {
@@ -15723,22 +16313,22 @@
             {
               "id": "color-contrast",
               "data": {
-                "fgColor": "#0062e4",
+                "fgColor": "#0056d2",
                 "bgColor": "#e3eeff",
-                "contrastRatio": 4.63,
+                "contrastRatio": 5.5,
                 "fontSize": "13.2pt (17.6px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 4.63"
+              "message": "Element has sufficient color contrast of 5.5"
             }
           ],
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a data-click-key=\"front_page.front_page_story.click.lohp_contentcreator_50%_off_with_coursera_plus_link\" data-click-value=\"{&quot;href&quot;:&quot;https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator&quot;,&quot;namespace&quot;:{&quot;action&quot;:&quot;click&quot;,&quot;app&quot;:&quot;front_page&quot;,&quot;component&quot;:&quot;lohp_contentcreator_50%_off_with_coursera_plus_link&quot;,&quot;page&quot;:&quot;front_page_story&quot;},&quot;schema_type&quot;:&quot;FRONTEND&quot;}\" data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_50%_off_with_coursera_plus_link\" data-track-href=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" href=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" to=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" class=\"cds-119 cds-113 cds-115 css-vflzcf cds-142\" target=\"_blank\">",
+          "html": "<a data-click-key=\"front_page.front_page_story.click.lohp_Adpprocert_adp_professional_certificate_link\" data-click-value=\"{&quot;href&quot;:&quot;https://www.coursera.org/professional-certificates/adp-airs-entry-level-recruiter?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=lohp_Adpprocert&quot;,&quot;namespace&quot;:{&quot;action&quot;:&quot;click&quot;,&quot;app&quot;:&quot;front_page&quot;,&quot;component&quot;:&quot;lohp_Adpprocert_adp_professional_certificate_link&quot;,&quot;page&quot;:&quot;front_page_story&quot;},&quot;schema_type&quot;:&quot;FRONTEND&quot;}\" data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_Adpprocert_adp_professional_certificate_link\" data-track-href=\"https://www.coursera.org/professional-certificates/adp-airs-entry-level-recruiter?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=lohp_Adpprocert\" href=\"https://www.coursera.org/professional-certificates/adp-airs-entry-level-recruiter?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=lohp_Adpprocert\" to=\"https://www.coursera.org/professional-certificates/adp-airs-entry-level-recruiter?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=lohp_Adpprocert\" class=\"cds-119 cds-113 cds-115 css-vflzcf cds-142\" target=\"_blank\">",
           "target": [
             ".css-vflzcf"
           ]
@@ -15763,7 +16353,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div class=\"css-1mjwd27\">Ends soon! Save £150</div>",
+          "html": "<div class=\"css-1mjwd27\">Heat up your career this summer</div>",
           "target": [
             ".cds-168 > .css-1ucfkdb > .css-1pntud3.cds-1[data-testid=\"block_layout\"] > .cds-19.cds-27.css-1kspkkz > .css-pnx9l.cds-64.cds-56 > .css-l03onm > h1 > .css-1mjwd27"
           ]
@@ -15788,7 +16378,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p class=\"css-dxlk5w\">Don’t miss the chance to unlock 10,000+ programs from Google, Microsoft, and more for £150 off. Price increases on June 30.</p>",
+          "html": "<p class=\"css-dxlk5w\">Sunshine. Shades. Job-ready skills. Enjoy all three this season with top-tier programs from Google, Adobe, Microsoft, and more—now £190/year.\n</p>",
           "target": [
             ".cds-168 > .css-1ucfkdb > .css-1pntud3.cds-1[data-testid=\"block_layout\"] > .cds-19.cds-27.css-1kspkkz > .css-pnx9l.cds-64.cds-56 > .css-l03onm > .css-tvqrra > .css-dxlk5w"
           ]
@@ -15891,6 +16481,31 @@
           "html": "<span class=\"focus-point\">350+ leading universities and companies</span>",
           "target": [
             ".focus-point"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#0f1114",
+                "bgColor": "#ffffff",
+                "contrastRatio": 18.9,
+                "fontSize": "15.0pt (20px)",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 18.9"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<h2 class=\"css-fk6qfz\">What brings you to Coursera today?</h2>",
+          "target": [
+            ".css-fk6qfz"
           ]
         },
         {
@@ -16710,7 +17325,7 @@
           "impact": null,
           "html": "<div class=\"css-1j0o9xc\">Phsyical Science and Engineering</div>",
           "target": [
-            ".css-wnkho8.cds-113.cds-115:nth-child(8) > ._1c4c25d4.domain-card > .cds-18.cds-10.css-0 > .cds-13.cds-52[data-e2e=\"domain-pill-label-box\"] > .css-1j0o9xc"
+            ".css-1m59m0l.cds-113.cds-115:nth-child(8) > ._1c4c25d4.domain-card > .cds-18.cds-10.css-0 > .cds-13.cds-52[data-e2e=\"domain-pill-label-box\"] > .css-1j0o9xc"
           ]
         },
         {
@@ -16735,7 +17350,7 @@
           "impact": null,
           "html": "<span class=\"css-c08ien\">413 courses</span>",
           "target": [
-            ".css-wnkho8.cds-113.cds-115:nth-child(8) > ._1c4c25d4.domain-card > .cds-18.cds-10.css-0 > .cds-13.cds-52[data-e2e=\"domain-pill-label-box\"] > .css-c08ien"
+            ".css-1m59m0l.cds-113.cds-115:nth-child(8) > ._1c4c25d4.domain-card > .cds-18.cds-10.css-0 > .cds-13.cds-52[data-e2e=\"domain-pill-label-box\"] > .css-c08ien"
           ]
         },
         {
@@ -16894,15 +17509,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0f1114",
-                "bgColor": "#ebf3ff",
-                "contrastRatio": 16.92,
+                "bgColor": "#f0f6ff",
+                "contrastRatio": 17.4,
                 "fontSize": "36.0pt (48px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "3:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 16.92"
+              "message": "Element has sufficient color contrast of 17.4"
             }
           ],
           "all": [],
@@ -16919,15 +17534,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0f1114",
-                "bgColor": "#ebf3ff",
-                "contrastRatio": 16.92,
+                "bgColor": "#f0f6ff",
+                "contrastRatio": 17.4,
                 "fontSize": "15.0pt (20px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 16.92"
+              "message": "Element has sufficient color contrast of 17.4"
             }
           ],
           "all": [],
@@ -16944,15 +17559,15 @@
               "id": "color-contrast",
               "data": {
                 "fgColor": "#0f1114",
-                "bgColor": "#ebf3ff",
-                "contrastRatio": 16.92,
+                "bgColor": "#f0f6ff",
+                "contrastRatio": 17.4,
                 "fontSize": "15.0pt (20px)",
                 "fontWeight": "bold",
                 "expectedContrastRatio": "3:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 16.92"
+              "message": "Element has sufficient color contrast of 17.4"
             }
           ],
           "all": [],
@@ -16968,16 +17583,16 @@
             {
               "id": "color-contrast",
               "data": {
-                "fgColor": "#0062e4",
-                "bgColor": "#ebf3ff",
-                "contrastRatio": 4.86,
+                "fgColor": "#0056d2",
+                "bgColor": "#f0f6ff",
+                "contrastRatio": 5.92,
                 "fontSize": "15.0pt (20px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 4.86"
+              "message": "Element has sufficient color contrast of 5.92"
             }
           ],
           "all": [],
@@ -17485,7 +18100,7 @@
           "impact": null,
           "html": "<span class=\"cds-button-label\">Join for Free</span>",
           "target": [
-            ".css-tpi4q0 > .cds-button-label"
+            ".css-1ftqpn5 > .cds-button-label"
           ]
         },
         {
@@ -17508,7 +18123,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p>¹ Median salary and job opening data are sourced from Lightcast™ Job Postings Report.\n  Content Creator, Machine Learning Engineer and Salesforce Development Representative (1/1/2024 - 12/31/2024)\n  All other job roles (6/1/2024 - 6/1/2025)</p>",
+          "html": "<p>¹ Median salary and job opening data are sourced from Lightcast™ Job Postings Report.\n  Content Creator, Machine Learning Engineer and Salesforce Development Representative (1/1/2024 - 12/31/2024)\n  All other job roles (7/1/2024 - 7/1/2025)</p>",
           "target": [
             ".css-1zvxyk > p"
           ]
@@ -19651,6 +20266,78 @@
           "target": [
             "#autocompleteARIASuggestions"
           ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id-aria",
+              "data": "hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB",
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB\" tabindex=\"0\" value=\"LEARNING_GOAL_LAND_NEW_JOB\" aria-label=\"Start my career\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id-aria",
+              "data": "hiddenRadio-LEARNING_GOAL_CHANGE_CAREER",
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_CHANGE_CAREER\" tabindex=\"0\" value=\"LEARNING_GOAL_CHANGE_CAREER\" aria-label=\"Change my career\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_CHANGE_CAREER"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id-aria",
+              "data": "hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS",
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS\" tabindex=\"0\" value=\"LEARNING_GOAL_IMPROVE_SKILLS\" aria-label=\"Grow in my current role\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id-aria",
+              "data": "hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST",
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST\" tabindex=\"0\" value=\"LEARNING_GOAL_PERSONAL_INTEREST\" aria-label=\"Explore topics outside of work\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST"
+          ]
         }
       ]
     },
@@ -19875,7 +20562,7 @@
             }
           ],
           "impact": null,
-          "html": "<img src=\"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/00atxywtfxvd/4h8bFFY22U3VvPqXws6rRg/9b2087cc2330eb830946f0fc4647bdd4/UK_Early_bird_offer__Â_160__LOHP-Desktop-720x500-x2.png?auto=format%2Ccompress&amp;dpr=1&amp;w=1440&amp;h=1000&amp;q=40\" srcset=\"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/00atxywtfxvd/4h8bFFY22U3VvPqXws6rRg/9b2087cc2330eb830946f0fc4647bdd4/UK_Early_bird_offer__Â_160__LOHP-Desktop-720x500-x2.png?auto=format%2Ccompress&amp;dpr=2&amp;w=1440&amp;h=1000&amp;q=40 2x, https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/00atxywtfxvd/4h8bFFY22U3VvPqXws6rRg/9b2087cc2330eb830946f0fc4647bdd4/UK_Early_bird_offer__Â_160__LOHP-Desktop-720x500-x2.png?auto=format%2Ccompress&amp;dpr=3&amp;w=1440&amp;h=1000&amp;q=40 3x\" style=\"max-width:100%;max-height:1000px;height:auto;border-radius:0\" alt=\"\">",
+          "html": "<img src=\"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/00atxywtfxvd/5dT9tUtOzlG9hh718omMsZ/a1a6d597b3f42f195225f581825e7f2a/UK_Regular_offer__Â_190__LOHP-Desktop-720x500-x2.png?auto=format%2Ccompress&amp;dpr=1&amp;w=1440&amp;h=1000&amp;q=40\" srcset=\"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/00atxywtfxvd/5dT9tUtOzlG9hh718omMsZ/a1a6d597b3f42f195225f581825e7f2a/UK_Regular_offer__Â_190__LOHP-Desktop-720x500-x2.png?auto=format%2Ccompress&amp;dpr=2&amp;w=1440&amp;h=1000&amp;q=40 2x, https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/00atxywtfxvd/5dT9tUtOzlG9hh718omMsZ/a1a6d597b3f42f195225f581825e7f2a/UK_Regular_offer__Â_190__LOHP-Desktop-720x500-x2.png?auto=format%2Ccompress&amp;dpr=3&amp;w=1440&amp;h=1000&amp;q=40 3x\" style=\"max-width:100%;max-height:1000px;height:auto;border-radius:0\" alt=\"\">",
           "target": [
             ".cds-168 > .css-1ucfkdb > .css-1pntud3.cds-1[data-testid=\"block_layout\"] > .cds-19.cds-27.css-1kspkkz > .css-1jmy2qb.cds-64.cds-56 > .css-0 > .css-125uo4z > img[alt=\"\"]"
           ]
@@ -20718,20 +21405,6 @@
         {
           "any": [
             {
-              "id": "link-in-text-block",
-              "data": null,
-              "relatedNodes": [
-                {
-                  "html": "<div class=\"rc-Markdown styled\">",
-                  "target": [
-                    ".css-1bzrowv > .rc-Markdown.styled"
-                  ]
-                }
-              ],
-              "impact": "serious",
-              "message": "Links can be distinguished from surrounding text in some way other than by color"
-            },
-            {
               "id": "link-in-text-block-style",
               "data": null,
               "relatedNodes": [
@@ -20749,27 +21422,13 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a data-click-key=\"front_page.front_page_story.click.lohp_contentcreator_50%_off_with_coursera_plus_link\" data-click-value=\"{&quot;href&quot;:&quot;https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator&quot;,&quot;namespace&quot;:{&quot;action&quot;:&quot;click&quot;,&quot;app&quot;:&quot;front_page&quot;,&quot;component&quot;:&quot;lohp_contentcreator_50%_off_with_coursera_plus_link&quot;,&quot;page&quot;:&quot;front_page_story&quot;},&quot;schema_type&quot;:&quot;FRONTEND&quot;}\" data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_50%_off_with_coursera_plus_link\" data-track-href=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" href=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" to=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" class=\"cds-119 cds-113 cds-115 css-vflzcf cds-142\" target=\"_blank\">",
+          "html": "<a data-click-key=\"front_page.front_page_story.click.lohp_Adpprocert_adp_professional_certificate_link\" data-click-value=\"{&quot;href&quot;:&quot;https://www.coursera.org/professional-certificates/adp-airs-entry-level-recruiter?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=lohp_Adpprocert&quot;,&quot;namespace&quot;:{&quot;action&quot;:&quot;click&quot;,&quot;app&quot;:&quot;front_page&quot;,&quot;component&quot;:&quot;lohp_Adpprocert_adp_professional_certificate_link&quot;,&quot;page&quot;:&quot;front_page_story&quot;},&quot;schema_type&quot;:&quot;FRONTEND&quot;}\" data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_Adpprocert_adp_professional_certificate_link\" data-track-href=\"https://www.coursera.org/professional-certificates/adp-airs-entry-level-recruiter?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=lohp_Adpprocert\" href=\"https://www.coursera.org/professional-certificates/adp-airs-entry-level-recruiter?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=lohp_Adpprocert\" to=\"https://www.coursera.org/professional-certificates/adp-airs-entry-level-recruiter?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=lohp_Adpprocert\" class=\"cds-119 cds-113 cds-115 css-vflzcf cds-142\" target=\"_blank\">",
           "target": [
             ".css-vflzcf"
           ]
         },
         {
           "any": [
-            {
-              "id": "link-in-text-block",
-              "data": null,
-              "relatedNodes": [
-                {
-                  "html": "<div class=\"rc-Markdown styled css-1n8yyey\">",
-                  "target": [
-                    ".css-1n8yyey"
-                  ]
-                }
-              ],
-              "impact": "serious",
-              "message": "Links can be distinguished from surrounding text in some way other than by color"
-            },
             {
               "id": "link-in-text-block-style",
               "data": null,
@@ -21078,7 +21737,7 @@
             }
           ],
           "impact": null,
-          "html": "<a data-click-key=\"front_page.front_page_story.click.lohp_contentcreator_50%_off_with_coursera_plus_link\" data-click-value=\"{&quot;href&quot;:&quot;https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator&quot;,&quot;namespace&quot;:{&quot;action&quot;:&quot;click&quot;,&quot;app&quot;:&quot;front_page&quot;,&quot;component&quot;:&quot;lohp_contentcreator_50%_off_with_coursera_plus_link&quot;,&quot;page&quot;:&quot;front_page_story&quot;},&quot;schema_type&quot;:&quot;FRONTEND&quot;}\" data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_50%_off_with_coursera_plus_link\" data-track-href=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" href=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" to=\"https://www.coursera.org/professional-certificates/content-creation-tiktok-youtube-instagram-facebook?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=contentcreator\" class=\"cds-119 cds-113 cds-115 css-vflzcf cds-142\" target=\"_blank\">",
+          "html": "<a data-click-key=\"front_page.front_page_story.click.lohp_Adpprocert_adp_professional_certificate_link\" data-click-value=\"{&quot;href&quot;:&quot;https://www.coursera.org/professional-certificates/adp-airs-entry-level-recruiter?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=lohp_Adpprocert&quot;,&quot;namespace&quot;:{&quot;action&quot;:&quot;click&quot;,&quot;app&quot;:&quot;front_page&quot;,&quot;component&quot;:&quot;lohp_Adpprocert_adp_professional_certificate_link&quot;,&quot;page&quot;:&quot;front_page_story&quot;},&quot;schema_type&quot;:&quot;FRONTEND&quot;}\" data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_Adpprocert_adp_professional_certificate_link\" data-track-href=\"https://www.coursera.org/professional-certificates/adp-airs-entry-level-recruiter?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=lohp_Adpprocert\" href=\"https://www.coursera.org/professional-certificates/adp-airs-entry-level-recruiter?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=lohp_Adpprocert\" to=\"https://www.coursera.org/professional-certificates/adp-airs-entry-level-recruiter?utm_medium=coursera&amp;utm_source=bluebanner&amp;utm_campaign=lohp_Adpprocert\" class=\"cds-119 cds-113 cds-115 css-vflzcf cds-142\" target=\"_blank\">",
           "target": [
             ".css-vflzcf"
           ]
@@ -21104,7 +21763,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"cds-149 cds-button-disableElevation cds-button-secondary css-1lfbp87\" tabindex=\"0\" href=\"https://www.coursera.org/courseraplus/special/uk-early-bird-150\"><span class=\"cds-button-label\">Save on Coursera Plus</span></a>",
+          "html": "<a class=\"cds-149 cds-button-disableElevation cds-button-secondary css-1lfbp87\" tabindex=\"0\" href=\"https://www.coursera.org/courseraplus/special/uk-summer-promotion-120\"><span class=\"cds-button-label\">Save on Coursera Plus</span></a>",
           "target": [
             ".cds-168 > .css-1ucfkdb > .css-1pntud3.cds-1[data-testid=\"block_layout\"] > .cds-19.cds-27.css-1kspkkz > .css-pnx9l.cds-64.cds-56 > .css-l03onm > .css-18b0gsb > .css-1lfbp87.cds-button-secondary.cds-button-disableElevation"
           ]
@@ -21130,7 +21789,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"cds-149 cds-button-disableElevation cds-button-primary css-ibj382\" tabindex=\"0\" href=\"https://www.coursera.org/business/teams?promoCode=summer50-2025&amp;utm_medium=coursera&amp;utm_source=home-page&amp;utm_campaign=2025-summer-promo&amp;utm_content=hero-cta\">",
+          "html": "<a class=\"cds-149 cds-button-disableElevation cds-button-primary css-ibj382\" tabindex=\"0\" href=\"https://www.coursera.org/business/teams?promoCode=summer40-2025&amp;utm_medium=coursera&amp;utm_source=home-page&amp;utm_campaign=2025-summer-promo&amp;utm_content=hero-cta\">",
           "target": [
             ".cds-168 > .css-1ucfkdb > .css-1pntud3.cds-1[data-testid=\"block_layout\"] > .cds-19.cds-27.css-1kspkkz > .css-pnx9l.cds-64.cds-56 > .css-l03onm > .css-18b0gsb > .css-ibj382.cds-button-primary.cds-button-disableElevation"
           ]
@@ -21442,7 +22101,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"cds-119 cds-113 cds-115 css-wnkho8 cds-142\" href=\"/browse/data-science\">",
+          "html": "<a class=\"cds-119 cds-113 cds-115 css-1m59m0l cds-142\" href=\"/browse/data-science\">",
           "target": [
             "a[href$=\"data-science\"]"
           ]
@@ -21468,7 +22127,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"cds-119 cds-113 cds-115 css-wnkho8 cds-142\" href=\"/browse/business\">",
+          "html": "<a class=\"cds-119 cds-113 cds-115 css-1m59m0l cds-142\" href=\"/browse/business\">",
           "target": [
             "a[href$=\"business\"]"
           ]
@@ -21494,7 +22153,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"cds-119 cds-113 cds-115 css-wnkho8 cds-142\" href=\"/browse/computer-science\">",
+          "html": "<a class=\"cds-119 cds-113 cds-115 css-1m59m0l cds-142\" href=\"/browse/computer-science\">",
           "target": [
             "a[href$=\"computer-science\"]"
           ]
@@ -21520,7 +22179,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"cds-119 cds-113 cds-115 css-wnkho8 cds-142\" href=\"/browse/life-sciences\">",
+          "html": "<a class=\"cds-119 cds-113 cds-115 css-1m59m0l cds-142\" href=\"/browse/life-sciences\">",
           "target": [
             "a[href$=\"life-sciences\"]"
           ]
@@ -21546,7 +22205,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"cds-119 cds-113 cds-115 css-wnkho8 cds-142\" href=\"/browse/social-sciences\">",
+          "html": "<a class=\"cds-119 cds-113 cds-115 css-1m59m0l cds-142\" href=\"/browse/social-sciences\">",
           "target": [
             "a[href$=\"social-sciences\"]"
           ]
@@ -21572,7 +22231,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"cds-119 cds-113 cds-115 css-wnkho8 cds-142\" href=\"/browse/personal-development\">",
+          "html": "<a class=\"cds-119 cds-113 cds-115 css-1m59m0l cds-142\" href=\"/browse/personal-development\">",
           "target": [
             "a[href$=\"personal-development\"]"
           ]
@@ -21598,7 +22257,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"cds-119 cds-113 cds-115 css-wnkho8 cds-142\" href=\"/browse/arts-and-humanities\">",
+          "html": "<a class=\"cds-119 cds-113 cds-115 css-1m59m0l cds-142\" href=\"/browse/arts-and-humanities\">",
           "target": [
             "a[href$=\"arts-and-humanities\"]"
           ]
@@ -21624,9 +22283,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"cds-119 cds-113 cds-115 css-wnkho8 cds-142\" href=\"/browse/physical-science-and-engineering\">",
+          "html": "<a class=\"cds-119 cds-113 cds-115 css-1m59m0l cds-142\" href=\"/browse/physical-science-and-engineering\">",
           "target": [
-            ".css-wnkho8.cds-113.cds-115:nth-child(8)"
+            ".css-1m59m0l.cds-113.cds-115:nth-child(8)"
           ]
         },
         {
@@ -21650,7 +22309,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"cds-119 cds-113 cds-115 css-wnkho8 cds-142\" href=\"/browse/language-learning\">",
+          "html": "<a class=\"cds-119 cds-113 cds-115 css-1m59m0l cds-142\" href=\"/browse/language-learning\">",
           "target": [
             "a[href$=\"language-learning\"]"
           ]
@@ -21676,7 +22335,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"cds-119 cds-113 cds-115 css-wnkho8 cds-142\" href=\"/browse/information-technology\">",
+          "html": "<a class=\"cds-119 cds-113 cds-115 css-1m59m0l cds-142\" href=\"/browse/information-technology\">",
           "target": [
             "a[href$=\"information-technology\"]"
           ]
@@ -21702,7 +22361,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"cds-119 cds-113 cds-115 css-wnkho8 cds-142\" href=\"/browse/math-and-logic\">",
+          "html": "<a class=\"cds-119 cds-113 cds-115 css-1m59m0l cds-142\" href=\"/browse/math-and-logic\">",
           "target": [
             "a[href$=\"math-and-logic\"]"
           ]
@@ -24465,7 +25124,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_contentcreator_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
+          "html": "<button data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"lohp_Adpprocert_close\" class=\"cds-149 cds-iconButton-small cds-iconButton-ghost cds-iconButton-small cds-iconButton-ghost css-1wjxk09\" tabindex=\"0\" role=\"button\" aria-label=\"Close banner\" type=\"button\">",
           "target": [
             ".cds-iconButton-small"
           ]
@@ -24612,6 +25271,78 @@
           "html": "<img src=\"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/1ZeiauXe5bPProvfuIo7o2/55d005d42979ab585cdfa01f825b7d4f/penn.svg?auto=format%2Ccompress&amp;dpr=1&amp;h=37\" srcset=\"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/1ZeiauXe5bPProvfuIo7o2/55d005d42979ab585cdfa01f825b7d4f/penn.svg?auto=format%2Ccompress&amp;dpr=2&amp;h=37 2x, https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/1ZeiauXe5bPProvfuIo7o2/55d005d42979ab585cdfa01f825b7d4f/penn.svg?auto=format%2Ccompress&amp;dpr=3&amp;h=37 3x\" class=\"partner-logo-image\" style=\"max-height:37px\" alt=\"University of Pennsylvania\">",
           "target": [
             "img[alt=\"University of Pennsylvania\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "no-focusable-content",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element does not have focusable descendants"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB\" tabindex=\"0\" value=\"LEARNING_GOAL_LAND_NEW_JOB\" aria-label=\"Start my career\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_LAND_NEW_JOB"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "no-focusable-content",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element does not have focusable descendants"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_CHANGE_CAREER\" tabindex=\"0\" value=\"LEARNING_GOAL_CHANGE_CAREER\" aria-label=\"Change my career\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_CHANGE_CAREER"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "no-focusable-content",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element does not have focusable descendants"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS\" tabindex=\"0\" value=\"LEARNING_GOAL_IMPROVE_SKILLS\" aria-label=\"Grow in my current role\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_IMPROVE_SKILLS"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "no-focusable-content",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element does not have focusable descendants"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<button type=\"button\" id=\"hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST\" tabindex=\"0\" value=\"LEARNING_GOAL_PERSONAL_INTEREST\" aria-label=\"Explore topics outside of work\" class=\"css-mgvrsg\"></button>",
+          "target": [
+            "#hiddenRadio-LEARNING_GOAL_PERSONAL_INTEREST"
           ]
         },
         {
@@ -25059,9 +25790,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button class=\"cds-149 cds-button-disableElevation cds-button-primary css-tpi4q0\" tabindex=\"0\" type=\"button\" data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"secondary_consumer_join_for_free\">",
+          "html": "<button class=\"cds-149 cds-button-disableElevation cds-button-primary css-1ftqpn5\" tabindex=\"0\" type=\"button\" data-track=\"true\" data-track-app=\"front_page\" data-track-page=\"front_page_story\" data-track-action=\"click\" data-track-component=\"secondary_consumer_join_for_free\">",
           "target": [
-            ".css-tpi4q0"
+            ".css-1ftqpn5"
           ]
         },
         {
@@ -25247,6 +25978,106 @@
       "help": "Elements must meet minimum color contrast ratio thresholds",
       "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=playwright",
       "nodes": [
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "10.5pt (14px)",
+                "fontWeight": "normal",
+                "messageKey": "bgOverlap",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element's background color could not be determined because it is overlapped by another element"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": "serious",
+          "html": "<p class=\"css-5fnvki\">Start my career</p>",
+          "target": [
+            ".css-15wd6zu:nth-child(1) > label > .css-5fnvki"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "10.5pt (14px)",
+                "fontWeight": "normal",
+                "messageKey": "bgOverlap",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element's background color could not be determined because it is overlapped by another element"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": "serious",
+          "html": "<p class=\"css-5fnvki\">Change my career</p>",
+          "target": [
+            ".css-15wd6zu:nth-child(2) > label > .css-5fnvki"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "10.5pt (14px)",
+                "fontWeight": "normal",
+                "messageKey": "bgOverlap",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element's background color could not be determined because it is overlapped by another element"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": "serious",
+          "html": "<p class=\"css-5fnvki\">Grow in my current role</p>",
+          "target": [
+            ".css-15wd6zu:nth-child(3) > label > .css-5fnvki"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "10.5pt (14px)",
+                "fontWeight": "normal",
+                "messageKey": "bgOverlap",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element's background color could not be determined because it is overlapped by another element"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": "serious",
+          "html": "<p class=\"css-5fnvki\">Explore topics outside of work</p>",
+          "target": [
+            ".css-15wd6zu:nth-child(4) > label > .css-5fnvki"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+        },
         {
           "any": [
             {

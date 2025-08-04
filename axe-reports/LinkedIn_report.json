@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-06-26T21:06:57.779Z",
+  "timestamp": "2025-08-04T15:35:39.389Z",
   "url": "https://www.linkedin.com/",
   "toolOptions": {
     "runOnly": {
@@ -817,7 +817,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_17132_708942",
+            "#gsi_738490_220673",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -842,7 +842,7 @@
             }
           ],
           "impact": null,
-          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
+          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"unknown-user-button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
           "target": [
             "iframe[name=\"microsoft_signin_iframe_1\"]",
             "#microsoft-button"
@@ -896,63 +896,9 @@
             }
           ],
           "impact": null,
-          "html": "<svg viewBox=\"0 0 40 40\" aria-label=\"Microsoft\"><use href=\"#ms-logo\"></use></svg>",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary-emphasis\" data-tracking-control-name=\"homepage-basic_explore--top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/\" aria-label=\"Show all top content\">",
           "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#existing-signin-container > .microsoft-icon > svg[viewBox=\"0 0 40 40\"][aria-label=\"Microsoft\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-allowed-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attributes are used correctly for the defined role"
-            }
-          ],
-          "none": [
-            {
-              "id": "aria-unsupported-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div class=\"dropdown-arrow__target\" tabindex=\"0\" id=\"dropdown-arrow-target\" aria-haspopup=\"listbox\" aria-expanded=\"false\" aria-label=\"Choose other Microsoft account\" role=\"button\">",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#dropdown-arrow-target"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-allowed-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attributes are used correctly for the defined role"
-            }
-          ],
-          "none": [
-            {
-              "id": "aria-unsupported-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary-emphasis\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/home/\" aria-label=\"Show all collaborative articles\">",
-          "target": [
-            ".explore-content__pill:nth-child(10) > .btn-secondary-emphasis.babybear\\:btn-sm.float-left"
+            "a[aria-label=\"Show all top content\"]"
           ]
         },
         {
@@ -1228,7 +1174,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_17132_708942",
+            "#gsi_738490_220673",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -1252,55 +1198,10 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
+          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"unknown-user-button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
           "target": [
             "iframe[name=\"microsoft_signin_iframe_1\"]",
             "#microsoft-button"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has text that is visible to screen readers"
-            },
-            {
-              "id": "non-empty-title",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has a title attribute"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div id=\"dropdown-arrow\" role=\"button\" class=\"size--large shape--pill theme--light hidden\" title=\"Choose other Microsoft account\">",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#dropdown-arrow"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-label",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "aria-label attribute exists and is not empty"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"dropdown-arrow__target\" tabindex=\"0\" id=\"dropdown-arrow-target\" aria-haspopup=\"listbox\" aria-expanded=\"false\" aria-label=\"Choose other Microsoft account\" role=\"button\">",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#dropdown-arrow-target"
           ]
         }
       ]
@@ -1460,7 +1361,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_17132_708942",
+            "#gsi_738490_220673",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -1477,7 +1378,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
+          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"unknown-user-button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
           "target": [
             "iframe[name=\"microsoft_signin_iframe_1\"]",
             "#microsoft-button"
@@ -1515,47 +1416,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<svg viewBox=\"0 0 40 40\" aria-label=\"Microsoft\"><use href=\"#ms-logo\"></use></svg>",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary-emphasis\" data-tracking-control-name=\"homepage-basic_explore--top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/\" aria-label=\"Show all top content\">",
           "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#existing-signin-container > .microsoft-icon > svg[viewBox=\"0 0 40 40\"][aria-label=\"Microsoft\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-conditional-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"dropdown-arrow__target\" tabindex=\"0\" id=\"dropdown-arrow-target\" aria-haspopup=\"listbox\" aria-expanded=\"false\" aria-label=\"Choose other Microsoft account\" role=\"button\">",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#dropdown-arrow-target"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-conditional-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary-emphasis\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/home/\" aria-label=\"Show all collaborative articles\">",
-          "target": [
-            ".explore-content__pill:nth-child(10) > .btn-secondary-emphasis.babybear\\:btn-sm.float-left"
+            "a[aria-label=\"Show all top content\"]"
           ]
         },
         {
@@ -1805,7 +1668,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_17132_708942",
+            "#gsi_738490_220673",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -1822,48 +1685,10 @@
             }
           ],
           "impact": null,
-          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
+          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"unknown-user-button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
           "target": [
             "iframe[name=\"microsoft_signin_iframe_1\"]",
             "#microsoft-button"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "deprecatedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "minor",
-              "message": "ARIA role is not deprecated"
-            }
-          ],
-          "impact": null,
-          "html": "<div id=\"dropdown-arrow\" role=\"button\" class=\"size--large shape--pill theme--light hidden\" title=\"Choose other Microsoft account\">",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#dropdown-arrow"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "deprecatedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "minor",
-              "message": "ARIA role is not deprecated"
-            }
-          ],
-          "impact": null,
-          "html": "<div class=\"dropdown-arrow__target\" tabindex=\"0\" id=\"dropdown-arrow-target\" aria-haspopup=\"listbox\" aria-expanded=\"false\" aria-label=\"Choose other Microsoft account\" role=\"button\">",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#dropdown-arrow-target"
           ]
         }
       ]
@@ -2587,7 +2412,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<iframe id=\"humanThirdPartyIframe\" src=\"https://li.protechts.net/index.html?ts=1750972017078&amp;r_id=AAY4f%2FEGussZRtaR5EYvOA%3D%3D&amp;app_id=PXdOjV695v&amp;uc=scraping&amp;d_id=224842b537bb9d543882e1928849845e6074e34644fec85aa02142fd46462275\" sandbox=\"allow-same-origin allow-scripts\" aria-hidden=\"true\" style=\"height: 0px; width: 0px; border: none; position: absolute; left: -9999px;\">",
+          "html": "<iframe id=\"humanThirdPartyIframe\" src=\"https://li.protechts.net/index.html?ts=1754321738435&amp;r_id=AAY7i9vyhgJrHxyvwcSHSg%3D%3D&amp;app_id=PXdOjV695v&amp;uc=scraping&amp;d_id=62a7127bcf54a9602a5669ef91631a400cf28897ece9d38d2aea81e4cb360faf\" sandbox=\"allow-same-origin allow-scripts\" aria-hidden=\"true\" style=\"height: 0px; width: 0px; border: none; position: absolute; left: -9999px;\">",
           "target": [
             "#humanThirdPartyIframe"
           ]
@@ -2749,7 +2574,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_17132_708942",
+            "#gsi_738490_220673",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -2766,7 +2591,7 @@
             }
           ],
           "impact": null,
-          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
+          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"unknown-user-button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
           "target": [
             "iframe[name=\"microsoft_signin_iframe_1\"]",
             "#microsoft-button"
@@ -2804,47 +2629,9 @@
             }
           ],
           "impact": null,
-          "html": "<svg viewBox=\"0 0 40 40\" aria-label=\"Microsoft\"><use href=\"#ms-logo\"></use></svg>",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary-emphasis\" data-tracking-control-name=\"homepage-basic_explore--top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/\" aria-label=\"Show all top content\">",
           "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#existing-signin-container > .microsoft-icon > svg[viewBox=\"0 0 40 40\"][aria-label=\"Microsoft\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "aria-prohibited-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "impact": null,
-          "html": "<div class=\"dropdown-arrow__target\" tabindex=\"0\" id=\"dropdown-arrow-target\" aria-haspopup=\"listbox\" aria-expanded=\"false\" aria-label=\"Choose other Microsoft account\" role=\"button\">",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#dropdown-arrow-target"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "aria-prohibited-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary-emphasis\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/home/\" aria-label=\"Show all collaborative articles\">",
-          "target": [
-            ".explore-content__pill:nth-child(10) > .btn-secondary-emphasis.babybear\\:btn-sm.float-left"
+            "a[aria-label=\"Show all top content\"]"
           ]
         },
         {
@@ -3094,7 +2881,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_17132_708942",
+            "#gsi_738490_220673",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -3111,48 +2898,10 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
+          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"unknown-user-button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
           "target": [
             "iframe[name=\"microsoft_signin_iframe_1\"]",
             "#microsoft-button"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-required-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "All required ARIA attributes are present"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div id=\"dropdown-arrow\" role=\"button\" class=\"size--large shape--pill theme--light hidden\" title=\"Choose other Microsoft account\">",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#dropdown-arrow"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-required-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "All required ARIA attributes are present"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"dropdown-arrow__target\" tabindex=\"0\" id=\"dropdown-arrow-target\" aria-haspopup=\"listbox\" aria-expanded=\"false\" aria-label=\"Choose other Microsoft account\" role=\"button\">",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#dropdown-arrow-target"
           ]
         }
       ]
@@ -3360,7 +3109,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_17132_708942",
+            "#gsi_738490_220673",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -3391,76 +3140,10 @@
             }
           ],
           "impact": null,
-          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
+          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"unknown-user-button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
           "target": [
             "iframe[name=\"microsoft_signin_iframe_1\"]",
             "#microsoft-button"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "invalidrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is valid"
-            },
-            {
-              "id": "abstractrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Abstract roles are not used"
-            },
-            {
-              "id": "unsupportedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div id=\"dropdown-arrow\" role=\"button\" class=\"size--large shape--pill theme--light hidden\" title=\"Choose other Microsoft account\">",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#dropdown-arrow"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "invalidrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is valid"
-            },
-            {
-              "id": "abstractrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Abstract roles are not used"
-            },
-            {
-              "id": "unsupportedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div class=\"dropdown-arrow__target\" tabindex=\"0\" id=\"dropdown-arrow-target\" aria-haspopup=\"listbox\" aria-expanded=\"false\" aria-label=\"Choose other Microsoft account\" role=\"button\">",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#dropdown-arrow-target"
           ]
         }
       ]
@@ -3700,7 +3383,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_17132_708942",
+            "#gsi_738490_220673",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -3731,7 +3414,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
+          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"unknown-user-button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
           "target": [
             "iframe[name=\"microsoft_signin_iframe_1\"]",
             "#microsoft-button"
@@ -3797,75 +3480,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<svg viewBox=\"0 0 40 40\" aria-label=\"Microsoft\"><use href=\"#ms-logo\"></use></svg>",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary-emphasis\" data-tracking-control-name=\"homepage-basic_explore--top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/\" aria-label=\"Show all top content\">",
           "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#existing-signin-container > .microsoft-icon > svg[viewBox=\"0 0 40 40\"][aria-label=\"Microsoft\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-valid-attr-value",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute values are valid"
-            },
-            {
-              "id": "aria-errormessage",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
-            },
-            {
-              "id": "aria-level",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-level values are valid"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"dropdown-arrow__target\" tabindex=\"0\" id=\"dropdown-arrow-target\" aria-haspopup=\"listbox\" aria-expanded=\"false\" aria-label=\"Choose other Microsoft account\" role=\"button\">",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#dropdown-arrow-target"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-valid-attr-value",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute values are valid"
-            },
-            {
-              "id": "aria-errormessage",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
-            },
-            {
-              "id": "aria-level",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-level values are valid"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary-emphasis\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/home/\" aria-label=\"Show all collaborative articles\">",
-          "target": [
-            ".explore-content__pill:nth-child(10) > .btn-secondary-emphasis.babybear\\:btn-sm.float-left"
+            "a[aria-label=\"Show all top content\"]"
           ]
         },
         {
@@ -4249,7 +3866,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_17132_708942",
+            "#gsi_738490_220673",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -4266,7 +3883,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
+          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"unknown-user-button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
           "target": [
             "iframe[name=\"microsoft_signin_iframe_1\"]",
             "#microsoft-button"
@@ -4304,47 +3921,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<svg viewBox=\"0 0 40 40\" aria-label=\"Microsoft\"><use href=\"#ms-logo\"></use></svg>",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary-emphasis\" data-tracking-control-name=\"homepage-basic_explore--top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/\" aria-label=\"Show all top content\">",
           "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#existing-signin-container > .microsoft-icon > svg[viewBox=\"0 0 40 40\"][aria-label=\"Microsoft\"]"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-valid-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute name is valid"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"dropdown-arrow__target\" tabindex=\"0\" id=\"dropdown-arrow-target\" aria-haspopup=\"listbox\" aria-expanded=\"false\" aria-label=\"Choose other Microsoft account\" role=\"button\">",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#dropdown-arrow-target"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-valid-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute name is valid"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary-emphasis\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/home/\" aria-label=\"Show all collaborative articles\">",
-          "target": [
-            ".explore-content__pill:nth-child(10) > .btn-secondary-emphasis.babybear\\:btn-sm.float-left"
+            "a[aria-label=\"Show all top content\"]"
           ]
         },
         {
@@ -4660,9 +4239,9 @@
                   ]
                 },
                 {
-                  "html": "<h2 class=\"header\">\n          Explore collaborative articles\n        </h2>",
+                  "html": "<h2 class=\"header\">\n          Explore top LinkedIn content\n        </h2>",
                   "target": [
-                    ".explore-content-hub > .mb-3.papabear\\:mr-\\[72px\\].papabear\\:w-column > h2"
+                    ".explore-top-content > .mb-3.papabear\\:mr-\\[72px\\].papabear\\:w-column > h2"
                   ]
                 },
                 {
@@ -5005,7 +4584,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span class=\"top-nav-link__label-text font-sans text-xs leading-regular text-center w-max\n          font-regular\">\n        Articles\n      </span>",
+          "html": "<span class=\"top-nav-link__label-text font-sans text-xs leading-regular text-center w-max\n          font-regular\">\n        Top Content\n      </span>",
           "target": [
             "li:nth-child(1) > .w-8.top-nav-link.hover\\:text-color-text > .top-nav-link__label-text.w-max.font-regular"
           ]
@@ -5257,7 +4836,7 @@
           "impact": null,
           "html": "<span class=\"nsm7Bb-HzV7m-LgbsSe-BPrWId\">Continue with Google</span>",
           "target": [
-            "#gsi_17132_708942",
+            "#gsi_738490_220673",
             ".nsm7Bb-HzV7m-LgbsSe-BPrWId"
           ]
         },
@@ -5266,16 +4845,16 @@
             {
               "id": "color-contrast",
               "data": {
-                "fgColor": "#000000",
+                "fgColor": "#323130",
                 "bgColor": "#ffffff",
-                "contrastRatio": 21,
+                "contrastRatio": 12.98,
                 "fontSize": "12.0pt (16px)",
                 "fontWeight": "normal",
                 "expectedContrastRatio": "4.5:1"
               },
               "relatedNodes": [],
               "impact": "serious",
-              "message": "Element has sufficient color contrast of 21"
+              "message": "Element has sufficient color contrast of 12.98"
             }
           ],
           "all": [],
@@ -5285,32 +4864,6 @@
           "target": [
             "iframe[name=\"microsoft_signin_iframe_1\"]",
             "#unknown-user-button-label"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#000000",
-                "bgColor": "#ffffff",
-                "contrastRatio": 21,
-                "fontSize": "12.0pt (16px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 21"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<span class=\"continue-as-name\">Continue as <span id=\"sign-in-as-div\"></span></span>",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            ".continue-as-name"
           ]
         },
         {
@@ -5533,7 +5086,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/engineering-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/engineering-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(1) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5558,7 +5111,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/business-development-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/business-development-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(2) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5583,7 +5136,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/finance-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/finance-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(3) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5608,7 +5161,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/administrative-assistant-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/administrative-assistant-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(4) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5633,7 +5186,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/retail-associate-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/retail-associate-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(5) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5658,7 +5211,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/customer-service-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/customer-service-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(6) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5683,7 +5236,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/operations-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/operations-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(7) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5708,7 +5261,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/information-technology-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/information-technology-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(8) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5733,7 +5286,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/marketing-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/marketing-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(9) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -5758,7 +5311,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/human-resources-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/human-resources-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(10) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -6713,6 +6266,25 @@
           "any": [
             {
               "id": "duplicate-id-aria",
+              "data": "unknown-user-button-label",
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<span id=\"unknown-user-button-label\" class=\"microsoft-sign-in-text\">Continue with Microsoft</span>",
+          "target": [
+            "iframe[name=\"microsoft_signin_iframe_1\"]",
+            "#unknown-user-button-label"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id-aria",
               "data": "bottom-cta-section__header",
               "relatedNodes": [],
               "impact": "critical",
@@ -6758,9 +6330,9 @@
             }
           ],
           "impact": null,
-          "html": "<iframe src=\"https://accounts.google.com/gsi/button?logo_alignment=center&amp;shape=pill&amp;size=large&amp;text=continue_with&amp;theme=filled_blue&amp;type=undefined&amp;width=400px&amp;client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&amp;iframe_id=gsi_17132_708942&amp;as=w6O7MvosgWGuCDMcs%2BkmbA&amp;hl=en_US\" allow=\"identity-credentials-get\" id=\"gsi_17132_708942\" title=\"Sign in with Google Button\" style=\"display: block; position: relative; top: 0px; left: 0px; height: 0px; width: 0px; border: 0px;\">",
+          "html": "<iframe src=\"https://accounts.google.com/gsi/button?logo_alignment=center&amp;shape=pill&amp;size=large&amp;text=continue_with&amp;theme=filled_blue&amp;type=undefined&amp;width=400px&amp;client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&amp;iframe_id=gsi_738490_220673&amp;as=pQlCdCDeMumgX1f0G2fDdQ&amp;hl=en_US\" allow=\"identity-credentials-get\" id=\"gsi_738490_220673\" title=\"Sign in with Google Button\" style=\"display: block; position: relative; top: 0px; left: 0px; height: 0px; width: 0px; border: 0px;\">",
           "target": [
-            "#gsi_17132_708942"
+            "#gsi_738490_220673"
           ]
         },
         {
@@ -6776,7 +6348,7 @@
             }
           ],
           "impact": null,
-          "html": "<iframe name=\"microsoft_signin_iframe_1\" title=\"Sign in with Microsoft button\" src=\"https://edge-auth.microsoft.com/v0.5/signinbutton?type=standard&amp;theme=light&amp;size=large&amp;text=continue_with&amp;shape=pill&amp;width=400&amp;height=42&amp;logo_alignment=center&amp;locale=en-US&amp;use_dropdown_list=true&amp;uuid=b880cd14-37d7-4fa5-ba14-4d1e52a5327e&amp;client_id=3fa91358-6f74-4525-b5df-da149652be36\" style=\"display: block; position: relative; top: 0px; left: 0px; height: 42px; width: 400px; border: 0px;\">",
+          "html": "<iframe name=\"microsoft_signin_iframe_1\" title=\"Sign in with Microsoft button\" src=\"https://edge-auth.microsoft.com/v0.5/signinbutton?type=standard&amp;theme=light&amp;size=large&amp;text=continue_with&amp;shape=pill&amp;width=400&amp;height=42&amp;logo_alignment=center&amp;locale=en-US&amp;use_dropdown_list=true&amp;uuid=8cf1bf51-45b9-48b5-96a1-5825922e1156&amp;client_id=3fa91358-6f74-4525-b5df-da149652be36\" style=\"display: block; position: relative; top: 0px; left: 0px; height: 42px; width: 400px; border: 0px;\">",
           "target": [
             "iframe[name=\"microsoft_signin_iframe_1\"]"
           ]
@@ -6794,7 +6366,7 @@
             }
           ],
           "impact": null,
-          "html": "<iframe id=\"microsoft_signin_prompt_holder\" name=\"microsoft_signin_prompt_iframe\" title=\"Sign in with Microsoft prompt\" src=\"https://edge-auth.microsoft.com/v0.5/signinprompt?uuid=b880cd14-37d7-4fa5-ba14-4d1e52a5327e&amp;send_session_started=true&amp;client_id=3fa91358-6f74-4525-b5df-da149652be36&amp;locale=en-US&amp;context=use\" style=\"height: 0px; width: 0px; border: 0px;\">",
+          "html": "<iframe id=\"microsoft_signin_prompt_holder\" name=\"microsoft_signin_prompt_iframe\" title=\"Sign in with Microsoft prompt\" src=\"https://edge-auth.microsoft.com/v0.5/signinprompt?uuid=8cf1bf51-45b9-48b5-96a1-5825922e1156&amp;send_session_started=true&amp;client_id=3fa91358-6f74-4525-b5df-da149652be36&amp;locale=en-US&amp;context=use\" style=\"height: 0px; width: 0px; border: 0px;\">",
           "target": [
             "#microsoft_signin_prompt_holder"
           ]
@@ -6832,9 +6404,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<iframe src=\"https://accounts.google.com/gsi/button?logo_alignment=center&amp;shape=pill&amp;size=large&amp;text=continue_with&amp;theme=filled_blue&amp;type=undefined&amp;width=400px&amp;client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&amp;iframe_id=gsi_17132_708942&amp;as=w6O7MvosgWGuCDMcs%2BkmbA&amp;hl=en_US\" allow=\"identity-credentials-get\" id=\"gsi_17132_708942\" title=\"Sign in with Google Button\" style=\"display: block; position: relative; top: 0px; left: 0px; height: 0px; width: 0px; border: 0px;\">",
+          "html": "<iframe src=\"https://accounts.google.com/gsi/button?logo_alignment=center&amp;shape=pill&amp;size=large&amp;text=continue_with&amp;theme=filled_blue&amp;type=undefined&amp;width=400px&amp;client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&amp;iframe_id=gsi_738490_220673&amp;as=pQlCdCDeMumgX1f0G2fDdQ&amp;hl=en_US\" allow=\"identity-credentials-get\" id=\"gsi_738490_220673\" title=\"Sign in with Google Button\" style=\"display: block; position: relative; top: 0px; left: 0px; height: 0px; width: 0px; border: 0px;\">",
           "target": [
-            "#gsi_17132_708942"
+            "#gsi_738490_220673"
           ]
         },
         {
@@ -6850,7 +6422,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<iframe name=\"microsoft_signin_iframe_1\" title=\"Sign in with Microsoft button\" src=\"https://edge-auth.microsoft.com/v0.5/signinbutton?type=standard&amp;theme=light&amp;size=large&amp;text=continue_with&amp;shape=pill&amp;width=400&amp;height=42&amp;logo_alignment=center&amp;locale=en-US&amp;use_dropdown_list=true&amp;uuid=b880cd14-37d7-4fa5-ba14-4d1e52a5327e&amp;client_id=3fa91358-6f74-4525-b5df-da149652be36\" style=\"display: block; position: relative; top: 0px; left: 0px; height: 42px; width: 400px; border: 0px;\">",
+          "html": "<iframe name=\"microsoft_signin_iframe_1\" title=\"Sign in with Microsoft button\" src=\"https://edge-auth.microsoft.com/v0.5/signinbutton?type=standard&amp;theme=light&amp;size=large&amp;text=continue_with&amp;shape=pill&amp;width=400&amp;height=42&amp;logo_alignment=center&amp;locale=en-US&amp;use_dropdown_list=true&amp;uuid=8cf1bf51-45b9-48b5-96a1-5825922e1156&amp;client_id=3fa91358-6f74-4525-b5df-da149652be36\" style=\"display: block; position: relative; top: 0px; left: 0px; height: 42px; width: 400px; border: 0px;\">",
           "target": [
             "iframe[name=\"microsoft_signin_iframe_1\"]"
           ]
@@ -6868,7 +6440,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<iframe id=\"microsoft_signin_prompt_holder\" name=\"microsoft_signin_prompt_iframe\" title=\"Sign in with Microsoft prompt\" src=\"https://edge-auth.microsoft.com/v0.5/signinprompt?uuid=b880cd14-37d7-4fa5-ba14-4d1e52a5327e&amp;send_session_started=true&amp;client_id=3fa91358-6f74-4525-b5df-da149652be36&amp;locale=en-US&amp;context=use\" style=\"height: 0px; width: 0px; border: 0px;\">",
+          "html": "<iframe id=\"microsoft_signin_prompt_holder\" name=\"microsoft_signin_prompt_iframe\" title=\"Sign in with Microsoft prompt\" src=\"https://edge-auth.microsoft.com/v0.5/signinprompt?uuid=8cf1bf51-45b9-48b5-96a1-5825922e1156&amp;send_session_started=true&amp;client_id=3fa91358-6f74-4525-b5df-da149652be36&amp;locale=en-US&amp;context=use\" style=\"height: 0px; width: 0px; border: 0px;\">",
           "target": [
             "#microsoft_signin_prompt_holder"
           ]
@@ -6962,7 +6534,7 @@
           "impact": null,
           "html": "<html lang=\"en\">",
           "target": [
-            "#gsi_17132_708942",
+            "#gsi_738490_220673",
             "html"
           ]
         }
@@ -6970,7 +6542,7 @@
     },
     {
       "id": "image-alt",
-      "impact": "critical",
+      "impact": null,
       "tags": [
         "cat.text-alternatives",
         "wcag2a",
@@ -7571,7 +7143,7 @@
             }
           ],
           "impact": null,
-          "html": "<a href=\"https://www.linkedin.com/pulse/topics/home/?trk=guest_homepage-basic_guest_nav_menu_articles\" data-tracking-control-name=\"guest_homepage-basic_guest_nav_menu_articles\" data-tracking-will-navigate=\"\" class=\"top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline\n        w-8 \n        flex-col mx-1 babybear:mx-0\n        text-color-text-secondary visited:text-color-text-secondary\">",
+          "html": "<a href=\"https://www.linkedin.com/top-content?trk=guest_homepage-basic_guest_nav_menu_topContent\" data-tracking-control-name=\"guest_homepage-basic_guest_nav_menu_topContent\" data-tracking-will-navigate=\"\" class=\"top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline\n        w-8 \n        flex-col mx-1 babybear:mx-0\n        text-color-text-secondary visited:text-color-text-secondary\">",
           "target": [
             "li:nth-child(1) > .w-8.top-nav-link.hover\\:text-color-text"
           ]
@@ -7909,9 +7481,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/marketing-s2461/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/business-strategy/\">",
           "target": [
-            ".explore-content__pill:nth-child(1) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(1) > .btn-secondary.babybear\\:btn-sm.float-left"
           ]
         },
         {
@@ -7935,9 +7507,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/public-administration-s3697/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/career/\">",
           "target": [
-            ".explore-content__pill:nth-child(2) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(2) > .btn-secondary.babybear\\:btn-sm.float-left"
           ]
         },
         {
@@ -7961,9 +7533,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/healthcare-s282/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/communication/\">",
           "target": [
-            ".explore-content__pill:nth-child(3) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(3) > .btn-secondary.babybear\\:btn-sm.float-left"
           ]
         },
         {
@@ -7987,9 +7559,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/engineering-s166/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/finance/\">",
           "target": [
-            ".explore-content__pill:nth-child(4) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(4) > .btn-secondary.babybear\\:btn-sm.float-left"
           ]
         },
         {
@@ -8013,9 +7585,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/it-services-s57547/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/leadership/\">",
           "target": [
-            ".explore-content__pill:nth-child(5) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(5) > .btn-secondary.babybear\\:btn-sm.float-left"
           ]
         },
         {
@@ -8039,9 +7611,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/sustainability-s932/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/productivity/\">",
           "target": [
-            ".explore-content__pill:nth-child(6) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(6) > .btn-secondary.babybear\\:btn-sm.float-left"
           ]
         },
         {
@@ -8065,9 +7637,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/business-administration-s50111/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/recruitment-hr/\">",
           "target": [
-            ".explore-content__pill:nth-child(7) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(7) > .btn-secondary.babybear\\:btn-sm.float-left"
           ]
         },
         {
@@ -8091,9 +7663,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/telecommunications-s314/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/sales/\">",
           "target": [
-            ".explore-content__pill:nth-child(8) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(8) > .btn-secondary.babybear\\:btn-sm.float-left"
           ]
         },
         {
@@ -8117,9 +7689,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/hr-management-s50359/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/technology/\">",
           "target": [
-            ".explore-content__pill:nth-child(9) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(9) > .btn-secondary.babybear\\:btn-sm.float-left"
           ]
         },
         {
@@ -8150,9 +7722,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary-emphasis\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/home/\" aria-label=\"Show all collaborative articles\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary-emphasis\" data-tracking-control-name=\"homepage-basic_explore--top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/\" aria-label=\"Show all top content\">",
           "target": [
-            ".explore-content__pill:nth-child(10) > .btn-secondary-emphasis.babybear\\:btn-sm.float-left"
+            "a[aria-label=\"Show all top content\"]"
           ]
         },
         {
@@ -8176,7 +7748,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/engineering-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/engineering-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(1) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -8202,7 +7774,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/business-development-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/business-development-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(2) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -8228,7 +7800,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/finance-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/finance-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(3) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -8254,7 +7826,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/administrative-assistant-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/administrative-assistant-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(4) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -8280,7 +7852,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/retail-associate-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/retail-associate-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(5) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -8306,7 +7878,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/customer-service-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/customer-service-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(6) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -8332,7 +7904,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/operations-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/operations-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(7) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -8358,7 +7930,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/information-technology-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/information-technology-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(8) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -8384,7 +7956,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/marketing-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/marketing-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(9) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -8410,7 +7982,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/human-resources-jobs-dagenham?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_suggested-search\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/human-resources-jobs-london?trk=homepage-basic_suggested-search\" data-tracking-client-ingraph=\"\">",
           "target": [
             "li:nth-child(10) > .btn-secondary.babybear\\:btn-sm[data-tracking-client-ingraph=\"\"]"
           ]
@@ -8911,7 +8483,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"flex justify-between items-center min-h-8 w-column babybear:w-full\n            bg-color-background-canvas-mobile p-2 link:body\n            hover:bg-[#e1dad0] hover:link:text-color-text hover:link:no-underline\" data-tracking-control-name=\"homepage-basic_brand-discovery_intent-module-secondBtn\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/jobs-in-dagenham?trk=homepage-basic_brand-discovery_intent-module-secondBtn\">",
+          "html": "<a class=\"flex justify-between items-center min-h-8 w-column babybear:w-full\n            bg-color-background-canvas-mobile p-2 link:body\n            hover:bg-[#e1dad0] hover:link:text-color-text hover:link:no-underline\" data-tracking-control-name=\"homepage-basic_brand-discovery_intent-module-secondBtn\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/jobs-in-london?trk=homepage-basic_brand-discovery_intent-module-secondBtn\">",
           "target": [
             ".mb-2:nth-child(2) > .min-h-8.bg-color-background-canvas-mobile.link\\:body"
           ]
@@ -10107,9 +9679,9 @@
             }
           ],
           "impact": null,
-          "html": "<ul class=\"show-more-less__list show-more-less__list--no-hidden-elems etta-show-more-less\" data-impression-id=\"homepage-basic_explore-content_pill-list-module_etta-show-more-less_show-more-less\">",
+          "html": "<ul class=\"show-more-less__list show-more-less__list--no-hidden-elems etta-show-more-less\" data-impression-id=\"homepage-basic_explore-top-content_pill-list-module_etta-show-more-less_show-more-less\">",
           "target": [
-            ".explore-content-hub > .papabear\\:max-w-\\[calc\\(theme\\(\\'spacing\\.content-max-w\\'\\)-theme\\(\\'spacing\\.column\\'\\)-72px\\)\\].w-full > .show-more-less__list--no-hidden-elems.show-more-less__list.etta-show-more-less"
+            ".explore-top-content > .papabear\\:max-w-\\[calc\\(theme\\(\\'spacing\\.content-max-w\\'\\)-theme\\(\\'spacing\\.column\\'\\)-72px\\)\\].w-full > .show-more-less__list--no-hidden-elems.show-more-less__list.etta-show-more-less"
           ]
         },
         {
@@ -10429,9 +10001,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li class=\"explore-content__pill\">",
+          "html": "<li class=\"explore-top-content__pill\">",
           "target": [
-            ".explore-content__pill:nth-child(1)"
+            ".explore-top-content__pill:nth-child(1)"
           ]
         },
         {
@@ -10447,9 +10019,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li class=\"explore-content__pill\">",
+          "html": "<li class=\"explore-top-content__pill\">",
           "target": [
-            ".explore-content__pill:nth-child(2)"
+            ".explore-top-content__pill:nth-child(2)"
           ]
         },
         {
@@ -10465,9 +10037,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li class=\"explore-content__pill\">",
+          "html": "<li class=\"explore-top-content__pill\">",
           "target": [
-            ".explore-content__pill:nth-child(3)"
+            ".explore-top-content__pill:nth-child(3)"
           ]
         },
         {
@@ -10483,9 +10055,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li class=\"explore-content__pill\">",
+          "html": "<li class=\"explore-top-content__pill\">",
           "target": [
-            ".explore-content__pill:nth-child(4)"
+            ".explore-top-content__pill:nth-child(4)"
           ]
         },
         {
@@ -10501,9 +10073,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li class=\"explore-content__pill\">",
+          "html": "<li class=\"explore-top-content__pill\">",
           "target": [
-            ".explore-content__pill:nth-child(5)"
+            ".explore-top-content__pill:nth-child(5)"
           ]
         },
         {
@@ -10519,9 +10091,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li class=\"explore-content__pill\">",
+          "html": "<li class=\"explore-top-content__pill\">",
           "target": [
-            ".explore-content__pill:nth-child(6)"
+            ".explore-top-content__pill:nth-child(6)"
           ]
         },
         {
@@ -10537,9 +10109,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li class=\"explore-content__pill\">",
+          "html": "<li class=\"explore-top-content__pill\">",
           "target": [
-            ".explore-content__pill:nth-child(7)"
+            ".explore-top-content__pill:nth-child(7)"
           ]
         },
         {
@@ -10555,9 +10127,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li class=\"explore-content__pill\">",
+          "html": "<li class=\"explore-top-content__pill\">",
           "target": [
-            ".explore-content__pill:nth-child(8)"
+            ".explore-top-content__pill:nth-child(8)"
           ]
         },
         {
@@ -10573,9 +10145,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li class=\"explore-content__pill\">",
+          "html": "<li class=\"explore-top-content__pill\">",
           "target": [
-            ".explore-content__pill:nth-child(9)"
+            ".explore-top-content__pill:nth-child(9)"
           ]
         },
         {
@@ -10591,9 +10163,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li class=\"explore-content__pill\">",
+          "html": "<li class=\"explore-top-content__pill\">",
           "target": [
-            ".explore-content__pill:nth-child(10)"
+            ".explore-top-content__pill:nth-child(10)"
           ]
         },
         {
@@ -12050,7 +11622,7 @@
           "impact": null,
           "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe MFS4be-v3pZbf-Ia7Qfc MFS4be-Ia7Qfc JGcpL-RbRzK\" style=\"width:400px; max-width:400px; min-width:min-content;\">",
           "target": [
-            "#gsi_17132_708942",
+            "#gsi_738490_220673",
             ".nsm7Bb-HzV7m-LgbsSe"
           ]
         },
@@ -12067,48 +11639,10 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
+          "html": "<div tabindex=\"0\" role=\"button\" aria-labelledby=\"unknown-user-button-label\" class=\"outer-container size--large shape--pill theme--light logo--center type--standard\" id=\"microsoft-button\" style=\"\">",
           "target": [
             "iframe[name=\"microsoft_signin_iframe_1\"]",
             "#microsoft-button"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "no-focusable-content",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element does not have focusable descendants"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<img id=\"photo-img\" class=\"profile-image\" src=\"\">",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#photo-img"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "no-focusable-content",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element does not have focusable descendants"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"dropdown-arrow__target\" tabindex=\"0\" id=\"dropdown-arrow-target\" aria-haspopup=\"listbox\" aria-expanded=\"false\" aria-label=\"Choose other Microsoft account\" role=\"button\">",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#dropdown-arrow-target"
           ]
         },
         {
@@ -12442,9 +11976,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-content-hub\" data-test-id=\"explore-content\">",
+                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-top-content\" data-test-id=\"explore-top-content\">",
                   "target": [
-                    ".explore-content-hub"
+                    ".explore-top-content"
                   ]
                 }
               ],
@@ -12455,9 +11989,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<h2 class=\"header\">\n          Explore collaborative articles\n        </h2>",
+          "html": "<h2 class=\"header\">\n          Explore top LinkedIn content\n        </h2>",
           "target": [
-            ".explore-content-hub > .mb-3.papabear\\:mr-\\[72px\\].papabear\\:w-column > h2"
+            ".explore-top-content > .mb-3.papabear\\:mr-\\[72px\\].papabear\\:w-column > h2"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
         },
@@ -12473,9 +12007,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-content-hub\" data-test-id=\"explore-content\">",
+                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-top-content\" data-test-id=\"explore-top-content\">",
                   "target": [
-                    ".explore-content-hub"
+                    ".explore-top-content"
                   ]
                 }
               ],
@@ -12486,9 +12020,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<p class=\"body mt-1.5\">\n              We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI.\n            </p>",
+          "html": "<p class=\"body mt-1.5\">\n              Discover relevant posts and expert insights — curated by topic and in one place.\n            </p>",
           "target": [
-            ".explore-content-hub > .mb-3.papabear\\:mr-\\[72px\\].papabear\\:w-column > .mt-1\\.5.body"
+            ".explore-top-content > .mb-3.papabear\\:mr-\\[72px\\].papabear\\:w-column > .mt-1\\.5.body"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
         },
@@ -12504,9 +12038,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-content-hub\" data-test-id=\"explore-content\">",
+                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-top-content\" data-test-id=\"explore-top-content\">",
                   "target": [
-                    ".explore-content-hub"
+                    ".explore-top-content"
                   ]
                 }
               ],
@@ -12517,9 +12051,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/marketing-s2461/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/business-strategy/\">",
           "target": [
-            ".explore-content__pill:nth-child(1) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(1) > .btn-secondary.babybear\\:btn-sm.float-left"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
         },
@@ -12535,9 +12069,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-content-hub\" data-test-id=\"explore-content\">",
+                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-top-content\" data-test-id=\"explore-top-content\">",
                   "target": [
-                    ".explore-content-hub"
+                    ".explore-top-content"
                   ]
                 }
               ],
@@ -12548,9 +12082,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/public-administration-s3697/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/career/\">",
           "target": [
-            ".explore-content__pill:nth-child(2) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(2) > .btn-secondary.babybear\\:btn-sm.float-left"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
         },
@@ -12566,9 +12100,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-content-hub\" data-test-id=\"explore-content\">",
+                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-top-content\" data-test-id=\"explore-top-content\">",
                   "target": [
-                    ".explore-content-hub"
+                    ".explore-top-content"
                   ]
                 }
               ],
@@ -12579,9 +12113,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/healthcare-s282/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/communication/\">",
           "target": [
-            ".explore-content__pill:nth-child(3) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(3) > .btn-secondary.babybear\\:btn-sm.float-left"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
         },
@@ -12597,9 +12131,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-content-hub\" data-test-id=\"explore-content\">",
+                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-top-content\" data-test-id=\"explore-top-content\">",
                   "target": [
-                    ".explore-content-hub"
+                    ".explore-top-content"
                   ]
                 }
               ],
@@ -12610,9 +12144,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/engineering-s166/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/finance/\">",
           "target": [
-            ".explore-content__pill:nth-child(4) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(4) > .btn-secondary.babybear\\:btn-sm.float-left"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
         },
@@ -12628,9 +12162,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-content-hub\" data-test-id=\"explore-content\">",
+                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-top-content\" data-test-id=\"explore-top-content\">",
                   "target": [
-                    ".explore-content-hub"
+                    ".explore-top-content"
                   ]
                 }
               ],
@@ -12641,9 +12175,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/it-services-s57547/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/leadership/\">",
           "target": [
-            ".explore-content__pill:nth-child(5) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(5) > .btn-secondary.babybear\\:btn-sm.float-left"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
         },
@@ -12659,9 +12193,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-content-hub\" data-test-id=\"explore-content\">",
+                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-top-content\" data-test-id=\"explore-top-content\">",
                   "target": [
-                    ".explore-content-hub"
+                    ".explore-top-content"
                   ]
                 }
               ],
@@ -12672,9 +12206,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/sustainability-s932/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/productivity/\">",
           "target": [
-            ".explore-content__pill:nth-child(6) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(6) > .btn-secondary.babybear\\:btn-sm.float-left"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
         },
@@ -12690,9 +12224,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-content-hub\" data-test-id=\"explore-content\">",
+                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-top-content\" data-test-id=\"explore-top-content\">",
                   "target": [
-                    ".explore-content-hub"
+                    ".explore-top-content"
                   ]
                 }
               ],
@@ -12703,9 +12237,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/business-administration-s50111/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/recruitment-hr/\">",
           "target": [
-            ".explore-content__pill:nth-child(7) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(7) > .btn-secondary.babybear\\:btn-sm.float-left"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
         },
@@ -12721,9 +12255,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-content-hub\" data-test-id=\"explore-content\">",
+                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-top-content\" data-test-id=\"explore-top-content\">",
                   "target": [
-                    ".explore-content-hub"
+                    ".explore-top-content"
                   ]
                 }
               ],
@@ -12734,9 +12268,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/telecommunications-s314/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/sales/\">",
           "target": [
-            ".explore-content__pill:nth-child(8) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(8) > .btn-secondary.babybear\\:btn-sm.float-left"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
         },
@@ -12752,9 +12286,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-content-hub\" data-test-id=\"explore-content\">",
+                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-top-content\" data-test-id=\"explore-top-content\">",
                   "target": [
-                    ".explore-content-hub"
+                    ".explore-top-content"
                   ]
                 }
               ],
@@ -12765,9 +12299,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/hr-management-s50359/\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary\" data-tracking-control-name=\"homepage-basic_explore-top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/technology/\">",
           "target": [
-            ".explore-content__pill:nth-child(9) > .btn-secondary.babybear\\:btn-sm.float-left"
+            ".explore-top-content__pill:nth-child(9) > .btn-secondary.babybear\\:btn-sm.float-left"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
         },
@@ -12783,9 +12317,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-content-hub\" data-test-id=\"explore-content\">",
+                  "html": "<section class=\"section py-section flex-wrap babybear:flex-col papabear:flex-nowrap explore-top-content\" data-test-id=\"explore-top-content\">",
                   "target": [
-                    ".explore-content-hub"
+                    ".explore-top-content"
                   ]
                 }
               ],
@@ -12796,9 +12330,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary-emphasis\" data-tracking-control-name=\"homepage-basic_explore-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/pulse/topics/home/\" aria-label=\"Show all collaborative articles\">",
+          "html": "<a class=\"btn-md babybear:btn-sm mb-1.5 mr-1 flex items-center w-fit float-left btn-secondary-emphasis\" data-tracking-control-name=\"homepage-basic_explore--top-content_topic-pill\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/top-content/\" aria-label=\"Show all top content\">",
           "target": [
-            ".explore-content__pill:nth-child(10) > .btn-secondary-emphasis.babybear\\:btn-sm.float-left"
+            "a[aria-label=\"Show all top content\"]"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
         },
@@ -13044,7 +12578,7 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"flex justify-between items-center min-h-8 w-column babybear:w-full\n            bg-color-background-canvas-mobile p-2 link:body\n            hover:bg-[#e1dad0] hover:link:text-color-text hover:link:no-underline\" data-tracking-control-name=\"homepage-basic_brand-discovery_intent-module-secondBtn\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/jobs-in-dagenham?trk=homepage-basic_brand-discovery_intent-module-secondBtn\">",
+          "html": "<a class=\"flex justify-between items-center min-h-8 w-column babybear:w-full\n            bg-color-background-canvas-mobile p-2 link:body\n            hover:bg-[#e1dad0] hover:link:text-color-text hover:link:no-underline\" data-tracking-control-name=\"homepage-basic_brand-discovery_intent-module-secondBtn\" data-tracking-will-navigate=\"\" href=\"https://www.linkedin.com/jobs/jobs-in-london?trk=homepage-basic_brand-discovery_intent-module-secondBtn\">",
           "target": [
             ".mb-2:nth-child(2) > .min-h-8.bg-color-background-canvas-mobile.link\\:body"
           ],
@@ -14233,78 +13767,6 @@
   ],
   "violations": [
     {
-      "id": "image-alt",
-      "impact": "critical",
-      "tags": [
-        "cat.text-alternatives",
-        "wcag2a",
-        "wcag111",
-        "section508",
-        "section508.22.a",
-        "TTv5",
-        "TT7.a",
-        "TT7.b",
-        "EN-301-549",
-        "EN-9.1.1.1",
-        "ACT"
-      ],
-      "description": "Ensure <img> elements have alternative text or a role of none or presentation",
-      "help": "Images must have alternative text",
-      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/image-alt?application=playwright",
-      "nodes": [
-        {
-          "any": [
-            {
-              "id": "has-alt",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Element does not have an alt attribute"
-            },
-            {
-              "id": "aria-label",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-label attribute does not exist or is empty"
-            },
-            {
-              "id": "aria-labelledby",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty"
-            },
-            {
-              "id": "non-empty-title",
-              "data": {
-                "messageKey": "noAttr"
-              },
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Element has no title attribute"
-            },
-            {
-              "id": "presentational-role",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "critical",
-          "html": "<img id=\"photo-img\" class=\"profile-image\" src=\"\">",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#photo-img"
-          ],
-          "failureSummary": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
-        }
-      ]
-    },
-    {
       "id": "nested-interactive",
       "impact": "serious",
       "tags": [
@@ -14343,34 +13805,6 @@
           "html": "<div class=\"google-auth-button__placeholder mx-auto\n          \" data-theme=\"filled_blue\" data-logo-alignment=\"center\" data-locale=\"en_US\" role=\"button\" aria-label=\"Continue with google\" data-safe-to-skip-tnc-redirect=\"\">",
           "target": [
             ".google-auth-button__placeholder"
-          ],
-          "failureSummary": "Fix any of the following:\n  Element has focusable descendants"
-        },
-        {
-          "any": [
-            {
-              "id": "no-focusable-content",
-              "data": null,
-              "relatedNodes": [
-                {
-                  "html": "<div class=\"dropdown-arrow__target\" tabindex=\"0\" id=\"dropdown-arrow-target\" aria-haspopup=\"listbox\" aria-expanded=\"false\" aria-label=\"Choose other Microsoft account\" role=\"button\">",
-                  "target": [
-                    "iframe[name=\"microsoft_signin_iframe_1\"]",
-                    "#dropdown-arrow-target"
-                  ]
-                }
-              ],
-              "impact": "serious",
-              "message": "Element has focusable descendants"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "serious",
-          "html": "<div id=\"dropdown-arrow\" role=\"button\" class=\"size--large shape--pill theme--light hidden\" title=\"Choose other Microsoft account\">",
-          "target": [
-            "iframe[name=\"microsoft_signin_iframe_1\"]",
-            "#dropdown-arrow"
           ],
           "failureSummary": "Fix any of the following:\n  Element has focusable descendants"
         }
