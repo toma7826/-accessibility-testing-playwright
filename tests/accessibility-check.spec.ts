@@ -3,7 +3,7 @@ import AxeBuilder from '@axe-core/playwright';
 import fs from 'fs';
 import path from 'path';
 
-// 23 websites to test
+// List of 23 websites to audit for accessibility
 const websites = [
   { name: 'BBC', url: 'https://www.bbc.co.uk' },
   { name: 'NHS', url: 'https://www.nhs.uk' },
@@ -31,28 +31,37 @@ const websites = [
 ];
 
 test.describe('Accessibility Tests', () => {
+
+  const outputDir = 'axe-reports';
+
+  // Step 1: Clean the output folder before running tests
+  test.beforeAll(() => {
+    if (fs.existsSync(outputDir)) {
+      fs.readdirSync(outputDir).forEach(file => {
+        fs.unlinkSync(path.join(outputDir, file)); // Delete each old file
+      });
+    } else {
+      fs.mkdirSync(outputDir); // Create folder if it doesn't exist
+    }
+  });
+
+  //  Step 2: Run Axe accessibility audit for each website
   websites.forEach(site => {
     test(`Audit ${site.name}`, async ({ page }) => {
-      await page.goto(site.url);
+      await page.goto(site.url); // Navigate to site
 
-      const results = await new AxeBuilder({ page })
-        .withTags(['wcag2a', 'wcag2aa'])
-        .analyze();
+      const results = await new AxeBuilder({ page }) // Inject axe-core
+        .withTags(['wcag2a', 'wcag2aa']) // Focus on WCAG 2.1 A and AA rules
+        .analyze(); // Run the audit
 
-      // ✅ Ensure the folder exists
-      const outputDir = 'axe-reports';
-      if (!fs.existsSync(outputDir)) {
-        fs.mkdirSync(outputDir);
-      }
-
-      // ✅ Write full results object, not just violations
+      //  Step 3: Save results to individual JSON files
       const filePath = path.join(outputDir, `${site.name}_report.json`);
       fs.writeFileSync(filePath, JSON.stringify(results, null, 2));
 
-      // ✅ Log summary to terminal
+      // Step 4: Log a summary of issues in the console
       console.log(`🔍 ${site.name}: ${results.violations.length} issues`);
       results.violations.forEach(v => {
-        console.log(`❌ ${v.id}: ${v.help}`);
+        console.log(`${v.id}: ${v.help}`);
       });
     });
   });

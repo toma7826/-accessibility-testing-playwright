@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-08-04T17:17:41.819Z",
+  "timestamp": "2025-08-04T21:59:54.315Z",
   "url": "https://www.webmd.com/",
   "toolOptions": {
     "runOnly": {
@@ -4764,7 +4764,7 @@
                   ]
                 },
                 {
-                  "html": "<h3 class=\"module-head\" data-v-75af017e=\"\">Understanding MASLD and MASH</h3>",
+                  "html": "<h3 class=\"module-head\" data-v-75af017e=\"\">Foot Pain and How to Find Relief</h3>",
                   "target": [
                     "a[data-metrics-link=\"2\"][data-v-75af017e=\"\"] > .text-container[data-v-75af017e=\"\"] > .module-head[data-v-75af017e=\"\"]"
                   ]
@@ -6199,7 +6199,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span class=\"eye-brow\" data-v-75af017e=\"\">Content on MASLD and MASH</span>",
+          "html": "<span class=\"eye-brow\" data-v-75af017e=\"\">Content on Foot Problems and Solutions</span>",
           "target": [
             "a[data-metrics-link=\"2\"][data-v-75af017e=\"\"] > .text-container[data-v-75af017e=\"\"] > .eye-brow[data-v-75af017e=\"\"]"
           ]
@@ -6224,7 +6224,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<h3 class=\"module-head\" data-v-75af017e=\"\">Understanding MASLD and MASH</h3>",
+          "html": "<h3 class=\"module-head\" data-v-75af017e=\"\">Foot Pain and How to Find Relief</h3>",
           "target": [
             "a[data-metrics-link=\"2\"][data-v-75af017e=\"\"] > .text-container[data-v-75af017e=\"\"] > .module-head[data-v-75af017e=\"\"]"
           ]
@@ -6249,7 +6249,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p class=\"content\" data-v-75af017e=\"\">Learn about these liver conditions, how they’re treated, and ways to work with your care team for better health.</p>",
+          "html": "<p class=\"content\" data-v-75af017e=\"\">Learn about common causes of foot pain and steps you can take to get moving comfortably again -- pain-free and on your feet.</p>",
           "target": [
             "a[data-metrics-link=\"2\"][data-v-75af017e=\"\"] > .text-container[data-v-75af017e=\"\"] > .content[data-v-75af017e=\"\"]"
           ]
@@ -12594,7 +12594,7 @@
             }
           ],
           "impact": null,
-          "html": "<a href=\"https://www.webmd.com/fatty-liver-disease/toc-masld-mash?mmtrack=17166-28563-9-1-0-0-2\" data-metrics-link=\"2\" data-v-75af017e=\"\">",
+          "html": "<a href=\"https://www.webmd.com/pain-management/cc-foot-problems?mmtrack=17166-28563-9-1-0-0-2\" data-metrics-link=\"2\" data-v-75af017e=\"\">",
           "target": [
             "a[data-metrics-link=\"2\"][data-v-75af017e=\"\"]"
           ]
@@ -16526,7 +16526,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<img src=\"https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/stay-motivated-to-care-for-your-copd-slideshow/1800ss-getty-rf-doctor-and-patient-talking.jpg?resize=400px:*&amp;output-quality=70\" loading=\"lazy\" data-v-75af017e=\"\">",
+          "html": "<img src=\"https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/metastatic-breast-cancer-treatment-side-effects-slideshow/1800ss-getty-rf-hand-foot-syndrome-redness.jpg?resize=400px:*&amp;output-quality=70\" loading=\"lazy\" data-v-75af017e=\"\">",
           "target": [
             "a[data-metrics-link=\"2\"][data-v-75af017e=\"\"] > .img-container[data-v-75af017e=\"\"] > img[loading=\"lazy\"][data-v-75af017e=\"\"]"
           ]
@@ -19110,7 +19110,7 @@
           "all": [],
           "none": [],
           "impact": "critical",
-          "html": "<img src=\"https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/stay-motivated-to-care-for-your-copd-slideshow/1800ss-getty-rf-doctor-and-patient-talking.jpg?resize=400px:*&amp;output-quality=70\" loading=\"lazy\" data-v-75af017e=\"\">",
+          "html": "<img src=\"https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/metastatic-breast-cancer-treatment-side-effects-slideshow/1800ss-getty-rf-hand-foot-syndrome-redness.jpg?resize=400px:*&amp;output-quality=70\" loading=\"lazy\" data-v-75af017e=\"\">",
           "target": [
             "a[data-metrics-link=\"2\"][data-v-75af017e=\"\"] > .img-container[data-v-75af017e=\"\"] > img[loading=\"lazy\"][data-v-75af017e=\"\"]"
           ],

@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-08-04T17:16:53.483Z",
+  "timestamp": "2025-08-04T21:59:26.272Z",
   "url": "https://open.spotify.com/",
   "toolOptions": {
     "runOnly": {
@@ -1055,7 +1055,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<html lang=\"en\" dir=\"ltr\">",
+          "html": "<html lang=\"en\" dir=\"ltr\" class=\"no-focus-outline spotify__os--is-windows spotify__container--is-web\">",
           "target": [
             "html"
           ]
@@ -1092,7 +1092,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<html lang=\"en\" dir=\"ltr\">",
+          "html": "<html lang=\"en\" dir=\"ltr\" class=\"no-focus-outline spotify__os--is-windows spotify__container--is-web\">",
           "target": [
             "html"
           ]
@@ -1129,7 +1129,7 @@
             }
           ],
           "impact": null,
-          "html": "<html lang=\"en\" dir=\"ltr\">",
+          "html": "<html lang=\"en\" dir=\"ltr\" class=\"no-focus-outline spotify__os--is-windows spotify__container--is-web\">",
           "target": [
             "html"
           ]

@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-08-04T17:17:13.352Z",
+  "timestamp": "2025-08-04T21:59:36.876Z",
   "url": "https://www.facebook.com/",
   "toolOptions": {
     "runOnly": {
@@ -748,9 +748,9 @@
             }
           ],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_5E\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4U\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_5E"
+            "#u_0_j_4U"
           ]
         },
         {
@@ -1487,9 +1487,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_5E\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4U\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_5E"
+            "#u_0_j_4U"
           ]
         },
         {
@@ -1773,9 +1773,9 @@
             }
           ],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_JD\" data-testid=\"open-registration-form-button\">Create new account</a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_YM\" data-testid=\"open-registration-form-button\">Create new account</a>",
           "target": [
-            "#u_0_0_JD"
+            "#u_0_0_YM"
           ]
         },
         {
@@ -1845,9 +1845,9 @@
             }
           ],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_5E\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4U\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_5E"
+            "#u_0_j_4U"
           ]
         },
         {
@@ -3049,9 +3049,9 @@
             }
           ],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_5E\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4U\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_5E"
+            "#u_0_j_4U"
           ]
         },
         {
@@ -3335,9 +3335,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_JD\" data-testid=\"open-registration-form-button\">Create new account</a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_YM\" data-testid=\"open-registration-form-button\">Create new account</a>",
           "target": [
-            "#u_0_0_JD"
+            "#u_0_0_YM"
           ]
         },
         {
@@ -3407,9 +3407,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_5E\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4U\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_5E"
+            "#u_0_j_4U"
           ]
         },
         {
@@ -4243,9 +4243,9 @@
             }
           ],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_JD\" data-testid=\"open-registration-form-button\">Create new account</a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_YM\" data-testid=\"open-registration-form-button\">Create new account</a>",
           "target": [
-            "#u_0_0_JD"
+            "#u_0_0_YM"
           ]
         },
         {
@@ -4371,9 +4371,9 @@
             }
           ],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_5E\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4U\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_5E"
+            "#u_0_j_4U"
           ]
         },
         {
@@ -5859,9 +5859,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_5E\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4U\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_5E"
+            "#u_0_j_4U"
           ]
         },
         {
@@ -6381,9 +6381,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_5E\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4U\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_5E"
+            "#u_0_j_4U"
           ]
         },
         {
@@ -6654,9 +6654,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button value=\"1\" class=\"_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy\" name=\"login\" data-testid=\"royal-login-button\" type=\"submit\" id=\"u_0_5_Z9\">Log in</button>",
+          "html": "<button value=\"1\" class=\"_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy\" name=\"login\" data-testid=\"royal-login-button\" type=\"submit\" id=\"u_0_5_tE\">Log in</button>",
           "target": [
-            "#u_0_5_Z9"
+            "#u_0_5_tE"
           ]
         }
       ]
@@ -7686,9 +7686,9 @@
             }
           ],
           "impact": null,
-          "html": "<a href=\"https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzU0MzI3ODMwLCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&amp;ars=facebook_login&amp;next\" id=\"u_0_6_ao\">Forgotten password?</a>",
+          "html": "<a href=\"https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzU0MzQ0Nzc1LCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&amp;ars=facebook_login&amp;next\" id=\"u_0_6_7K\">Forgotten password?</a>",
           "target": [
-            "#u_0_6_ao"
+            "#u_0_6_7K"
           ]
         },
         {
@@ -7712,9 +7712,9 @@
             }
           ],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_JD\" data-testid=\"open-registration-form-button\">Create new account</a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_YM\" data-testid=\"open-registration-form-button\">Create new account</a>",
           "target": [
-            "#u_0_0_JD"
+            "#u_0_0_YM"
           ]
         },
         {
@@ -7771,9 +7771,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://www.facebook.com/\" title=\"Polish\" id=\"u_0_7_Hi\">Polski</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://www.facebook.com/\" title=\"Polish\" id=\"u_0_7_9C\">Polski</a>",
           "target": [
-            "#u_0_7_Hi"
+            "#u_0_7_9C"
           ]
         },
         {
@@ -7804,9 +7804,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://pl-pl.facebook.com/\" title=\"Spanish\" id=\"u_0_8_yG\">Español</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://pl-pl.facebook.com/\" title=\"Spanish\" id=\"u_0_8_dU\">Español</a>",
           "target": [
-            "#u_0_8_yG"
+            "#u_0_8_dU"
           ]
         },
         {
@@ -7837,9 +7837,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://es-la.facebook.com/\" title=\"French (France)\" id=\"u_0_9_06\">Français (France)</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://es-la.facebook.com/\" title=\"French (France)\" id=\"u_0_9_bY\">Français (France)</a>",
           "target": [
-            "#u_0_9_06"
+            "#u_0_9_bY"
           ]
         },
         {
@@ -7870,9 +7870,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://fr-fr.facebook.com/\" title=\"Italian\" id=\"u_0_a_7K\">Italiano</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://fr-fr.facebook.com/\" title=\"Italian\" id=\"u_0_a_m5\">Italiano</a>",
           "target": [
-            "#u_0_a_7K"
+            "#u_0_a_m5"
           ]
         },
         {
@@ -7903,9 +7903,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://it-it.facebook.com/\" title=\"Lithuanian\" id=\"u_0_b_tc\">Lietuvių</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://it-it.facebook.com/\" title=\"Lithuanian\" id=\"u_0_b_GC\">Lietuvių</a>",
           "target": [
-            "#u_0_b_tc"
+            "#u_0_b_GC"
           ]
         },
         {
@@ -7936,9 +7936,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://lt-lt.facebook.com/\" title=\"Romanian\" id=\"u_0_c_fD\">Română</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://lt-lt.facebook.com/\" title=\"Romanian\" id=\"u_0_c_Y6\">Română</a>",
           "target": [
-            "#u_0_c_fD"
+            "#u_0_c_Y6"
           ]
         },
         {
@@ -7969,9 +7969,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://ro-ro.facebook.com/\" title=\"Simplified Chinese (China)\" id=\"u_0_d_O0\">中文(简体)</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://ro-ro.facebook.com/\" title=\"Simplified Chinese (China)\" id=\"u_0_d_+F\">中文(简体)</a>",
           "target": [
-            "#u_0_d_O0"
+            "#u_0_d_\\+F"
           ]
         },
         {
@@ -8002,9 +8002,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://zh-cn.facebook.com/\" title=\"Portuguese (Brazil)\" id=\"u_0_e_IY\">Português (Brasil)</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://zh-cn.facebook.com/\" title=\"Portuguese (Brazil)\" id=\"u_0_e_GF\">Português (Brasil)</a>",
           "target": [
-            "#u_0_e_IY"
+            "#u_0_e_GF"
           ]
         },
         {
@@ -8035,9 +8035,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://pt-br.facebook.com/\" title=\"German\" id=\"u_0_f_j5\">Deutsch</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://pt-br.facebook.com/\" title=\"German\" id=\"u_0_f_IO\">Deutsch</a>",
           "target": [
-            "#u_0_f_j5"
+            "#u_0_f_IO"
           ]
         },
         {
@@ -8068,9 +8068,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"_sv4\" dir=\"rtl\" href=\"https://de-de.facebook.com/\" title=\"Arabic\" id=\"u_0_g_Lr\">العربية</a>",
+          "html": "<a class=\"_sv4\" dir=\"rtl\" href=\"https://de-de.facebook.com/\" title=\"Arabic\" id=\"u_0_g_pe\">العربية</a>",
           "target": [
-            "#u_0_g_Lr"
+            "#u_0_g_pe"
           ]
         },
         {
@@ -8490,7 +8490,7 @@
             }
           ],
           "impact": null,
-          "html": "<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&amp;h=AT30FaHD3w4b2bESlUL1vZWvJAm6VPZyIh8VmvMq2J4EpPc5cEMv7Iys5Y7g2lYodBlAVM0-e68Gj0WzkwkAI3hbumGuA0ptkUjlyVkGoYMd8_lOyIyvcS7ZY5v_LUZzl_GLJ3QTalohWlFLSiDoZA\" title=\"Take a look at Instagram\" target=\"_blank\" rel=\"noreferrer nofollow\" data-lynx-mode=\"asynclazy\">",
+          "html": "<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&amp;h=AT1lhDKHAY9fnO98prBB3dMMHMLZDyaL3vKHELygor1F86qqp2ESiEw8ks0gXnqVqGWBT2sUGQh9P_oYnBOsR2PoQkhvgXDXI3bu-3ETcdTFZ6WpBtRCTpLPYAtsubKs4uN83I9YFpM2E3tRyA1VoA\" title=\"Take a look at Instagram\" target=\"_blank\" rel=\"noreferrer nofollow\" data-lynx-mode=\"asynclazy\">",
           "target": [
             "a[title=\"Take a look at Instagram\"]"
           ]
@@ -9200,7 +9200,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://www.facebook.com/\" title=\"Polish\" id=\"u_0_7_Hi\">Polski</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://www.facebook.com/\" title=\"Polish\" id=\"u_0_7_9C\">Polski</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(2)"
           ]
@@ -9218,7 +9218,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://pl-pl.facebook.com/\" title=\"Spanish\" id=\"u_0_8_yG\">Español</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://pl-pl.facebook.com/\" title=\"Spanish\" id=\"u_0_8_dU\">Español</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(3)"
           ]
@@ -9236,7 +9236,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://es-la.facebook.com/\" title=\"French (France)\" id=\"u_0_9_06\">Français (France)</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://es-la.facebook.com/\" title=\"French (France)\" id=\"u_0_9_bY\">Français (France)</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(4)"
           ]
@@ -9254,7 +9254,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://fr-fr.facebook.com/\" title=\"Italian\" id=\"u_0_a_7K\">Italiano</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://fr-fr.facebook.com/\" title=\"Italian\" id=\"u_0_a_m5\">Italiano</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(5)"
           ]
@@ -9272,7 +9272,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://it-it.facebook.com/\" title=\"Lithuanian\" id=\"u_0_b_tc\">Lietuvių</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://it-it.facebook.com/\" title=\"Lithuanian\" id=\"u_0_b_GC\">Lietuvių</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(6)"
           ]
@@ -9290,7 +9290,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://lt-lt.facebook.com/\" title=\"Romanian\" id=\"u_0_c_fD\">Română</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://lt-lt.facebook.com/\" title=\"Romanian\" id=\"u_0_c_Y6\">Română</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(7)"
           ]
@@ -9308,7 +9308,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://ro-ro.facebook.com/\" title=\"Simplified Chinese (China)\" id=\"u_0_d_O0\">中文(简体)</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://ro-ro.facebook.com/\" title=\"Simplified Chinese (China)\" id=\"u_0_d_+F\">中文(简体)</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(8)"
           ]
@@ -9326,7 +9326,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://zh-cn.facebook.com/\" title=\"Portuguese (Brazil)\" id=\"u_0_e_IY\">Português (Brasil)</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://zh-cn.facebook.com/\" title=\"Portuguese (Brazil)\" id=\"u_0_e_GF\">Português (Brasil)</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(9)"
           ]
@@ -9344,7 +9344,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://pt-br.facebook.com/\" title=\"German\" id=\"u_0_f_j5\">Deutsch</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"ltr\" href=\"https://pt-br.facebook.com/\" title=\"German\" id=\"u_0_f_IO\">Deutsch</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(10)"
           ]
@@ -9362,7 +9362,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<li><a class=\"_sv4\" dir=\"rtl\" href=\"https://de-de.facebook.com/\" title=\"Arabic\" id=\"u_0_g_Lr\">العربية</a></li>",
+          "html": "<li><a class=\"_sv4\" dir=\"rtl\" href=\"https://de-de.facebook.com/\" title=\"Arabic\" id=\"u_0_g_pe\">العربية</a></li>",
           "target": [
             ".localeSelectorList > li:nth-child(11)"
           ]
@@ -9938,9 +9938,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<button value=\"1\" class=\"_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy\" name=\"login\" data-testid=\"royal-login-button\" type=\"submit\" id=\"u_0_5_Z9\">Log in</button>",
+          "html": "<button value=\"1\" class=\"_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy\" name=\"login\" data-testid=\"royal-login-button\" type=\"submit\" id=\"u_0_5_tE\">Log in</button>",
           "target": [
-            "#u_0_5_Z9"
+            "#u_0_5_tE"
           ]
         },
         {
@@ -9956,9 +9956,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_JD\" data-testid=\"open-registration-form-button\">Create new account</a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_YM\" data-testid=\"open-registration-form-button\">Create new account</a>",
           "target": [
-            "#u_0_0_JD"
+            "#u_0_0_YM"
           ]
         },
         {
@@ -9992,9 +9992,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_5E\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4U\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_5E"
+            "#u_0_j_4U"
           ]
         },
         {
@@ -10440,9 +10440,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<button value=\"1\" class=\"_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy\" name=\"login\" data-testid=\"royal-login-button\" type=\"submit\" id=\"u_0_5_Z9\">Log in</button>",
+          "html": "<button value=\"1\" class=\"_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy\" name=\"login\" data-testid=\"royal-login-button\" type=\"submit\" id=\"u_0_5_tE\">Log in</button>",
           "target": [
-            "#u_0_5_Z9"
+            "#u_0_5_tE"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
         },
@@ -10465,9 +10465,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a href=\"https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzU0MzI3ODMwLCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&amp;ars=facebook_login&amp;next\" id=\"u_0_6_ao\">Forgotten password?</a>",
+          "html": "<a href=\"https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzU0MzQ0Nzc1LCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&amp;ars=facebook_login&amp;next\" id=\"u_0_6_7K\">Forgotten password?</a>",
           "target": [
-            "#u_0_6_ao"
+            "#u_0_6_7K"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
         },
@@ -10490,9 +10490,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_JD\" data-testid=\"open-registration-form-button\">Create new account</a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy\" href=\"/r.php?entry_point=login\" ajaxify=\"\" id=\"u_0_0_YM\" data-testid=\"open-registration-form-button\">Create new account</a>",
           "target": [
-            "#u_0_0_JD"
+            "#u_0_0_YM"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
         },
@@ -10588,9 +10588,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://www.facebook.com/\" title=\"Polish\" id=\"u_0_7_Hi\">Polski</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://www.facebook.com/\" title=\"Polish\" id=\"u_0_7_9C\">Polski</a>",
           "target": [
-            "#u_0_7_Hi"
+            "#u_0_7_9C"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10615,9 +10615,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://pl-pl.facebook.com/\" title=\"Spanish\" id=\"u_0_8_yG\">Español</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://pl-pl.facebook.com/\" title=\"Spanish\" id=\"u_0_8_dU\">Español</a>",
           "target": [
-            "#u_0_8_yG"
+            "#u_0_8_dU"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10642,9 +10642,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://es-la.facebook.com/\" title=\"French (France)\" id=\"u_0_9_06\">Français (France)</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://es-la.facebook.com/\" title=\"French (France)\" id=\"u_0_9_bY\">Français (France)</a>",
           "target": [
-            "#u_0_9_06"
+            "#u_0_9_bY"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10669,9 +10669,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://fr-fr.facebook.com/\" title=\"Italian\" id=\"u_0_a_7K\">Italiano</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://fr-fr.facebook.com/\" title=\"Italian\" id=\"u_0_a_m5\">Italiano</a>",
           "target": [
-            "#u_0_a_7K"
+            "#u_0_a_m5"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10696,9 +10696,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://it-it.facebook.com/\" title=\"Lithuanian\" id=\"u_0_b_tc\">Lietuvių</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://it-it.facebook.com/\" title=\"Lithuanian\" id=\"u_0_b_GC\">Lietuvių</a>",
           "target": [
-            "#u_0_b_tc"
+            "#u_0_b_GC"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10723,9 +10723,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://lt-lt.facebook.com/\" title=\"Romanian\" id=\"u_0_c_fD\">Română</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://lt-lt.facebook.com/\" title=\"Romanian\" id=\"u_0_c_Y6\">Română</a>",
           "target": [
-            "#u_0_c_fD"
+            "#u_0_c_Y6"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10750,9 +10750,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://ro-ro.facebook.com/\" title=\"Simplified Chinese (China)\" id=\"u_0_d_O0\">中文(简体)</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://ro-ro.facebook.com/\" title=\"Simplified Chinese (China)\" id=\"u_0_d_+F\">中文(简体)</a>",
           "target": [
-            "#u_0_d_O0"
+            "#u_0_d_\\+F"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10777,9 +10777,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://zh-cn.facebook.com/\" title=\"Portuguese (Brazil)\" id=\"u_0_e_IY\">Português (Brasil)</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://zh-cn.facebook.com/\" title=\"Portuguese (Brazil)\" id=\"u_0_e_GF\">Português (Brasil)</a>",
           "target": [
-            "#u_0_e_IY"
+            "#u_0_e_GF"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10804,9 +10804,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://pt-br.facebook.com/\" title=\"German\" id=\"u_0_f_j5\">Deutsch</a>",
+          "html": "<a class=\"_sv4\" dir=\"ltr\" href=\"https://pt-br.facebook.com/\" title=\"German\" id=\"u_0_f_IO\">Deutsch</a>",
           "target": [
-            "#u_0_f_j5"
+            "#u_0_f_IO"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -10831,9 +10831,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"_sv4\" dir=\"rtl\" href=\"https://de-de.facebook.com/\" title=\"Arabic\" id=\"u_0_g_Lr\">العربية</a>",
+          "html": "<a class=\"_sv4\" dir=\"rtl\" href=\"https://de-de.facebook.com/\" title=\"Arabic\" id=\"u_0_g_pe\">العربية</a>",
           "target": [
-            "#u_0_g_Lr"
+            "#u_0_g_pe"
           ],
           "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.33 (foreground color: #8a8d91, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
         },
@@ -11155,7 +11155,7 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&amp;h=AT30FaHD3w4b2bESlUL1vZWvJAm6VPZyIh8VmvMq2J4EpPc5cEMv7Iys5Y7g2lYodBlAVM0-e68Gj0WzkwkAI3hbumGuA0ptkUjlyVkGoYMd8_lOyIyvcS7ZY5v_LUZzl_GLJ3QTalohWlFLSiDoZA\" title=\"Take a look at Instagram\" target=\"_blank\" rel=\"noreferrer nofollow\" data-lynx-mode=\"asynclazy\">",
+          "html": "<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&amp;h=AT1lhDKHAY9fnO98prBB3dMMHMLZDyaL3vKHELygor1F86qqp2ESiEw8ks0gXnqVqGWBT2sUGQh9P_oYnBOsR2PoQkhvgXDXI3bu-3ETcdTFZ6WpBtRCTpLPYAtsubKs4uN83I9YFpM2E3tRyA1VoA\" title=\"Take a look at Instagram\" target=\"_blank\" rel=\"noreferrer nofollow\" data-lynx-mode=\"asynclazy\">",
           "target": [
             "a[title=\"Take a look at Instagram\"]"
           ],
@@ -11606,9 +11606,9 @@
             }
           ],
           "impact": "serious",
-          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_5E\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
+          "html": "<a role=\"button\" class=\"_42ft _4jy0 _55pi _2agf _4o_4 _9o-e _p _4jy3 _517h _51sy\" href=\"#\" style=\"max-width:200px;\" aria-haspopup=\"true\" aria-expanded=\"false\" rel=\"toggle\" id=\"u_0_j_4U\"><span class=\"_-xe _3-8_\"><i class=\"img sp_9DWmRT_sKgZ sx_3675c3\"></i></span><span class=\"_55pe\"></span></a>",
           "target": [
-            "#u_0_j_5E"
+            "#u_0_j_4U"
           ],
           "failureSummary": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
         }

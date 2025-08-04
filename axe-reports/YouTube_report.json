@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-08-04T17:16:59.587Z",
+  "timestamp": "2025-08-04T21:59:29.439Z",
   "url": "https://www.youtube.com/",
   "toolOptions": {
     "runOnly": {
@@ -395,6 +395,22 @@
       "nodes": []
     },
     {
+      "id": "meta-viewport",
+      "impact": null,
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag2aa",
+        "wcag144",
+        "EN-301-549",
+        "EN-9.1.4.4",
+        "ACT"
+      ],
+      "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
+      "help": "Zooming and scaling must not be disabled",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/meta-viewport?application=playwright",
+      "nodes": []
+    },
+    {
       "id": "object-alt",
       "impact": null,
       "tags": [
@@ -641,7 +657,7 @@
           "impact": null,
           "html": "<button id=\"button\" class=\"style-scope yt-icon-button\" aria-label=\"Guide\">",
           "target": [
-            ".yt-icon-button[aria-label=\"Guide\"]"
+            "button[aria-label=\"Guide\"]"
           ]
         },
         {
@@ -667,7 +683,7 @@
           "impact": null,
           "html": "<a class=\"yt-simple-endpoint style-scope ytd-topbar-logo-renderer\" id=\"logo\" aria-label=\"\" href=\"/\" title=\"YouTube Home\">",
           "target": [
-            "#start > ytd-topbar-logo-renderer > a[title=\"YouTube Home\"][href=\"/\"][aria-label=\"\"]"
+            "#start > ytd-topbar-logo-renderer > a[aria-label=\"\"][title=\"YouTube Home\"][href=\"/\"]"
           ]
         },
         {
@@ -719,7 +735,7 @@
           "impact": null,
           "html": "<input class=\"ytSearchboxComponentInput yt-searchbox-input title\" name=\"search_query\" aria-controls=\"i0\" aria-expanded=\"true\" type=\"text\" autocomplete=\"off\" autocorrect=\"off\" aria-autocomplete=\"list\" role=\"combobox\" placeholder=\"Search\">",
           "target": [
-            ".ytSearchboxComponentInput"
+            "input"
           ]
         },
         {
@@ -771,7 +787,7 @@
           "impact": null,
           "html": "<button id=\"button\" class=\"style-scope yt-icon-button\" aria-label=\"Settings\">",
           "target": [
-            ".yt-icon-button[aria-label=\"Settings\"]"
+            "button[aria-label=\"Settings\"]"
           ]
         },
         {
@@ -1135,7 +1151,7 @@
           "impact": null,
           "html": "<tp-yt-paper-tooltip offset=\"8\" role=\"tooltip\" tabindex=\"-1\" aria-label=\"tooltip\">",
           "target": [
-            "tp-yt-paper-tooltip[offset=\"8\"][role=\"tooltip\"][aria-label=\"tooltip\"]"
+            "tp-yt-paper-tooltip[role=\"tooltip\"][aria-label=\"tooltip\"][offset=\"8\"]"
           ]
         },
         {
@@ -1161,7 +1177,7 @@
           "impact": null,
           "html": "<button class=\"yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment\" title=\"\" aria-label=\"Reject the use of cookies and other data for the purposes described\" aria-disabled=\"false\">",
           "target": [
-            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next"
+            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"]"
           ]
         },
         {
@@ -1187,7 +1203,7 @@
           "impact": null,
           "html": "<button class=\"yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment\" title=\"\" aria-label=\"Accept the use of cookies and other data for the purposes described\" aria-disabled=\"false\">",
           "target": [
-            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next"
+            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"]"
           ]
         },
         {
@@ -1273,7 +1289,7 @@
           "impact": null,
           "html": "<button id=\"button\" class=\"style-scope yt-icon-button\" aria-label=\"Guide\">",
           "target": [
-            ".yt-icon-button[aria-label=\"Guide\"]"
+            "button[aria-label=\"Guide\"]"
           ]
         },
         {
@@ -1291,7 +1307,7 @@
           "impact": null,
           "html": "<a class=\"yt-simple-endpoint style-scope ytd-topbar-logo-renderer\" id=\"logo\" aria-label=\"\" href=\"/\" title=\"YouTube Home\">",
           "target": [
-            "#start > ytd-topbar-logo-renderer > a[title=\"YouTube Home\"][href=\"/\"][aria-label=\"\"]"
+            "#start > ytd-topbar-logo-renderer > a[aria-label=\"\"][title=\"YouTube Home\"][href=\"/\"]"
           ]
         },
         {
@@ -1327,7 +1343,7 @@
           "impact": null,
           "html": "<input class=\"ytSearchboxComponentInput yt-searchbox-input title\" name=\"search_query\" aria-controls=\"i0\" aria-expanded=\"true\" type=\"text\" autocomplete=\"off\" autocorrect=\"off\" aria-autocomplete=\"list\" role=\"combobox\" placeholder=\"Search\">",
           "target": [
-            ".ytSearchboxComponentInput"
+            "input"
           ]
         },
         {
@@ -1363,7 +1379,7 @@
           "impact": null,
           "html": "<button id=\"button\" class=\"style-scope yt-icon-button\" aria-label=\"Settings\">",
           "target": [
-            ".yt-icon-button[aria-label=\"Settings\"]"
+            "button[aria-label=\"Settings\"]"
           ]
         },
         {
@@ -1615,7 +1631,7 @@
           "impact": null,
           "html": "<tp-yt-paper-tooltip offset=\"8\" role=\"tooltip\" tabindex=\"-1\" aria-label=\"tooltip\">",
           "target": [
-            "tp-yt-paper-tooltip[offset=\"8\"][role=\"tooltip\"][aria-label=\"tooltip\"]"
+            "tp-yt-paper-tooltip[role=\"tooltip\"][aria-label=\"tooltip\"][offset=\"8\"]"
           ]
         },
         {
@@ -1633,7 +1649,7 @@
           "impact": null,
           "html": "<button class=\"yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment\" title=\"\" aria-label=\"Reject the use of cookies and other data for the purposes described\" aria-disabled=\"false\">",
           "target": [
-            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next"
+            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"]"
           ]
         },
         {
@@ -1651,7 +1667,7 @@
           "impact": null,
           "html": "<button class=\"yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment\" title=\"\" aria-label=\"Accept the use of cookies and other data for the purposes described\" aria-disabled=\"false\">",
           "target": [
-            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next"
+            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"]"
           ]
         },
         {
@@ -1719,7 +1735,7 @@
             }
           ],
           "impact": null,
-          "html": "<ytd-masthead id=\"masthead\" logo-type=\"YOUTUBE_LOGO\" slot=\"masthead\" class=\"masthead-finish\" frosted-glass-mode=\"without-chipbar\" role=\"banner\" mini-guide-visible=\"\">",
+          "html": "<ytd-masthead id=\"masthead\" logo-type=\"YOUTUBE_LOGO\" slot=\"masthead\" class=\"masthead-finish\" frosted-glass-mode=\"loading-without-chipbar\" role=\"banner\" mini-guide-visible=\"\">",
           "target": [
             "#masthead"
           ]
@@ -1775,7 +1791,7 @@
           "impact": null,
           "html": "<input class=\"ytSearchboxComponentInput yt-searchbox-input title\" name=\"search_query\" aria-controls=\"i0\" aria-expanded=\"true\" type=\"text\" autocomplete=\"off\" autocorrect=\"off\" aria-autocomplete=\"list\" role=\"combobox\" placeholder=\"Search\">",
           "target": [
-            ".ytSearchboxComponentInput"
+            "input"
           ]
         },
         {
@@ -2009,7 +2025,7 @@
           "impact": null,
           "html": "<tp-yt-paper-tooltip offset=\"8\" role=\"tooltip\" tabindex=\"-1\" aria-label=\"tooltip\">",
           "target": [
-            "tp-yt-paper-tooltip[offset=\"8\"][role=\"tooltip\"][aria-label=\"tooltip\"]"
+            "tp-yt-paper-tooltip[role=\"tooltip\"][aria-label=\"tooltip\"][offset=\"8\"]"
           ]
         },
         {
@@ -2027,7 +2043,7 @@
           "impact": null,
           "html": "<span class=\"yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap\" role=\"text\">Reject all</span>",
           "target": [
-            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next > .yt-spec-button-shape-next__button-text-content > .yt-core-attributed-string.yt-core-attributed-string--white-space-no-wrap[role=\"text\"]"
+            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"] > .yt-spec-button-shape-next__button-text-content > .yt-core-attributed-string.yt-core-attributed-string--white-space-no-wrap[role=\"text\"]"
           ]
         },
         {
@@ -2045,7 +2061,7 @@
           "impact": null,
           "html": "<span class=\"yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap\" role=\"text\">Accept all</span>",
           "target": [
-            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next > .yt-spec-button-shape-next__button-text-content > .yt-core-attributed-string.yt-core-attributed-string--white-space-no-wrap[role=\"text\"]"
+            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"] > .yt-spec-button-shape-next__button-text-content > .yt-core-attributed-string.yt-core-attributed-string--white-space-no-wrap[role=\"text\"]"
           ]
         },
         {
@@ -2149,7 +2165,7 @@
           "impact": null,
           "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\"><path d=\"M21 6H3V5h18v1zm0 5H3v1h18v-1zm0 6H3v1h18v-1z\"></path></svg>",
           "target": [
-            ".ytd-masthead > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[height=\"24\"][width=\"24\"][focusable=\"false\"]"
+            "button[aria-label=\"Guide\"] > yt-icon > .yt-spec-icon-shape.yt-icon.yt-icon-shape > div > svg[height=\"24\"][viewBox=\"0 0 24 24\"][width=\"24\"]"
           ]
         },
         {
@@ -2277,7 +2293,7 @@
           "impact": null,
           "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\">",
           "target": [
-            ".ytIconWrapperHost > .yt-icon-shape.yt-spec-icon-shape > div > svg[fill=\"currentColor\"][height=\"24\"][width=\"24\"]"
+            "svg[fill=\"currentColor\"]"
           ]
         },
         {
@@ -2307,39 +2323,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 24 24\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\">",
-          "target": [
-            ".ytd-topbar-menu-button-renderer > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[enable-background=\"new 0 0 24 24\"][height=\"24\"][width=\"24\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div aria-hidden=\"true\" class=\"yt-spec-button-shape-next__icon\">",
+          "html": "<div aria-hidden=\"true\" class=\"yt-spec-button-shape-next__icon\"><span class=\"ytIconWrapperHost\" style=\"width: 24px; height: 24px;\"><span class=\"yt-icon-shape\"></span></span></div>",
           "target": [
             "#buttons > ytd-button-renderer > yt-button-shape > .yt-spec-button-shape-next--outline.yt-spec-button-shape-next--call-to-action[aria-label=\"Sign in\"] > .yt-spec-button-shape-next__icon[aria-hidden=\"true\"]"
           ]
@@ -2405,7 +2389,7 @@
           "impact": null,
           "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\"><path d=\"M21 6H3V5h18v1zm0 5H3v1h18v-1zm0 6H3v1h18v-1z\"></path></svg>",
           "target": [
-            "yt-icon[icon=\"yt-icons:menu\"] > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[height=\"24\"][width=\"24\"][focusable=\"false\"]"
+            "yt-icon[icon=\"yt-icons:menu\"] > .yt-spec-icon-shape.yt-icon.yt-icon-shape > div > svg[height=\"24\"][viewBox=\"0 0 24 24\"][width=\"24\"]"
           ]
         },
         {
@@ -2499,198 +2483,6 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\">",
-          "target": [
-            "a[title=\"Home\"] > .guide-icon.ytd-mini-guide-entry-renderer > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[fill=\"currentColor\"][height=\"24\"][width=\"24\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\">",
-          "target": [
-            "a[title=\"Shorts\"] > .guide-icon.ytd-mini-guide-entry-renderer > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[fill=\"currentColor\"][height=\"24\"][width=\"24\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\">",
-          "target": [
-            "a[title=\"Subscriptions\"] > .guide-icon.ytd-mini-guide-entry-renderer > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[fill=\"currentColor\"][height=\"24\"][width=\"24\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\">",
-          "target": [
-            "a[title=\"You\"] > .guide-icon.ytd-mini-guide-entry-renderer > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[fill=\"currentColor\"][height=\"24\"][width=\"24\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\">",
-          "target": [
-            "a[title=\"History\"] > .guide-icon.ytd-mini-guide-entry-renderer > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[fill=\"currentColor\"][height=\"24\"][width=\"24\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\"><path d=\"m18 9.28-6.35 6.35-6.37-6.35.72-.71 5.64 5.65 5.65-5.65z\"></path></svg>",
-          "target": [
-            "#expander-icon > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[height=\"24\"][width=\"24\"][focusable=\"false\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
           "html": "<tp-yt-paper-spinner-lite class=\"style-scope ytd-rich-grid-renderer\" aria-hidden=\"true\" aria-label=\"loading\">",
           "target": [
             "#spinner-container > tp-yt-paper-spinner-lite"
@@ -2755,38 +2547,6 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\">",
-          "target": [
-            "yt-icon[icon=\"refresh\"] > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[focusable=\"false\"][viewBox=\"0 0 24 24\"][aria-hidden=\"true\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
           "html": "<tp-yt-paper-spinner-lite class=\"style-scope ytd-refresh\" hidden=\"\" aria-hidden=\"true\" aria-label=\"loading\">",
           "target": [
             ".ytd-refresh:nth-child(2)"
@@ -2821,583 +2581,7 @@
           "impact": null,
           "html": "<a id=\"thumbnail\" class=\"yt-simple-endpoint inline-block style-scope ytd-thumbnail\" aria-hidden=\"true\" tabindex=\"-1\">",
           "target": [
-            "#player-full-bleed-container > .player-container-background.ytd-watch-flexy > .player-container-background-image[size=\"small\"] > .inline-block.ytd-thumbnail.yt-simple-endpoint"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<a id=\"thumbnail\" class=\"yt-simple-endpoint inline-block style-scope ytd-thumbnail\" aria-hidden=\"true\" tabindex=\"-1\">",
-          "target": [
-            "#player-container-inner > .player-container-background.ytd-watch-flexy > .player-container-background-image[size=\"small\"] > .inline-block.ytd-thumbnail.yt-simple-endpoint"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<text class=\"ytp-featured-product-price-when-promotion-text-enabled\" aria-hidden=\"true\"></text>",
-          "target": [
-            ".ytp-featured-product-price-when-promotion-text-enabled"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<text class=\"ytp-featured-product-promotion-text\" aria-hidden=\"true\"></text>",
-          "target": [
-            ".ytp-featured-product-promotion-text"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"ytp-copylink-title\" aria-hidden=\"true\">Copy link</div>",
-          "target": [
-            ".ytp-copylink-title"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"ytp-fine-scrubbing-cursor\" aria-hidden=\"true\"></div>",
-          "target": [
-            ".ytp-fine-scrubbing-cursor"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"ytp-fine-scrubbing-seek-time\" aria-hidden=\"true\">0:00</div>",
-          "target": [
-            ".ytp-fine-scrubbing-seek-time"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<span class=\"ytp-chapter-title-prefix\" aria-hidden=\"true\">•</span>",
-          "target": [
-            ".ytp-chapter-container:nth-child(6) > .ytp-chapter-title.ytp-chapter-container-disabled.ytp-button > .ytp-chapter-title-prefix[aria-hidden=\"true\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<span class=\"ytp-chapter-title-prefix\" aria-hidden=\"true\">•</span>",
-          "target": [
-            ".ytp-chapter-container:nth-child(7) > .ytp-chapter-title.ytp-chapter-container-disabled.ytp-button > .ytp-chapter-title-prefix[aria-hidden=\"true\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<tp-yt-paper-tooltip aria-hidden=\"true\" fit-to-visible-bounds=\"\" class=\"style-scope ytd-channel-name\" role=\"tooltip\" tabindex=\"-1\" aria-label=\"tooltip\">",
-          "target": [
-            "tp-yt-paper-tooltip[fit-to-visible-bounds=\"\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<yt-formatted-string aria-hidden=\"true\" class=\"style-scope ytd-watch-info-text\" is-empty=\"\">",
-          "target": [
-            "#view-count > .ytd-watch-info-text[is-empty=\"\"][aria-hidden=\"true\"]:nth-child(1)"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<yt-animated-rolling-number class=\"animated-rolling-number-wiz style-scope ytd-watch-info-text\" dir=\"ltr\" aria-hidden=\"true\" style=\"\"></yt-animated-rolling-number>",
-          "target": [
-            "#view-count > yt-animated-rolling-number"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<yt-formatted-string aria-hidden=\"true\" class=\"style-scope ytd-watch-info-text\" is-empty=\"\">",
-          "target": [
-            "#view-count > .ytd-watch-info-text[is-empty=\"\"][aria-hidden=\"true\"]:nth-child(3)"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<yt-formatted-string aria-hidden=\"true\" class=\"style-scope ytd-watch-info-text\" is-empty=\"\">",
-          "target": [
-            "#date-text > .ytd-watch-info-text[is-empty=\"\"][aria-hidden=\"true\"]:nth-child(1)"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<yt-animated-rolling-number class=\"animated-rolling-number-wiz style-scope ytd-watch-info-text\" dir=\"ltr\" aria-hidden=\"true\" style=\"\"></yt-animated-rolling-number>",
-          "target": [
-            "#date-text > yt-animated-rolling-number"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<yt-formatted-string aria-hidden=\"true\" class=\"style-scope ytd-watch-info-text\" is-empty=\"\">",
-          "target": [
-            "#date-text > .ytd-watch-info-text[is-empty=\"\"][aria-hidden=\"true\"]:nth-child(3)"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\">",
-          "target": [
-            ".super-title-icon > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[height=\"24\"][width=\"24\"][focusable=\"false\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 24 24\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\">",
-          "target": [
-            "#trailing-icon > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[enable-background=\"new 0 0 24 24\"][height=\"24\"][width=\"24\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<a id=\"thumbnail\" class=\"yt-simple-endpoint inline-block style-scope ytd-thumbnail\" aria-hidden=\"true\" tabindex=\"-1\">",
-          "target": [
-            "ytd-thumbnail[hovered=\"false\"] > .inline-block.ytd-thumbnail.yt-simple-endpoint"
+            "#thumbnail-container > ytd-thumbnail > .inline-block"
           ]
         },
         {
@@ -3429,7 +2613,7 @@
           "impact": null,
           "html": "<tp-yt-paper-spinner-lite class=\"style-scope ytd-consent-bump-v2-lightbox\" aria-hidden=\"true\" aria-label=\"loading\">",
           "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(1) > tp-yt-paper-spinner-lite"
+            ".loading-overlay > div > tp-yt-paper-spinner-lite"
           ]
         },
         {
@@ -3491,7 +2675,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div aria-hidden=\"true\" class=\"yt-spec-button-shape-next__icon\">",
+          "html": "<div aria-hidden=\"true\" class=\"yt-spec-button-shape-next__icon\"><span class=\"ytIconWrapperHost\" style=\"width: 24px; height: 24px;\"><span class=\"yt-icon-shape\"></span></span></div>",
           "target": [
             "button[aria-label=\"Language: English\"] > .yt-spec-button-shape-next__icon[aria-hidden=\"true\"]"
           ]
@@ -3555,7 +2739,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div aria-hidden=\"true\" class=\"yt-spec-button-shape-next__icon\">",
+          "html": "<div aria-hidden=\"true\" class=\"yt-spec-button-shape-next__icon\"><span class=\"ytIconWrapperHost\" style=\"width: 24px; height: 24px;\"><span class=\"yt-icon-shape\"></span></span></div>",
           "target": [
             ".signin > yt-button-shape > .yt-spec-button-shape-next--outline.yt-spec-button-shape-next--call-to-action[aria-label=\"Sign in\"] > .yt-spec-button-shape-next__icon[aria-hidden=\"true\"]"
           ]
@@ -3619,201 +2803,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 24 24\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\">",
+          "html": "<div aria-hidden=\"true\" class=\"yt-spec-touch-feedback-shape yt-spec-touch-feedback-shape--touch-response-inverse\"><div class=\"yt-spec-touch-feedback-shape__stroke\"></div><div class=\"yt-spec-touch-feedback-shape__fill\"></div></div>",
           "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(1) > ul > li:nth-child(1) > .item-icon > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[enable-background=\"new 0 0 24 24\"][height=\"24\"][width=\"24\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\"><path d=\"M13 18h-2v-2h2v2zm0-8h-2v5h2v-5zm-1-4.11L20.2 19H3.8L12 5.89M12 4 2 20h20L12 4z\"></path></svg>",
-          "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(1) > ul > li:nth-child(2) > .item-icon > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[height=\"24\"][width=\"24\"][focusable=\"false\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\"><path d=\"M18 13v6h-1v-6h1zm-7-8v14h1V5h-1zM5 9v10h1V9H5z\"></path></svg>",
-          "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(1) > ul > li:nth-child(3) > .item-icon > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[height=\"24\"][width=\"24\"][focusable=\"false\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 24 24\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\">",
-          "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(2) > ul > li:nth-child(1) > .item-icon > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[enable-background=\"new 0 0 24 24\"][height=\"24\"][width=\"24\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\"><path d=\"M18 13v6h-1v-6h1zm-7-8v14h1V5h-1zM5 9v10h1V9H5z\"></path></svg>",
-          "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(2) > ul > li:nth-child(2) > .item-icon > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[height=\"24\"][width=\"24\"][focusable=\"false\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\">",
-          "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(2) > ul > li:nth-child(3) > .item-icon > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[height=\"24\"][width=\"24\"][focusable=\"false\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 24 24\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" focusable=\"false\" aria-hidden=\"true\" style=\"pointer-events: none; display: inherit; width: 100%; height: 100%;\">",
-          "target": [
-            "li:nth-child(4) > .item-icon > .yt-icon.yt-icon-shape.yt-spec-icon-shape > div > svg[enable-background=\"new 0 0 24 24\"][height=\"24\"][width=\"24\"]"
+            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"] > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response-inverse.yt-spec-touch-feedback-shape[aria-hidden=\"true\"]"
           ]
         },
         {
@@ -3845,39 +2837,7 @@
           "impact": null,
           "html": "<div aria-hidden=\"true\" class=\"yt-spec-touch-feedback-shape yt-spec-touch-feedback-shape--touch-response-inverse\"><div class=\"yt-spec-touch-feedback-shape__stroke\"></div><div class=\"yt-spec-touch-feedback-shape__fill\"></div></div>",
           "target": [
-            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response-inverse.yt-spec-touch-feedback-shape[aria-hidden=\"true\"]"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div aria-hidden=\"true\" class=\"yt-spec-touch-feedback-shape yt-spec-touch-feedback-shape--touch-response-inverse\"><div class=\"yt-spec-touch-feedback-shape__stroke\"></div><div class=\"yt-spec-touch-feedback-shape__fill\"></div></div>",
-          "target": [
-            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response-inverse.yt-spec-touch-feedback-shape[aria-hidden=\"true\"]"
+            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"] > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response-inverse.yt-spec-touch-feedback-shape[aria-hidden=\"true\"]"
           ]
         },
         {
@@ -4007,7 +2967,7 @@
           "impact": null,
           "html": "<button id=\"button\" class=\"style-scope yt-icon-button\" aria-label=\"Guide\">",
           "target": [
-            ".yt-icon-button[aria-label=\"Guide\"]"
+            "button[aria-label=\"Guide\"]"
           ]
         },
         {
@@ -4025,7 +2985,7 @@
           "impact": null,
           "html": "<a class=\"yt-simple-endpoint style-scope ytd-topbar-logo-renderer\" id=\"logo\" aria-label=\"\" href=\"/\" title=\"YouTube Home\">",
           "target": [
-            "#start > ytd-topbar-logo-renderer > a[title=\"YouTube Home\"][href=\"/\"][aria-label=\"\"]"
+            "#start > ytd-topbar-logo-renderer > a[aria-label=\"\"][title=\"YouTube Home\"][href=\"/\"]"
           ]
         },
         {
@@ -4061,7 +3021,7 @@
           "impact": null,
           "html": "<input class=\"ytSearchboxComponentInput yt-searchbox-input title\" name=\"search_query\" aria-controls=\"i0\" aria-expanded=\"true\" type=\"text\" autocomplete=\"off\" autocorrect=\"off\" aria-autocomplete=\"list\" role=\"combobox\" placeholder=\"Search\">",
           "target": [
-            ".ytSearchboxComponentInput"
+            "input"
           ]
         },
         {
@@ -4097,7 +3057,7 @@
           "impact": null,
           "html": "<button id=\"button\" class=\"style-scope yt-icon-button\" aria-label=\"Settings\">",
           "target": [
-            ".yt-icon-button[aria-label=\"Settings\"]"
+            "button[aria-label=\"Settings\"]"
           ]
         },
         {
@@ -4313,7 +3273,7 @@
           "impact": null,
           "html": "<tp-yt-paper-tooltip offset=\"8\" role=\"tooltip\" tabindex=\"-1\" aria-label=\"tooltip\">",
           "target": [
-            "tp-yt-paper-tooltip[offset=\"8\"][role=\"tooltip\"][aria-label=\"tooltip\"]"
+            "tp-yt-paper-tooltip[role=\"tooltip\"][aria-label=\"tooltip\"][offset=\"8\"]"
           ]
         },
         {
@@ -4331,7 +3291,7 @@
           "impact": null,
           "html": "<button class=\"yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment\" title=\"\" aria-label=\"Reject the use of cookies and other data for the purposes described\" aria-disabled=\"false\">",
           "target": [
-            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next"
+            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"]"
           ]
         },
         {
@@ -4349,7 +3309,7 @@
           "impact": null,
           "html": "<button class=\"yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment\" title=\"\" aria-label=\"Accept the use of cookies and other data for the purposes described\" aria-disabled=\"false\">",
           "target": [
-            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next"
+            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"]"
           ]
         },
         {
@@ -4417,7 +3377,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<ytd-masthead id=\"masthead\" logo-type=\"YOUTUBE_LOGO\" slot=\"masthead\" class=\"masthead-finish\" frosted-glass-mode=\"without-chipbar\" role=\"banner\" mini-guide-visible=\"\">",
+          "html": "<ytd-masthead id=\"masthead\" logo-type=\"YOUTUBE_LOGO\" slot=\"masthead\" class=\"masthead-finish\" frosted-glass-mode=\"loading-without-chipbar\" role=\"banner\" mini-guide-visible=\"\">",
           "target": [
             "#masthead"
           ]
@@ -4473,7 +3433,7 @@
           "impact": null,
           "html": "<input class=\"ytSearchboxComponentInput yt-searchbox-input title\" name=\"search_query\" aria-controls=\"i0\" aria-expanded=\"true\" type=\"text\" autocomplete=\"off\" autocorrect=\"off\" aria-autocomplete=\"list\" role=\"combobox\" placeholder=\"Search\">",
           "target": [
-            ".ytSearchboxComponentInput"
+            "input"
           ]
         },
         {
@@ -4707,7 +3667,7 @@
           "impact": null,
           "html": "<tp-yt-paper-tooltip offset=\"8\" role=\"tooltip\" tabindex=\"-1\" aria-label=\"tooltip\">",
           "target": [
-            "tp-yt-paper-tooltip[offset=\"8\"][role=\"tooltip\"][aria-label=\"tooltip\"]"
+            "tp-yt-paper-tooltip[role=\"tooltip\"][aria-label=\"tooltip\"][offset=\"8\"]"
           ]
         },
         {
@@ -4725,7 +3685,7 @@
           "impact": null,
           "html": "<span class=\"yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap\" role=\"text\">Reject all</span>",
           "target": [
-            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next > .yt-spec-button-shape-next__button-text-content > .yt-core-attributed-string.yt-core-attributed-string--white-space-no-wrap[role=\"text\"]"
+            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"] > .yt-spec-button-shape-next__button-text-content > .yt-core-attributed-string.yt-core-attributed-string--white-space-no-wrap[role=\"text\"]"
           ]
         },
         {
@@ -4743,7 +3703,7 @@
           "impact": null,
           "html": "<span class=\"yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap\" role=\"text\">Accept all</span>",
           "target": [
-            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next > .yt-spec-button-shape-next__button-text-content > .yt-core-attributed-string.yt-core-attributed-string--white-space-no-wrap[role=\"text\"]"
+            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"] > .yt-spec-button-shape-next__button-text-content > .yt-core-attributed-string.yt-core-attributed-string--white-space-no-wrap[role=\"text\"]"
           ]
         },
         {
@@ -4807,7 +3767,7 @@
             }
           ],
           "impact": null,
-          "html": "<ytd-masthead id=\"masthead\" logo-type=\"YOUTUBE_LOGO\" slot=\"masthead\" class=\"masthead-finish\" frosted-glass-mode=\"without-chipbar\" role=\"banner\" mini-guide-visible=\"\">",
+          "html": "<ytd-masthead id=\"masthead\" logo-type=\"YOUTUBE_LOGO\" slot=\"masthead\" class=\"masthead-finish\" frosted-glass-mode=\"loading-without-chipbar\" role=\"banner\" mini-guide-visible=\"\">",
           "target": [
             "#masthead"
           ]
@@ -4905,7 +3865,7 @@
           "impact": null,
           "html": "<input class=\"ytSearchboxComponentInput yt-searchbox-input title\" name=\"search_query\" aria-controls=\"i0\" aria-expanded=\"true\" type=\"text\" autocomplete=\"off\" autocorrect=\"off\" aria-autocomplete=\"list\" role=\"combobox\" placeholder=\"Search\">",
           "target": [
-            ".ytSearchboxComponentInput"
+            "input"
           ]
         },
         {
@@ -5321,7 +4281,7 @@
           "impact": null,
           "html": "<tp-yt-paper-tooltip offset=\"8\" role=\"tooltip\" tabindex=\"-1\" aria-label=\"tooltip\">",
           "target": [
-            "tp-yt-paper-tooltip[offset=\"8\"][role=\"tooltip\"][aria-label=\"tooltip\"]"
+            "tp-yt-paper-tooltip[role=\"tooltip\"][aria-label=\"tooltip\"][offset=\"8\"]"
           ]
         },
         {
@@ -5353,7 +4313,7 @@
           "impact": null,
           "html": "<span class=\"yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap\" role=\"text\">Reject all</span>",
           "target": [
-            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next > .yt-spec-button-shape-next__button-text-content > .yt-core-attributed-string.yt-core-attributed-string--white-space-no-wrap[role=\"text\"]"
+            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"] > .yt-spec-button-shape-next__button-text-content > .yt-core-attributed-string.yt-core-attributed-string--white-space-no-wrap[role=\"text\"]"
           ]
         },
         {
@@ -5385,7 +4345,7 @@
           "impact": null,
           "html": "<span class=\"yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap\" role=\"text\">Accept all</span>",
           "target": [
-            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next > .yt-spec-button-shape-next__button-text-content > .yt-core-attributed-string.yt-core-attributed-string--white-space-no-wrap[role=\"text\"]"
+            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"] > .yt-spec-button-shape-next__button-text-content > .yt-core-attributed-string.yt-core-attributed-string--white-space-no-wrap[role=\"text\"]"
           ]
         },
         {
@@ -5451,7 +4411,7 @@
           "impact": null,
           "html": "<tp-yt-paper-tooltip offset=\"8\" role=\"tooltip\" tabindex=\"-1\" aria-label=\"tooltip\">",
           "target": [
-            "tp-yt-paper-tooltip[offset=\"8\"][role=\"tooltip\"][aria-label=\"tooltip\"]"
+            "tp-yt-paper-tooltip[role=\"tooltip\"][aria-label=\"tooltip\"][offset=\"8\"]"
           ]
         }
       ]
@@ -5499,7 +4459,7 @@
           "impact": null,
           "html": "<button id=\"button\" class=\"style-scope yt-icon-button\" aria-label=\"Guide\">",
           "target": [
-            ".yt-icon-button[aria-label=\"Guide\"]"
+            "button[aria-label=\"Guide\"]"
           ]
         },
         {
@@ -5531,7 +4491,7 @@
           "impact": null,
           "html": "<a class=\"yt-simple-endpoint style-scope ytd-topbar-logo-renderer\" id=\"logo\" aria-label=\"\" href=\"/\" title=\"YouTube Home\">",
           "target": [
-            "#start > ytd-topbar-logo-renderer > a[title=\"YouTube Home\"][href=\"/\"][aria-label=\"\"]"
+            "#start > ytd-topbar-logo-renderer > a[aria-label=\"\"][title=\"YouTube Home\"][href=\"/\"]"
           ]
         },
         {
@@ -5595,7 +4555,7 @@
           "impact": null,
           "html": "<input class=\"ytSearchboxComponentInput yt-searchbox-input title\" name=\"search_query\" aria-controls=\"i0\" aria-expanded=\"true\" type=\"text\" autocomplete=\"off\" autocorrect=\"off\" aria-autocomplete=\"list\" role=\"combobox\" placeholder=\"Search\">",
           "target": [
-            ".ytSearchboxComponentInput"
+            "input"
           ]
         },
         {
@@ -5659,7 +4619,7 @@
           "impact": null,
           "html": "<button id=\"button\" class=\"style-scope yt-icon-button\" aria-label=\"Settings\">",
           "target": [
-            ".yt-icon-button[aria-label=\"Settings\"]"
+            "button[aria-label=\"Settings\"]"
           ]
         },
         {
@@ -6107,7 +5067,7 @@
           "impact": null,
           "html": "<tp-yt-paper-tooltip offset=\"8\" role=\"tooltip\" tabindex=\"-1\" aria-label=\"tooltip\">",
           "target": [
-            "tp-yt-paper-tooltip[offset=\"8\"][role=\"tooltip\"][aria-label=\"tooltip\"]"
+            "tp-yt-paper-tooltip[role=\"tooltip\"][aria-label=\"tooltip\"][offset=\"8\"]"
           ]
         },
         {
@@ -6139,7 +5099,7 @@
           "impact": null,
           "html": "<button class=\"yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment\" title=\"\" aria-label=\"Reject the use of cookies and other data for the purposes described\" aria-disabled=\"false\">",
           "target": [
-            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next"
+            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"]"
           ]
         },
         {
@@ -6171,7 +5131,7 @@
           "impact": null,
           "html": "<button class=\"yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment\" title=\"\" aria-label=\"Accept the use of cookies and other data for the purposes described\" aria-disabled=\"false\">",
           "target": [
-            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next"
+            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"]"
           ]
         },
         {
@@ -6269,7 +5229,7 @@
           "impact": null,
           "html": "<button id=\"button\" class=\"style-scope yt-icon-button\" aria-label=\"Guide\">",
           "target": [
-            ".yt-icon-button[aria-label=\"Guide\"]"
+            "button[aria-label=\"Guide\"]"
           ]
         },
         {
@@ -6287,7 +5247,7 @@
           "impact": null,
           "html": "<a class=\"yt-simple-endpoint style-scope ytd-topbar-logo-renderer\" id=\"logo\" aria-label=\"\" href=\"/\" title=\"YouTube Home\">",
           "target": [
-            "#start > ytd-topbar-logo-renderer > a[title=\"YouTube Home\"][href=\"/\"][aria-label=\"\"]"
+            "#start > ytd-topbar-logo-renderer > a[aria-label=\"\"][title=\"YouTube Home\"][href=\"/\"]"
           ]
         },
         {
@@ -6323,7 +5283,7 @@
           "impact": null,
           "html": "<input class=\"ytSearchboxComponentInput yt-searchbox-input title\" name=\"search_query\" aria-controls=\"i0\" aria-expanded=\"true\" type=\"text\" autocomplete=\"off\" autocorrect=\"off\" aria-autocomplete=\"list\" role=\"combobox\" placeholder=\"Search\">",
           "target": [
-            ".ytSearchboxComponentInput"
+            "input"
           ]
         },
         {
@@ -6359,7 +5319,7 @@
           "impact": null,
           "html": "<button id=\"button\" class=\"style-scope yt-icon-button\" aria-label=\"Settings\">",
           "target": [
-            ".yt-icon-button[aria-label=\"Settings\"]"
+            "button[aria-label=\"Settings\"]"
           ]
         },
         {
@@ -6611,7 +5571,7 @@
           "impact": null,
           "html": "<tp-yt-paper-tooltip offset=\"8\" role=\"tooltip\" tabindex=\"-1\" aria-label=\"tooltip\">",
           "target": [
-            "tp-yt-paper-tooltip[offset=\"8\"][role=\"tooltip\"][aria-label=\"tooltip\"]"
+            "tp-yt-paper-tooltip[role=\"tooltip\"][aria-label=\"tooltip\"][offset=\"8\"]"
           ]
         },
         {
@@ -6629,7 +5589,7 @@
           "impact": null,
           "html": "<button class=\"yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment\" title=\"\" aria-label=\"Reject the use of cookies and other data for the purposes described\" aria-disabled=\"false\">",
           "target": [
-            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next"
+            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"]"
           ]
         },
         {
@@ -6647,7 +5607,7 @@
           "impact": null,
           "html": "<button class=\"yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment\" title=\"\" aria-label=\"Accept the use of cookies and other data for the purposes described\" aria-disabled=\"false\">",
           "target": [
-            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next"
+            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"]"
           ]
         },
         {
@@ -6722,7 +5682,7 @@
           "impact": null,
           "html": "<button id=\"button\" class=\"style-scope yt-icon-button\" aria-label=\"Guide\">",
           "target": [
-            ".yt-icon-button[aria-label=\"Guide\"]"
+            "button[aria-label=\"Guide\"]"
           ]
         },
         {
@@ -6790,7 +5750,7 @@
           "impact": null,
           "html": "<button id=\"button\" class=\"style-scope yt-icon-button\" aria-label=\"Settings\">",
           "target": [
-            ".yt-icon-button[aria-label=\"Settings\"]"
+            "button[aria-label=\"Settings\"]"
           ]
         },
         {
@@ -6840,7 +5800,7 @@
           "impact": null,
           "html": "<button class=\"yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment\" title=\"\" aria-label=\"Reject the use of cookies and other data for the purposes described\" aria-disabled=\"false\">",
           "target": [
-            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next"
+            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"]"
           ]
         },
         {
@@ -6865,7 +5825,7 @@
           "impact": null,
           "html": "<button class=\"yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment\" title=\"\" aria-label=\"Accept the use of cookies and other data for the purposes described\" aria-disabled=\"false\">",
           "target": [
-            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next"
+            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"]"
           ]
         }
       ]
@@ -6968,7 +5928,7 @@
           "impact": null,
           "html": "<input class=\"ytSearchboxComponentInput yt-searchbox-input title\" name=\"search_query\" aria-controls=\"i0\" aria-expanded=\"true\" type=\"text\" autocomplete=\"off\" autocorrect=\"off\" aria-autocomplete=\"list\" role=\"combobox\" placeholder=\"Search\">",
           "target": [
-            ".ytSearchboxComponentInput"
+            "input"
           ]
         },
         {
@@ -7043,7 +6003,7 @@
           "impact": null,
           "html": "<a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://support.google.com/youtube/answer/95725\" rel=\"nofollow\" target=\"_blank\" dir=\"auto\">Learn more</a>",
           "target": [
-            "a[spellcheck=\"false\"][target=\"_blank\"][rel=\"nofollow\"]"
+            "a[target=\"_blank\"]"
           ]
         },
         {
@@ -7138,7 +6098,7 @@
           "impact": null,
           "html": "<span dir=\"auto\" class=\"style-scope yt-formatted-string\">We use </span>",
           "target": [
-            ".legal-text.ytd-consent-bump-v2-lightbox > yt-formatted-string > .yt-formatted-string[dir=\"auto\"]:nth-child(1)"
+            ".legal-text > yt-formatted-string > .yt-formatted-string[dir=\"auto\"]:nth-child(1)"
           ]
         },
         {
@@ -7163,7 +6123,7 @@
           "impact": null,
           "html": "<a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://policies.google.com/technologies/cookies?hl=en\" rel=\"nofollow\" dir=\"auto\">cookies</a>",
           "target": [
-            ".legal-text.ytd-consent-bump-v2-lightbox > yt-formatted-string > a[spellcheck=\"false\"][rel=\"nofollow\"][dir=\"auto\"]"
+            ".legal-text > yt-formatted-string > a[spellcheck=\"false\"][dir=\"auto\"][rel=\"nofollow\"]"
           ]
         },
         {
@@ -7213,7 +6173,7 @@
           "impact": null,
           "html": "<yt-formatted-string class=\"style-scope ytd-consent-bump-v2-lightbox\">Deliver and maintain Google services</yt-formatted-string>",
           "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(1) > ul > li:nth-child(1) > .ytd-consent-bump-v2-lightbox:nth-child(2) > yt-formatted-string"
+            "div:nth-child(1) > ul > li:nth-child(1) > div > yt-formatted-string"
           ]
         },
         {
@@ -7238,7 +6198,7 @@
           "impact": null,
           "html": "<yt-formatted-string class=\"style-scope ytd-consent-bump-v2-lightbox\">Track outages and protect against spam, fraud, and abuse</yt-formatted-string>",
           "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(1) > ul > li:nth-child(2) > .ytd-consent-bump-v2-lightbox:nth-child(2) > yt-formatted-string"
+            "div:nth-child(1) > ul > li:nth-child(2) > div > yt-formatted-string"
           ]
         },
         {
@@ -7263,7 +6223,7 @@
           "impact": null,
           "html": "<yt-formatted-string class=\"style-scope ytd-consent-bump-v2-lightbox\">Measure audience engagement and site statistics to understand how our services are used and enhance the quality of those services</yt-formatted-string>",
           "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(1) > ul > li:nth-child(3) > .ytd-consent-bump-v2-lightbox:nth-child(2) > yt-formatted-string"
+            "div:nth-child(1) > ul > li:nth-child(3) > div > yt-formatted-string"
           ]
         },
         {
@@ -7288,7 +6248,7 @@
           "impact": null,
           "html": "<yt-formatted-string class=\"style-scope ytd-consent-bump-v2-lightbox\">If you choose to “Accept all,” we will also use cookies and data to</yt-formatted-string>",
           "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(2) > .legal-text.ytd-consent-bump-v2-lightbox > yt-formatted-string"
+            "div:nth-child(2) > .legal-text > yt-formatted-string"
           ]
         },
         {
@@ -7313,7 +6273,7 @@
           "impact": null,
           "html": "<yt-formatted-string class=\"style-scope ytd-consent-bump-v2-lightbox\">Develop and improve new services</yt-formatted-string>",
           "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(2) > ul > li:nth-child(1) > .ytd-consent-bump-v2-lightbox:nth-child(2) > yt-formatted-string"
+            "div:nth-child(2) > ul > li:nth-child(1) > div > yt-formatted-string"
           ]
         },
         {
@@ -7338,7 +6298,7 @@
           "impact": null,
           "html": "<yt-formatted-string class=\"style-scope ytd-consent-bump-v2-lightbox\">Deliver and measure the effectiveness of ads</yt-formatted-string>",
           "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(2) > ul > li:nth-child(2) > .ytd-consent-bump-v2-lightbox:nth-child(2) > yt-formatted-string"
+            "div:nth-child(2) > ul > li:nth-child(2) > div > yt-formatted-string"
           ]
         },
         {
@@ -7363,7 +6323,7 @@
           "impact": null,
           "html": "<yt-formatted-string class=\"style-scope ytd-consent-bump-v2-lightbox\">Show personalized content, depending on your settings</yt-formatted-string>",
           "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(2) > ul > li:nth-child(3) > .ytd-consent-bump-v2-lightbox:nth-child(2) > yt-formatted-string"
+            "div:nth-child(2) > ul > li:nth-child(3) > div > yt-formatted-string"
           ]
         },
         {
@@ -7388,7 +6348,7 @@
           "impact": null,
           "html": "<yt-formatted-string class=\"style-scope ytd-consent-bump-v2-lightbox\">Show personalized ads, depending on your settings</yt-formatted-string>",
           "target": [
-            "li:nth-child(4) > .ytd-consent-bump-v2-lightbox:nth-child(2) > yt-formatted-string"
+            "li:nth-child(4) > div > yt-formatted-string"
           ]
         },
         {
@@ -7413,7 +6373,7 @@
           "impact": null,
           "html": "<yt-formatted-string class=\"style-scope ytd-consent-bump-v2-lightbox\">If you choose to “Reject all,” we will not use cookies for these additional purposes.</yt-formatted-string>",
           "target": [
-            ".legal-text.ytd-consent-bump-v2-lightbox:nth-child(3) > yt-formatted-string"
+            ".legal-text:nth-child(3) > yt-formatted-string"
           ]
         },
         {
@@ -7438,7 +6398,7 @@
           "impact": null,
           "html": "<yt-formatted-string class=\"style-scope ytd-consent-bump-v2-lightbox\">",
           "target": [
-            ".legal-text.ytd-consent-bump-v2-lightbox:nth-child(4) > yt-formatted-string"
+            ".legal-text:nth-child(4) > yt-formatted-string"
           ]
         },
         {
@@ -7463,7 +6423,7 @@
           "impact": null,
           "html": "<yt-formatted-string class=\"style-scope ytd-consent-bump-v2-lightbox\">Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.</yt-formatted-string>",
           "target": [
-            ".legal-text.ytd-consent-bump-v2-lightbox:nth-child(5) > yt-formatted-string"
+            ".legal-text:nth-child(5) > yt-formatted-string"
           ]
         }
       ]
@@ -7541,96 +6501,6 @@
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "ytp-id-22",
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"ytp-playlist-menu\" role=\"dialog\" id=\"ytp-id-22\" data-layer=\"5\" style=\"display: none;\">",
-          "target": [
-            "#ytp-id-22"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
-              "data": "ytp-id-25",
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"ytp-share-panel\" id=\"ytp-id-25\" role=\"dialog\" aria-labelledby=\"ytp-id-24\" data-layer=\"5\" style=\"display: none;\">",
-          "target": [
-            "#ytp-id-25"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
-              "data": "ytp-id-24",
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"ytp-share-panel-title\" id=\"ytp-id-24\">Share</div>",
-          "target": [
-            "#ytp-id-24"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
-              "data": "ytp-id-29",
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"ytp-overflow-panel\" id=\"ytp-id-29\" role=\"dialog\" data-layer=\"5\" style=\"display: none;\">",
-          "target": [
-            "#ytp-id-29"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
-              "data": "ytp-id-18",
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"ytp-popup ytp-settings-menu\" data-layer=\"6\" id=\"ytp-id-18\" style=\"display: none;\"><div class=\"ytp-panel\"><div class=\"ytp-panel-menu\" role=\"menu\"></div></div></div>",
-          "target": [
-            "#ytp-id-18"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
               "data": "cb-header",
               "relatedNodes": [],
               "impact": "critical",
@@ -7678,7 +6548,7 @@
           "impact": null,
           "html": "<input class=\"ytSearchboxComponentInput yt-searchbox-input title\" name=\"search_query\" aria-controls=\"i0\" aria-expanded=\"true\" type=\"text\" autocomplete=\"off\" autocorrect=\"off\" aria-autocomplete=\"list\" role=\"combobox\" placeholder=\"Search\">",
           "target": [
-            ".ytSearchboxComponentInput"
+            "input"
           ]
         }
       ]
@@ -7799,7 +6669,7 @@
           "impact": null,
           "html": "<input class=\"ytSearchboxComponentInput yt-searchbox-input title\" name=\"search_query\" aria-controls=\"i0\" aria-expanded=\"true\" type=\"text\" autocomplete=\"off\" autocorrect=\"off\" aria-autocomplete=\"list\" role=\"combobox\" placeholder=\"Search\">",
           "target": [
-            ".ytSearchboxComponentInput"
+            "input"
           ]
         }
       ]
@@ -7848,7 +6718,7 @@
           "impact": null,
           "html": "<a class=\"yt-simple-endpoint style-scope ytd-topbar-logo-renderer\" id=\"logo\" aria-label=\"\" href=\"/\" title=\"YouTube Home\">",
           "target": [
-            "#start > ytd-topbar-logo-renderer > a[title=\"YouTube Home\"][href=\"/\"][aria-label=\"\"]"
+            "#start > ytd-topbar-logo-renderer > a[aria-label=\"\"][title=\"YouTube Home\"][href=\"/\"]"
           ]
         },
         {
@@ -8039,7 +6909,7 @@
           "impact": null,
           "html": "<a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://support.google.com/youtube/answer/95725\" rel=\"nofollow\" target=\"_blank\" dir=\"auto\">Learn more</a>",
           "target": [
-            "a[spellcheck=\"false\"][target=\"_blank\"][rel=\"nofollow\"]"
+            "a[target=\"_blank\"]"
           ]
         },
         {
@@ -8131,7 +7001,7 @@
           "impact": null,
           "html": "<a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://policies.google.com/technologies/cookies?hl=en\" rel=\"nofollow\" dir=\"auto\">cookies</a>",
           "target": [
-            ".legal-text.ytd-consent-bump-v2-lightbox > yt-formatted-string > a[spellcheck=\"false\"][rel=\"nofollow\"][dir=\"auto\"]"
+            ".legal-text > yt-formatted-string > a[spellcheck=\"false\"][dir=\"auto\"][rel=\"nofollow\"]"
           ]
         },
         {
@@ -8190,7 +7060,7 @@
           "impact": null,
           "html": "<a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://policies.google.com/privacy?hl=en\" rel=\"nofollow\" dir=\"auto\">Privacy Policy</a>",
           "target": [
-            "yt-formatted-string[sec=\"\"] > a[spellcheck=\"false\"][rel=\"nofollow\"][dir=\"auto\"]"
+            "yt-formatted-string[sec=\"\"] > a[spellcheck=\"false\"][dir=\"auto\"][rel=\"nofollow\"]"
           ]
         },
         {
@@ -8216,7 +7086,7 @@
           "impact": null,
           "html": "<a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://policies.google.com/terms?hl=en\" rel=\"nofollow\" dir=\"auto\">Terms of Service</a>",
           "target": [
-            ".link[has-link-only_=\"\"][link-inherit-color=\"\"]:nth-child(3) > a[spellcheck=\"false\"][rel=\"nofollow\"][dir=\"auto\"]"
+            ".link[link-inherit-color=\"\"][has-link-only_=\"\"]:nth-child(3) > a[spellcheck=\"false\"][dir=\"auto\"][rel=\"nofollow\"]"
           ]
         }
       ]
@@ -8250,7 +7120,7 @@
           "impact": null,
           "html": "<ul class=\"style-scope ytd-consent-bump-v2-lightbox\">",
           "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(1) > ul"
+            "div:nth-child(1) > ul"
           ]
         },
         {
@@ -8268,7 +7138,7 @@
           "impact": null,
           "html": "<ul class=\"style-scope ytd-consent-bump-v2-lightbox\">",
           "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(2) > ul"
+            "div:nth-child(2) > ul"
           ]
         }
       ]
@@ -8302,7 +7172,7 @@
           "impact": null,
           "html": "<li class=\"icon-li style-scope ytd-consent-bump-v2-lightbox\">",
           "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(1) > ul > li:nth-child(1)"
+            "div:nth-child(1) > ul > li:nth-child(1)"
           ]
         },
         {
@@ -8320,7 +7190,7 @@
           "impact": null,
           "html": "<li class=\"icon-li style-scope ytd-consent-bump-v2-lightbox\">",
           "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(1) > ul > li:nth-child(2)"
+            "div:nth-child(1) > ul > li:nth-child(2)"
           ]
         },
         {
@@ -8338,7 +7208,7 @@
           "impact": null,
           "html": "<li class=\"icon-li style-scope ytd-consent-bump-v2-lightbox\">",
           "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(1) > ul > li:nth-child(3)"
+            "div:nth-child(1) > ul > li:nth-child(3)"
           ]
         },
         {
@@ -8356,7 +7226,7 @@
           "impact": null,
           "html": "<li class=\"icon-li style-scope ytd-consent-bump-v2-lightbox\">",
           "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(2) > ul > li:nth-child(1)"
+            "div:nth-child(2) > ul > li:nth-child(1)"
           ]
         },
         {
@@ -8374,7 +7244,7 @@
           "impact": null,
           "html": "<li class=\"icon-li style-scope ytd-consent-bump-v2-lightbox\">",
           "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(2) > ul > li:nth-child(2)"
+            "div:nth-child(2) > ul > li:nth-child(2)"
           ]
         },
         {
@@ -8392,7 +7262,7 @@
           "impact": null,
           "html": "<li class=\"icon-li style-scope ytd-consent-bump-v2-lightbox\">",
           "target": [
-            ".ytd-consent-bump-v2-lightbox:nth-child(2) > ul > li:nth-child(3)"
+            "div:nth-child(2) > ul > li:nth-child(3)"
           ]
         },
         {
@@ -8411,41 +7281,6 @@
           "html": "<li class=\"icon-li style-scope ytd-consent-bump-v2-lightbox\">",
           "target": [
             "li:nth-child(4)"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "meta-viewport",
-      "impact": null,
-      "tags": [
-        "cat.sensory-and-visual-cues",
-        "wcag2aa",
-        "wcag144",
-        "EN-301-549",
-        "EN-9.1.4.4",
-        "ACT"
-      ],
-      "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
-      "help": "Zooming and scaling must not be disabled",
-      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/meta-viewport?application=playwright",
-      "nodes": [
-        {
-          "any": [
-            {
-              "id": "meta-viewport",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "<meta> tag does not disable zooming on mobile devices"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, viewport-fit=cover\">",
-          "target": [
-            "meta[name=\"viewport\"]"
           ]
         }
       ]
@@ -8481,7 +7316,7 @@
           "impact": null,
           "html": "<button id=\"button\" class=\"style-scope yt-icon-button\" aria-label=\"Guide\">",
           "target": [
-            ".yt-icon-button[aria-label=\"Guide\"]"
+            "button[aria-label=\"Guide\"]"
           ]
         },
         {
@@ -8535,7 +7370,7 @@
           "impact": null,
           "html": "<button id=\"button\" class=\"style-scope yt-icon-button\" aria-label=\"Settings\">",
           "target": [
-            ".yt-icon-button[aria-label=\"Settings\"]"
+            "button[aria-label=\"Settings\"]"
           ]
         },
         {
@@ -8589,7 +7424,7 @@
           "impact": null,
           "html": "<button class=\"yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment\" title=\"\" aria-label=\"Reject the use of cookies and other data for the purposes described\" aria-disabled=\"false\">",
           "target": [
-            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next"
+            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"]"
           ]
         },
         {
@@ -8607,7 +7442,7 @@
           "impact": null,
           "html": "<button class=\"yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment\" title=\"\" aria-label=\"Accept the use of cookies and other data for the purposes described\" aria-disabled=\"false\">",
           "target": [
-            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next"
+            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"]"
           ]
         }
       ]
@@ -8645,7 +7480,7 @@
           "impact": null,
           "html": "<div id=\"content\" class=\"style-scope ytd-consent-bump-v2-lightbox\">",
           "target": [
-            "#dialog > .ytd-consent-bump-v2-lightbox:nth-child(4)"
+            "#dialog > div:nth-child(4)"
           ]
         }
       ]
@@ -9008,7 +7843,7 @@
           "impact": "serious",
           "html": "<span class=\"yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap\" role=\"text\">Reject all</span>",
           "target": [
-            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next > .yt-spec-button-shape-next__button-text-content > .yt-core-attributed-string.yt-core-attributed-string--white-space-no-wrap[role=\"text\"]"
+            "ytd-button-renderer:nth-child(1) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"] > .yt-spec-button-shape-next__button-text-content > .yt-core-attributed-string.yt-core-attributed-string--white-space-no-wrap[role=\"text\"]"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
         },
@@ -9033,7 +7868,7 @@
           "impact": "serious",
           "html": "<span class=\"yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap\" role=\"text\">Accept all</span>",
           "target": [
-            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next > .yt-spec-button-shape-next__button-text-content > .yt-core-attributed-string.yt-core-attributed-string--white-space-no-wrap[role=\"text\"]"
+            "ytd-button-renderer:nth-child(2) > yt-button-shape > .yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono[title=\"\"] > .yt-spec-button-shape-next__button-text-content > .yt-core-attributed-string.yt-core-attributed-string--white-space-no-wrap[role=\"text\"]"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
         },
@@ -9090,7 +7925,7 @@
           "impact": "serious",
           "html": "<a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://policies.google.com/privacy?hl=en\" rel=\"nofollow\" dir=\"auto\">Privacy Policy</a>",
           "target": [
-            "yt-formatted-string[sec=\"\"] > a[spellcheck=\"false\"][rel=\"nofollow\"][dir=\"auto\"]"
+            "yt-formatted-string[sec=\"\"] > a[spellcheck=\"false\"][dir=\"auto\"][rel=\"nofollow\"]"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
         },
@@ -9122,7 +7957,7 @@
           "impact": "serious",
           "html": "<a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://policies.google.com/terms?hl=en\" rel=\"nofollow\" dir=\"auto\">Terms of Service</a>",
           "target": [
-            ".link[has-link-only_=\"\"][link-inherit-color=\"\"]:nth-child(3) > a[spellcheck=\"false\"][rel=\"nofollow\"][dir=\"auto\"]"
+            ".link[link-inherit-color=\"\"][has-link-only_=\"\"]:nth-child(3) > a[spellcheck=\"false\"][dir=\"auto\"][rel=\"nofollow\"]"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
         }

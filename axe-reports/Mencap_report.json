@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-08-04T17:18:10.749Z",
+  "timestamp": "2025-08-04T22:00:03.374Z",
   "url": "https://www.mencap.org.uk/",
   "toolOptions": {
     "runOnly": {
@@ -142,6 +142,21 @@
       "description": "Ensure elements with an ARIA role that require child roles contain them",
       "help": "Certain ARIA roles must contain particular children",
       "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-required-children?application=playwright",
+      "nodes": []
+    },
+    {
+      "id": "aria-required-parent",
+      "impact": null,
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag131",
+        "EN-301-549",
+        "EN-9.1.3.1"
+      ],
+      "description": "Ensure elements with an ARIA role that require parent roles are contained by them",
+      "help": "Certain ARIA roles must be contained by particular parents",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-required-parent?application=playwright",
       "nodes": []
     },
     {
@@ -1028,238 +1043,6 @@
           "target": [
             "#drupal-live-announce"
           ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-allowed-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attributes are used correctly for the defined role"
-            }
-          ],
-          "none": [
-            {
-              "id": "aria-unsupported-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div id=\"uc-main-dialog\" class=\"cmp first center desktop ltr gdpr\" style=\"\" role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"uc-privacy-title\" aria-describedby=\"uc-privacy-description\" tabindex=\"0\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#uc-main-dialog"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-allowed-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attributes are used correctly for the defined role"
-            }
-          ],
-          "none": [
-            {
-              "id": "aria-unsupported-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"consent-tab-button\" class=\"active\" data-action=\"activate\" data-source=\".sections-header >",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consent-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-allowed-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attributes are used correctly for the defined role"
-            }
-          ],
-          "none": [
-            {
-              "id": "aria-unsupported-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"categories-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#detailsPanel\" type=\"button\" aria-controls=\"detailsPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  Details\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#categories-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-allowed-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attributes are used correctly for the defined role"
-            }
-          ],
-          "none": [
-            {
-              "id": "aria-unsupported-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"about-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#aboutPanel\" type=\"button\" aria-controls=\"aboutPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  About\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#about-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-allowed-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attributes are used correctly for the defined role"
-            }
-          ],
-          "none": [
-            {
-              "id": "aria-unsupported-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div class=\"active\" role=\"tabpanel\" id=\"consentPanel\" aria-labelledby=\"consent-tab-button\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consentPanel"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-allowed-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attributes are used correctly for the defined role"
-            }
-          ],
-          "none": [
-            {
-              "id": "aria-unsupported-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<span aria-level=\"2\" role=\"heading\" class=\"privacy-title\" id=\"uc-privacy-title\">Privacy Settings</span>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              ".overflow > .privacy-title[aria-level=\"2\"][role=\"heading\"]"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-allowed-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attributes are used correctly for the defined role"
-            }
-          ],
-          "none": [
-            {
-              "id": "aria-unsupported-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<button data-action=\"consent\" data-action-type=\"more\" class=\"more uc-more-button\" id=\"more\" aria-label=\"Customise Cookies\" tabindex=\"0\">\n                                  Customise Cookies\n                                </button>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#more"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-allowed-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attributes are used correctly for the defined role"
-            }
-          ],
-          "none": [
-            {
-              "id": "aria-unsupported-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<button data-action=\"consent\" data-action-type=\"accept\" class=\"accept uc-accept-button\" id=\"accept\" aria-label=\"Accept All\" tabindex=\"0\">\n                                  Accept All\n                                </button>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#accept"
-            ]
-          ]
         }
       ]
     },
@@ -1601,174 +1384,6 @@
           "target": [
             "#drupal-live-announce"
           ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-conditional-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div id=\"uc-main-dialog\" class=\"cmp first center desktop ltr gdpr\" style=\"\" role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"uc-privacy-title\" aria-describedby=\"uc-privacy-description\" tabindex=\"0\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#uc-main-dialog"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-conditional-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"consent-tab-button\" class=\"active\" data-action=\"activate\" data-source=\".sections-header >",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consent-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-conditional-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"categories-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#detailsPanel\" type=\"button\" aria-controls=\"detailsPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  Details\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#categories-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-conditional-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"about-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#aboutPanel\" type=\"button\" aria-controls=\"aboutPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  About\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#about-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-conditional-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"active\" role=\"tabpanel\" id=\"consentPanel\" aria-labelledby=\"consent-tab-button\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consentPanel"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-conditional-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<span aria-level=\"2\" role=\"heading\" class=\"privacy-title\" id=\"uc-privacy-title\">Privacy Settings</span>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              ".overflow > .privacy-title[aria-level=\"2\"][role=\"heading\"]"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-conditional-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<button data-action=\"consent\" data-action-type=\"more\" class=\"more uc-more-button\" id=\"more\" aria-label=\"Customise Cookies\" tabindex=\"0\">\n                                  Customise Cookies\n                                </button>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#more"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-conditional-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<button data-action=\"consent\" data-action-type=\"accept\" class=\"accept uc-accept-button\" id=\"accept\" aria-label=\"Accept All\" tabindex=\"0\">\n                                  Accept All\n                                </button>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#accept"
-            ]
-          ]
         }
       ]
     },
@@ -1801,7 +1416,7 @@
           "impact": null,
           "html": "<header role=\"banner\" class=\" h-100 py-0 pt-3 border-0 masthead\">",
           "target": [
-            ".pt-3"
+            "header"
           ]
         },
         {
@@ -1963,7 +1578,7 @@
           "impact": null,
           "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
           "target": [
-            ".bts-footer"
+            "footer"
           ]
         },
         {
@@ -1979,7 +1594,7 @@
             }
           ],
           "impact": null,
-          "html": "<iframe title=\"reCAPTCHA\" width=\"304\" height=\"78\" role=\"presentation\" name=\"a-50dpaej9y1g9\" frameborder=\"0\" scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation\" src=\"https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lfvkm4UAAAAANSzYICQZdhw-pjLk0UOQlWbxILY&amp;co=aHR0cHM6Ly93d3cubWVuY2FwLm9yZy51azo0NDM.&amp;hl=en&amp;type=image&amp;v=DBIsSQ0s2djD_akThoRUDeHa&amp;theme=light&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=15000&amp;cb=abh9fshcr56m\">",
+          "html": "<iframe title=\"reCAPTCHA\" width=\"304\" height=\"78\" role=\"presentation\" name=\"a-yd5wuj769cj9\" frameborder=\"0\" scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation\" src=\"https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lfvkm4UAAAAANSzYICQZdhw-pjLk0UOQlWbxILY&amp;co=aHR0cHM6Ly93d3cubWVuY2FwLm9yZy51azo0NDM.&amp;hl=en&amp;type=image&amp;v=DBIsSQ0s2djD_akThoRUDeHa&amp;theme=light&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=15000&amp;cb=pujg5so7symv\">",
           "target": [
             "iframe[title=\"reCAPTCHA\"]"
           ]
@@ -2078,132 +1693,6 @@
             "iframe[title=\"reCAPTCHA\"]",
             ".recaptcha-checkbox-checkmark"
           ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "deprecatedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "minor",
-              "message": "ARIA role is not deprecated"
-            }
-          ],
-          "impact": null,
-          "html": "<div id=\"uc-main-dialog\" class=\"cmp first center desktop ltr gdpr\" style=\"\" role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"uc-privacy-title\" aria-describedby=\"uc-privacy-description\" tabindex=\"0\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#uc-main-dialog"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "deprecatedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "minor",
-              "message": "ARIA role is not deprecated"
-            }
-          ],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"consent-tab-button\" class=\"active\" data-action=\"activate\" data-source=\".sections-header >",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consent-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "deprecatedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "minor",
-              "message": "ARIA role is not deprecated"
-            }
-          ],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"categories-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#detailsPanel\" type=\"button\" aria-controls=\"detailsPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  Details\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#categories-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "deprecatedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "minor",
-              "message": "ARIA role is not deprecated"
-            }
-          ],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"about-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#aboutPanel\" type=\"button\" aria-controls=\"aboutPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  About\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#about-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "deprecatedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "minor",
-              "message": "ARIA role is not deprecated"
-            }
-          ],
-          "impact": null,
-          "html": "<div class=\"active\" role=\"tabpanel\" id=\"consentPanel\" aria-labelledby=\"consent-tab-button\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consentPanel"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "deprecatedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "minor",
-              "message": "ARIA role is not deprecated"
-            }
-          ],
-          "impact": null,
-          "html": "<span aria-level=\"2\" role=\"heading\" class=\"privacy-title\" id=\"uc-privacy-title\">Privacy Settings</span>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              ".overflow > .privacy-title[aria-level=\"2\"][role=\"heading\"]"
-            ]
-          ]
         }
       ]
     },
@@ -2288,7 +1777,7 @@
           "impact": null,
           "html": "<div aria-hidden=\"true\" class=\"btn d-flex justify-content-between align-items-center p-4 fw-bold fs-4\">Read <i class=\"fa-solid fa-arrow-right-long\"></i></div>",
           "target": [
-            ".views-row:nth-child(1) > .index-column--link-container-wrapper > .index-column-type--blog.contextual-region.index-column > .bg--primary.index-column__readmore.readmore__border > .p-4.fs-4.justify-content-between"
+            ".views-row:nth-child(1) > .index-column--link-container-wrapper > .index-column-type--blog.contextual-region.index-column > .bg--primary.index-column__readmore.readmore__border > .p-4.fs-4[aria-hidden=\"true\"]"
           ]
         },
         {
@@ -2320,7 +1809,7 @@
           "impact": null,
           "html": "<div aria-hidden=\"true\" class=\"btn d-flex justify-content-between align-items-center p-4 fw-bold fs-4\">Read <i class=\"fa-solid fa-arrow-right-long\"></i></div>",
           "target": [
-            ".views-row:nth-child(2) > .index-column--link-container-wrapper > .index-column-type--blog.contextual-region.index-column > .bg--primary.index-column__readmore.readmore__border > .p-4.fs-4.justify-content-between"
+            ".views-row:nth-child(2) > .index-column--link-container-wrapper > .index-column-type--blog.contextual-region.index-column > .bg--primary.index-column__readmore.readmore__border > .p-4.fs-4[aria-hidden=\"true\"]"
           ]
         },
         {
@@ -2352,7 +1841,7 @@
           "impact": null,
           "html": "<div aria-hidden=\"true\" class=\"btn d-flex justify-content-between align-items-center p-4 fw-bold fs-4\">Read <i class=\"fa-solid fa-arrow-right-long\"></i></div>",
           "target": [
-            ".views-row:nth-child(3) > .index-column--link-container-wrapper > .index-column-type--blog.contextual-region.index-column > .bg--primary.index-column__readmore.readmore__border > .p-4.fs-4.justify-content-between"
+            ".views-row:nth-child(3) > .index-column--link-container-wrapper > .index-column-type--blog.contextual-region.index-column > .bg--primary.index-column__readmore.readmore__border > .p-4.fs-4[aria-hidden=\"true\"]"
           ]
         },
         {
@@ -2384,7 +1873,7 @@
           "impact": null,
           "html": "<div aria-hidden=\"true\" class=\"btn d-flex justify-content-between align-items-center p-4 fw-bold fs-4\">View <i class=\"fa-solid fa-arrow-right-long\"></i></div>",
           "target": [
-            ".index-column--link-container-wrapper[href$=\"mencap-shops\"] > .type--section_index.index-column.index-column--with-image > .bg--additional2.index-column__readmore.readmore__border > .p-4.fs-4.justify-content-between"
+            ".index-column--link-container-wrapper[href$=\"mencap-shops\"] > .type--section_index.index-column.index-column--with-image > .bg--additional2.index-column__readmore.readmore__border > .p-4.fs-4[aria-hidden=\"true\"]"
           ]
         },
         {
@@ -2416,7 +1905,7 @@
           "impact": null,
           "html": "<div aria-hidden=\"true\" class=\"btn d-flex justify-content-between align-items-center p-4 fw-bold fs-4\">View <i class=\"fa-solid fa-arrow-right-long\"></i></div>",
           "target": [
-            ".index-column--link-container-wrapper[href$=\"volunteering\"] > .type--section_index.index-column.index-column--with-image > .bg--additional2.index-column__readmore.readmore__border > .p-4.fs-4.justify-content-between"
+            ".index-column--link-container-wrapper[href$=\"volunteering\"] > .type--section_index.index-column.index-column--with-image > .bg--additional2.index-column__readmore.readmore__border > .p-4.fs-4[aria-hidden=\"true\"]"
           ]
         },
         {
@@ -2448,7 +1937,7 @@
           "impact": null,
           "html": "<div aria-hidden=\"true\" class=\"btn d-flex justify-content-between align-items-center p-4 fw-bold fs-4\">View <i class=\"fa-solid fa-arrow-right-long\"></i></div>",
           "target": [
-            ".bg--additional1.index-column__readmore.readmore__border > .p-4.fs-4.justify-content-between"
+            ".bg--additional1.index-column__readmore.readmore__border > .p-4.fs-4[aria-hidden=\"true\"]"
           ]
         },
         {
@@ -2614,76 +2103,6 @@
           "target": [
             "iframe[title=\"reCAPTCHA\"]",
             ".rc-anchor-pt > span"
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"uc-toggle-container  disabled\" aria-hidden=\"true\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#detailsPanel > .list.categories-list > .uc-expandable-card.list-item.expandable:nth-child(3) > div[data-target=\"#uc-category-essential\"][data-load-target=\"#categoryDetailsessential\"][data-load-id=\"essential\"] > .list-item-header-actions.large-toggle > .uc-toggle-container.disabled[aria-hidden=\"true\"]"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "focusable-modal-open",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements while a modal is open"
-            },
-            {
-              "id": "focusable-disabled",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            },
-            {
-              "id": "focusable-not-tabbable",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "No focusable elements contained within element"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"uc-toggle-container  disabled\" aria-hidden=\"true\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              ".categories-section > .list.categories-list > .uc-expandable-card.list-item.expandable:nth-child(3) > div[data-target=\"#uc-category-essential\"][data-load-target=\"#categoryDetailsessential\"][data-load-id=\"essential\"] > .list-item-header-actions.large-toggle > .uc-toggle-container.disabled[aria-hidden=\"true\"]"
-            ]
           ]
         }
       ]
@@ -3026,174 +2445,6 @@
           "target": [
             "#drupal-live-announce"
           ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "aria-prohibited-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "impact": null,
-          "html": "<div id=\"uc-main-dialog\" class=\"cmp first center desktop ltr gdpr\" style=\"\" role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"uc-privacy-title\" aria-describedby=\"uc-privacy-description\" tabindex=\"0\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#uc-main-dialog"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "aria-prohibited-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"consent-tab-button\" class=\"active\" data-action=\"activate\" data-source=\".sections-header >",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consent-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "aria-prohibited-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"categories-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#detailsPanel\" type=\"button\" aria-controls=\"detailsPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  Details\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#categories-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "aria-prohibited-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"about-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#aboutPanel\" type=\"button\" aria-controls=\"aboutPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  About\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#about-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "aria-prohibited-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "impact": null,
-          "html": "<div class=\"active\" role=\"tabpanel\" id=\"consentPanel\" aria-labelledby=\"consent-tab-button\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consentPanel"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "aria-prohibited-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "impact": null,
-          "html": "<span aria-level=\"2\" role=\"heading\" class=\"privacy-title\" id=\"uc-privacy-title\">Privacy Settings</span>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              ".overflow > .privacy-title[aria-level=\"2\"][role=\"heading\"]"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "aria-prohibited-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "impact": null,
-          "html": "<button data-action=\"consent\" data-action-type=\"more\" class=\"more uc-more-button\" id=\"more\" aria-label=\"Customise Cookies\" tabindex=\"0\">\n                                  Customise Cookies\n                                </button>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#more"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "aria-prohibited-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "ARIA attribute is allowed"
-            }
-          ],
-          "impact": null,
-          "html": "<button data-action=\"consent\" data-action-type=\"accept\" class=\"accept uc-accept-button\" id=\"accept\" aria-label=\"Accept All\" tabindex=\"0\">\n                                  Accept All\n                                </button>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#accept"
-            ]
-          ]
         }
       ]
     },
@@ -3226,7 +2477,7 @@
           "impact": null,
           "html": "<header role=\"banner\" class=\" h-100 py-0 pt-3 border-0 masthead\">",
           "target": [
-            ".pt-3"
+            "header"
           ]
         },
         {
@@ -3388,7 +2639,7 @@
           "impact": null,
           "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
           "target": [
-            ".bts-footer"
+            "footer"
           ]
         },
         {
@@ -3404,7 +2655,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<iframe title=\"reCAPTCHA\" width=\"304\" height=\"78\" role=\"presentation\" name=\"a-50dpaej9y1g9\" frameborder=\"0\" scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation\" src=\"https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lfvkm4UAAAAANSzYICQZdhw-pjLk0UOQlWbxILY&amp;co=aHR0cHM6Ly93d3cubWVuY2FwLm9yZy51azo0NDM.&amp;hl=en&amp;type=image&amp;v=DBIsSQ0s2djD_akThoRUDeHa&amp;theme=light&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=15000&amp;cb=abh9fshcr56m\">",
+          "html": "<iframe title=\"reCAPTCHA\" width=\"304\" height=\"78\" role=\"presentation\" name=\"a-yd5wuj769cj9\" frameborder=\"0\" scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation\" src=\"https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lfvkm4UAAAAANSzYICQZdhw-pjLk0UOQlWbxILY&amp;co=aHR0cHM6Ly93d3cubWVuY2FwLm9yZy51azo0NDM.&amp;hl=en&amp;type=image&amp;v=DBIsSQ0s2djD_akThoRUDeHa&amp;theme=light&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=15000&amp;cb=pujg5so7symv\">",
           "target": [
             "iframe[title=\"reCAPTCHA\"]"
           ]
@@ -3502,132 +2753,6 @@
           "target": [
             "iframe[title=\"reCAPTCHA\"]",
             ".recaptcha-checkbox-checkmark"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-required-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "All required ARIA attributes are present"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div id=\"uc-main-dialog\" class=\"cmp first center desktop ltr gdpr\" style=\"\" role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"uc-privacy-title\" aria-describedby=\"uc-privacy-description\" tabindex=\"0\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#uc-main-dialog"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-required-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "All required ARIA attributes are present"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"consent-tab-button\" class=\"active\" data-action=\"activate\" data-source=\".sections-header >",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consent-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-required-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "All required ARIA attributes are present"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"categories-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#detailsPanel\" type=\"button\" aria-controls=\"detailsPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  Details\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#categories-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-required-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "All required ARIA attributes are present"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"about-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#aboutPanel\" type=\"button\" aria-controls=\"aboutPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  About\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#about-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-required-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "All required ARIA attributes are present"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"active\" role=\"tabpanel\" id=\"consentPanel\" aria-labelledby=\"consent-tab-button\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consentPanel"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-required-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "All required ARIA attributes are present"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<span aria-level=\"2\" role=\"heading\" class=\"privacy-title\" id=\"uc-privacy-title\">Privacy Settings</span>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              ".overflow > .privacy-title[aria-level=\"2\"][role=\"heading\"]"
-            ]
           ]
         }
       ]
@@ -3675,7 +2800,7 @@
           "impact": null,
           "html": "<header role=\"banner\" class=\" h-100 py-0 pt-3 border-0 masthead\">",
           "target": [
-            ".pt-3"
+            "header"
           ]
         },
         {
@@ -3963,7 +3088,7 @@
           "impact": null,
           "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
           "target": [
-            ".bts-footer"
+            "footer"
           ]
         },
         {
@@ -3993,7 +3118,7 @@
             }
           ],
           "impact": null,
-          "html": "<iframe title=\"reCAPTCHA\" width=\"304\" height=\"78\" role=\"presentation\" name=\"a-50dpaej9y1g9\" frameborder=\"0\" scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation\" src=\"https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lfvkm4UAAAAANSzYICQZdhw-pjLk0UOQlWbxILY&amp;co=aHR0cHM6Ly93d3cubWVuY2FwLm9yZy51azo0NDM.&amp;hl=en&amp;type=image&amp;v=DBIsSQ0s2djD_akThoRUDeHa&amp;theme=light&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=15000&amp;cb=abh9fshcr56m\">",
+          "html": "<iframe title=\"reCAPTCHA\" width=\"304\" height=\"78\" role=\"presentation\" name=\"a-yd5wuj769cj9\" frameborder=\"0\" scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation\" src=\"https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lfvkm4UAAAAANSzYICQZdhw-pjLk0UOQlWbxILY&amp;co=aHR0cHM6Ly93d3cubWVuY2FwLm9yZy51azo0NDM.&amp;hl=en&amp;type=image&amp;v=DBIsSQ0s2djD_akThoRUDeHa&amp;theme=light&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=15000&amp;cb=pujg5so7symv\">",
           "target": [
             "iframe[title=\"reCAPTCHA\"]"
           ]
@@ -4161,216 +3286,6 @@
           "target": [
             "iframe[title=\"reCAPTCHA\"]",
             ".recaptcha-checkbox-checkmark"
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "invalidrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is valid"
-            },
-            {
-              "id": "abstractrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Abstract roles are not used"
-            },
-            {
-              "id": "unsupportedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div id=\"uc-main-dialog\" class=\"cmp first center desktop ltr gdpr\" style=\"\" role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"uc-privacy-title\" aria-describedby=\"uc-privacy-description\" tabindex=\"0\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#uc-main-dialog"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "invalidrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is valid"
-            },
-            {
-              "id": "abstractrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Abstract roles are not used"
-            },
-            {
-              "id": "unsupportedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"consent-tab-button\" class=\"active\" data-action=\"activate\" data-source=\".sections-header >",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consent-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "invalidrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is valid"
-            },
-            {
-              "id": "abstractrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Abstract roles are not used"
-            },
-            {
-              "id": "unsupportedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"categories-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#detailsPanel\" type=\"button\" aria-controls=\"detailsPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  Details\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#categories-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "invalidrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is valid"
-            },
-            {
-              "id": "abstractrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Abstract roles are not used"
-            },
-            {
-              "id": "unsupportedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"about-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#aboutPanel\" type=\"button\" aria-controls=\"aboutPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  About\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#about-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "invalidrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is valid"
-            },
-            {
-              "id": "abstractrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Abstract roles are not used"
-            },
-            {
-              "id": "unsupportedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<div class=\"active\" role=\"tabpanel\" id=\"consentPanel\" aria-labelledby=\"consent-tab-button\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consentPanel"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [],
-          "none": [
-            {
-              "id": "invalidrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is valid"
-            },
-            {
-              "id": "abstractrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Abstract roles are not used"
-            },
-            {
-              "id": "unsupportedrole",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA role is supported"
-            }
-          ],
-          "impact": null,
-          "html": "<span aria-level=\"2\" role=\"heading\" class=\"privacy-title\" id=\"uc-privacy-title\">Privacy Settings</span>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              ".overflow > .privacy-title[aria-level=\"2\"][role=\"heading\"]"
-            ]
           ]
         }
       ]
@@ -5011,286 +3926,6 @@
           "target": [
             "#drupal-live-announce"
           ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-valid-attr-value",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute values are valid"
-            },
-            {
-              "id": "aria-errormessage",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
-            },
-            {
-              "id": "aria-level",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-level values are valid"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div id=\"uc-main-dialog\" class=\"cmp first center desktop ltr gdpr\" style=\"\" role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"uc-privacy-title\" aria-describedby=\"uc-privacy-description\" tabindex=\"0\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#uc-main-dialog"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-valid-attr-value",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute values are valid"
-            },
-            {
-              "id": "aria-errormessage",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
-            },
-            {
-              "id": "aria-level",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-level values are valid"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"consent-tab-button\" class=\"active\" data-action=\"activate\" data-source=\".sections-header >",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consent-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-valid-attr-value",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute values are valid"
-            },
-            {
-              "id": "aria-errormessage",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
-            },
-            {
-              "id": "aria-level",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-level values are valid"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"categories-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#detailsPanel\" type=\"button\" aria-controls=\"detailsPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  Details\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#categories-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-valid-attr-value",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute values are valid"
-            },
-            {
-              "id": "aria-errormessage",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
-            },
-            {
-              "id": "aria-level",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-level values are valid"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"about-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#aboutPanel\" type=\"button\" aria-controls=\"aboutPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  About\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#about-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-valid-attr-value",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute values are valid"
-            },
-            {
-              "id": "aria-errormessage",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
-            },
-            {
-              "id": "aria-level",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-level values are valid"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"active\" role=\"tabpanel\" id=\"consentPanel\" aria-labelledby=\"consent-tab-button\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consentPanel"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-valid-attr-value",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute values are valid"
-            },
-            {
-              "id": "aria-errormessage",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
-            },
-            {
-              "id": "aria-level",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-level values are valid"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<span aria-level=\"2\" role=\"heading\" class=\"privacy-title\" id=\"uc-privacy-title\">Privacy Settings</span>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              ".overflow > .privacy-title[aria-level=\"2\"][role=\"heading\"]"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-valid-attr-value",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute values are valid"
-            },
-            {
-              "id": "aria-errormessage",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
-            },
-            {
-              "id": "aria-level",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-level values are valid"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<button data-action=\"consent\" data-action-type=\"more\" class=\"more uc-more-button\" id=\"more\" aria-label=\"Customise Cookies\" tabindex=\"0\">\n                                  Customise Cookies\n                                </button>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#more"
-            ]
-          ]
-        },
-        {
-          "any": [],
-          "all": [
-            {
-              "id": "aria-valid-attr-value",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute values are valid"
-            },
-            {
-              "id": "aria-errormessage",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-errormessage exists and references elements visible to screen readers that use a supported aria-errormessage technique"
-            },
-            {
-              "id": "aria-level",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-level values are valid"
-            }
-          ],
-          "none": [],
-          "impact": null,
-          "html": "<button data-action=\"consent\" data-action-type=\"accept\" class=\"accept uc-accept-button\" id=\"accept\" aria-label=\"Accept All\" tabindex=\"0\">\n                                  Accept All\n                                </button>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#accept"
-            ]
-          ]
         }
       ]
     },
@@ -5632,174 +4267,6 @@
           "target": [
             "#drupal-live-announce"
           ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-valid-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute name is valid"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div id=\"uc-main-dialog\" class=\"cmp first center desktop ltr gdpr\" style=\"\" role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"uc-privacy-title\" aria-describedby=\"uc-privacy-description\" tabindex=\"0\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#uc-main-dialog"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-valid-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute name is valid"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"consent-tab-button\" class=\"active\" data-action=\"activate\" data-source=\".sections-header >",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consent-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-valid-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute name is valid"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"categories-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#detailsPanel\" type=\"button\" aria-controls=\"detailsPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  Details\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#categories-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-valid-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute name is valid"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"about-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#aboutPanel\" type=\"button\" aria-controls=\"aboutPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  About\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#about-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-valid-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute name is valid"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"active\" role=\"tabpanel\" id=\"consentPanel\" aria-labelledby=\"consent-tab-button\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consentPanel"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-valid-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute name is valid"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<span aria-level=\"2\" role=\"heading\" class=\"privacy-title\" id=\"uc-privacy-title\">Privacy Settings</span>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              ".overflow > .privacy-title[aria-level=\"2\"][role=\"heading\"]"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-valid-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute name is valid"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<button data-action=\"consent\" data-action-type=\"more\" class=\"more uc-more-button\" id=\"more\" aria-label=\"Customise Cookies\" tabindex=\"0\">\n                                  Customise Cookies\n                                </button>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#more"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "aria-valid-attr",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "ARIA attribute name is valid"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<button data-action=\"consent\" data-action-type=\"accept\" class=\"accept uc-accept-button\" id=\"accept\" aria-label=\"Accept All\" tabindex=\"0\">\n                                  Accept All\n                                </button>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#accept"
-            ]
-          ]
         }
       ]
     },
@@ -5856,62 +4323,6 @@
           "html": "<button class=\"button button-calltoaction form-submit\" type=\"submit\" id=\"edit-submit\" name=\"op\" data-drupal-selector=\"edit-custom-submit\">Sign up</button>",
           "target": [
             ".button-calltoaction"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "button-has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Element has inner text that is visible to screen readers"
-            },
-            {
-              "id": "aria-label",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-label attribute exists and is not empty"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<button data-action=\"consent\" data-action-type=\"more\" class=\"more uc-more-button\" id=\"more\" aria-label=\"Customise Cookies\" tabindex=\"0\">\n                                  Customise Cookies\n                                </button>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#more"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "button-has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Element has inner text that is visible to screen readers"
-            },
-            {
-              "id": "aria-label",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "aria-label attribute exists and is not empty"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<button data-action=\"consent\" data-action-type=\"accept\" class=\"accept uc-accept-button\" id=\"accept\" aria-label=\"Accept All\" tabindex=\"0\">\n                                  Accept All\n                                </button>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#accept"
-            ]
           ]
         }
       ]
@@ -6059,15 +4470,6 @@
                   "html": "<h2 style=\"font-size: 2rem; font-weight: bold;\" class=\"visually-hidden\" id=\"block-mencap-footersubmenu-menu\">Footer Sub Menu</h2>",
                   "target": [
                     "#block-mencap-footersubmenu-menu"
-                  ]
-                },
-                {
-                  "html": "<span aria-level=\"2\" role=\"heading\" class=\"privacy-title\" id=\"uc-privacy-title\">Privacy Settings</span>",
-                  "target": [
-                    [
-                      "#usercentrics-cmp-ui",
-                      ".overflow > .privacy-title[aria-level=\"2\"][role=\"heading\"]"
-                    ]
                   ]
                 }
               ],
@@ -6840,7 +5242,7 @@
           "impact": null,
           "html": "<div aria-hidden=\"true\" class=\"btn d-flex justify-content-between align-items-center p-4 fw-bold fs-4\">Read <i class=\"fa-solid fa-arrow-right-long\"></i></div>",
           "target": [
-            ".views-row:nth-child(1) > .index-column--link-container-wrapper > .index-column-type--blog.contextual-region.index-column > .bg--primary.index-column__readmore.readmore__border > .p-4.fs-4.justify-content-between"
+            ".views-row:nth-child(1) > .index-column--link-container-wrapper > .index-column-type--blog.contextual-region.index-column > .bg--primary.index-column__readmore.readmore__border > .p-4.fs-4[aria-hidden=\"true\"]"
           ]
         },
         {
@@ -6915,7 +5317,7 @@
           "impact": null,
           "html": "<div aria-hidden=\"true\" class=\"btn d-flex justify-content-between align-items-center p-4 fw-bold fs-4\">Read <i class=\"fa-solid fa-arrow-right-long\"></i></div>",
           "target": [
-            ".views-row:nth-child(2) > .index-column--link-container-wrapper > .index-column-type--blog.contextual-region.index-column > .bg--primary.index-column__readmore.readmore__border > .p-4.fs-4.justify-content-between"
+            ".views-row:nth-child(2) > .index-column--link-container-wrapper > .index-column-type--blog.contextual-region.index-column > .bg--primary.index-column__readmore.readmore__border > .p-4.fs-4[aria-hidden=\"true\"]"
           ]
         },
         {
@@ -6990,7 +5392,7 @@
           "impact": null,
           "html": "<div aria-hidden=\"true\" class=\"btn d-flex justify-content-between align-items-center p-4 fw-bold fs-4\">Read <i class=\"fa-solid fa-arrow-right-long\"></i></div>",
           "target": [
-            ".views-row:nth-child(3) > .index-column--link-container-wrapper > .index-column-type--blog.contextual-region.index-column > .bg--primary.index-column__readmore.readmore__border > .p-4.fs-4.justify-content-between"
+            ".views-row:nth-child(3) > .index-column--link-container-wrapper > .index-column-type--blog.contextual-region.index-column > .bg--primary.index-column__readmore.readmore__border > .p-4.fs-4[aria-hidden=\"true\"]"
           ]
         },
         {
@@ -7640,7 +6042,7 @@
           "impact": null,
           "html": "<div aria-hidden=\"true\" class=\"btn d-flex justify-content-between align-items-center p-4 fw-bold fs-4\">View <i class=\"fa-solid fa-arrow-right-long\"></i></div>",
           "target": [
-            ".index-column--link-container-wrapper[href$=\"mencap-shops\"] > .type--section_index.index-column.index-column--with-image > .bg--additional2.index-column__readmore.readmore__border > .p-4.fs-4.justify-content-between"
+            ".index-column--link-container-wrapper[href$=\"mencap-shops\"] > .type--section_index.index-column.index-column--with-image > .bg--additional2.index-column__readmore.readmore__border > .p-4.fs-4[aria-hidden=\"true\"]"
           ]
         },
         {
@@ -7715,7 +6117,7 @@
           "impact": null,
           "html": "<div aria-hidden=\"true\" class=\"btn d-flex justify-content-between align-items-center p-4 fw-bold fs-4\">View <i class=\"fa-solid fa-arrow-right-long\"></i></div>",
           "target": [
-            ".index-column--link-container-wrapper[href$=\"volunteering\"] > .type--section_index.index-column.index-column--with-image > .bg--additional2.index-column__readmore.readmore__border > .p-4.fs-4.justify-content-between"
+            ".index-column--link-container-wrapper[href$=\"volunteering\"] > .type--section_index.index-column.index-column--with-image > .bg--additional2.index-column__readmore.readmore__border > .p-4.fs-4[aria-hidden=\"true\"]"
           ]
         },
         {
@@ -7790,7 +6192,7 @@
           "impact": null,
           "html": "<div aria-hidden=\"true\" class=\"btn d-flex justify-content-between align-items-center p-4 fw-bold fs-4\">View <i class=\"fa-solid fa-arrow-right-long\"></i></div>",
           "target": [
-            ".bg--additional1.index-column__readmore.readmore__border > .p-4.fs-4.justify-content-between"
+            ".bg--additional1.index-column__readmore.readmore__border > .p-4.fs-4[aria-hidden=\"true\"]"
           ]
         },
         {
@@ -8284,174 +6686,6 @@
           "target": [
             ".m-0.text-mb-purple"
           ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#ffffff",
-                "bgColor": "#4f006f",
-                "contrastRatio": 13.44,
-                "fontSize": "11.2pt (14.994px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 13.44"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"consent-tab-button\" class=\"active\" data-action=\"activate\" data-source=\".sections-header >",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consent-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#f7f0e2",
-                "bgColor": "#4f006f",
-                "contrastRatio": 11.85,
-                "fontSize": "11.2pt (14.994px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 11.85"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"categories-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#detailsPanel\" type=\"button\" aria-controls=\"detailsPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  Details\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#categories-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#f7f0e2",
-                "bgColor": "#4f006f",
-                "contrastRatio": 11.85,
-                "fontSize": "11.2pt (14.994px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 11.85"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"about-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#aboutPanel\" type=\"button\" aria-controls=\"aboutPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  About\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#about-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#f7f0e2",
-                "bgColor": "#4f006f",
-                "contrastRatio": 11.85,
-                "fontSize": "11.2pt (14.994px)",
-                "fontWeight": "bold",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 11.85"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<span aria-level=\"2\" role=\"heading\" class=\"privacy-title\" id=\"uc-privacy-title\">Privacy Settings</span>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              ".overflow > .privacy-title[aria-level=\"2\"][role=\"heading\"]"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#f7f0e2",
-                "bgColor": "#4f006f",
-                "contrastRatio": 11.85,
-                "fontSize": "11.2pt (14.994px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 11.85"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<button data-action=\"consent\" data-action-type=\"more\" class=\"more uc-more-button\" id=\"more\" aria-label=\"Customise Cookies\" tabindex=\"0\">\n                                  Customise Cookies\n                                </button>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#more"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#000000",
-                "bgColor": "#f7f0e2",
-                "contrastRatio": 18.51,
-                "fontSize": "11.2pt (14.994px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 18.51"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<button data-action=\"consent\" data-action-type=\"accept\" class=\"accept uc-accept-button\" id=\"accept\" aria-label=\"Accept All\" tabindex=\"0\">\n                                  Accept All\n                                </button>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#accept"
-            ]
-          ]
         }
       ]
     },
@@ -8687,111 +6921,6 @@
           "target": [
             "#block-mencap-footersubmenu-menu"
           ]
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
-              "data": "consent-tab-button",
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"consent-tab-button\" class=\"active\" data-action=\"activate\" data-source=\".sections-header >",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consent-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
-              "data": "about-tab-button",
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"about-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#aboutPanel\" type=\"button\" aria-controls=\"aboutPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  About\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#about-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
-              "data": "consentPanel",
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div class=\"active\" role=\"tabpanel\" id=\"consentPanel\" aria-labelledby=\"consent-tab-button\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consentPanel"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
-              "data": "detailsPanel",
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tabpanel\" id=\"detailsPanel\" aria-labelledby=\"details-tab-button\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#detailsPanel"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
-              "data": "aboutPanel",
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tabpanel\" id=\"aboutPanel\" aria-labelledby=\"about-tab-button\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#aboutPanel"
-            ]
-          ]
         }
       ]
     },
@@ -8935,7 +7064,7 @@
             }
           ],
           "impact": null,
-          "html": "<iframe title=\"reCAPTCHA\" width=\"304\" height=\"78\" role=\"presentation\" name=\"a-50dpaej9y1g9\" frameborder=\"0\" scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation\" src=\"https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lfvkm4UAAAAANSzYICQZdhw-pjLk0UOQlWbxILY&amp;co=aHR0cHM6Ly93d3cubWVuY2FwLm9yZy51azo0NDM.&amp;hl=en&amp;type=image&amp;v=DBIsSQ0s2djD_akThoRUDeHa&amp;theme=light&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=15000&amp;cb=abh9fshcr56m\">",
+          "html": "<iframe title=\"reCAPTCHA\" width=\"304\" height=\"78\" role=\"presentation\" name=\"a-yd5wuj769cj9\" frameborder=\"0\" scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation\" src=\"https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lfvkm4UAAAAANSzYICQZdhw-pjLk0UOQlWbxILY&amp;co=aHR0cHM6Ly93d3cubWVuY2FwLm9yZy51azo0NDM.&amp;hl=en&amp;type=image&amp;v=DBIsSQ0s2djD_akThoRUDeHa&amp;theme=light&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=15000&amp;cb=pujg5so7symv\">",
           "target": [
             "iframe[title=\"reCAPTCHA\"]"
           ]
@@ -8973,7 +7102,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<iframe title=\"reCAPTCHA\" width=\"304\" height=\"78\" role=\"presentation\" name=\"a-50dpaej9y1g9\" frameborder=\"0\" scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation\" src=\"https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lfvkm4UAAAAANSzYICQZdhw-pjLk0UOQlWbxILY&amp;co=aHR0cHM6Ly93d3cubWVuY2FwLm9yZy51azo0NDM.&amp;hl=en&amp;type=image&amp;v=DBIsSQ0s2djD_akThoRUDeHa&amp;theme=light&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=15000&amp;cb=abh9fshcr56m\">",
+          "html": "<iframe title=\"reCAPTCHA\" width=\"304\" height=\"78\" role=\"presentation\" name=\"a-yd5wuj769cj9\" frameborder=\"0\" scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation\" src=\"https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lfvkm4UAAAAANSzYICQZdhw-pjLk0UOQlWbxILY&amp;co=aHR0cHM6Ly93d3cubWVuY2FwLm9yZy51azo0NDM.&amp;hl=en&amp;type=image&amp;v=DBIsSQ0s2djD_akThoRUDeHa&amp;theme=light&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=15000&amp;cb=pujg5so7symv\">",
           "target": [
             "iframe[title=\"reCAPTCHA\"]"
           ]
@@ -9491,44 +7620,6 @@
           "target": [
             "img[width=\"100%\"]"
           ]
-        },
-        {
-          "any": [
-            {
-              "id": "has-alt",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Element has an alt attribute"
-            },
-            {
-              "id": "presentational-role",
-              "data": {
-                "role": "presentation"
-              },
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Element's default semantics were overridden with role=\"presentation\""
-            }
-          ],
-          "all": [],
-          "none": [
-            {
-              "id": "alt-space-value",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Element has a valid alt attribute value"
-            }
-          ],
-          "impact": null,
-          "html": "<img class=\"logo left\" src=\"https://www.mencap.org.uk/sites/default/files/2025-06/Image%20%2835%29.png\" alt=\"\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              ".left.logo[alt=\"\"]"
-            ]
-          ]
         }
       ]
     },
@@ -9714,7 +7805,7 @@
     },
     {
       "id": "link-name",
-      "impact": "serious",
+      "impact": null,
       "tags": [
         "cat.name-role-value",
         "wcag2a",
@@ -11947,111 +10038,6 @@
           "target": [
             "img[width=\"100%\"]"
           ]
-        },
-        {
-          "any": [
-            {
-              "id": "no-focusable-content",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element does not have focusable descendants"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"consent-tab-button\" class=\"active\" data-action=\"activate\" data-source=\".sections-header >",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consent-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "no-focusable-content",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element does not have focusable descendants"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"categories-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#detailsPanel\" type=\"button\" aria-controls=\"detailsPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  Details\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#categories-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "no-focusable-content",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element does not have focusable descendants"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<div role=\"tab\" id=\"about-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#aboutPanel\" type=\"button\" aria-controls=\"aboutPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  About\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#about-tab-button"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "no-focusable-content",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element does not have focusable descendants"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<button data-action=\"consent\" data-action-type=\"more\" class=\"more uc-more-button\" id=\"more\" aria-label=\"Customise Cookies\" tabindex=\"0\">\n                                  Customise Cookies\n                                </button>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#more"
-            ]
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "no-focusable-content",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element does not have focusable descendants"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<button data-action=\"consent\" data-action-type=\"accept\" class=\"accept uc-accept-button\" id=\"accept\" aria-label=\"Accept All\" tabindex=\"0\">\n                                  Accept All\n                                </button>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#accept"
-            ]
-          ]
         }
       ]
     },
@@ -12225,7 +10211,7 @@
                 {
                   "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
                   "target": [
-                    ".bts-footer"
+                    "footer"
                   ]
                 }
               ],
@@ -12257,7 +10243,7 @@
                 {
                   "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
                   "target": [
-                    ".bts-footer"
+                    "footer"
                   ]
                 }
               ],
@@ -12289,7 +10275,7 @@
                 {
                   "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
                   "target": [
-                    ".bts-footer"
+                    "footer"
                   ]
                 }
               ],
@@ -12321,7 +10307,7 @@
                 {
                   "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
                   "target": [
-                    ".bts-footer"
+                    "footer"
                   ]
                 }
               ],
@@ -12353,7 +10339,7 @@
                 {
                   "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
                   "target": [
-                    ".bts-footer"
+                    "footer"
                   ]
                 }
               ],
@@ -12385,7 +10371,7 @@
                 {
                   "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
                   "target": [
-                    ".bts-footer"
+                    "footer"
                   ]
                 }
               ],
@@ -12417,7 +10403,7 @@
                 {
                   "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
                   "target": [
-                    ".bts-footer"
+                    "footer"
                   ]
                 }
               ],
@@ -12449,7 +10435,7 @@
                 {
                   "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
                   "target": [
-                    ".bts-footer"
+                    "footer"
                   ]
                 }
               ],
@@ -12481,7 +10467,7 @@
                 {
                   "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
                   "target": [
-                    ".bts-footer"
+                    "footer"
                   ]
                 }
               ],
@@ -12513,7 +10499,7 @@
                 {
                   "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
                   "target": [
-                    ".bts-footer"
+                    "footer"
                   ]
                 }
               ],
@@ -12545,7 +10531,7 @@
                 {
                   "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
                   "target": [
-                    ".bts-footer"
+                    "footer"
                   ]
                 }
               ],
@@ -12577,7 +10563,7 @@
                 {
                   "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
                   "target": [
-                    ".bts-footer"
+                    "footer"
                   ]
                 }
               ],
@@ -12609,7 +10595,7 @@
                 {
                   "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
                   "target": [
-                    ".bts-footer"
+                    "footer"
                   ]
                 }
               ],
@@ -12641,7 +10627,7 @@
                 {
                   "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
                   "target": [
-                    ".bts-footer"
+                    "footer"
                   ]
                 }
               ],
@@ -12673,7 +10659,7 @@
                 {
                   "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
                   "target": [
-                    ".bts-footer"
+                    "footer"
                   ]
                 }
               ],
@@ -12705,7 +10691,7 @@
                 {
                   "html": "<footer role=\"contentinfo\" class=\"bts-footer text-bg-mb-purple d-flex flex-column align-items-center gap-5 fs-4 border-top border-5 border-mb-popping-pink bts-footer-rings\">",
                   "target": [
-                    ".bts-footer"
+                    "footer"
                   ]
                 }
               ],
@@ -12789,34 +10775,6 @@
             "a:nth-child(3)"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background image"
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "contrastRatio": 0,
-                "fontSize": "11.2pt (14.994px)",
-                "fontWeight": "normal",
-                "messageKey": "elmPartiallyObscuring",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element's background color could not be determined because it partially overlaps other elements"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "serious",
-          "html": "<span class=\"privacy-text-detailed\">This site uses third-party website tracking technologies to provide and continually improve our services, and to display advertisements according to users' interests. I agree and may revoke or change my consent at any time with effect for the future.\n</span>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              ".overflow > .privacy-text[data-action=\"\"] > .privacy-text-detailed"
-            ]
-          ],
-          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it partially overlaps other elements"
         }
       ]
     },
@@ -12883,355 +10841,11 @@
             ".call-to-action__desc > p > .onomasticon.onomasticon-extra-element.onomasticon-orientation-below > .onomasticon-term-description[role=\"tooltip\"][hidden=\"\"]"
           ],
           "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: definition"
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
-              "data": "uc-privacy-title",
-              "relatedNodes": [
-                {
-                  "html": "<span aria-level=\"2\" role=\"heading\" class=\"privacy-title\" id=\"uc-privacy-title\">Privacy Settings</span>",
-                  "target": [
-                    [
-                      "#usercentrics-cmp-ui",
-                      ".privacy-section > .cb-dialog-intro > div > .privacy-title[aria-level=\"2\"][role=\"heading\"]"
-                    ]
-                  ]
-                }
-              ],
-              "impact": "critical",
-              "message": "Document has multiple elements referenced with ARIA with the same id attribute: uc-privacy-title"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "critical",
-          "html": "<span aria-level=\"2\" role=\"heading\" class=\"privacy-title\" id=\"uc-privacy-title\">Privacy Settings</span>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              ".overflow > .privacy-title[aria-level=\"2\"][role=\"heading\"]"
-            ]
-          ],
-          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: uc-privacy-title"
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
-              "data": "uc-privacy-description",
-              "relatedNodes": [
-                {
-                  "html": "<div class=\"privacy-text \" data-action=\"\" id=\"uc-privacy-description\">",
-                  "target": [
-                    [
-                      "#usercentrics-cmp-ui",
-                      ".privacy-section > .cb-dialog-intro > div > .privacy-text[data-action=\"\"]"
-                    ]
-                  ]
-                }
-              ],
-              "impact": "critical",
-              "message": "Document has multiple elements referenced with ARIA with the same id attribute: uc-privacy-description"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "critical",
-          "html": "<div class=\"privacy-text \" data-action=\"\" id=\"uc-privacy-description\">",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              ".overflow > .privacy-text[data-action=\"\"]"
-            ]
-          ],
-          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: uc-privacy-description"
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
-              "data": "uc-category-marketing-item-title",
-              "relatedNodes": [
-                {
-                  "html": "<div class=\"uc-card-title list-item-header-title\" id=\"uc-category-marketing-item-title\">Marketing<span class=\"uc-badge badge\">16</span></div>",
-                  "target": [
-                    [
-                      "#usercentrics-cmp-ui",
-                      ".categories-section > .list.categories-list > .uc-expandable-card.list-item.expandable:nth-child(1) > div[data-target=\"#uc-category-marketing\"][data-load-target=\"#categoryDetailsmarketing\"][data-load-id=\"marketing\"] > .list-item-header-content > .uc-card-title.list-item-header-title"
-                    ]
-                  ]
-                }
-              ],
-              "impact": "critical",
-              "message": "Document has multiple elements referenced with ARIA with the same id attribute: uc-category-marketing-item-title"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "critical",
-          "html": "<div class=\"uc-card-title list-item-header-title\" id=\"uc-category-marketing-item-title\">Marketing<span class=\"uc-badge badge\">16</span></div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#detailsPanel > .list.categories-list > .uc-expandable-card.list-item.expandable:nth-child(1) > div[data-target=\"#uc-category-marketing\"][data-load-target=\"#categoryDetailsmarketing\"][data-load-id=\"marketing\"] > .list-item-header-content > .uc-card-title.list-item-header-title"
-            ]
-          ],
-          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: uc-category-marketing-item-title"
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
-              "data": "uc-category-marketing-item-subtitle",
-              "relatedNodes": [
-                {
-                  "html": "<div class=\"uc-card-description list-item-header-subtitle\" id=\"uc-category-marketing-item-subtitle\">These technologies are used by advertisers to serve ads that are relevant to your interests.</div>",
-                  "target": [
-                    [
-                      "#usercentrics-cmp-ui",
-                      ".categories-section > .list.categories-list > .uc-expandable-card.list-item.expandable:nth-child(1) > div[data-target=\"#uc-category-marketing\"][data-load-target=\"#categoryDetailsmarketing\"][data-load-id=\"marketing\"] > .list-item-header-content > .uc-card-description.list-item-header-subtitle"
-                    ]
-                  ]
-                }
-              ],
-              "impact": "critical",
-              "message": "Document has multiple elements referenced with ARIA with the same id attribute: uc-category-marketing-item-subtitle"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "critical",
-          "html": "<div class=\"uc-card-description list-item-header-subtitle\" id=\"uc-category-marketing-item-subtitle\">These technologies are used by advertisers to serve ads that are relevant to your interests.</div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#detailsPanel > .list.categories-list > .uc-expandable-card.list-item.expandable:nth-child(1) > div[data-target=\"#uc-category-marketing\"][data-load-target=\"#categoryDetailsmarketing\"][data-load-id=\"marketing\"] > .list-item-header-content > .uc-card-description.list-item-header-subtitle"
-            ]
-          ],
-          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: uc-category-marketing-item-subtitle"
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
-              "data": "uc-category-functional-item-title",
-              "relatedNodes": [
-                {
-                  "html": "<div class=\"uc-card-title list-item-header-title\" id=\"uc-category-functional-item-title\">Functional<span class=\"uc-badge badge\">19</span></div>",
-                  "target": [
-                    [
-                      "#usercentrics-cmp-ui",
-                      ".categories-section > .list.categories-list > .uc-expandable-card.list-item.expandable:nth-child(2) > div[data-target=\"#uc-category-functional\"][data-load-target=\"#categoryDetailsfunctional\"][data-load-id=\"functional\"] > .list-item-header-content > .uc-card-title.list-item-header-title"
-                    ]
-                  ]
-                }
-              ],
-              "impact": "critical",
-              "message": "Document has multiple elements referenced with ARIA with the same id attribute: uc-category-functional-item-title"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "critical",
-          "html": "<div class=\"uc-card-title list-item-header-title\" id=\"uc-category-functional-item-title\">Functional<span class=\"uc-badge badge\">19</span></div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#detailsPanel > .list.categories-list > .uc-expandable-card.list-item.expandable:nth-child(2) > div[data-target=\"#uc-category-functional\"][data-load-target=\"#categoryDetailsfunctional\"][data-load-id=\"functional\"] > .list-item-header-content > .uc-card-title.list-item-header-title"
-            ]
-          ],
-          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: uc-category-functional-item-title"
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
-              "data": "uc-category-functional-item-subtitle",
-              "relatedNodes": [
-                {
-                  "html": "<div class=\"uc-card-description list-item-header-subtitle\" id=\"uc-category-functional-item-subtitle\">These technologies enable us to analyse usage behavior in order to measure and improve performance.</div>",
-                  "target": [
-                    [
-                      "#usercentrics-cmp-ui",
-                      ".categories-section > .list.categories-list > .uc-expandable-card.list-item.expandable:nth-child(2) > div[data-target=\"#uc-category-functional\"][data-load-target=\"#categoryDetailsfunctional\"][data-load-id=\"functional\"] > .list-item-header-content > .uc-card-description.list-item-header-subtitle"
-                    ]
-                  ]
-                }
-              ],
-              "impact": "critical",
-              "message": "Document has multiple elements referenced with ARIA with the same id attribute: uc-category-functional-item-subtitle"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "critical",
-          "html": "<div class=\"uc-card-description list-item-header-subtitle\" id=\"uc-category-functional-item-subtitle\">These technologies enable us to analyse usage behavior in order to measure and improve performance.</div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#detailsPanel > .list.categories-list > .uc-expandable-card.list-item.expandable:nth-child(2) > div[data-target=\"#uc-category-functional\"][data-load-target=\"#categoryDetailsfunctional\"][data-load-id=\"functional\"] > .list-item-header-content > .uc-card-description.list-item-header-subtitle"
-            ]
-          ],
-          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: uc-category-functional-item-subtitle"
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
-              "data": "uc-category-essential-item-title",
-              "relatedNodes": [
-                {
-                  "html": "<div class=\"uc-card-title list-item-header-title\" id=\"uc-category-essential-item-title\">Essential<span class=\"uc-badge badge\">16</span></div>",
-                  "target": [
-                    [
-                      "#usercentrics-cmp-ui",
-                      ".categories-section > .list.categories-list > .uc-expandable-card.list-item.expandable:nth-child(3) > div[data-target=\"#uc-category-essential\"][data-load-target=\"#categoryDetailsessential\"][data-load-id=\"essential\"] > .list-item-header-content > .uc-card-title.list-item-header-title"
-                    ]
-                  ]
-                }
-              ],
-              "impact": "critical",
-              "message": "Document has multiple elements referenced with ARIA with the same id attribute: uc-category-essential-item-title"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "critical",
-          "html": "<div class=\"uc-card-title list-item-header-title\" id=\"uc-category-essential-item-title\">Essential<span class=\"uc-badge badge\">16</span></div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#detailsPanel > .list.categories-list > .uc-expandable-card.list-item.expandable:nth-child(3) > div[data-target=\"#uc-category-essential\"][data-load-target=\"#categoryDetailsessential\"][data-load-id=\"essential\"] > .list-item-header-content > .uc-card-title.list-item-header-title"
-            ]
-          ],
-          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: uc-category-essential-item-title"
-        },
-        {
-          "any": [
-            {
-              "id": "duplicate-id-aria",
-              "data": "uc-category-essential-item-subtitle",
-              "relatedNodes": [
-                {
-                  "html": "<div class=\"uc-card-description list-item-header-subtitle\" id=\"uc-category-essential-item-subtitle\">These technologies are required to activate the core functionality of our service.</div>",
-                  "target": [
-                    [
-                      "#usercentrics-cmp-ui",
-                      ".categories-section > .list.categories-list > .uc-expandable-card.list-item.expandable:nth-child(3) > div[data-target=\"#uc-category-essential\"][data-load-target=\"#categoryDetailsessential\"][data-load-id=\"essential\"] > .list-item-header-content > .uc-card-description.list-item-header-subtitle"
-                    ]
-                  ]
-                }
-              ],
-              "impact": "critical",
-              "message": "Document has multiple elements referenced with ARIA with the same id attribute: uc-category-essential-item-subtitle"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "critical",
-          "html": "<div class=\"uc-card-description list-item-header-subtitle\" id=\"uc-category-essential-item-subtitle\">These technologies are required to activate the core functionality of our service.</div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#detailsPanel > .list.categories-list > .uc-expandable-card.list-item.expandable:nth-child(3) > div[data-target=\"#uc-category-essential\"][data-load-target=\"#categoryDetailsessential\"][data-load-id=\"essential\"] > .list-item-header-content > .uc-card-description.list-item-header-subtitle"
-            ]
-          ],
-          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: uc-category-essential-item-subtitle"
         }
       ]
     }
   ],
   "violations": [
-    {
-      "id": "aria-required-parent",
-      "impact": "critical",
-      "tags": [
-        "cat.aria",
-        "wcag2a",
-        "wcag131",
-        "EN-301-549",
-        "EN-9.1.3.1"
-      ],
-      "description": "Ensure elements with an ARIA role that require parent roles are contained by them",
-      "help": "Certain ARIA roles must be contained by particular parents",
-      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-required-parent?application=playwright",
-      "nodes": [
-        {
-          "any": [
-            {
-              "id": "aria-required-parent",
-              "data": [
-                "tablist"
-              ],
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Required ARIA parent role not present: tablist"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "critical",
-          "html": "<div role=\"tab\" id=\"consent-tab-button\" class=\"active\" data-action=\"activate\" data-source=\".sections-header >",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#consent-tab-button"
-            ]
-          ],
-          "failureSummary": "Fix any of the following:\n  Required ARIA parent role not present: tablist"
-        },
-        {
-          "any": [
-            {
-              "id": "aria-required-parent",
-              "data": [
-                "tablist"
-              ],
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Required ARIA parent role not present: tablist"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "critical",
-          "html": "<div role=\"tab\" id=\"categories-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#detailsPanel\" type=\"button\" aria-controls=\"detailsPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  Details\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#categories-tab-button"
-            ]
-          ],
-          "failureSummary": "Fix any of the following:\n  Required ARIA parent role not present: tablist"
-        },
-        {
-          "any": [
-            {
-              "id": "aria-required-parent",
-              "data": [
-                "tablist"
-              ],
-              "relatedNodes": [],
-              "impact": "critical",
-              "message": "Required ARIA parent role not present: tablist"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": "critical",
-          "html": "<div role=\"tab\" id=\"about-tab-button\" data-action=\"activate\" data-source=\".sections-header > div\" data-target=\"#aboutPanel\" type=\"button\" aria-controls=\"aboutPanel\" tabindex=\"-1\" aria-selected=\"false\">\n                                  About\n                                </div>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "#about-tab-button"
-            ]
-          ],
-          "failureSummary": "Fix any of the following:\n  Required ARIA parent role not present: tablist"
-        }
-      ]
-    },
     {
       "id": "button-name",
       "impact": "critical",
@@ -13313,82 +10927,6 @@
             ".header-btns_form > .bg-transparent[type=\"submit\"]"
           ],
           "failureSummary": "Fix any of the following:\n  Element does not have inner text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element does not have an implicit (wrapped) <label>\n  Element does not have an explicit <label>\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
-        }
-      ]
-    },
-    {
-      "id": "link-name",
-      "impact": "serious",
-      "tags": [
-        "cat.name-role-value",
-        "wcag2a",
-        "wcag244",
-        "wcag412",
-        "section508",
-        "section508.22.a",
-        "TTv5",
-        "TT6.a",
-        "EN-301-549",
-        "EN-9.2.4.4",
-        "EN-9.4.1.2",
-        "ACT"
-      ],
-      "description": "Ensure links have discernible text",
-      "help": "Links must have discernible text",
-      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/link-name?application=playwright",
-      "nodes": [
-        {
-          "any": [
-            {
-              "id": "has-visible-text",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element does not have text that is visible to screen readers"
-            },
-            {
-              "id": "aria-label",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "aria-label attribute does not exist or is empty"
-            },
-            {
-              "id": "aria-labelledby",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty"
-            },
-            {
-              "id": "non-empty-title",
-              "data": {
-                "messageKey": "noAttr"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has no title attribute"
-            }
-          ],
-          "all": [],
-          "none": [
-            {
-              "id": "focusable-no-name",
-              "data": null,
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element is in tab order and does not have accessible text"
-            }
-          ],
-          "impact": "serious",
-          "html": "<a href=\"https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/\" target=\"_blank\">\n                                <div class=\"cb-logo\"></div>\n                              </a>",
-          "target": [
-            [
-              "#usercentrics-cmp-ui",
-              "a[target=\"_blank\"]"
-            ]
-          ],
-          "failureSummary": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
         }
       ]
     }

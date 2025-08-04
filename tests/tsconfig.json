@@ -6,7 +6,8 @@
     "types": ["node"],
     "esModuleInterop": true,
     "resolveJsonModule": true,
-    "outDir": "dist"
+    "outDir": "dist",
+    "strict": true
   },
-  "include": ["tests"]
+  "include": ["tests", "playwright.config.ts", "utils"]
 }

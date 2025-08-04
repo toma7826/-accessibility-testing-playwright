@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-08-04T17:18:24.576Z",
+  "timestamp": "2025-08-04T22:00:06.949Z",
   "url": "https://www.microsoft.com/en/microsoft-teams/group-chat-software",
   "toolOptions": {
     "runOnly": {
@@ -956,9 +956,9 @@
             }
           ],
           "impact": null,
-          "html": "<ul class=\"dropdown-menu menu-list p-0 rounded-scrollbar overflow-auto\" id=\"x3af58f74d00c48d38bb68c974a47a8eb\" aria-labelledby=\"x64d05611e045400b834900bddbf296ea\" tabindex=\"-1\">",
+          "html": "<ul class=\"dropdown-menu menu-list p-0 rounded-scrollbar overflow-auto\" id=\"xcbd04b51e87e48e486f54faa30e49fac\" aria-labelledby=\"xb94a89c228594c2786d47a111967c74d\" tabindex=\"-1\">",
           "target": [
-            "#x3af58f74d00c48d38bb68c974a47a8eb"
+            "#xcbd04b51e87e48e486f54faa30e49fac"
           ]
         },
         {
@@ -1710,7 +1710,7 @@
             }
           ],
           "impact": null,
-          "html": "<section class=\"carousel__section pointer-event\" aria-label=\"CUSTOMER STORIES section\" data-mount=\"ocr-carousel\">",
+          "html": "<section class=\"carousel__section \" aria-label=\"CUSTOMER STORIES section\" data-mount=\"ocr-carousel\">",
           "target": [
             ".carousel__section"
           ]
@@ -3798,9 +3798,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<ul class=\"dropdown-menu menu-list p-0 rounded-scrollbar overflow-auto\" id=\"x3af58f74d00c48d38bb68c974a47a8eb\" aria-labelledby=\"x64d05611e045400b834900bddbf296ea\" tabindex=\"-1\">",
+          "html": "<ul class=\"dropdown-menu menu-list p-0 rounded-scrollbar overflow-auto\" id=\"xcbd04b51e87e48e486f54faa30e49fac\" aria-labelledby=\"xb94a89c228594c2786d47a111967c74d\" tabindex=\"-1\">",
           "target": [
-            "#x3af58f74d00c48d38bb68c974a47a8eb"
+            "#xcbd04b51e87e48e486f54faa30e49fac"
           ]
         },
         {
@@ -4320,7 +4320,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<section class=\"carousel__section pointer-event\" aria-label=\"CUSTOMER STORIES section\" data-mount=\"ocr-carousel\">",
+          "html": "<section class=\"carousel__section \" aria-label=\"CUSTOMER STORIES section\" data-mount=\"ocr-carousel\">",
           "target": [
             ".carousel__section"
           ]
@@ -6258,7 +6258,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<span aria-hidden=\"true\" class=\"d-none geo-info\" data-continent=\"EU\" data-country_code=\"GB\" data-region_code=\"SC\" data-city=\"EDINBURGH\" data-timezone=\"GMT\" data-zip=\"\" data-county=\"\" data-areacode=\"\"> </span>",
+          "html": "<span aria-hidden=\"true\" class=\"d-none geo-info\" data-continent=\"EU\" data-country_code=\"GB\" data-region_code=\"EN\" data-city=\"ILFORD\" data-timezone=\"GMT\" data-zip=\"\" data-county=\"\" data-areacode=\"\"> </span>",
           "target": [
             ".geo-info"
           ]
@@ -7806,9 +7806,9 @@
             }
           ],
           "impact": null,
-          "html": "<ul class=\"dropdown-menu menu-list p-0 rounded-scrollbar overflow-auto\" id=\"x3af58f74d00c48d38bb68c974a47a8eb\" aria-labelledby=\"x64d05611e045400b834900bddbf296ea\" tabindex=\"-1\">",
+          "html": "<ul class=\"dropdown-menu menu-list p-0 rounded-scrollbar overflow-auto\" id=\"xcbd04b51e87e48e486f54faa30e49fac\" aria-labelledby=\"xb94a89c228594c2786d47a111967c74d\" tabindex=\"-1\">",
           "target": [
-            "#x3af58f74d00c48d38bb68c974a47a8eb"
+            "#xcbd04b51e87e48e486f54faa30e49fac"
           ]
         },
         {
@@ -8328,7 +8328,7 @@
             }
           ],
           "impact": null,
-          "html": "<section class=\"carousel__section pointer-event\" aria-label=\"CUSTOMER STORIES section\" data-mount=\"ocr-carousel\">",
+          "html": "<section class=\"carousel__section \" aria-label=\"CUSTOMER STORIES section\" data-mount=\"ocr-carousel\">",
           "target": [
             ".carousel__section"
           ]
@@ -11824,9 +11824,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<ul class=\"dropdown-menu menu-list p-0 rounded-scrollbar overflow-auto\" id=\"x3af58f74d00c48d38bb68c974a47a8eb\" aria-labelledby=\"x64d05611e045400b834900bddbf296ea\" tabindex=\"-1\">",
+          "html": "<ul class=\"dropdown-menu menu-list p-0 rounded-scrollbar overflow-auto\" id=\"xcbd04b51e87e48e486f54faa30e49fac\" aria-labelledby=\"xb94a89c228594c2786d47a111967c74d\" tabindex=\"-1\">",
           "target": [
-            "#x3af58f74d00c48d38bb68c974a47a8eb"
+            "#xcbd04b51e87e48e486f54faa30e49fac"
           ]
         },
         {
@@ -12592,7 +12592,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<section class=\"carousel__section pointer-event\" aria-label=\"CUSTOMER STORIES section\" data-mount=\"ocr-carousel\">",
+          "html": "<section class=\"carousel__section \" aria-label=\"CUSTOMER STORIES section\" data-mount=\"ocr-carousel\">",
           "target": [
             ".carousel__section"
           ]
@@ -15100,9 +15100,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<ul class=\"dropdown-menu menu-list p-0 rounded-scrollbar overflow-auto\" id=\"x3af58f74d00c48d38bb68c974a47a8eb\" aria-labelledby=\"x64d05611e045400b834900bddbf296ea\" tabindex=\"-1\">",
+          "html": "<ul class=\"dropdown-menu menu-list p-0 rounded-scrollbar overflow-auto\" id=\"xcbd04b51e87e48e486f54faa30e49fac\" aria-labelledby=\"xb94a89c228594c2786d47a111967c74d\" tabindex=\"-1\">",
           "target": [
-            "#x3af58f74d00c48d38bb68c974a47a8eb"
+            "#xcbd04b51e87e48e486f54faa30e49fac"
           ]
         },
         {
@@ -15622,7 +15622,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<section class=\"carousel__section pointer-event\" aria-label=\"CUSTOMER STORIES section\" data-mount=\"ocr-carousel\">",
+          "html": "<section class=\"carousel__section \" aria-label=\"CUSTOMER STORIES section\" data-mount=\"ocr-carousel\">",
           "target": [
             ".carousel__section"
           ]
@@ -17887,31 +17887,6 @@
           "html": "<span class=\"link__text\">Register now</span>",
           "target": [
             "#action-oc16a3 > .link__text"
-          ]
-        },
-        {
-          "any": [
-            {
-              "id": "color-contrast",
-              "data": {
-                "fgColor": "#ffffff",
-                "bgColor": "#5d5bd4",
-                "contrastRatio": 5.36,
-                "fontSize": "11.3pt (15px)",
-                "fontWeight": "normal",
-                "expectedContrastRatio": "4.5:1"
-              },
-              "relatedNodes": [],
-              "impact": "serious",
-              "message": "Element has sufficient color contrast of 5.36"
-            }
-          ],
-          "all": [],
-          "none": [],
-          "impact": null,
-          "html": "<span class=\"btn__text\">Download now</span>",
-          "target": [
-            "#action-oc18e3 > .btn__text"
           ]
         },
         {
@@ -20220,7 +20195,7 @@
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "x64d05611e045400b834900bddbf296ea",
+              "data": "xb94a89c228594c2786d47a111967c74d",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -20229,16 +20204,16 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"w-100 dropdown__link\" id=\"x64d05611e045400b834900bddbf296ea\" data-mount=\"m365-dropdown\" aria-expanded=\"false\" aria-controls=\"x3af58f74d00c48d38bb68c974a47a8eb\" type=\"button\" role=\"button\" tabindex=\"0\">",
+          "html": "<a class=\"w-100 dropdown__link\" id=\"xb94a89c228594c2786d47a111967c74d\" data-mount=\"m365-dropdown\" aria-expanded=\"false\" aria-controls=\"xcbd04b51e87e48e486f54faa30e49fac\" type=\"button\" role=\"button\" tabindex=\"0\">",
           "target": [
-            "#x64d05611e045400b834900bddbf296ea"
+            "#xb94a89c228594c2786d47a111967c74d"
           ]
         },
         {
           "any": [
             {
               "id": "duplicate-id-aria",
-              "data": "x3af58f74d00c48d38bb68c974a47a8eb",
+              "data": "xcbd04b51e87e48e486f54faa30e49fac",
               "relatedNodes": [],
               "impact": "critical",
               "message": "Document has no elements referenced with ARIA or labels that share the same id attribute"
@@ -20247,9 +20222,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<ul class=\"dropdown-menu menu-list p-0 rounded-scrollbar overflow-auto\" id=\"x3af58f74d00c48d38bb68c974a47a8eb\" aria-labelledby=\"x64d05611e045400b834900bddbf296ea\" tabindex=\"-1\">",
+          "html": "<ul class=\"dropdown-menu menu-list p-0 rounded-scrollbar overflow-auto\" id=\"xcbd04b51e87e48e486f54faa30e49fac\" aria-labelledby=\"xb94a89c228594c2786d47a111967c74d\" tabindex=\"-1\">",
           "target": [
-            "#x3af58f74d00c48d38bb68c974a47a8eb"
+            "#xcbd04b51e87e48e486f54faa30e49fac"
           ]
         },
         {
@@ -24793,9 +24768,9 @@
             }
           ],
           "impact": null,
-          "html": "<ul class=\"dropdown-menu menu-list p-0 rounded-scrollbar overflow-auto\" id=\"x3af58f74d00c48d38bb68c974a47a8eb\" aria-labelledby=\"x64d05611e045400b834900bddbf296ea\" tabindex=\"-1\">",
+          "html": "<ul class=\"dropdown-menu menu-list p-0 rounded-scrollbar overflow-auto\" id=\"xcbd04b51e87e48e486f54faa30e49fac\" aria-labelledby=\"xb94a89c228594c2786d47a111967c74d\" tabindex=\"-1\">",
           "target": [
-            "#x3af58f74d00c48d38bb68c974a47a8eb"
+            "#xcbd04b51e87e48e486f54faa30e49fac"
           ]
         },
         {
@@ -27322,5 +27297,59 @@
       ]
     }
   ],
-  "violations": []
+  "violations": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT"
+      ],
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=playwright",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#ffffff",
+                "bgColor": "#7d7bdc",
+                "contrastRatio": 3.65,
+                "fontSize": "11.3pt (15px)",
+                "fontWeight": "normal",
+                "messageKey": null,
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [
+                {
+                  "html": "<a class=\"btn btn--md \" data-bi-ecn=\"Download now\" data-bi-ehn=\"Get ready for the future of work with Microsoft Teams\" data-bi-tags=\"{&quot;BiLinkName&quot;:&quot;downloadnow&quot;}\" tabindex=\"0\" data-bi-hn=\"Get ready for the future of work with Microsoft Teams\" data-bi-bhvr=\"41\" data-bi-cn=\"downloadnow\" data-bi-compnm=\"Action Group\" target=\"_self\" data-oc=\"oc18e3\" data-bi-ct=\"Component Button\" id=\"action-oc18e3\" href=\"https://www.microsoft.com/en/microsoft-teams/download-app#download-for-desktop1\" data-bi-sn=\"1\" aria-label=\"Download now - Download Microsoft Teams for desktop and mobile to collaborate and connect across devices.\" data-bi-view=\"Get ready for the future of work with Microsoft Teams\" data-isenvauthor=\"false\">",
+                  "target": [
+                    "#action-oc18e3"
+                  ]
+                }
+              ],
+              "impact": "serious",
+              "message": "Element has insufficient color contrast of 3.65 (foreground color: #ffffff, background color: #7d7bdc, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": "serious",
+          "html": "<span class=\"btn__text\">Download now</span>",
+          "target": [
+            "#action-oc18e3 > .btn__text"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.65 (foreground color: #ffffff, background color: #7d7bdc, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
+        }
+      ]
+    }
+  ]
 }

@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-08-04T17:16:46.897Z",
+  "timestamp": "2025-08-04T21:59:22.241Z",
   "url": "https://www.scope.org.uk/",
   "toolOptions": {
     "runOnly": {
@@ -808,7 +808,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-recent-on-screen166076_508=\"2380\" data-gtm-vis-first-on-screen166076_508=\"2380\" data-gtm-vis-total-visible-time166076_508=\"1500\" data-gtm-vis-has-fired166076_508=\"1\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"1026\" data-gtm-vis-first-on-screen166076_508=\"1026\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
             "a[href$=\"awards\"]"
           ]
@@ -1262,7 +1262,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-recent-on-screen166076_508=\"2380\" data-gtm-vis-first-on-screen166076_508=\"2380\" data-gtm-vis-total-visible-time166076_508=\"1500\" data-gtm-vis-has-fired166076_508=\"1\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"1026\" data-gtm-vis-first-on-screen166076_508=\"1026\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
             "a[href$=\"awards\"]"
           ]
@@ -2238,7 +2238,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-recent-on-screen166076_508=\"2380\" data-gtm-vis-first-on-screen166076_508=\"2380\" data-gtm-vis-total-visible-time166076_508=\"1500\" data-gtm-vis-has-fired166076_508=\"1\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"1026\" data-gtm-vis-first-on-screen166076_508=\"1026\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
             "a[href$=\"awards\"]"
           ]
@@ -2764,7 +2764,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-recent-on-screen166076_508=\"2380\" data-gtm-vis-first-on-screen166076_508=\"2380\" data-gtm-vis-total-visible-time166076_508=\"1500\" data-gtm-vis-has-fired166076_508=\"1\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"1026\" data-gtm-vis-first-on-screen166076_508=\"1026\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
             "a[href$=\"awards\"]"
           ]
@@ -3290,7 +3290,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-recent-on-screen166076_508=\"2380\" data-gtm-vis-first-on-screen166076_508=\"2380\" data-gtm-vis-total-visible-time166076_508=\"1500\" data-gtm-vis-has-fired166076_508=\"1\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"1026\" data-gtm-vis-first-on-screen166076_508=\"1026\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
             "a[href$=\"awards\"]"
           ]
@@ -6671,9 +6671,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-recent-on-screen166076_508=\"2380\" data-gtm-vis-first-on-screen166076_508=\"2380\" data-gtm-vis-total-visible-time166076_508=\"1500\" data-gtm-vis-has-fired166076_508=\"1\">",
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"189\" data-gtm-vis-recent-on-screen166076_508=\"1026\" data-gtm-vis-first-on-screen166076_508=\"1026\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
-            "a[title=\"Get support today\"][data-gtm-vis-recent-on-screen166076_508=\"2380\"][data-gtm-vis-first-on-screen166076_508=\"2380\"]"
+            "a[data-gtm-vis-polling-id166076_508=\"189\"]"
           ]
         },
         {
@@ -6704,9 +6704,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-recent-on-screen166076_508=\"2380\" data-gtm-vis-first-on-screen166076_508=\"2380\" data-gtm-vis-total-visible-time166076_508=\"1500\" data-gtm-vis-has-fired166076_508=\"1\">",
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"190\" data-gtm-vis-recent-on-screen166076_508=\"1026\" data-gtm-vis-first-on-screen166076_508=\"1026\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
-            "a[title=\"Our shops\"][data-gtm-vis-recent-on-screen166076_508=\"2380\"][data-gtm-vis-first-on-screen166076_508=\"2380\"]"
+            "a[data-gtm-vis-polling-id166076_508=\"190\"]"
           ]
         },
         {
@@ -6737,9 +6737,9 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-recent-on-screen166076_508=\"2380\" data-gtm-vis-first-on-screen166076_508=\"2380\" data-gtm-vis-total-visible-time166076_508=\"1500\" data-gtm-vis-has-fired166076_508=\"1\">",
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"1026\" data-gtm-vis-first-on-screen166076_508=\"1026\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
-            "a[title=\"Donate now\"][data-gtm-vis-recent-on-screen166076_508=\"2380\"][data-gtm-vis-first-on-screen166076_508=\"2380\"]"
+            "a[data-gtm-vis-polling-id166076_508=\"191\"]"
           ]
         },
         {
@@ -6848,7 +6848,7 @@
             }
           ],
           "impact": null,
-          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-recent-on-screen166076_508=\"2380\" data-gtm-vis-first-on-screen166076_508=\"2380\" data-gtm-vis-total-visible-time166076_508=\"1500\" data-gtm-vis-has-fired166076_508=\"1\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"1026\" data-gtm-vis-first-on-screen166076_508=\"1026\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
             "a[href$=\"awards\"]"
           ]
@@ -8899,9 +8899,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-recent-on-screen166076_508=\"2380\" data-gtm-vis-first-on-screen166076_508=\"2380\" data-gtm-vis-total-visible-time166076_508=\"1500\" data-gtm-vis-has-fired166076_508=\"1\">",
+                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"189\" data-gtm-vis-recent-on-screen166076_508=\"1026\" data-gtm-vis-first-on-screen166076_508=\"1026\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
                   "target": [
-                    "a[title=\"Get support today\"][data-gtm-vis-recent-on-screen166076_508=\"2380\"][data-gtm-vis-first-on-screen166076_508=\"2380\"]"
+                    "a[data-gtm-vis-polling-id166076_508=\"189\"]"
                   ]
                 }
               ],
@@ -8912,9 +8912,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-recent-on-screen166076_508=\"2380\" data-gtm-vis-first-on-screen166076_508=\"2380\" data-gtm-vis-total-visible-time166076_508=\"1500\" data-gtm-vis-has-fired166076_508=\"1\">",
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/advice-and-support\" title=\"Get support today\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"189\" data-gtm-vis-recent-on-screen166076_508=\"1026\" data-gtm-vis-first-on-screen166076_508=\"1026\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
-            "a[title=\"Get support today\"][data-gtm-vis-recent-on-screen166076_508=\"2380\"][data-gtm-vis-first-on-screen166076_508=\"2380\"]"
+            "a[data-gtm-vis-polling-id166076_508=\"189\"]"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
         },
@@ -8931,9 +8931,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-recent-on-screen166076_508=\"2380\" data-gtm-vis-first-on-screen166076_508=\"2380\" data-gtm-vis-total-visible-time166076_508=\"1500\" data-gtm-vis-has-fired166076_508=\"1\">",
+                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"190\" data-gtm-vis-recent-on-screen166076_508=\"1026\" data-gtm-vis-first-on-screen166076_508=\"1026\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
                   "target": [
-                    "a[title=\"Our shops\"][data-gtm-vis-recent-on-screen166076_508=\"2380\"][data-gtm-vis-first-on-screen166076_508=\"2380\"]"
+                    "a[data-gtm-vis-polling-id166076_508=\"190\"]"
                   ]
                 }
               ],
@@ -8944,9 +8944,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-recent-on-screen166076_508=\"2380\" data-gtm-vis-first-on-screen166076_508=\"2380\" data-gtm-vis-total-visible-time166076_508=\"1500\" data-gtm-vis-has-fired166076_508=\"1\">",
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://www.scope.org.uk/our-shops\" title=\"Our shops\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"190\" data-gtm-vis-recent-on-screen166076_508=\"1026\" data-gtm-vis-first-on-screen166076_508=\"1026\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
-            "a[title=\"Our shops\"][data-gtm-vis-recent-on-screen166076_508=\"2380\"][data-gtm-vis-first-on-screen166076_508=\"2380\"]"
+            "a[data-gtm-vis-polling-id166076_508=\"190\"]"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
         },
@@ -8963,9 +8963,9 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-recent-on-screen166076_508=\"2380\" data-gtm-vis-first-on-screen166076_508=\"2380\" data-gtm-vis-total-visible-time166076_508=\"1500\" data-gtm-vis-has-fired166076_508=\"1\">",
+                  "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"1026\" data-gtm-vis-first-on-screen166076_508=\"1026\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
                   "target": [
-                    "a[title=\"Donate now\"][data-gtm-vis-recent-on-screen166076_508=\"2380\"][data-gtm-vis-first-on-screen166076_508=\"2380\"]"
+                    "a[data-gtm-vis-polling-id166076_508=\"191\"]"
                   ]
                 }
               ],
@@ -8976,9 +8976,9 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-recent-on-screen166076_508=\"2380\" data-gtm-vis-first-on-screen166076_508=\"2380\" data-gtm-vis-total-visible-time166076_508=\"1500\" data-gtm-vis-has-fired166076_508=\"1\">",
+          "html": "<a class=\"BrandBanner__cta btn purple\" href=\"https://donate.scope.org.uk/?campaign=25SCWB01\" title=\"Donate now\" data-enabled=\"true\" data-gtm-vis-polling-id166076_508=\"191\" data-gtm-vis-recent-on-screen166076_508=\"1026\" data-gtm-vis-first-on-screen166076_508=\"1026\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
-            "a[title=\"Donate now\"][data-gtm-vis-recent-on-screen166076_508=\"2380\"][data-gtm-vis-first-on-screen166076_508=\"2380\"]"
+            "a[data-gtm-vis-polling-id166076_508=\"191\"]"
           ],
           "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient"
         },
@@ -8995,7 +8995,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-recent-on-screen166076_508=\"2380\" data-gtm-vis-first-on-screen166076_508=\"2380\" data-gtm-vis-total-visible-time166076_508=\"1500\" data-gtm-vis-has-fired166076_508=\"1\">",
+                  "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"1026\" data-gtm-vis-first-on-screen166076_508=\"1026\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
                   "target": [
                     "a[href$=\"awards\"]"
                   ]
@@ -9008,7 +9008,7 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-recent-on-screen166076_508=\"2380\" data-gtm-vis-first-on-screen166076_508=\"2380\" data-gtm-vis-total-visible-time166076_508=\"1500\" data-gtm-vis-has-fired166076_508=\"1\">",
+          "html": "<a class=\"btn yellow text-purple\" href=\"/awards\" target=\"_self\" aria-label=\"Make your nomination now\" data-gtm-vis-polling-id166076_508=\"192\" data-gtm-vis-recent-on-screen166076_508=\"1026\" data-gtm-vis-first-on-screen166076_508=\"1026\" data-gtm-vis-total-visible-time166076_508=\"1100\">",
           "target": [
             "a[href$=\"awards\"]"
           ],

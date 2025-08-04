@@ -13,7 +13,7 @@
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2025-08-04T17:17:07.647Z",
+  "timestamp": "2025-08-04T21:59:34.315Z",
   "url": "https://www.apple.com/uk/",
   "toolOptions": {
     "runOnly": {
@@ -1333,9 +1333,9 @@
             }
           ],
           "impact": null,
-          "html": "<div class=\"animation-wrapper paused loaded\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
+          "html": "<div class=\"animation-wrapper loaded playing\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
           "target": [
-            ".paused"
+            ".loaded"
           ]
         },
         {
@@ -3015,9 +3015,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div class=\"animation-wrapper paused loaded\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
+          "html": "<div class=\"animation-wrapper loaded playing\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
           "target": [
-            ".paused"
+            ".loaded"
           ]
         },
         {
@@ -3895,9 +3895,9 @@
             }
           ],
           "impact": null,
-          "html": "<div class=\"animation-wrapper paused loaded\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
+          "html": "<div class=\"animation-wrapper loaded playing\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
           "target": [
-            ".paused"
+            ".loaded"
           ]
         },
         {
@@ -7311,9 +7311,9 @@
             }
           ],
           "impact": null,
-          "html": "<div class=\"animation-wrapper paused loaded\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
+          "html": "<div class=\"animation-wrapper loaded playing\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
           "target": [
-            ".paused"
+            ".loaded"
           ]
         },
         {
@@ -8155,9 +8155,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div class=\"animation-wrapper paused loaded\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
+          "html": "<div class=\"animation-wrapper loaded playing\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
           "target": [
-            ".paused"
+            ".loaded"
           ]
         },
         {
@@ -11697,9 +11697,9 @@
             }
           ],
           "impact": null,
-          "html": "<div class=\"animation-wrapper paused loaded\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
+          "html": "<div class=\"animation-wrapper loaded playing\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
           "target": [
-            ".paused"
+            ".loaded"
           ]
         },
         {
@@ -15873,9 +15873,9 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<div class=\"animation-wrapper paused loaded\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
+          "html": "<div class=\"animation-wrapper loaded playing\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
           "target": [
-            ".paused"
+            ".loaded"
           ]
         },
         {
@@ -17819,9 +17819,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div class=\"animation-wrapper paused loaded\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
+          "html": "<div class=\"animation-wrapper loaded playing\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
           "target": [
-            ".paused"
+            ".loaded"
           ]
         },
         {
@@ -19076,7 +19076,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-GB\" lang=\"en-GB\" prefix=\"og: http://ogp.me/ns#\" class=\"js touch progressive-image no-reduced-motion no-edge no-ie css-mask enhanced-xp desktop no-tablet windows no-android no-retina no-safari no-old-safari chrome no-firefox no-iphone no-ipad no-old-macos\" data-layout-name=\"bts-elevation\">",
+          "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-GB\" lang=\"en-GB\" prefix=\"og: http://ogp.me/ns#\" class=\"js no-touch progressive-image no-reduced-motion no-edge no-ie css-mask enhanced-xp desktop no-tablet windows no-android no-retina no-safari no-old-safari chrome no-firefox no-iphone no-ipad no-old-macos\" data-layout-name=\"bts-elevation\">",
           "target": [
             "html"
           ]
@@ -19565,9 +19565,34 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span data-tradein-product=\"iphone12-tradein\" data-product-template=\"Get ${credit.display.minValue}–\">Get credit when you trade in iPhone&nbsp;12 or higher.</span>",
+          "html": "<span data-tradein-product=\"iphone12-tradein\" data-product-template=\"Get ${credit.display.minValue}–\" data-pricing-loaded=\"\">Get £120–</span>",
           "target": [
             "span[data-tradein-product=\"iphone12-tradein\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#1d1d1f",
+                "bgColor": "#f5f5f7",
+                "contrastRatio": 15.45,
+                "fontSize": "15.8pt (21px)",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 15.45"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<span data-tradein-product=\"iphone15promax-tradein\" data-product-template=\"${credit.display.maxValue} in credit when you trade in iPhone&nbsp;12 or higher.\" data-pricing-loaded=\"\">£595 in credit when you trade in iPhone&nbsp;12 or higher.</span>",
+          "target": [
+            "span[data-tradein-product=\"iphone15promax-tradein\"]"
           ]
         },
         {
@@ -21902,7 +21927,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-GB\" lang=\"en-GB\" prefix=\"og: http://ogp.me/ns#\" class=\"js touch progressive-image no-reduced-motion no-edge no-ie css-mask enhanced-xp desktop no-tablet windows no-android no-retina no-safari no-old-safari chrome no-firefox no-iphone no-ipad no-old-macos\" data-layout-name=\"bts-elevation\">",
+          "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-GB\" lang=\"en-GB\" prefix=\"og: http://ogp.me/ns#\" class=\"js no-touch progressive-image no-reduced-motion no-edge no-ie css-mask enhanced-xp desktop no-tablet windows no-android no-retina no-safari no-old-safari chrome no-firefox no-iphone no-ipad no-old-macos\" data-layout-name=\"bts-elevation\">",
           "target": [
             "html"
           ]
@@ -23341,7 +23366,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-GB\" lang=\"en-GB\" prefix=\"og: http://ogp.me/ns#\" class=\"js touch progressive-image no-reduced-motion no-edge no-ie css-mask enhanced-xp desktop no-tablet windows no-android no-retina no-safari no-old-safari chrome no-firefox no-iphone no-ipad no-old-macos\" data-layout-name=\"bts-elevation\">",
+          "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-GB\" lang=\"en-GB\" prefix=\"og: http://ogp.me/ns#\" class=\"js no-touch progressive-image no-reduced-motion no-edge no-ie css-mask enhanced-xp desktop no-tablet windows no-android no-retina no-safari no-old-safari chrome no-firefox no-iphone no-ipad no-old-macos\" data-layout-name=\"bts-elevation\">",
           "target": [
             "html"
           ]
@@ -23378,7 +23403,7 @@
             }
           ],
           "impact": null,
-          "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-GB\" lang=\"en-GB\" prefix=\"og: http://ogp.me/ns#\" class=\"js touch progressive-image no-reduced-motion no-edge no-ie css-mask enhanced-xp desktop no-tablet windows no-android no-retina no-safari no-old-safari chrome no-firefox no-iphone no-ipad no-old-macos\" data-layout-name=\"bts-elevation\">",
+          "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-GB\" lang=\"en-GB\" prefix=\"og: http://ogp.me/ns#\" class=\"js no-touch progressive-image no-reduced-motion no-edge no-ie css-mask enhanced-xp desktop no-tablet windows no-android no-retina no-safari no-old-safari chrome no-firefox no-iphone no-ipad no-old-macos\" data-layout-name=\"bts-elevation\">",
           "target": [
             "html"
           ]
@@ -23413,7 +23438,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-GB\" lang=\"en-GB\" prefix=\"og: http://ogp.me/ns#\" class=\"js touch progressive-image no-reduced-motion no-edge no-ie css-mask enhanced-xp desktop no-tablet windows no-android no-retina no-safari no-old-safari chrome no-firefox no-iphone no-ipad no-old-macos\" data-layout-name=\"bts-elevation\">",
+          "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-GB\" lang=\"en-GB\" prefix=\"og: http://ogp.me/ns#\" class=\"js no-touch progressive-image no-reduced-motion no-edge no-ie css-mask enhanced-xp desktop no-tablet windows no-android no-retina no-safari no-old-safari chrome no-firefox no-iphone no-ipad no-old-macos\" data-layout-name=\"bts-elevation\">",
           "target": [
             "html"
           ]
@@ -27896,9 +27921,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div class=\"animation-wrapper paused loaded\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
+          "html": "<div class=\"animation-wrapper loaded playing\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
           "target": [
-            ".paused"
+            ".loaded"
           ]
         },
         {
@@ -28187,9 +28212,9 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div class=\"animation-wrapper paused loaded\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
+          "html": "<div class=\"animation-wrapper loaded playing\" aria-label=\"Multiples of Magic Mouse, AirPods 4 and Apple Pencil Pro floating behind MacBook Air and iPad Air, a smiling graduate Genmoji, Shop, Education Store\" role=\"img\">",
           "target": [
-            ".paused"
+            ".loaded"
           ]
         },
         {
